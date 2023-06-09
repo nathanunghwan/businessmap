@@ -1,0 +1,3143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_64e87c0c8f38613772bca26db3fc3a3e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_64e87c0c8f38613772bca26db3fc3a3e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_64e87c0c8f38613772bca26db3fc3a3e = L.map(
+                "map_64e87c0c8f38613772bca26db3fc3a3e",
+                {
+                    center: [35.85, -86.39],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 7,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_92a89b95c40ab4b2a2a7bb2ecc4fa52c = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+            var marker_8a23a87cb9854c152d374911c16c0fa3 = L.marker(
+                [32.32938955, -90.17252057],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_c6c06088132c3538f202c53b58a8b1ba = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_280d83796fb635d1f286ccb64fb72aed = $(`<div id="html_280d83796fb635d1f286ccb64fb72aed" style="width: 100.0%; height: 100.0%;">Company Name: Kang, Jannat MD<br>Executive First Name: Jannat<br>Executive Last Name: Kang<br>Address: 2500 N State St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 984-5601<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $640,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_c6c06088132c3538f202c53b58a8b1ba.setContent(html_280d83796fb635d1f286ccb64fb72aed);
+            
+        
+
+        marker_8a23a87cb9854c152d374911c16c0fa3.bindPopup(popup_c6c06088132c3538f202c53b58a8b1ba)
+        ;
+
+        
+    
+    
+            marker_8a23a87cb9854c152d374911c16c0fa3.bindTooltip(
+                `<div>
+                     Kang, Jannat MD, Jannat, Kang, $640,000 , Physicians & Surgeons, 2500 N State St, Jackson, MS, (601) 984-5601, Physicians & Surgeons, Physicians & Surgeons, nan, $640,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_390f609adb5ff643d85e813763981449 = L.marker(
+                [32.3628971, -88.6766814],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_9405c1e092e9447f4ca6a08ca34c4593 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_63181e7b50feb271de650ec3f008ad5e = $(`<div id="html_63181e7b50feb271de650ec3f008ad5e" style="width: 100.0%; height: 100.0%;">Company Name: Kang, Jisun Do<br>Executive First Name: Jisun<br>Executive Last Name: Kang<br>Address: 905c S Frontage Rd<br>City: Meridian<br>State: MS<br>Phone Number: (601) 484-2793<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $576,000 <br>Metro Area: Meridian<br></div>`)[0];
+                popup_9405c1e092e9447f4ca6a08ca34c4593.setContent(html_63181e7b50feb271de650ec3f008ad5e);
+            
+        
+
+        marker_390f609adb5ff643d85e813763981449.bindPopup(popup_9405c1e092e9447f4ca6a08ca34c4593)
+        ;
+
+        
+    
+    
+            marker_390f609adb5ff643d85e813763981449.bindTooltip(
+                `<div>
+                     Kang, Jisun Do, Jisun, Kang, $576,000 , Physicians & Surgeons, 905c S Frontage Rd, Meridian, MS, (601) 484-2793, Physicians & Surgeons, Physicians & Surgeons, nan, $576,000 , Meridian
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9713b2de27f47bd05e4f00cfe0f4c3cb = L.marker(
+                [32.32938955, -90.17252057],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_9ada9f31589f727a4d751fe70daa0299 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_749613a20c6b7d74aeaa3aa2fba4d520 = $(`<div id="html_749613a20c6b7d74aeaa3aa2fba4d520" style="width: 100.0%; height: 100.0%;">Company Name: Kang, Min J<br>Executive First Name: Min J<br>Executive Last Name: Kang<br>Address: 2500 N State St # 2525<br>City: Jackson<br>State: MS<br>Phone Number: (601) 984-5815<br>Primary SIC Description: Nurses-Practitioners<br>SIC Code 1 Description: Nurses-Practitioners<br>SIC Code 2 Description: nan<br>Location Sales Volume: $56,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_9ada9f31589f727a4d751fe70daa0299.setContent(html_749613a20c6b7d74aeaa3aa2fba4d520);
+            
+        
+
+        marker_9713b2de27f47bd05e4f00cfe0f4c3cb.bindPopup(popup_9ada9f31589f727a4d751fe70daa0299)
+        ;
+
+        
+    
+    
+            marker_9713b2de27f47bd05e4f00cfe0f4c3cb.bindTooltip(
+                `<div>
+                     Kang, Min J, Min J, Kang, $56,000 , Nurses-Practitioners, 2500 N State St # 2525, Jackson, MS, (601) 984-5815, Nurses-Practitioners, Nurses-Practitioners, nan, $56,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bf7db390d17909291ca5ca916f04c93b = L.marker(
+                [31.32619465, -89.36725202],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_0313a67e87c6b7524badf4fc9356397c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dc9e2732071bd29721a5c63b3e64db10 = $(`<div id="html_dc9e2732071bd29721a5c63b3e64db10" style="width: 100.0%; height: 100.0%;">Company Name: Kang, Sun-Woong Do<br>Executive First Name: Sun-Woong<br>Executive Last Name: Kang<br>Address: 5001 Hardy St<br>City: Hattiesburg<br>State: MS<br>Phone Number: (601) 296-3963<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $164,000 <br>Metro Area: Hattiesburg<br></div>`)[0];
+                popup_0313a67e87c6b7524badf4fc9356397c.setContent(html_dc9e2732071bd29721a5c63b3e64db10);
+            
+        
+
+        marker_bf7db390d17909291ca5ca916f04c93b.bindPopup(popup_0313a67e87c6b7524badf4fc9356397c)
+        ;
+
+        
+    
+    
+            marker_bf7db390d17909291ca5ca916f04c93b.bindTooltip(
+                `<div>
+                     Kang, Sun-Woong Do, Sun-Woong, Kang, $164,000 , Physicians & Surgeons, 5001 Hardy St, Hattiesburg, MS, (601) 296-3963, Physicians & Surgeons, Physicians & Surgeons, nan, $164,000 , Hattiesburg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2a6868735c49e25aad38623626bfb5cf = L.marker(
+                [32.30090349, -90.19325578],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_a535a4c1fe656d3114089181db273a1a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a667c78c7c1170399a4337c785fba976 = $(`<div id="html_a667c78c7c1170399a4337c785fba976" style="width: 100.0%; height: 100.0%;">Company Name: Mccorquodale Transfer<br>Executive First Name: Dong<br>Executive Last Name: Kang<br>Address: 425 W Capitol St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 906-1315<br>Primary SIC Description: Movers<br>SIC Code 1 Description: Movers<br>SIC Code 2 Description: nan<br>Location Sales Volume: $909,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_a535a4c1fe656d3114089181db273a1a.setContent(html_a667c78c7c1170399a4337c785fba976);
+            
+        
+
+        marker_2a6868735c49e25aad38623626bfb5cf.bindPopup(popup_a535a4c1fe656d3114089181db273a1a)
+        ;
+
+        
+    
+    
+            marker_2a6868735c49e25aad38623626bfb5cf.bindTooltip(
+                `<div>
+                     Mccorquodale Transfer, Dong, Kang, $909,000 , Movers, 425 W Capitol St, Jackson, MS, (601) 906-1315, Movers, Movers, nan, $909,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_56ae9be4bc03e8c96eeb2d7f7e9cb71c = L.marker(
+                [33.51807775, -90.20088403],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_e948693d4665577f7fc9de01d7d5011d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5510f9dd326c9680a35620a602e4e62c = $(`<div id="html_5510f9dd326c9680a35620a602e4e62c" style="width: 100.0%; height: 100.0%;">Company Name: Greenwood Leflore Hospital<br>Executive First Name: Michael K<br>Executive Last Name: Ko<br>Address: 1401 River Rd # 442<br>City: Greenwood<br>State: MS<br>Phone Number: (662) 459-7000<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $820,000 <br>Metro Area: Greenwood<br></div>`)[0];
+                popup_e948693d4665577f7fc9de01d7d5011d.setContent(html_5510f9dd326c9680a35620a602e4e62c);
+            
+        
+
+        marker_56ae9be4bc03e8c96eeb2d7f7e9cb71c.bindPopup(popup_e948693d4665577f7fc9de01d7d5011d)
+        ;
+
+        
+    
+    
+            marker_56ae9be4bc03e8c96eeb2d7f7e9cb71c.bindTooltip(
+                `<div>
+                     Greenwood Leflore Hospital, Michael K, Ko, $820,000 , Physicians & Surgeons, 1401 River Rd # 442, Greenwood, MS, (662) 459-7000, Physicians & Surgeons, Physicians & Surgeons, nan, $820,000 , Greenwood
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9c33ca9ad6d90ac74aa9f894b867102a = L.marker(
+                [30.3783394, -88.5250442],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_29f767234fdede3e0a598c22aa77a9e3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bb2f7a38d1744ea256322d81b43672d3 = $(`<div id="html_bb2f7a38d1744ea256322d81b43672d3" style="width: 100.0%; height: 100.0%;">Company Name: T & S Corner Mart<br>Executive First Name: Pengleap<br>Executive Last Name: Ko<br>Address: 4423 Chicot St<br>City: Pascagoula<br>State: MS<br>Phone Number: (228) 762-0039<br>Primary SIC Description: Service Stations-Gasoline & Oil<br>SIC Code 1 Description: Service Stations-Gasoline & Oil<br>SIC Code 2 Description: Convenience Stores<br>Location Sales Volume: $1,707,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_29f767234fdede3e0a598c22aa77a9e3.setContent(html_bb2f7a38d1744ea256322d81b43672d3);
+            
+        
+
+        marker_9c33ca9ad6d90ac74aa9f894b867102a.bindPopup(popup_29f767234fdede3e0a598c22aa77a9e3)
+        ;
+
+        
+    
+    
+            marker_9c33ca9ad6d90ac74aa9f894b867102a.bindTooltip(
+                `<div>
+                     T & S Corner Mart, Pengleap, Ko, $1,707,000 , Service Stations-Gasoline & Oil, 4423 Chicot St, Pascagoula, MS, (228) 762-0039, Service Stations-Gasoline & Oil, Service Stations-Gasoline & Oil, Convenience Stores, $1,707,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_27f5b4c8823fb4ad714ef746e4f627a8 = L.marker(
+                [32.32938955, -90.17252057],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_d1a2a74ebc2cf36ebbb44927164efff3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c19cbc3122a09fa97f2256fdc75131e1 = $(`<div id="html_c19cbc3122a09fa97f2256fdc75131e1" style="width: 100.0%; height: 100.0%;">Company Name: Kong Keonho MD<br>Executive First Name: Keonho<br>Executive Last Name: Kong<br>Address: 2500 N State St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 815-2005<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_d1a2a74ebc2cf36ebbb44927164efff3.setContent(html_c19cbc3122a09fa97f2256fdc75131e1);
+            
+        
+
+        marker_27f5b4c8823fb4ad714ef746e4f627a8.bindPopup(popup_d1a2a74ebc2cf36ebbb44927164efff3)
+        ;
+
+        
+    
+    
+            marker_27f5b4c8823fb4ad714ef746e4f627a8.bindTooltip(
+                `<div>
+                     Kong Keonho MD, Keonho, Kong, $0 , Physicians & Surgeons, 2500 N State St, Jackson, MS, (601) 815-2005, Physicians & Surgeons, Physicians & Surgeons, nan, $0 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6814f2500fe63ff9c986d152695d3def = L.marker(
+                [34.18932265, -90.57872452],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_0eaecaad8717204019aad415c387aea9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2b599faf4627ee5a800c2c43386e3e1f = $(`<div id="html_2b599faf4627ee5a800c2c43386e3e1f" style="width: 100.0%; height: 100.0%;">Company Name: Johnny<br>Executive First Name: Myeong<br>Executive Last Name: Kwak<br>Address: 620 S State St # 4<br>City: Clarksdale<br>State: MS<br>Phone Number: (662) 627-1676<br>Primary SIC Description: Beauty Salons<br>SIC Code 1 Description: Beauty Salons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $25,000 <br>Metro Area: Clarksdale<br></div>`)[0];
+                popup_0eaecaad8717204019aad415c387aea9.setContent(html_2b599faf4627ee5a800c2c43386e3e1f);
+            
+        
+
+        marker_6814f2500fe63ff9c986d152695d3def.bindPopup(popup_0eaecaad8717204019aad415c387aea9)
+        ;
+
+        
+    
+    
+            marker_6814f2500fe63ff9c986d152695d3def.bindTooltip(
+                `<div>
+                     Johnny, Myeong, Kwak, $25,000 , Beauty Salons, 620 S State St # 4, Clarksdale, MS, (662) 627-1676, Beauty Salons, Beauty Salons, nan, $25,000 , Clarksdale
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0a4abbe377d966d814edc2afa1820d66 = L.marker(
+                [32.28311267, -90.00892942],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_22cf158bf1a5aebf8b8eac9774ba7e57 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e60e4cef60a5f6d0133ee045d9ad3a1b = $(`<div id="html_e60e4cef60a5f6d0133ee045d9ad3a1b" style="width: 100.0%; height: 100.0%;">Company Name: SNOWFOX<br>Executive First Name: Chang Young<br>Executive Last Name: Kwon<br>Address: 1811 W Government St<br>City: Brandon<br>State: MS<br>Phone Number: (435) 418-0105<br>Primary SIC Description: Food Service Kiosk<br>SIC Code 1 Description: Food Service Kiosk<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_22cf158bf1a5aebf8b8eac9774ba7e57.setContent(html_e60e4cef60a5f6d0133ee045d9ad3a1b);
+            
+        
+
+        marker_0a4abbe377d966d814edc2afa1820d66.bindPopup(popup_22cf158bf1a5aebf8b8eac9774ba7e57)
+        ;
+
+        
+    
+    
+            marker_0a4abbe377d966d814edc2afa1820d66.bindTooltip(
+                `<div>
+                     SNOWFOX, Chang Young, Kwon, $0 , Food Service Kiosk, 1811 W Government St, Brandon, MS, (435) 418-0105, Food Service Kiosk, Food Service Kiosk, nan, $0 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4a293ec0fb83de397395b86dd994fad9 = L.marker(
+                [30.45244805, -89.10787859],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_147f28b0971a3607100fecb4362374b4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1014b476fd77def18575d3e620360f1c = $(`<div id="html_1014b476fd77def18575d3e620360f1c" style="width: 100.0%; height: 100.0%;">Company Name: Aflac<br>Executive First Name: Wayne<br>Executive Last Name: Kim<br>Address: 16145 Orange Grove Rd # F<br>City: Gulfport<br>State: MS<br>Phone Number: (228) 832-8853<br>Primary SIC Description: Insurance<br>SIC Code 1 Description: Insurance<br>SIC Code 2 Description: Insurance-Health & Accident<br>Location Sales Volume: $429,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_147f28b0971a3607100fecb4362374b4.setContent(html_1014b476fd77def18575d3e620360f1c);
+            
+        
+
+        marker_4a293ec0fb83de397395b86dd994fad9.bindPopup(popup_147f28b0971a3607100fecb4362374b4)
+        ;
+
+        
+    
+    
+            marker_4a293ec0fb83de397395b86dd994fad9.bindTooltip(
+                `<div>
+                     Aflac, Wayne, Kim, $429,000 , Insurance, 16145 Orange Grove Rd # F, Gulfport, MS, (228) 832-8853, Insurance, Insurance, Insurance-Health & Accident, $429,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5cad4f58202b9f01e8acca7f58ea7f05 = L.marker(
+                [33.5167039, -88.4311816],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_f50688d4d7a6a129fc6da07328f5e36f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_18b587226ac2caacbdabd807e6786466 = $(`<div id="html_18b587226ac2caacbdabd807e6786466" style="width: 100.0%; height: 100.0%;">Company Name: American Deli<br>Executive First Name: Chung<br>Executive Last Name: Kim<br>Address: 1404 Old Aberdeen Rd # 6b<br>City: Columbus<br>State: MS<br>Phone Number: (662) 241-7737<br>Primary SIC Description: Restaurants<br>SIC Code 1 Description: Restaurants<br>SIC Code 2 Description: Foods-Carry Out<br>Location Sales Volume: $133,000 <br>Metro Area: Columbus<br></div>`)[0];
+                popup_f50688d4d7a6a129fc6da07328f5e36f.setContent(html_18b587226ac2caacbdabd807e6786466);
+            
+        
+
+        marker_5cad4f58202b9f01e8acca7f58ea7f05.bindPopup(popup_f50688d4d7a6a129fc6da07328f5e36f)
+        ;
+
+        
+    
+    
+            marker_5cad4f58202b9f01e8acca7f58ea7f05.bindTooltip(
+                `<div>
+                     American Deli, Chung, Kim, $133,000 , Restaurants, 1404 Old Aberdeen Rd # 6b, Columbus, MS, (662) 241-7737, Restaurants, Restaurants, Foods-Carry Out, $133,000 , Columbus
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b8ef6a5ce1abd467525505f1ab40e339 = L.marker(
+                [32.284776, -90.207196],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_819fa9ed7c62471349416a44d37f1590 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e95c93b6eea5ad6c01cd31b62b85e909 = $(`<div id="html_e95c93b6eea5ad6c01cd31b62b85e909" style="width: 100.0%; height: 100.0%;">Company Name: Beauty Depot<br>Executive First Name: Young<br>Executive Last Name: Kim<br>Address: 1700 University Blvd # 21<br>City: Jackson<br>State: MS<br>Phone Number: (601) 354-0910<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: Beauty Salons-Equipment & Supplies (Whls)<br>Location Sales Volume: $611,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_819fa9ed7c62471349416a44d37f1590.setContent(html_e95c93b6eea5ad6c01cd31b62b85e909);
+            
+        
+
+        marker_b8ef6a5ce1abd467525505f1ab40e339.bindPopup(popup_819fa9ed7c62471349416a44d37f1590)
+        ;
+
+        
+    
+    
+            marker_b8ef6a5ce1abd467525505f1ab40e339.bindTooltip(
+                `<div>
+                     Beauty Depot, Young, Kim, $611,000 , Cosmetics & Perfumes-Retail, 1700 University Blvd # 21, Jackson, MS, (601) 354-0910, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, Beauty Salons-Equipment & Supplies (Whls), $611,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0ad4e0ff60d30e92c8df05f629125de1 = L.marker(
+                [31.6907337, -89.13351899],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_d3701f7ea1c9cb8ac0ece23f3632c781 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_018f53abcf8a08c688e76b370b6ebecb = $(`<div id="html_018f53abcf8a08c688e76b370b6ebecb" style="width: 100.0%; height: 100.0%;">Company Name: Beauty Depot<br>Executive First Name: So<br>Executive Last Name: Kim<br>Address: 136 Leontyne Price Blvd<br>City: Laurel<br>State: MS<br>Phone Number: (601) 649-0414<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: nan<br>Location Sales Volume: $355,000 <br>Metro Area: Laurel<br></div>`)[0];
+                popup_d3701f7ea1c9cb8ac0ece23f3632c781.setContent(html_018f53abcf8a08c688e76b370b6ebecb);
+            
+        
+
+        marker_0ad4e0ff60d30e92c8df05f629125de1.bindPopup(popup_d3701f7ea1c9cb8ac0ece23f3632c781)
+        ;
+
+        
+    
+    
+            marker_0ad4e0ff60d30e92c8df05f629125de1.bindTooltip(
+                `<div>
+                     Beauty Depot, So, Kim, $355,000 , Cosmetics & Perfumes-Retail, 136 Leontyne Price Blvd, Laurel, MS, (601) 649-0414, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, nan, $355,000 , Laurel
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_115279cfa392ad3a66cf86d53a1d8873 = L.marker(
+                [32.61265901, -90.03999195],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_6b6bb4ea6d595ad3f05fba3f770262cb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d8072ee267ae7ce9ea3eeda63481e661 = $(`<div id="html_d8072ee267ae7ce9ea3eeda63481e661" style="width: 100.0%; height: 100.0%;">Company Name: Beauty Mart<br>Executive First Name: Young<br>Executive Last Name: Kim<br>Address: 414 W Peace St<br>City: Canton<br>State: MS<br>Phone Number: (601) 855-0086<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: Beauty Salons-Equipment & Supplies (Whls)<br>Location Sales Volume: $547,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_6b6bb4ea6d595ad3f05fba3f770262cb.setContent(html_d8072ee267ae7ce9ea3eeda63481e661);
+            
+        
+
+        marker_115279cfa392ad3a66cf86d53a1d8873.bindPopup(popup_6b6bb4ea6d595ad3f05fba3f770262cb)
+        ;
+
+        
+    
+    
+            marker_115279cfa392ad3a66cf86d53a1d8873.bindTooltip(
+                `<div>
+                     Beauty Mart, Young, Kim, $547,000 , Cosmetics & Perfumes-Retail, 414 W Peace St, Canton, MS, (601) 855-0086, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, Beauty Salons-Equipment & Supplies (Whls), $547,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5351fdc2c10e7ec87c31e866514274bc = L.marker(
+                [34.51007067, -89.03890399],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_7c01467086441bd60ee69459d63d330a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8cba4c06085f1fec816e484ff55a3894 = $(`<div id="html_8cba4c06085f1fec816e484ff55a3894" style="width: 100.0%; height: 100.0%;">Company Name: Custom Nonwoven Inc<br>Executive First Name: J M<br>Executive Last Name: Kim<br>Address: 1015 Munsford Dr<br>City: New Albany<br>State: MS<br>Phone Number: (662) 539-6103<br>Primary SIC Description: Furniture-Mfrs' Equip & Supls (Whls)<br>SIC Code 1 Description: Furniture-Mfrs' Equip & Supls (Whls)<br>SIC Code 2 Description: Furniture-Manufacturers Equip/Supls-Mfrs<br>Location Sales Volume: $23,434,000 <br>Metro Area: nan<br></div>`)[0];
+                popup_7c01467086441bd60ee69459d63d330a.setContent(html_8cba4c06085f1fec816e484ff55a3894);
+            
+        
+
+        marker_5351fdc2c10e7ec87c31e866514274bc.bindPopup(popup_7c01467086441bd60ee69459d63d330a)
+        ;
+
+        
+    
+    
+            marker_5351fdc2c10e7ec87c31e866514274bc.bindTooltip(
+                `<div>
+                     Custom Nonwoven Inc, J M, Kim, $23,434,000 , Furniture-Mfrs' Equip & Supls (Whls), 1015 Munsford Dr, New Albany, MS, (662) 539-6103, Furniture-Mfrs' Equip & Supls (Whls), Furniture-Mfrs' Equip & Supls (Whls), Furniture-Manufacturers Equip/Supls-Mfrs, $23,434,000 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_77c139b89631dd999373336f6840fc82 = L.marker(
+                [31.31906225, -89.33190015],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_8b9c08eb520e3b3d3ce5d6dbb6af23be = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d7a6d6b498f669b1decc74a3fc6ce089 = $(`<div id="html_d7a6d6b498f669b1decc74a3fc6ce089" style="width: 100.0%; height: 100.0%;">Company Name: Kim Woo Sung MD<br>Executive First Name: Woo S<br>Executive Last Name: Kim<br>Address: 415 S 28th Ave<br>City: Hattiesburg<br>State: MS<br>Phone Number: (601) 288-4329<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Hattiesburg<br></div>`)[0];
+                popup_8b9c08eb520e3b3d3ce5d6dbb6af23be.setContent(html_d7a6d6b498f669b1decc74a3fc6ce089);
+            
+        
+
+        marker_77c139b89631dd999373336f6840fc82.bindPopup(popup_8b9c08eb520e3b3d3ce5d6dbb6af23be)
+        ;
+
+        
+    
+    
+            marker_77c139b89631dd999373336f6840fc82.bindTooltip(
+                `<div>
+                     Kim Woo Sung MD, Woo S, Kim, $0 , Physicians & Surgeons, 415 S 28th Ave, Hattiesburg, MS, (601) 288-4329, Physicians & Surgeons, Physicians & Surgeons, nan, $0 , Hattiesburg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1e4cbe0b88086a4f29f7aff37c84633e = L.marker(
+                [32.3274797, -90.10614272],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_8f85c04a08c2203df5d5a98e8809c8ca = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ad25d9aa202273fdaaeb3515049e26a0 = $(`<div id="html_ad25d9aa202273fdaaeb3515049e26a0" style="width: 100.0%; height: 100.0%;">Company Name: Kim, Bomee OD<br>Executive First Name: Bomee<br>Executive Last Name: Kim<br>Address: 1053 River Oaks Dr<br>City: Flowood<br>State: MS<br>Phone Number: (601) 969-1430<br>Primary SIC Description: Optometrists OD<br>SIC Code 1 Description: Optometrists OD<br>SIC Code 2 Description: nan<br>Location Sales Volume: $303,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_8f85c04a08c2203df5d5a98e8809c8ca.setContent(html_ad25d9aa202273fdaaeb3515049e26a0);
+            
+        
+
+        marker_1e4cbe0b88086a4f29f7aff37c84633e.bindPopup(popup_8f85c04a08c2203df5d5a98e8809c8ca)
+        ;
+
+        
+    
+    
+            marker_1e4cbe0b88086a4f29f7aff37c84633e.bindTooltip(
+                `<div>
+                     Kim, Bomee OD, Bomee, Kim, $303,000 , Optometrists OD, 1053 River Oaks Dr, Flowood, MS, (601) 969-1430, Optometrists OD, Optometrists OD, nan, $303,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2fce72202daae4086c3f1194061429d3 = L.marker(
+                [32.32938955, -90.17252057],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_36a09b995fd3b008c5aa15ea1d806bdc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5b118bae71687438341e400e014a3af8 = $(`<div id="html_5b118bae71687438341e400e014a3af8" style="width: 100.0%; height: 100.0%;">Company Name: Kim, Hyung Wook MD<br>Executive First Name: Hyung Wook<br>Executive Last Name: Kim<br>Address: 2500 N State St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 984-5900<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $640,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_36a09b995fd3b008c5aa15ea1d806bdc.setContent(html_5b118bae71687438341e400e014a3af8);
+            
+        
+
+        marker_2fce72202daae4086c3f1194061429d3.bindPopup(popup_36a09b995fd3b008c5aa15ea1d806bdc)
+        ;
+
+        
+    
+    
+            marker_2fce72202daae4086c3f1194061429d3.bindTooltip(
+                `<div>
+                     Kim, Hyung Wook MD, Hyung Wook, Kim, $640,000 , Physicians & Surgeons, 2500 N State St, Jackson, MS, (601) 984-5900, Physicians & Surgeons, Physicians & Surgeons, nan, $640,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_25372748b5cbbca95793b1d0d9a287c0 = L.marker(
+                [32.61267824, -90.03202171],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_87776268e0bf1b0c0ad8b35a54845db6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_74d07058c8269a78ea0b79b45e0c225e = $(`<div id="html_74d07058c8269a78ea0b79b45e0c225e" style="width: 100.0%; height: 100.0%;">Company Name: Kims Beauty<br>Executive First Name: Kay<br>Executive Last Name: Kim<br>Address: 207 E Peace St<br>City: Canton<br>State: MS<br>Phone Number: (601) 859-8989<br>Primary SIC Description: Hair Goods & Supplies-Retail<br>SIC Code 1 Description: Hair Goods & Supplies-Retail<br>SIC Code 2 Description: Beauty Salons<br>Location Sales Volume: $105,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_87776268e0bf1b0c0ad8b35a54845db6.setContent(html_74d07058c8269a78ea0b79b45e0c225e);
+            
+        
+
+        marker_25372748b5cbbca95793b1d0d9a287c0.bindPopup(popup_87776268e0bf1b0c0ad8b35a54845db6)
+        ;
+
+        
+    
+    
+            marker_25372748b5cbbca95793b1d0d9a287c0.bindTooltip(
+                `<div>
+                     Kims Beauty, Kay, Kim, $105,000 , Hair Goods & Supplies-Retail, 207 E Peace St, Canton, MS, (601) 859-8989, Hair Goods & Supplies-Retail, Hair Goods & Supplies-Retail, Beauty Salons, $105,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d5f5a0d516c010ba06019ecd1b45571d = L.marker(
+                [34.36296435, -89.5131469],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_743a5f76bd55d1343beb12872c30a5bb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_178b05dd4646ce6d5211518a3020bc09 = $(`<div id="html_178b05dd4646ce6d5211518a3020bc09" style="width: 100.0%; height: 100.0%;">Company Name: New York Fashion<br>Executive First Name: Huisun<br>Executive Last Name: Kim<br>Address: 1710 University Ave<br>City: Oxford<br>State: MS<br>Phone Number: (662) 234-3182<br>Primary SIC Description: Women's Apparel-Retail<br>SIC Code 1 Description: Women's Apparel-Retail<br>SIC Code 2 Description: Cosmetics & Perfumes-Retail<br>Location Sales Volume: $243,000 <br>Metro Area: Oxford<br></div>`)[0];
+                popup_743a5f76bd55d1343beb12872c30a5bb.setContent(html_178b05dd4646ce6d5211518a3020bc09);
+            
+        
+
+        marker_d5f5a0d516c010ba06019ecd1b45571d.bindPopup(popup_743a5f76bd55d1343beb12872c30a5bb)
+        ;
+
+        
+    
+    
+            marker_d5f5a0d516c010ba06019ecd1b45571d.bindTooltip(
+                `<div>
+                     New York Fashion, Huisun, Kim, $243,000 , Women's Apparel-Retail, 1710 University Ave, Oxford, MS, (662) 234-3182, Women's Apparel-Retail, Women's Apparel-Retail, Cosmetics & Perfumes-Retail, $243,000 , Oxford
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_431695bcde9d0abaeed4bef32f2607f1 = L.marker(
+                [32.770868, -89.108224],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_5a19d5a15833a2d8bf5605ef2c5dc4f8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4147a9814f6d9a87f6e8105ec849436e = $(`<div id="html_4147a9814f6d9a87f6e8105ec849436e" style="width: 100.0%; height: 100.0%;">Company Name: Queen Beauty<br>Executive First Name: Chul<br>Executive Last Name: Kim<br>Address: 530 Main St<br>City: Philadelphia<br>State: MS<br>Phone Number: (601) 650-0095<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: nan<br>Location Sales Volume: $284,000 <br>Metro Area: nan<br></div>`)[0];
+                popup_5a19d5a15833a2d8bf5605ef2c5dc4f8.setContent(html_4147a9814f6d9a87f6e8105ec849436e);
+            
+        
+
+        marker_431695bcde9d0abaeed4bef32f2607f1.bindPopup(popup_5a19d5a15833a2d8bf5605ef2c5dc4f8)
+        ;
+
+        
+    
+    
+            marker_431695bcde9d0abaeed4bef32f2607f1.bindTooltip(
+                `<div>
+                     Queen Beauty, Chul, Kim, $284,000 , Cosmetics & Perfumes-Retail, 530 Main St, Philadelphia, MS, (601) 650-0095, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, nan, $284,000 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_20c52f6bc6d32c7d82e5962fc4d58c87 = L.marker(
+                [30.40063795, -88.90710675],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_253ea8f1991cdae405a1c6dfce029b96 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1291d83eb533ad0c2f07e07cc76f3238 = $(`<div id="html_1291d83eb533ad0c2f07e07cc76f3238" style="width: 100.0%; height: 100.0%;">Company Name: Quick Clean<br>Executive First Name: Lien<br>Executive Last Name: Kim<br>Address: 1171 Judge Sekul Ave<br>City: Biloxi<br>State: MS<br>Phone Number: (228) 435-1908<br>Primary SIC Description: Cleaners<br>SIC Code 1 Description: Cleaners<br>SIC Code 2 Description: Federal Government Contractors<br>Location Sales Volume: $384,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_253ea8f1991cdae405a1c6dfce029b96.setContent(html_1291d83eb533ad0c2f07e07cc76f3238);
+            
+        
+
+        marker_20c52f6bc6d32c7d82e5962fc4d58c87.bindPopup(popup_253ea8f1991cdae405a1c6dfce029b96)
+        ;
+
+        
+    
+    
+            marker_20c52f6bc6d32c7d82e5962fc4d58c87.bindTooltip(
+                `<div>
+                     Quick Clean, Lien, Kim, $384,000 , Cleaners, 1171 Judge Sekul Ave, Biloxi, MS, (228) 435-1908, Cleaners, Cleaners, Federal Government Contractors, $384,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_85cf31643a90b2a37f2e0714417e3ca3 = L.marker(
+                [32.4037518, -90.1297069],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_3176811901ef3347cdb2c919a629f649 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_57835b4fbc79a2afce494739d9d86641 = $(`<div id="html_57835b4fbc79a2afce494739d9d86641" style="width: 100.0%; height: 100.0%;">Company Name: Underground<br>Executive First Name: Yong<br>Executive Last Name: Kim<br>Address: 1200 E County Line Rd # 257<br>City: Ridgeland<br>State: MS<br>Phone Number: (601) 977-0180<br>Primary SIC Description: T-Shirts-Retail<br>SIC Code 1 Description: T-Shirts-Retail<br>SIC Code 2 Description: nan<br>Location Sales Volume: $474,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_3176811901ef3347cdb2c919a629f649.setContent(html_57835b4fbc79a2afce494739d9d86641);
+            
+        
+
+        marker_85cf31643a90b2a37f2e0714417e3ca3.bindPopup(popup_3176811901ef3347cdb2c919a629f649)
+        ;
+
+        
+    
+    
+            marker_85cf31643a90b2a37f2e0714417e3ca3.bindTooltip(
+                `<div>
+                     Underground, Yong, Kim, $474,000 , T-Shirts-Retail, 1200 E County Line Rd # 257, Ridgeland, MS, (601) 977-0180, T-Shirts-Retail, T-Shirts-Retail, nan, $474,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_76ba0a5c652bd706f4d8989760b23b77 = L.marker(
+                [32.30165853, -90.19487599],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_68584a7a5411287a076a7769c22bd0db = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_caa23d4763c51880dde13064e85c27ad = $(`<div id="html_caa23d4763c51880dde13064e85c27ad" style="width: 100.0%; height: 100.0%;">Company Name: Voice Of Calvary Ministries<br>Executive First Name: Brewer<br>Executive Last Name: Kim<br>Address: 531 W Capitol St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 944-9570<br>Primary SIC Description: Ministries-Out Reach<br>SIC Code 1 Description: Ministries-Out Reach<br>SIC Code 2 Description: Federal Government Contractors<br>Location Sales Volume: $0 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_68584a7a5411287a076a7769c22bd0db.setContent(html_caa23d4763c51880dde13064e85c27ad);
+            
+        
+
+        marker_76ba0a5c652bd706f4d8989760b23b77.bindPopup(popup_68584a7a5411287a076a7769c22bd0db)
+        ;
+
+        
+    
+    
+            marker_76ba0a5c652bd706f4d8989760b23b77.bindTooltip(
+                `<div>
+                     Voice Of Calvary Ministries, Brewer, Kim, $0 , Ministries-Out Reach, 531 W Capitol St, Jackson, MS, (601) 944-9570, Ministries-Out Reach, Ministries-Out Reach, Federal Government Contractors, $0 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bc71b75248a8eecdcce34d714042a9de = L.marker(
+                [32.31409309, -90.87632212],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_5c278d556bcba6f70faef85626eb2067 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b946a2d2567aa74cbfac16edf0e23e2a = $(`<div id="html_b946a2d2567aa74cbfac16edf0e23e2a" style="width: 100.0%; height: 100.0%;">Company Name: Walgreens<br>Executive First Name: Minjeong<br>Executive Last Name: Kim<br>Address: 3341 Halls Ferry Rd<br>City: Vicksburg<br>State: MS<br>Phone Number: (601) 661-9340<br>Primary SIC Description: Pharmacies<br>SIC Code 1 Description: Pharmacies<br>SIC Code 2 Description: Variety Stores<br>Location Sales Volume: $1,357,000 <br>Metro Area: Vicksburg<br></div>`)[0];
+                popup_5c278d556bcba6f70faef85626eb2067.setContent(html_b946a2d2567aa74cbfac16edf0e23e2a);
+            
+        
+
+        marker_bc71b75248a8eecdcce34d714042a9de.bindPopup(popup_5c278d556bcba6f70faef85626eb2067)
+        ;
+
+        
+    
+    
+            marker_bc71b75248a8eecdcce34d714042a9de.bindTooltip(
+                `<div>
+                     Walgreens, Minjeong, Kim, $1,357,000 , Pharmacies, 3341 Halls Ferry Rd, Vicksburg, MS, (601) 661-9340, Pharmacies, Pharmacies, Variety Stores, $1,357,000 , Vicksburg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8d3339ffa11f8c63a1f70e4a74cd75d6 = L.marker(
+                [31.32455915, -89.34160213],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_ef3e79e9c2ede470dac06aa0c501885d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b4a404a35865c612f86cc08aa59043f6 = $(`<div id="html_b4a404a35865c612f86cc08aa59043f6" style="width: 100.0%; height: 100.0%;">Company Name: Animal Medical Ctr-Hattiesburg<br>Executive First Name: Calhoun<br>Executive Last Name: Na<br>Address: 3422 Hardy St<br>City: Hattiesburg<br>State: MS<br>Phone Number: (601) 264-5785<br>Primary SIC Description: Pet Training<br>SIC Code 1 Description: Pet Training<br>SIC Code 2 Description: Veterinarians<br>Location Sales Volume: $468,000 <br>Metro Area: Hattiesburg<br></div>`)[0];
+                popup_ef3e79e9c2ede470dac06aa0c501885d.setContent(html_b4a404a35865c612f86cc08aa59043f6);
+            
+        
+
+        marker_8d3339ffa11f8c63a1f70e4a74cd75d6.bindPopup(popup_ef3e79e9c2ede470dac06aa0c501885d)
+        ;
+
+        
+    
+    
+            marker_8d3339ffa11f8c63a1f70e4a74cd75d6.bindTooltip(
+                `<div>
+                     Animal Medical Ctr-Hattiesburg, Calhoun, Na, $468,000 , Pet Training, 3422 Hardy St, Hattiesburg, MS, (601) 264-5785, Pet Training, Pet Training, Veterinarians, $468,000 , Hattiesburg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0864a3631bf8ca954f6a37468ac5766a = L.marker(
+                [30.37074087, -88.54833987],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_19981429167b4eaaf6910d89588b939b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7afa1ef58d29489aac3d999f8a3ed35f = $(`<div id="html_7afa1ef58d29489aac3d999f8a3ed35f" style="width: 100.0%; height: 100.0%;">Company Name: Joy Beauty<br>Executive First Name: Young<br>Executive Last Name: Nam<br>Address: 1630 Denny Ave<br>City: Pascagoula<br>State: MS<br>Phone Number: (228) 471-5906<br>Primary SIC Description: Beauty Salons-Equipment & Supplies (Whls)<br>SIC Code 1 Description: Beauty Salons-Equipment & Supplies (Whls)<br>SIC Code 2 Description: Beauty Salons<br>Location Sales Volume: $3,912,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_19981429167b4eaaf6910d89588b939b.setContent(html_7afa1ef58d29489aac3d999f8a3ed35f);
+            
+        
+
+        marker_0864a3631bf8ca954f6a37468ac5766a.bindPopup(popup_19981429167b4eaaf6910d89588b939b)
+        ;
+
+        
+    
+    
+            marker_0864a3631bf8ca954f6a37468ac5766a.bindTooltip(
+                `<div>
+                     Joy Beauty, Young, Nam, $3,912,000 , Beauty Salons-Equipment & Supplies (Whls), 1630 Denny Ave, Pascagoula, MS, (228) 471-5906, Beauty Salons-Equipment & Supplies (Whls), Beauty Salons-Equipment & Supplies (Whls), Beauty Salons, $3,912,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0e0317b0daabe7e3b2374f97f5bae748 = L.marker(
+                [32.35012306, -90.17613676],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_b4b0055319371815bb048e00a5086a31 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e8afb95a68917ce3c27c6ce176a78207 = $(`<div id="html_e8afb95a68917ce3c27c6ce176a78207" style="width: 100.0%; height: 100.0%;">Company Name: Hair Plus Beauty Supply<br>Executive First Name: Jeewon<br>Executive Last Name: Roh<br>Address: 265 Meadowbrook Rd<br>City: Jackson<br>State: MS<br>Phone Number: (601) 366-9999<br>Primary SIC Description: Beauty Salons-Equipment & Supplies (Whls)<br>SIC Code 1 Description: Beauty Salons-Equipment & Supplies (Whls)<br>SIC Code 2 Description: Wigs Toupees & Hairpieces<br>Location Sales Volume: $2,296,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_b4b0055319371815bb048e00a5086a31.setContent(html_e8afb95a68917ce3c27c6ce176a78207);
+            
+        
+
+        marker_0e0317b0daabe7e3b2374f97f5bae748.bindPopup(popup_b4b0055319371815bb048e00a5086a31)
+        ;
+
+        
+    
+    
+            marker_0e0317b0daabe7e3b2374f97f5bae748.bindTooltip(
+                `<div>
+                     Hair Plus Beauty Supply, Jeewon, Roh, $2,296,000 , Beauty Salons-Equipment & Supplies (Whls), 265 Meadowbrook Rd, Jackson, MS, (601) 366-9999, Beauty Salons-Equipment & Supplies (Whls), Beauty Salons-Equipment & Supplies (Whls), Wigs Toupees & Hairpieces, $2,296,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b4a078063c8c36650e43cb1c1b9b6222 = L.marker(
+                [32.4037518, -90.1297069],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_0c73359c988a9914c7567c49209de08d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b93cc979cee8ae5ddef84698f91d536c = $(`<div id="html_b93cc979cee8ae5ddef84698f91d536c" style="width: 100.0%; height: 100.0%;">Company Name: Eve's Shoes<br>Executive First Name: Misun<br>Executive Last Name: Rim<br>Address: 1200 E County Line Rd # 286<br>City: Ridgeland<br>State: MS<br>Phone Number: (601) 956-4747<br>Primary SIC Description: Shoes-Retail<br>SIC Code 1 Description: Shoes-Retail<br>SIC Code 2 Description: nan<br>Location Sales Volume: $111,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_0c73359c988a9914c7567c49209de08d.setContent(html_b93cc979cee8ae5ddef84698f91d536c);
+            
+        
+
+        marker_b4a078063c8c36650e43cb1c1b9b6222.bindPopup(popup_0c73359c988a9914c7567c49209de08d)
+        ;
+
+        
+    
+    
+            marker_b4a078063c8c36650e43cb1c1b9b6222.bindTooltip(
+                `<div>
+                     Eve's Shoes, Misun, Rim, $111,000 , Shoes-Retail, 1200 E County Line Rd # 286, Ridgeland, MS, (601) 956-4747, Shoes-Retail, Shoes-Retail, nan, $111,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_002112ca2006d1da569bde4313afbf36 = L.marker(
+                [34.25603206, -88.73986769],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_57bc99245ecab9be23360bc4a742094f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fbdbda3b2a0ca824595514d7bcba700e = $(`<div id="html_fbdbda3b2a0ca824595514d7bcba700e" style="width: 100.0%; height: 100.0%;">Company Name: Kim's Beauty Plus<br>Executive First Name: Joe<br>Executive Last Name: Yim<br>Address: 2306 W Main St<br>City: Tupelo<br>State: MS<br>Phone Number: (662) 844-2883<br>Primary SIC Description: Beauty Salons<br>SIC Code 1 Description: Beauty Salons<br>SIC Code 2 Description: Cosmetics & Perfumes-Retail<br>Location Sales Volume: $69,000 <br>Metro Area: Tupelo<br></div>`)[0];
+                popup_57bc99245ecab9be23360bc4a742094f.setContent(html_fbdbda3b2a0ca824595514d7bcba700e);
+            
+        
+
+        marker_002112ca2006d1da569bde4313afbf36.bindPopup(popup_57bc99245ecab9be23360bc4a742094f)
+        ;
+
+        
+    
+    
+            marker_002112ca2006d1da569bde4313afbf36.bindTooltip(
+                `<div>
+                     Kim's Beauty Plus, Joe, Yim, $69,000 , Beauty Salons, 2306 W Main St, Tupelo, MS, (662) 844-2883, Beauty Salons, Beauty Salons, Cosmetics & Perfumes-Retail, $69,000 , Tupelo
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_86fc6397812acb446a603501e9e7e39d = L.marker(
+                [34.93363228, -90.01070879],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_fc6b731c83b976deaafe039a2ce3edc6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1312bf3232d1cfe533f545ec144067fd = $(`<div id="html_1312bf3232d1cfe533f545ec144067fd" style="width: 100.0%; height: 100.0%;">Company Name: Donalds Donuts-Southaven<br>Executive First Name: Brett<br>Executive Last Name: Lim<br>Address: 1176 Church Rd W<br>City: Southaven<br>State: MS<br>Phone Number: (662) 253-8584<br>Primary SIC Description: Doughnuts<br>SIC Code 1 Description: Doughnuts<br>SIC Code 2 Description: nan<br>Location Sales Volume: $26,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_fc6b731c83b976deaafe039a2ce3edc6.setContent(html_1312bf3232d1cfe533f545ec144067fd);
+            
+        
+
+        marker_86fc6397812acb446a603501e9e7e39d.bindPopup(popup_fc6b731c83b976deaafe039a2ce3edc6)
+        ;
+
+        
+    
+    
+            marker_86fc6397812acb446a603501e9e7e39d.bindTooltip(
+                `<div>
+                     Donalds Donuts-Southaven, Brett, Lim, $26,000 , Doughnuts, 1176 Church Rd W, Southaven, MS, (662) 253-8584, Doughnuts, Doughnuts, nan, $26,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_54e842111a152a1b3eb0f917a71f641b = L.marker(
+                [32.48313119, -90.14069959],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_2cc766f9711d8ddf3680b5d1fe6ff084 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e4284efd8abd34b4c3a7fb27b65babc8 = $(`<div id="html_e4284efd8abd34b4c3a7fb27b65babc8" style="width: 100.0%; height: 100.0%;">Company Name: Donut Palace<br>Executive First Name: Amanda<br>Executive Last Name: Lim<br>Address: 119 Bozeman Rd<br>City: Madison<br>State: MS<br>Phone Number: (601) 898-2211<br>Primary SIC Description: Doughnuts<br>SIC Code 1 Description: Doughnuts<br>SIC Code 2 Description: Bakers-Retail<br>Location Sales Volume: $155,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_2cc766f9711d8ddf3680b5d1fe6ff084.setContent(html_e4284efd8abd34b4c3a7fb27b65babc8);
+            
+        
+
+        marker_54e842111a152a1b3eb0f917a71f641b.bindPopup(popup_2cc766f9711d8ddf3680b5d1fe6ff084)
+        ;
+
+        
+    
+    
+            marker_54e842111a152a1b3eb0f917a71f641b.bindTooltip(
+                `<div>
+                     Donut Palace, Amanda, Lim, $155,000 , Doughnuts, 119 Bozeman Rd, Madison, MS, (601) 898-2211, Doughnuts, Doughnuts, Bakers-Retail, $155,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_40c504e81924453b4763bfdd86190193 = L.marker(
+                [32.32938955, -90.17252057],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_2ed158008428eb0c68baf7b9f7fcc3f8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a91a0cafb9b44c4fca82989104ae6a2b = $(`<div id="html_a91a0cafb9b44c4fca82989104ae6a2b" style="width: 100.0%; height: 100.0%;">Company Name: Lim, Crystal S Phd<br>Executive First Name: Crystal S<br>Executive Last Name: Lim<br>Address: 2500 N State St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 984-5815<br>Primary SIC Description: Psychologists<br>SIC Code 1 Description: Psychologists<br>SIC Code 2 Description: nan<br>Location Sales Volume: $56,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_2ed158008428eb0c68baf7b9f7fcc3f8.setContent(html_a91a0cafb9b44c4fca82989104ae6a2b);
+            
+        
+
+        marker_40c504e81924453b4763bfdd86190193.bindPopup(popup_2ed158008428eb0c68baf7b9f7fcc3f8)
+        ;
+
+        
+    
+    
+            marker_40c504e81924453b4763bfdd86190193.bindTooltip(
+                `<div>
+                     Lim, Crystal S Phd, Crystal S, Lim, $56,000 , Psychologists, 2500 N State St, Jackson, MS, (601) 984-5815, Psychologists, Psychologists, nan, $56,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1734bec04f44cf8b05980dda407a8380 = L.marker(
+                [31.4173241, -89.54493787],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_fc6b96ea1d0882fce81e16427114030f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2f77388d3276c9dd6ee103d39ea817b9 = $(`<div id="html_2f77388d3276c9dd6ee103d39ea817b9" style="width: 100.0%; height: 100.0%;">Company Name: Sumrall United Methodist Chr<br>Executive First Name: Hongsik<br>Executive Last Name: Yoo<br>Address: 145 Center Ave<br>City: Sumrall<br>State: MS<br>Phone Number: (601) 758-0075<br>Primary SIC Description: Churches<br>SIC Code 1 Description: Churches<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Hattiesburg<br></div>`)[0];
+                popup_fc6b96ea1d0882fce81e16427114030f.setContent(html_2f77388d3276c9dd6ee103d39ea817b9);
+            
+        
+
+        marker_1734bec04f44cf8b05980dda407a8380.bindPopup(popup_fc6b96ea1d0882fce81e16427114030f)
+        ;
+
+        
+    
+    
+            marker_1734bec04f44cf8b05980dda407a8380.bindTooltip(
+                `<div>
+                     Sumrall United Methodist Chr, Hongsik, Yoo, $0 , Churches, 145 Center Ave, Sumrall, MS, (601) 758-0075, Churches, Churches, nan, $0 , Hattiesburg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_11829411b078c8adfa721b23685322cb = L.marker(
+                [31.11948296, -90.15808266],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_c9d2bf99fe5a6933ac90555b2ac4d1b3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_30f91a2f8ddc6c2799f535e6285377a4 = $(`<div id="html_30f91a2f8ddc6c2799f535e6285377a4" style="width: 100.0%; height: 100.0%;">Company Name: Tylertown United Methodist Chr<br>Executive First Name: Hong-Sik<br>Executive Last Name: Yoo<br>Address: 902 Beulah Ave<br>City: Tylertown<br>State: MS<br>Phone Number: (601) 876-3623<br>Primary SIC Description: Churches<br>SIC Code 1 Description: Churches<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: nan<br></div>`)[0];
+                popup_c9d2bf99fe5a6933ac90555b2ac4d1b3.setContent(html_30f91a2f8ddc6c2799f535e6285377a4);
+            
+        
+
+        marker_11829411b078c8adfa721b23685322cb.bindPopup(popup_c9d2bf99fe5a6933ac90555b2ac4d1b3)
+        ;
+
+        
+    
+    
+            marker_11829411b078c8adfa721b23685322cb.bindTooltip(
+                `<div>
+                     Tylertown United Methodist Chr, Hong-Sik, Yoo, $0 , Churches, 902 Beulah Ave, Tylertown, MS, (601) 876-3623, Churches, Churches, nan, $0 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_549696932956d616b8e9acfb361f9aa5 = L.marker(
+                [33.48841343, -89.73608795],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_5e1cbfe098d6e2857654ca7e016d1147 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_865b9413aadc878075577897930f4f8e = $(`<div id="html_865b9413aadc878075577897930f4f8e" style="width: 100.0%; height: 100.0%;">Company Name: Angels Beauty & Fashion<br>Executive First Name: Eun<br>Executive Last Name: Mok<br>Address: 414 N Applegate St<br>City: Winona<br>State: MS<br>Phone Number: (662) 283-4349<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: nan<br>Location Sales Volume: $131,000 <br>Metro Area: nan<br></div>`)[0];
+                popup_5e1cbfe098d6e2857654ca7e016d1147.setContent(html_865b9413aadc878075577897930f4f8e);
+            
+        
+
+        marker_549696932956d616b8e9acfb361f9aa5.bindPopup(popup_5e1cbfe098d6e2857654ca7e016d1147)
+        ;
+
+        
+    
+    
+            marker_549696932956d616b8e9acfb361f9aa5.bindTooltip(
+                `<div>
+                     Angels Beauty & Fashion, Eun, Mok, $131,000 , Cosmetics & Perfumes-Retail, 414 N Applegate St, Winona, MS, (662) 283-4349, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, nan, $131,000 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_69cd08c8e57f87f90337ccb70f295e77 = L.marker(
+                [30.332414, -89.330817],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_092a26c9e257e26146bf78901cd01bd2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0093f0ac38a08234e358830930d8f179 = $(`<div id="html_0093f0ac38a08234e358830930d8f179" style="width: 100.0%; height: 100.0%;">Company Name: Bay Town Inn<br>Executive First Name: Nikki<br>Executive Last Name: Moon<br>Address: 208 N Beach Blvd<br>City: Bay Saint Louis<br>State: MS<br>Phone Number: (504) 421-0960<br>Primary SIC Description: Bed & Breakfast Accommodations<br>SIC Code 1 Description: Bed & Breakfast Accommodations<br>SIC Code 2 Description: Hotels & Motels<br>Location Sales Volume: $242,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_092a26c9e257e26146bf78901cd01bd2.setContent(html_0093f0ac38a08234e358830930d8f179);
+            
+        
+
+        marker_69cd08c8e57f87f90337ccb70f295e77.bindPopup(popup_092a26c9e257e26146bf78901cd01bd2)
+        ;
+
+        
+    
+    
+            marker_69cd08c8e57f87f90337ccb70f295e77.bindTooltip(
+                `<div>
+                     Bay Town Inn, Nikki, Moon, $242,000 , Bed & Breakfast Accommodations, 208 N Beach Blvd, Bay Saint Louis, MS, (504) 421-0960, Bed & Breakfast Accommodations, Bed & Breakfast Accommodations, Hotels & Motels, $242,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9cac918ae22a403c104be9ee5a76af61 = L.marker(
+                [30.38974065, -89.09280551],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_566a9751e025d1d573eae6b761876b42 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8ab8159a9f418de15bed501954adb0d3 = $(`<div id="html_8ab8159a9f418de15bed501954adb0d3" style="width: 100.0%; height: 100.0%;">Company Name: Big 2 Engine Rebuilders Inc<br>Executive First Name: Pat<br>Executive Last Name: Moon<br>Address: 3214 25th Ave<br>City: Gulfport<br>State: MS<br>Phone Number: (228) 863-5425<br>Primary SIC Description: Machine Shops (Mfrs)<br>SIC Code 1 Description: Machine Shops (Mfrs)<br>SIC Code 2 Description: Automobile Parts-Used & Rebuilt (Whls)<br>Location Sales Volume: $602,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_566a9751e025d1d573eae6b761876b42.setContent(html_8ab8159a9f418de15bed501954adb0d3);
+            
+        
+
+        marker_9cac918ae22a403c104be9ee5a76af61.bindPopup(popup_566a9751e025d1d573eae6b761876b42)
+        ;
+
+        
+    
+    
+            marker_9cac918ae22a403c104be9ee5a76af61.bindTooltip(
+                `<div>
+                     Big 2 Engine Rebuilders Inc, Pat, Moon, $602,000 , Machine Shops (Mfrs), 3214 25th Ave, Gulfport, MS, (228) 863-5425, Machine Shops (Mfrs), Machine Shops (Mfrs), Automobile Parts-Used & Rebuilt (Whls), $602,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_03f34e433d2a2e4b068dc8fc0f914d2c = L.marker(
+                [33.7393219, -90.7351344],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_480a68842b1a3eaa27fc305835b90144 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cd1a8103537d567c65d6a8b8a3f661fb = $(`<div id="html_cd1a8103537d567c65d6a8b8a3f661fb" style="width: 100.0%; height: 100.0%;">Company Name: Center For Community Dev<br>Executive First Name: Beverly<br>Executive Last Name: Moon<br>Address: 1417 College St<br>City: Cleveland<br>State: MS<br>Phone Number: (662) 846-4358<br>Primary SIC Description: Non-Profit Organizations<br>SIC Code 1 Description: Non-Profit Organizations<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Cleveland<br></div>`)[0];
+                popup_480a68842b1a3eaa27fc305835b90144.setContent(html_cd1a8103537d567c65d6a8b8a3f661fb);
+            
+        
+
+        marker_03f34e433d2a2e4b068dc8fc0f914d2c.bindPopup(popup_480a68842b1a3eaa27fc305835b90144)
+        ;
+
+        
+    
+    
+            marker_03f34e433d2a2e4b068dc8fc0f914d2c.bindTooltip(
+                `<div>
+                     Center For Community Dev, Beverly, Moon, $0 , Non-Profit Organizations, 1417 College St, Cleveland, MS, (662) 846-4358, Non-Profit Organizations, Non-Profit Organizations, nan, $0 , Cleveland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3a4df6b476d3178bb97ccff2d532b90d = L.marker(
+                [31.54722024, -91.37509171],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_daa755464f1e2d7dbd15c3def80f5941 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_138502d01d889f57ab5e87d5c9f05e64 = $(`<div id="html_138502d01d889f57ab5e87d5c9f05e64" style="width: 100.0%; height: 100.0%;">Company Name: City Of Natchez Water Works<br>Executive First Name: Tony<br>Executive Last Name: Moon<br>Address: 150 N Shields Ln<br>City: Natchez<br>State: MS<br>Phone Number: (601) 445-5521<br>Primary SIC Description: Water & Sewage Companies-Utility<br>SIC Code 1 Description: Water & Sewage Companies-Utility<br>SIC Code 2 Description: Government Offices-City/Village & Twp<br>Location Sales Volume: $0 <br>Metro Area: Natchez<br></div>`)[0];
+                popup_daa755464f1e2d7dbd15c3def80f5941.setContent(html_138502d01d889f57ab5e87d5c9f05e64);
+            
+        
+
+        marker_3a4df6b476d3178bb97ccff2d532b90d.bindPopup(popup_daa755464f1e2d7dbd15c3def80f5941)
+        ;
+
+        
+    
+    
+            marker_3a4df6b476d3178bb97ccff2d532b90d.bindTooltip(
+                `<div>
+                     City Of Natchez Water Works, Tony, Moon, $0 , Water & Sewage Companies-Utility, 150 N Shields Ln, Natchez, MS, (601) 445-5521, Water & Sewage Companies-Utility, Water & Sewage Companies-Utility, Government Offices-City/Village & Twp, $0 , Natchez
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1604a5d3e045e042bd56f772968d2ff8 = L.marker(
+                [34.947661, -89.8431214],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_07bb56f81b20b890073d51f2f617f760 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fa754b676069e76751df86e70e153c08 = $(`<div id="html_fa754b676069e76751df86e70e153c08" style="width: 100.0%; height: 100.0%;">Company Name: Landau Uniform<br>Executive First Name: Marla<br>Executive Last Name: Moon<br>Address: 8410 W Sandidge Rd<br>City: Olive Branch<br>State: MS<br>Phone Number: (662) 895-7200<br>Primary SIC Description: Uniforms & Accessories<br>SIC Code 1 Description: Uniforms & Accessories<br>SIC Code 2 Description: Mens & Boys Work Clothing (Mfrs)<br>Location Sales Volume: $25,818,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_07bb56f81b20b890073d51f2f617f760.setContent(html_fa754b676069e76751df86e70e153c08);
+            
+        
+
+        marker_1604a5d3e045e042bd56f772968d2ff8.bindPopup(popup_07bb56f81b20b890073d51f2f617f760)
+        ;
+
+        
+    
+    
+            marker_1604a5d3e045e042bd56f772968d2ff8.bindTooltip(
+                `<div>
+                     Landau Uniform, Marla, Moon, $25,818,000 , Uniforms & Accessories, 8410 W Sandidge Rd, Olive Branch, MS, (662) 895-7200, Uniforms & Accessories, Uniforms & Accessories, Mens & Boys Work Clothing (Mfrs), $25,818,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_451aa0b4d27b7d8a85c8061e526bc07c = L.marker(
+                [34.3680375, -89.5186294],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_6b61bbb405c294197473cc809517f301 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_325f4264f6b970a7e729dbe201f032ff = $(`<div id="html_325f4264f6b970a7e729dbe201f032ff" style="width: 100.0%; height: 100.0%;">Company Name: Lenora's Restaurant<br>Executive First Name: Terry<br>Executive Last Name: Moon<br>Address: 309 N Lamar Blvd<br>City: Oxford<br>State: MS<br>Phone Number: (662) 236-1144<br>Primary SIC Description: Restaurants<br>SIC Code 1 Description: Restaurants<br>SIC Code 2 Description: nan<br>Location Sales Volume: $549,000 <br>Metro Area: Oxford<br></div>`)[0];
+                popup_6b61bbb405c294197473cc809517f301.setContent(html_325f4264f6b970a7e729dbe201f032ff);
+            
+        
+
+        marker_451aa0b4d27b7d8a85c8061e526bc07c.bindPopup(popup_6b61bbb405c294197473cc809517f301)
+        ;
+
+        
+    
+    
+            marker_451aa0b4d27b7d8a85c8061e526bc07c.bindTooltip(
+                `<div>
+                     Lenora's Restaurant, Terry, Moon, $549,000 , Restaurants, 309 N Lamar Blvd, Oxford, MS, (662) 236-1144, Restaurants, Restaurants, nan, $549,000 , Oxford
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d317e4b62f6cd256282bdbab0ad66fe7 = L.marker(
+                [34.35648165, -89.58710083],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_d11a502affd08cb0d8ab8c79007bfe26 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5af235af3a2f96962baf16f27262ff58 = $(`<div id="html_5af235af3a2f96962baf16f27262ff58" style="width: 100.0%; height: 100.0%;">Company Name: Links The Oxford Golf-Athletic<br>Executive First Name: Leslie<br>Executive Last Name: Moon<br>Address: 44 Private Road 3151<br>City: Oxford<br>State: MS<br>Phone Number: (662) 234-4875<br>Primary SIC Description: Clubs<br>SIC Code 1 Description: Clubs<br>SIC Code 2 Description: nan<br>Location Sales Volume: $1,032,000 <br>Metro Area: Oxford<br></div>`)[0];
+                popup_d11a502affd08cb0d8ab8c79007bfe26.setContent(html_5af235af3a2f96962baf16f27262ff58);
+            
+        
+
+        marker_d317e4b62f6cd256282bdbab0ad66fe7.bindPopup(popup_d11a502affd08cb0d8ab8c79007bfe26)
+        ;
+
+        
+    
+    
+            marker_d317e4b62f6cd256282bdbab0ad66fe7.bindTooltip(
+                `<div>
+                     Links The Oxford Golf-Athletic, Leslie, Moon, $1,032,000 , Clubs, 44 Private Road 3151, Oxford, MS, (662) 234-4875, Clubs, Clubs, nan, $1,032,000 , Oxford
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ab65e8b1e23bafd2cbcd05550d90cbbd = L.marker(
+                [32.3180268, -90.0919581],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_4734d5851426fc22ca9a12615b9909b9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_836e341d818d1436fbd2e5392727fca3 = $(`<div id="html_836e341d818d1436fbd2e5392727fca3" style="width: 100.0%; height: 100.0%;">Company Name: Lynk Health<br>Executive First Name: William R<br>Executive Last Name: Moon<br>Address: 10 Canebrake Blvd # 110-018<br>City: Flowood<br>State: MS<br>Phone Number: (601) 859-4342<br>Primary SIC Description: Nonclassified Establishments<br>SIC Code 1 Description: Nonclassified Establishments<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_4734d5851426fc22ca9a12615b9909b9.setContent(html_836e341d818d1436fbd2e5392727fca3);
+            
+        
+
+        marker_ab65e8b1e23bafd2cbcd05550d90cbbd.bindPopup(popup_4734d5851426fc22ca9a12615b9909b9)
+        ;
+
+        
+    
+    
+            marker_ab65e8b1e23bafd2cbcd05550d90cbbd.bindTooltip(
+                `<div>
+                     Lynk Health, William R, Moon, $0 , Nonclassified Establishments, 10 Canebrake Blvd # 110-018, Flowood, MS, (601) 859-4342, Nonclassified Establishments, Nonclassified Establishments, nan, $0 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e423ebd1fdb123f4825c5ce63ed42d13 = L.marker(
+                [34.93550625, -88.56034066],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_7cb7e2ead35888148dd827dc90872a2c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_86c80490da8a57d3501af110ddbb93a0 = $(`<div id="html_86c80490da8a57d3501af110ddbb93a0" style="width: 100.0%; height: 100.0%;">Company Name: Magnolia Regional Health Ctr<br>Executive First Name: Maxine<br>Executive Last Name: Moon<br>Address: 611 Alcorn Dr<br>City: Corinth<br>State: MS<br>Phone Number: (662) 293-1000<br>Primary SIC Description: Hospitals<br>SIC Code 1 Description: Hospitals<br>SIC Code 2 Description: Nursing & Convalescent Homes<br>Location Sales Volume: $0 <br>Metro Area: Corinth<br></div>`)[0];
+                popup_7cb7e2ead35888148dd827dc90872a2c.setContent(html_86c80490da8a57d3501af110ddbb93a0);
+            
+        
+
+        marker_e423ebd1fdb123f4825c5ce63ed42d13.bindPopup(popup_7cb7e2ead35888148dd827dc90872a2c)
+        ;
+
+        
+    
+    
+            marker_e423ebd1fdb123f4825c5ce63ed42d13.bindTooltip(
+                `<div>
+                     Magnolia Regional Health Ctr, Maxine, Moon, $0 , Hospitals, 611 Alcorn Dr, Corinth, MS, (662) 293-1000, Hospitals, Hospitals, Nursing & Convalescent Homes, $0 , Corinth
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fe1d7552fc0260ece2c7e957327313fe = L.marker(
+                [32.341645, -90.077092],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_d2af5ec17135642b5ab014934a7b0fbd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0d9708d33c5225d19886745b94e84615 = $(`<div id="html_0d9708d33c5225d19886745b94e84615" style="width: 100.0%; height: 100.0%;">Company Name: Maids<br>Executive First Name: Polly<br>Executive Last Name: Moon<br>Address: 517 Liberty Rd # 2a<br>City: Flowood<br>State: MS<br>Phone Number: (601) 932-7171<br>Primary SIC Description: House Cleaning<br>SIC Code 1 Description: House Cleaning<br>SIC Code 2 Description: Printing-Management Services (Mfrs)<br>Location Sales Volume: $1,440,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_d2af5ec17135642b5ab014934a7b0fbd.setContent(html_0d9708d33c5225d19886745b94e84615);
+            
+        
+
+        marker_fe1d7552fc0260ece2c7e957327313fe.bindPopup(popup_d2af5ec17135642b5ab014934a7b0fbd)
+        ;
+
+        
+    
+    
+            marker_fe1d7552fc0260ece2c7e957327313fe.bindTooltip(
+                `<div>
+                     Maids, Polly, Moon, $1,440,000 , House Cleaning, 517 Liberty Rd # 2a, Flowood, MS, (601) 932-7171, House Cleaning, House Cleaning, Printing-Management Services (Mfrs), $1,440,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c443017d9652e14b463068bad8444c3f = L.marker(
+                [32.30723257, -90.18010141],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_2088cd82a35a4f2527c98f751a21b17e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6cc4971dfcb620d9cc88081c66b3ee55 = $(`<div id="html_6cc4971dfcb620d9cc88081c66b3ee55" style="width: 100.0%; height: 100.0%;">Company Name: Mississippi Manufacturers Assn<br>Executive First Name: Jay<br>Executive Last Name: Moon<br>Address: 720 N President St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 948-1222<br>Primary SIC Description: Associations<br>SIC Code 1 Description: Associations<br>SIC Code 2 Description: Non-Profit Organizations<br>Location Sales Volume: $0 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_2088cd82a35a4f2527c98f751a21b17e.setContent(html_6cc4971dfcb620d9cc88081c66b3ee55);
+            
+        
+
+        marker_c443017d9652e14b463068bad8444c3f.bindPopup(popup_2088cd82a35a4f2527c98f751a21b17e)
+        ;
+
+        
+    
+    
+            marker_c443017d9652e14b463068bad8444c3f.bindTooltip(
+                `<div>
+                     Mississippi Manufacturers Assn, Jay, Moon, $0 , Associations, 720 N President St, Jackson, MS, (601) 948-1222, Associations, Associations, Non-Profit Organizations, $0 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fff7c5b59738ce1b7772731fad165b3e = L.marker(
+                [33.49350361, -88.3644217],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_302044e51d7fe0e906c11b57c91837a1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e4eb6509854ee5964dc7e9782b31d30a = $(`<div id="html_e4eb6509854ee5964dc7e9782b31d30a" style="width: 100.0%; height: 100.0%;">Company Name: Moon, Devi Dove<br>Executive First Name: Devi Dove<br>Executive Last Name: Moon<br>Address: 114 N Lehmberg Rd<br>City: Columbus<br>State: MS<br>Phone Number: (662) 251-2603<br>Primary SIC Description: Nurses-Practitioners<br>SIC Code 1 Description: Nurses-Practitioners<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Columbus<br></div>`)[0];
+                popup_302044e51d7fe0e906c11b57c91837a1.setContent(html_e4eb6509854ee5964dc7e9782b31d30a);
+            
+        
+
+        marker_fff7c5b59738ce1b7772731fad165b3e.bindPopup(popup_302044e51d7fe0e906c11b57c91837a1)
+        ;
+
+        
+    
+    
+            marker_fff7c5b59738ce1b7772731fad165b3e.bindTooltip(
+                `<div>
+                     Moon, Devi Dove, Devi Dove, Moon, $0 , Nurses-Practitioners, 114 N Lehmberg Rd, Columbus, MS, (662) 251-2603, Nurses-Practitioners, Nurses-Practitioners, nan, $0 , Columbus
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c8ab6777892d569d69944827f6550c4a = L.marker(
+                [30.4032626, -88.9370174],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_9cd3d5bd255d10f21472fa200c8537bb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_70b482a2fd67b523253e1fa58cbdd936 = $(`<div id="html_70b482a2fd67b523253e1fa58cbdd936" style="width: 100.0%; height: 100.0%;">Company Name: Rc Korean Restaurant<br>Executive First Name: Richard<br>Executive Last Name: Moon<br>Address: 1670 Pass Rd # E<br>City: Biloxi<br>State: MS<br>Phone Number: (228) 432-7666<br>Primary SIC Description: Restaurants<br>SIC Code 1 Description: Restaurants<br>SIC Code 2 Description: nan<br>Location Sales Volume: $143,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_9cd3d5bd255d10f21472fa200c8537bb.setContent(html_70b482a2fd67b523253e1fa58cbdd936);
+            
+        
+
+        marker_c8ab6777892d569d69944827f6550c4a.bindPopup(popup_9cd3d5bd255d10f21472fa200c8537bb)
+        ;
+
+        
+    
+    
+            marker_c8ab6777892d569d69944827f6550c4a.bindTooltip(
+                `<div>
+                     Rc Korean Restaurant, Richard, Moon, $143,000 , Restaurants, 1670 Pass Rd # E, Biloxi, MS, (228) 432-7666, Restaurants, Restaurants, nan, $143,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fa19987c9d68164e5804bff3fee43f1a = L.marker(
+                [33.7250627, -90.5494458],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_f172ad473a3095cc13e7e641f08845b7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c1baa65dfb966b025416aeeb10ddd0ee = $(`<div id="html_c1baa65dfb966b025416aeeb10ddd0ee" style="width: 100.0%; height: 100.0%;">Company Name: Sunflower Diagnostic Ctr<br>Executive First Name: Nancy<br>Executive Last Name: Moon<br>Address: 101 E Floyce St<br>City: Ruleville<br>State: MS<br>Phone Number: (662) 756-2100<br>Primary SIC Description: Diagnostic Imaging Centers<br>SIC Code 1 Description: Diagnostic Imaging Centers<br>SIC Code 2 Description: nan<br>Location Sales Volume: $559,000 <br>Metro Area: Indianola<br></div>`)[0];
+                popup_f172ad473a3095cc13e7e641f08845b7.setContent(html_c1baa65dfb966b025416aeeb10ddd0ee);
+            
+        
+
+        marker_fa19987c9d68164e5804bff3fee43f1a.bindPopup(popup_f172ad473a3095cc13e7e641f08845b7)
+        ;
+
+        
+    
+    
+            marker_fa19987c9d68164e5804bff3fee43f1a.bindTooltip(
+                `<div>
+                     Sunflower Diagnostic Ctr, Nancy, Moon, $559,000 , Diagnostic Imaging Centers, 101 E Floyce St, Ruleville, MS, (662) 756-2100, Diagnostic Imaging Centers, Diagnostic Imaging Centers, nan, $559,000 , Indianola
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_df64f0d7247b2283480307d153958b61 = L.marker(
+                [30.31983085, -89.24298959],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_f05177954c7394227059022864566430 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5b5dc18e4e925ca3d0adc2f5047eaa68 = $(`<div id="html_5b5dc18e4e925ca3d0adc2f5047eaa68" style="width: 100.0%; height: 100.0%;">Company Name: C C Lynch & Assoc<br>Executive First Name: Clifford R<br>Executive Last Name: Park<br>Address: 300 Davis Ave # 103<br>City: Pass Christian<br>State: MS<br>Phone Number: (228) 452-4612<br>Primary SIC Description: Engineers-Professional<br>SIC Code 1 Description: Engineers-Professional<br>SIC Code 2 Description: Federal Government Contractors<br>Location Sales Volume: $3,473,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_f05177954c7394227059022864566430.setContent(html_5b5dc18e4e925ca3d0adc2f5047eaa68);
+            
+        
+
+        marker_df64f0d7247b2283480307d153958b61.bindPopup(popup_f05177954c7394227059022864566430)
+        ;
+
+        
+    
+    
+            marker_df64f0d7247b2283480307d153958b61.bindTooltip(
+                `<div>
+                     C C Lynch & Assoc, Clifford R, Park, $3,473,000 , Engineers-Professional, 300 Davis Ave # 103, Pass Christian, MS, (228) 452-4612, Engineers-Professional, Engineers-Professional, Federal Government Contractors, $3,473,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5df35426d1979c5608b3ac0d095ed0b4 = L.marker(
+                [34.96926777, -89.98999951],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_696fabf7c93ddc38c03b3248279b8cdf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_723f22740e736da5264e50230362204c = $(`<div id="html_723f22740e736da5264e50230362204c" style="width: 100.0%; height: 100.0%;">Company Name: Campbell Clinic Orthopaedics<br>Executive First Name: Ashley L<br>Executive Last Name: Park<br>Address: 7545 Airways Blvd<br>City: Southaven<br>State: MS<br>Phone Number: (901) 759-3100<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $610,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_696fabf7c93ddc38c03b3248279b8cdf.setContent(html_723f22740e736da5264e50230362204c);
+            
+        
+
+        marker_5df35426d1979c5608b3ac0d095ed0b4.bindPopup(popup_696fabf7c93ddc38c03b3248279b8cdf)
+        ;
+
+        
+    
+    
+            marker_5df35426d1979c5608b3ac0d095ed0b4.bindTooltip(
+                `<div>
+                     Campbell Clinic Orthopaedics, Ashley L, Park, $610,000 , Physicians & Surgeons, 7545 Airways Blvd, Southaven, MS, (901) 759-3100, Physicians & Surgeons, Physicians & Surgeons, nan, $610,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3d1ce0e0a79f80a95fcfe73c67ed2454 = L.marker(
+                [30.445907, -89.089137],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_d6d74260447539fb1f6d07b2ed4b54b4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_676f239290cba57071c15748854782cc = $(`<div id="html_676f239290cba57071c15748854782cc" style="width: 100.0%; height: 100.0%;">Company Name: Community Rehab<br>Executive First Name: Hyun<br>Executive Last Name: Park<br>Address: 11010 David St<br>City: Gulfport<br>State: MS<br>Phone Number: (228) 832-8327<br>Primary SIC Description: Physical Therapists<br>SIC Code 1 Description: Physical Therapists<br>SIC Code 2 Description: nan<br>Location Sales Volume: $58,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_d6d74260447539fb1f6d07b2ed4b54b4.setContent(html_676f239290cba57071c15748854782cc);
+            
+        
+
+        marker_3d1ce0e0a79f80a95fcfe73c67ed2454.bindPopup(popup_d6d74260447539fb1f6d07b2ed4b54b4)
+        ;
+
+        
+    
+    
+            marker_3d1ce0e0a79f80a95fcfe73c67ed2454.bindTooltip(
+                `<div>
+                     Community Rehab, Hyun, Park, $58,000 , Physical Therapists, 11010 David St, Gulfport, MS, (228) 832-8327, Physical Therapists, Physical Therapists, nan, $58,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_eefe9f23d527482b37be632588c80069 = L.marker(
+                [34.24706217, -88.99905765],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_2346dc5489c3f43253e1ca47c98cadc7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9407dd7778cd5b29c3aa59100dc2fd2c = $(`<div id="html_9407dd7778cd5b29c3aa59100dc2fd2c" style="width: 100.0%; height: 100.0%;">Company Name: Habitat For Humanity<br>Executive First Name: Danny<br>Executive Last Name: Park<br>Address: 13 W Washington St<br>City: Pontotoc<br>State: MS<br>Phone Number: (662) 488-9090<br>Primary SIC Description: Social Service & Welfare Organizations<br>SIC Code 1 Description: Social Service & Welfare Organizations<br>SIC Code 2 Description: Christian Ministries<br>Location Sales Volume: $60,000 <br>Metro Area: Tupelo<br></div>`)[0];
+                popup_2346dc5489c3f43253e1ca47c98cadc7.setContent(html_9407dd7778cd5b29c3aa59100dc2fd2c);
+            
+        
+
+        marker_eefe9f23d527482b37be632588c80069.bindPopup(popup_2346dc5489c3f43253e1ca47c98cadc7)
+        ;
+
+        
+    
+    
+            marker_eefe9f23d527482b37be632588c80069.bindTooltip(
+                `<div>
+                     Habitat For Humanity, Danny, Park, $60,000 , Social Service & Welfare Organizations, 13 W Washington St, Pontotoc, MS, (662) 488-9090, Social Service & Welfare Organizations, Social Service & Welfare Organizations, Christian Ministries, $60,000 , Tupelo
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7a168f90e78cad1401acc2adafb0a3fc = L.marker(
+                [34.2462372, -89.0016554],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_f1ed8117902f2288f575b3e6496633f3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_30f5889163d2f04ef23d91a88357c9ee = $(`<div id="html_30f5889163d2f04ef23d91a88357c9ee" style="width: 100.0%; height: 100.0%;">Company Name: Habitat For Humanity<br>Executive First Name: Danny<br>Executive Last Name: Park<br>Address: 50 W Marion St<br>City: Pontotoc<br>State: MS<br>Phone Number: (662) 488-9090<br>Primary SIC Description: Social Service & Welfare Organizations<br>SIC Code 1 Description: Social Service & Welfare Organizations<br>SIC Code 2 Description: nan<br>Location Sales Volume: $119,000 <br>Metro Area: Tupelo<br></div>`)[0];
+                popup_f1ed8117902f2288f575b3e6496633f3.setContent(html_30f5889163d2f04ef23d91a88357c9ee);
+            
+        
+
+        marker_7a168f90e78cad1401acc2adafb0a3fc.bindPopup(popup_f1ed8117902f2288f575b3e6496633f3)
+        ;
+
+        
+    
+    
+            marker_7a168f90e78cad1401acc2adafb0a3fc.bindTooltip(
+                `<div>
+                     Habitat For Humanity, Danny, Park, $119,000 , Social Service & Welfare Organizations, 50 W Marion St, Pontotoc, MS, (662) 488-9090, Social Service & Welfare Organizations, Social Service & Welfare Organizations, nan, $119,000 , Tupelo
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a749e5f5b30e5c58462b5a5255a9ca4a = L.marker(
+                [34.8052536, -88.2020218],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_262bc1dd2b0aef68dfc4a9c86c2ca00e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e9c300869002a5a0ac3594e509b8e143 = $(`<div id="html_e9c300869002a5a0ac3594e509b8e143" style="width: 100.0%; height: 100.0%;">Company Name: Hairport<br>Executive First Name: Joyce<br>Executive Last Name: Park<br>Address: 1309a Battleground Dr<br>City: Iuka<br>State: MS<br>Phone Number: (662) 423-9855<br>Primary SIC Description: Beauty Salons<br>SIC Code 1 Description: Beauty Salons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $139,000 <br>Metro Area: nan<br></div>`)[0];
+                popup_262bc1dd2b0aef68dfc4a9c86c2ca00e.setContent(html_e9c300869002a5a0ac3594e509b8e143);
+            
+        
+
+        marker_a749e5f5b30e5c58462b5a5255a9ca4a.bindPopup(popup_262bc1dd2b0aef68dfc4a9c86c2ca00e)
+        ;
+
+        
+    
+    
+            marker_a749e5f5b30e5c58462b5a5255a9ca4a.bindTooltip(
+                `<div>
+                     Hairport, Joyce, Park, $139,000 , Beauty Salons, 1309a Battleground Dr, Iuka, MS, (662) 423-9855, Beauty Salons, Beauty Salons, nan, $139,000 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9833ec0771f076ad8b64cf99b7ff7892 = L.marker(
+                [32.3072852, -90.16742305],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_b3464c892b3e79475637bc2e6348f77f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e5d62d7b29585cadb170ae6f6bf4f660 = $(`<div id="html_e5d62d7b29585cadb170ae6f6bf4f660" style="width: 100.0%; height: 100.0%;">Company Name: Jackson Safe & Lock Co<br>Executive First Name: Skip<br>Executive Last Name: Park<br>Address: 842 Larson St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 353-4226<br>Primary SIC Description: Locks & Locksmiths<br>SIC Code 1 Description: Locks & Locksmiths<br>SIC Code 2 Description: Signs & Advertising Specialties (Mfrs)<br>Location Sales Volume: $160,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_b3464c892b3e79475637bc2e6348f77f.setContent(html_e5d62d7b29585cadb170ae6f6bf4f660);
+            
+        
+
+        marker_9833ec0771f076ad8b64cf99b7ff7892.bindPopup(popup_b3464c892b3e79475637bc2e6348f77f)
+        ;
+
+        
+    
+    
+            marker_9833ec0771f076ad8b64cf99b7ff7892.bindTooltip(
+                `<div>
+                     Jackson Safe & Lock Co, Skip, Park, $160,000 , Locks & Locksmiths, 842 Larson St, Jackson, MS, (601) 353-4226, Locks & Locksmiths, Locks & Locksmiths, Signs & Advertising Specialties (Mfrs), $160,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8c18cf146c30f8b7fcdb4e75e7fcc018 = L.marker(
+                [34.80213156, -88.20377013],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_832640e34e8eee3f9ac550f095c7c699 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6e03e7246e03f33dec0741d24c0ae851 = $(`<div id="html_6e03e7246e03f33dec0741d24c0ae851" style="width: 100.0%; height: 100.0%;">Company Name: Merle Norman Cosmetic Studio<br>Executive First Name: Joyce<br>Executive Last Name: Park<br>Address: 1309 Battleground Dr # A<br>City: Iuka<br>State: MS<br>Phone Number: (662) 423-9855<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: nan<br>Location Sales Volume: $693,000 <br>Metro Area: nan<br></div>`)[0];
+                popup_832640e34e8eee3f9ac550f095c7c699.setContent(html_6e03e7246e03f33dec0741d24c0ae851);
+            
+        
+
+        marker_8c18cf146c30f8b7fcdb4e75e7fcc018.bindPopup(popup_832640e34e8eee3f9ac550f095c7c699)
+        ;
+
+        
+    
+    
+            marker_8c18cf146c30f8b7fcdb4e75e7fcc018.bindTooltip(
+                `<div>
+                     Merle Norman Cosmetic Studio, Joyce, Park, $693,000 , Cosmetics & Perfumes-Retail, 1309 Battleground Dr # A, Iuka, MS, (662) 423-9855, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, nan, $693,000 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_993b725a4f55d9294c58cb0f1bef37bf = L.marker(
+                [34.4954197, -89.03345938],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_419ed795febb9cb31fb01abbd1a70d97 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2a68c35247441af3a7cc400e7b385e9f = $(`<div id="html_2a68c35247441af3a7cc400e7b385e9f" style="width: 100.0%; height: 100.0%;">Company Name: New Albany Medical Group<br>Executive First Name: Christopher<br>Executive Last Name: Park<br>Address: 300 Oxford Rd<br>City: New Albany<br>State: MS<br>Phone Number: (662) 534-8166<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $390,000 <br>Metro Area: nan<br></div>`)[0];
+                popup_419ed795febb9cb31fb01abbd1a70d97.setContent(html_2a68c35247441af3a7cc400e7b385e9f);
+            
+        
+
+        marker_993b725a4f55d9294c58cb0f1bef37bf.bindPopup(popup_419ed795febb9cb31fb01abbd1a70d97)
+        ;
+
+        
+    
+    
+            marker_993b725a4f55d9294c58cb0f1bef37bf.bindTooltip(
+                `<div>
+                     New Albany Medical Group, Christopher, Park, $390,000 , Physicians & Surgeons, 300 Oxford Rd, New Albany, MS, (662) 534-8166, Physicians & Surgeons, Physicians & Surgeons, nan, $390,000 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3ef06859b91ae8b872a9bfe121cd81fa = L.marker(
+                [31.53124925, -91.41470092],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_f9ee19855f74ace7fd1b78b232819afb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1a068d24a2cdb7f5c1693f81e6762606 = $(`<div id="html_1a068d24a2cdb7f5c1693f81e6762606" style="width: 100.0%; height: 100.0%;">Company Name: PAR-Co Drilling Inc<br>Executive First Name: Debbie<br>Executive Last Name: Park<br>Address: 144 Providence Rd<br>City: Natchez<br>State: MS<br>Phone Number: (601) 442-6421<br>Primary SIC Description: Oil & Gas Exploration & Development<br>SIC Code 1 Description: Oil & Gas Exploration & Development<br>SIC Code 2 Description: nan<br>Location Sales Volume: $150,000 <br>Metro Area: Natchez<br></div>`)[0];
+                popup_f9ee19855f74ace7fd1b78b232819afb.setContent(html_1a068d24a2cdb7f5c1693f81e6762606);
+            
+        
+
+        marker_3ef06859b91ae8b872a9bfe121cd81fa.bindPopup(popup_f9ee19855f74ace7fd1b78b232819afb)
+        ;
+
+        
+    
+    
+            marker_3ef06859b91ae8b872a9bfe121cd81fa.bindTooltip(
+                `<div>
+                     PAR-Co Drilling Inc, Debbie, Park, $150,000 , Oil & Gas Exploration & Development, 144 Providence Rd, Natchez, MS, (601) 442-6421, Oil & Gas Exploration & Development, Oil & Gas Exploration & Development, nan, $150,000 , Natchez
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_31805297385344f83a5bb0fdf3c9259b = L.marker(
+                [32.3391733, -90.0699221],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_20f96581cf964b78f612eac0b6909328 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dbb47914ae3517d2302e5a1a8a1a1a69 = $(`<div id="html_dbb47914ae3517d2302e5a1a8a1a1a69" style="width: 100.0%; height: 100.0%;">Company Name: Park Dental Group-FLOWOOD Pllc<br>Executive First Name: Young<br>Executive Last Name: Park<br>Address: 105 Ridge Way # 3<br>City: Flowood<br>State: MS<br>Phone Number: (601) 203-1654<br>Primary SIC Description: Dentists<br>SIC Code 1 Description: Dentists<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_20f96581cf964b78f612eac0b6909328.setContent(html_dbb47914ae3517d2302e5a1a8a1a1a69);
+            
+        
+
+        marker_31805297385344f83a5bb0fdf3c9259b.bindPopup(popup_20f96581cf964b78f612eac0b6909328)
+        ;
+
+        
+    
+    
+            marker_31805297385344f83a5bb0fdf3c9259b.bindTooltip(
+                `<div>
+                     Park Dental Group-FLOWOOD Pllc, Young, Park, $0 , Dentists, 105 Ridge Way # 3, Flowood, MS, (601) 203-1654, Dentists, Dentists, nan, $0 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fe329381a758bd8ce6410f008f975007 = L.marker(
+                [30.3832787, -88.5198509],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_ed9b7f97c9ae3ab8be1e7932668d6ea6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f9e15e4da86362982c511b926f13f68c = $(`<div id="html_f9e15e4da86362982c511b926f13f68c" style="width: 100.0%; height: 100.0%;">Company Name: Park Dental Group-Pascagoula<br>Executive First Name: Young Chan<br>Executive Last Name: Park<br>Address: 4001 Denny Ave # 1<br>City: Pascagoula<br>State: MS<br>Phone Number: (228) 471-3970<br>Primary SIC Description: Dentists<br>SIC Code 1 Description: Dentists<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_ed9b7f97c9ae3ab8be1e7932668d6ea6.setContent(html_f9e15e4da86362982c511b926f13f68c);
+            
+        
+
+        marker_fe329381a758bd8ce6410f008f975007.bindPopup(popup_ed9b7f97c9ae3ab8be1e7932668d6ea6)
+        ;
+
+        
+    
+    
+            marker_fe329381a758bd8ce6410f008f975007.bindTooltip(
+                `<div>
+                     Park Dental Group-Pascagoula, Young Chan, Park, $0 , Dentists, 4001 Denny Ave # 1, Pascagoula, MS, (228) 471-3970, Dentists, Dentists, nan, $0 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f80d7a2d21cf1d91a130afa6a7880f7e = L.marker(
+                [34.31501626, -88.70682349],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_db4e1498f68d927ed103e1b699890586 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f29171db0efe078724201a0abc1cec71 = $(`<div id="html_f29171db0efe078724201a0abc1cec71" style="width: 100.0%; height: 100.0%;">Company Name: Park Dental Group-TUPELO Pllc<br>Executive First Name: Young Chan<br>Executive Last Name: Park<br>Address: 3999 N Gloster St # D<br>City: Tupelo<br>State: MS<br>Phone Number: (662) 778-2002<br>Primary SIC Description: Dentists<br>SIC Code 1 Description: Dentists<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Tupelo<br></div>`)[0];
+                popup_db4e1498f68d927ed103e1b699890586.setContent(html_f29171db0efe078724201a0abc1cec71);
+            
+        
+
+        marker_f80d7a2d21cf1d91a130afa6a7880f7e.bindPopup(popup_db4e1498f68d927ed103e1b699890586)
+        ;
+
+        
+    
+    
+            marker_f80d7a2d21cf1d91a130afa6a7880f7e.bindTooltip(
+                `<div>
+                     Park Dental Group-TUPELO Pllc, Young Chan, Park, $0 , Dentists, 3999 N Gloster St # D, Tupelo, MS, (662) 778-2002, Dentists, Dentists, nan, $0 , Tupelo
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_24c42ba532798528460a1e90fea8f28f = L.marker(
+                [34.24849225, -88.99892254],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_af94e2324694efbd5127e476fba32e50 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_643e737e7ec18ac08f066a5ff59107a2 = $(`<div id="html_643e737e7ec18ac08f066a5ff59107a2" style="width: 100.0%; height: 100.0%;">Company Name: Park Medical Clinic<br>Executive First Name: Christopher<br>Executive Last Name: Park<br>Address: 11 E Jefferson St<br>City: Pontotoc<br>State: MS<br>Phone Number: (662) 499-2802<br>Primary SIC Description: Clinics<br>SIC Code 1 Description: Clinics<br>SIC Code 2 Description: Physicians & Surgeons<br>Location Sales Volume: $318,000 <br>Metro Area: Tupelo<br></div>`)[0];
+                popup_af94e2324694efbd5127e476fba32e50.setContent(html_643e737e7ec18ac08f066a5ff59107a2);
+            
+        
+
+        marker_24c42ba532798528460a1e90fea8f28f.bindPopup(popup_af94e2324694efbd5127e476fba32e50)
+        ;
+
+        
+    
+    
+            marker_24c42ba532798528460a1e90fea8f28f.bindTooltip(
+                `<div>
+                     Park Medical Clinic, Christopher, Park, $318,000 , Clinics, 11 E Jefferson St, Pontotoc, MS, (662) 499-2802, Clinics, Clinics, Physicians & Surgeons, $318,000 , Tupelo
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0dd75bc8d5e6714f5a6d672aa0a2efbd = L.marker(
+                [30.41610599, -88.83177886],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_873e8db8907bafe93bce3d628fad280e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2a0051077832b9545305e339f33f014f = $(`<div id="html_2a0051077832b9545305e339f33f014f" style="width: 100.0%; height: 100.0%;">Company Name: PFG Precision Optics Inc<br>Executive First Name: Stephanie<br>Executive Last Name: Park<br>Address: 733 Bienville Blvd<br>City: Ocean Springs<br>State: MS<br>Phone Number: (228) 875-0165<br>Primary SIC Description: Comparators (Mfrs)<br>SIC Code 1 Description: Comparators (Mfrs)<br>SIC Code 2 Description: Physicians & Surgeons Equip & Supls-Mfrs<br>Location Sales Volume: $4,391,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_873e8db8907bafe93bce3d628fad280e.setContent(html_2a0051077832b9545305e339f33f014f);
+            
+        
+
+        marker_0dd75bc8d5e6714f5a6d672aa0a2efbd.bindPopup(popup_873e8db8907bafe93bce3d628fad280e)
+        ;
+
+        
+    
+    
+            marker_0dd75bc8d5e6714f5a6d672aa0a2efbd.bindTooltip(
+                `<div>
+                     PFG Precision Optics Inc, Stephanie, Park, $4,391,000 , Comparators (Mfrs), 733 Bienville Blvd, Ocean Springs, MS, (228) 875-0165, Comparators (Mfrs), Comparators (Mfrs), Physicians & Surgeons Equip & Supls-Mfrs, $4,391,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0adfbb3b9aa60232f1d148efe1c70abc = L.marker(
+                [34.26188692, -89.01089365],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_35aae5befee21b3acaeb233c5c4f970f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4fc87163b6230e09b3ef782d7d1fc02d = $(`<div id="html_4fc87163b6230e09b3ef782d7d1fc02d" style="width: 100.0%; height: 100.0%;">Company Name: Pontotoc Spring<br>Executive First Name: Danny<br>Executive Last Name: Park<br>Address: 260 Industrial Dr<br>City: Pontotoc<br>State: MS<br>Phone Number: (662) 489-7846<br>Primary SIC Description: Steel Spring-Except Wire (Mfrs)<br>SIC Code 1 Description: Steel Spring-Except Wire (Mfrs)<br>SIC Code 2 Description: Automobile Parts & Supplies-Wholesale<br>Location Sales Volume: $7,192,000 <br>Metro Area: Tupelo<br></div>`)[0];
+                popup_35aae5befee21b3acaeb233c5c4f970f.setContent(html_4fc87163b6230e09b3ef782d7d1fc02d);
+            
+        
+
+        marker_0adfbb3b9aa60232f1d148efe1c70abc.bindPopup(popup_35aae5befee21b3acaeb233c5c4f970f)
+        ;
+
+        
+    
+    
+            marker_0adfbb3b9aa60232f1d148efe1c70abc.bindTooltip(
+                `<div>
+                     Pontotoc Spring, Danny, Park, $7,192,000 , Steel Spring-Except Wire (Mfrs), 260 Industrial Dr, Pontotoc, MS, (662) 489-7846, Steel Spring-Except Wire (Mfrs), Steel Spring-Except Wire (Mfrs), Automobile Parts & Supplies-Wholesale, $7,192,000 , Tupelo
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_15565a6c8b1e5bc6dd89ffd20e455769 = L.marker(
+                [32.4705658, -90.141002],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_8d32338932590f1a4c27c25e8bf80783 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_161021039278121f224f9fe0b116fbf2 = $(`<div id="html_161021039278121f224f9fe0b116fbf2" style="width: 100.0%; height: 100.0%;">Company Name: Primos Cafe Restaurant<br>Executive First Name: Kenya<br>Executive Last Name: Park<br>Address: 201 Baptist Dr<br>City: Madison<br>State: MS<br>Phone Number: (601) 853-3340<br>Primary SIC Description: Restaurants<br>SIC Code 1 Description: Restaurants<br>SIC Code 2 Description: nan<br>Location Sales Volume: $358,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_8d32338932590f1a4c27c25e8bf80783.setContent(html_161021039278121f224f9fe0b116fbf2);
+            
+        
+
+        marker_15565a6c8b1e5bc6dd89ffd20e455769.bindPopup(popup_8d32338932590f1a4c27c25e8bf80783)
+        ;
+
+        
+    
+    
+            marker_15565a6c8b1e5bc6dd89ffd20e455769.bindTooltip(
+                `<div>
+                     Primos Cafe Restaurant, Kenya, Park, $358,000 , Restaurants, 201 Baptist Dr, Madison, MS, (601) 853-3340, Restaurants, Restaurants, nan, $358,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_20811f66dcd055d55f86cdb1e28d4a0c = L.marker(
+                [34.99341879, -90.00786117],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_a4ad1cf109af5bd982501d18333f0fcb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a68583e4953724d6390cd895c5d4c81e = $(`<div id="html_a68583e4953724d6390cd895c5d4c81e" style="width: 100.0%; height: 100.0%;">Company Name: South Haven Shoe Repair<br>Executive First Name: Philip<br>Executive Last Name: Park<br>Address: 9060 Millbranch Rd<br>City: Southaven<br>State: MS<br>Phone Number: (662) 342-1269<br>Primary SIC Description: Shoe & Boot Repairing<br>SIC Code 1 Description: Shoe & Boot Repairing<br>SIC Code 2 Description: nan<br>Location Sales Volume: $49,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_a4ad1cf109af5bd982501d18333f0fcb.setContent(html_a68583e4953724d6390cd895c5d4c81e);
+            
+        
+
+        marker_20811f66dcd055d55f86cdb1e28d4a0c.bindPopup(popup_a4ad1cf109af5bd982501d18333f0fcb)
+        ;
+
+        
+    
+    
+            marker_20811f66dcd055d55f86cdb1e28d4a0c.bindTooltip(
+                `<div>
+                     South Haven Shoe Repair, Philip, Park, $49,000 , Shoe & Boot Repairing, 9060 Millbranch Rd, Southaven, MS, (662) 342-1269, Shoe & Boot Repairing, Shoe & Boot Repairing, nan, $49,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d2be0af00e3cb1a9903e46ea7d2c8477 = L.marker(
+                [34.9322635, -89.997134],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_64361ac64c927e2e944fa11bd48f4c9b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_11d9c496f51076aeed5d9a07ef05f692 = $(`<div id="html_11d9c496f51076aeed5d9a07ef05f692" style="width: 100.0%; height: 100.0%;">Company Name: Southern Thunder Harley-Dvdsn<br>Executive First Name: Kathy<br>Executive Last Name: Park<br>Address: 4870 Venture Dr<br>City: Southaven<br>State: MS<br>Phone Number: (662) 349-1099<br>Primary SIC Description: Motorcycles & Motor Scooters-Dealers<br>SIC Code 1 Description: Motorcycles & Motor Scooters-Dealers<br>SIC Code 2 Description: Motorcycles & Motor Scooters-Supplies<br>Location Sales Volume: $5,445,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_64361ac64c927e2e944fa11bd48f4c9b.setContent(html_11d9c496f51076aeed5d9a07ef05f692);
+            
+        
+
+        marker_d2be0af00e3cb1a9903e46ea7d2c8477.bindPopup(popup_64361ac64c927e2e944fa11bd48f4c9b)
+        ;
+
+        
+    
+    
+            marker_d2be0af00e3cb1a9903e46ea7d2c8477.bindTooltip(
+                `<div>
+                     Southern Thunder Harley-Dvdsn, Kathy, Park, $5,445,000 , Motorcycles & Motor Scooters-Dealers, 4870 Venture Dr, Southaven, MS, (662) 349-1099, Motorcycles & Motor Scooters-Dealers, Motorcycles & Motor Scooters-Dealers, Motorcycles & Motor Scooters-Supplies, $5,445,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ed8a1965ff19dd9a9c67a796c259d42c = L.marker(
+                [33.40776259, -91.05375938],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_bc71277e718bd7f345fb53d719b81817 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_08a41f9885906d22d6270069dfed905d = $(`<div id="html_08a41f9885906d22d6270069dfed905d" style="width: 100.0%; height: 100.0%;">Company Name: Twins Beauty Supply<br>Executive First Name: Unson<br>Executive Last Name: Park<br>Address: 108 N Harvey St<br>City: Greenville<br>State: MS<br>Phone Number: (662) 378-2425<br>Primary SIC Description: Beauty Salons<br>SIC Code 1 Description: Beauty Salons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $120,000 <br>Metro Area: Greenville<br></div>`)[0];
+                popup_bc71277e718bd7f345fb53d719b81817.setContent(html_08a41f9885906d22d6270069dfed905d);
+            
+        
+
+        marker_ed8a1965ff19dd9a9c67a796c259d42c.bindPopup(popup_bc71277e718bd7f345fb53d719b81817)
+        ;
+
+        
+    
+    
+            marker_ed8a1965ff19dd9a9c67a796c259d42c.bindTooltip(
+                `<div>
+                     Twins Beauty Supply, Unson, Park, $120,000 , Beauty Salons, 108 N Harvey St, Greenville, MS, (662) 378-2425, Beauty Salons, Beauty Salons, nan, $120,000 , Greenville
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_06836626f2b729728b8369a76c4ab6d7 = L.marker(
+                [31.68787908, -89.141436],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_c99e2f5941df0db58d11352a31b2f1e9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_407ea49c1412be6ab5163cb50fddf9fd = $(`<div id="html_407ea49c1412be6ab5163cb50fddf9fd" style="width: 100.0%; height: 100.0%;">Company Name: Laurel Pediatric & Adolescent<br>Executive First Name: Terry L<br>Executive Last Name: Bang<br>Address: 234 S 12th Ave<br>City: Laurel<br>State: MS<br>Phone Number: (601) 649-3520<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $371,000 <br>Metro Area: Laurel<br></div>`)[0];
+                popup_c99e2f5941df0db58d11352a31b2f1e9.setContent(html_407ea49c1412be6ab5163cb50fddf9fd);
+            
+        
+
+        marker_06836626f2b729728b8369a76c4ab6d7.bindPopup(popup_c99e2f5941df0db58d11352a31b2f1e9)
+        ;
+
+        
+    
+    
+            marker_06836626f2b729728b8369a76c4ab6d7.bindTooltip(
+                `<div>
+                     Laurel Pediatric & Adolescent, Terry L, Bang, $371,000 , Physicians & Surgeons, 234 S 12th Ave, Laurel, MS, (601) 649-3520, Physicians & Surgeons, Physicians & Surgeons, nan, $371,000 , Laurel
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d6f21b89365a7bc76ec5b2a2fc95848c = L.marker(
+                [30.31434839, -89.25318048],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_97e633ba62403394bf4ac5d86709d502 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_12b74de4f69412b1e7df9586c79cd9f7 = $(`<div id="html_12b74de4f69412b1e7df9586c79cd9f7" style="width: 100.0%; height: 100.0%;">Company Name: Pass Christian Early Childhood<br>Executive First Name: Meridith<br>Executive Last Name: Bang<br>Address: 205 Leovy Ave<br>City: Pass Christian<br>State: MS<br>Phone Number: (228) 452-5210<br>Primary SIC Description: Child Care Service<br>SIC Code 1 Description: Child Care Service<br>SIC Code 2 Description: nan<br>Location Sales Volume: $114,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_97e633ba62403394bf4ac5d86709d502.setContent(html_12b74de4f69412b1e7df9586c79cd9f7);
+            
+        
+
+        marker_d6f21b89365a7bc76ec5b2a2fc95848c.bindPopup(popup_97e633ba62403394bf4ac5d86709d502)
+        ;
+
+        
+    
+    
+            marker_d6f21b89365a7bc76ec5b2a2fc95848c.bindTooltip(
+                `<div>
+                     Pass Christian Early Childhood, Meridith, Bang, $114,000 , Child Care Service, 205 Leovy Ave, Pass Christian, MS, (228) 452-5210, Child Care Service, Child Care Service, nan, $114,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_48fc7352f816f5375d3abf2058417cc0 = L.marker(
+                [34.9597319, -89.99611116],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_86827ca30711faebb98e749b277b57b3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a51315d6e88f25ed6ffd0380dde3e191 = $(`<div id="html_a51315d6e88f25ed6ffd0380dde3e191" style="width: 100.0%; height: 100.0%;">Company Name: Regal Nails Salon & Spa<br>Executive First Name: Kevin<br>Executive Last Name: Bang<br>Address: 6811 Southcrest Pkwy<br>City: Southaven<br>State: MS<br>Phone Number: (662) 349-5615<br>Primary SIC Description: Manicuring<br>SIC Code 1 Description: Manicuring<br>SIC Code 2 Description: Beauty Salons<br>Location Sales Volume: $129,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_86827ca30711faebb98e749b277b57b3.setContent(html_a51315d6e88f25ed6ffd0380dde3e191);
+            
+        
+
+        marker_48fc7352f816f5375d3abf2058417cc0.bindPopup(popup_86827ca30711faebb98e749b277b57b3)
+        ;
+
+        
+    
+    
+            marker_48fc7352f816f5375d3abf2058417cc0.bindTooltip(
+                `<div>
+                     Regal Nails Salon & Spa, Kevin, Bang, $129,000 , Manicuring, 6811 Southcrest Pkwy, Southaven, MS, (662) 349-5615, Manicuring, Manicuring, Beauty Salons, $129,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ff3b3abdacb3d9d80277a80a470102f4 = L.marker(
+                [34.82455714, -89.98438986],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_3d94a0c0257b12792d8d0d48812920a7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_67edaa36cf5f6c6a8c2480cd9cbf33f1 = $(`<div id="html_67edaa36cf5f6c6a8c2480cd9cbf33f1" style="width: 100.0%; height: 100.0%;">Company Name: A OK Cleaners<br>Executive First Name: Kenny<br>Executive Last Name: Suh<br>Address: 2440 Mount Pleasant Rd<br>City: Hernando<br>State: MS<br>Phone Number: (662) 429-7016<br>Primary SIC Description: Cleaners<br>SIC Code 1 Description: Cleaners<br>SIC Code 2 Description: nan<br>Location Sales Volume: $476,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_3d94a0c0257b12792d8d0d48812920a7.setContent(html_67edaa36cf5f6c6a8c2480cd9cbf33f1);
+            
+        
+
+        marker_ff3b3abdacb3d9d80277a80a470102f4.bindPopup(popup_3d94a0c0257b12792d8d0d48812920a7)
+        ;
+
+        
+    
+    
+            marker_ff3b3abdacb3d9d80277a80a470102f4.bindTooltip(
+                `<div>
+                     A OK Cleaners, Kenny, Suh, $476,000 , Cleaners, 2440 Mount Pleasant Rd, Hernando, MS, (662) 429-7016, Cleaners, Cleaners, nan, $476,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9e81da3f18fd469a1467542c962ea823 = L.marker(
+                [32.33217984, -90.1306285],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_90b5aa2c1da1e0243d9685fde6592f22 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_831529755dc5a85cad80587bddb86188 = $(`<div id="html_831529755dc5a85cad80587bddb86188" style="width: 100.0%; height: 100.0%;">Company Name: Osaka Japanese Restaurant<br>Executive First Name: Tommy<br>Executive Last Name: So<br>Address: 4325 Lakeland Dr<br>City: Flowood<br>State: MS<br>Phone Number: (601) 936-7000<br>Primary SIC Description: Restaurants<br>SIC Code 1 Description: Restaurants<br>SIC Code 2 Description: nan<br>Location Sales Volume: $364,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_90b5aa2c1da1e0243d9685fde6592f22.setContent(html_831529755dc5a85cad80587bddb86188);
+            
+        
+
+        marker_9e81da3f18fd469a1467542c962ea823.bindPopup(popup_90b5aa2c1da1e0243d9685fde6592f22)
+        ;
+
+        
+    
+    
+            marker_9e81da3f18fd469a1467542c962ea823.bindTooltip(
+                `<div>
+                     Osaka Japanese Restaurant, Tommy, So, $364,000 , Restaurants, 4325 Lakeland Dr, Flowood, MS, (601) 936-7000, Restaurants, Restaurants, nan, $364,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fd40c2858f747140119056a96511de92 = L.marker(
+                [34.9913244, -89.9926287],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_0a5efc687a9b75e3b83d056a6408396c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_44821fa86e6a00ace908b118fedeed51 = $(`<div id="html_44821fa86e6a00ace908b118fedeed51" style="width: 100.0%; height: 100.0%;">Company Name: Beauty Plus<br>Executive First Name: Peter<br>Executive Last Name: Song<br>Address: 151 Stateline Rd W # A<br>City: Southaven<br>State: MS<br>Phone Number: (662) 393-7865<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: nan<br>Location Sales Volume: $319,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_0a5efc687a9b75e3b83d056a6408396c.setContent(html_44821fa86e6a00ace908b118fedeed51);
+            
+        
+
+        marker_fd40c2858f747140119056a96511de92.bindPopup(popup_0a5efc687a9b75e3b83d056a6408396c)
+        ;
+
+        
+    
+    
+            marker_fd40c2858f747140119056a96511de92.bindTooltip(
+                `<div>
+                     Beauty Plus, Peter, Song, $319,000 , Cosmetics & Perfumes-Retail, 151 Stateline Rd W # A, Southaven, MS, (662) 393-7865, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, nan, $319,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0d2e805d8231e756881a5053c1492cc2 = L.marker(
+                [32.34270247, -90.88037429],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_949baec30fdace1aea3d404e15a365b8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e0ac1acd7016e5c59137ab2eda93c68b = $(`<div id="html_e0ac1acd7016e5c59137ab2eda93c68b" style="width: 100.0%; height: 100.0%;">Company Name: Quick Stop<br>Executive First Name: Paul<br>Executive Last Name: Sin<br>Address: 1920 Drummond St<br>City: Vicksburg<br>State: MS<br>Phone Number: (601) 636-3236<br>Primary SIC Description: Convenience Stores<br>SIC Code 1 Description: Convenience Stores<br>SIC Code 2 Description: nan<br>Location Sales Volume: $501,000 <br>Metro Area: Vicksburg<br></div>`)[0];
+                popup_949baec30fdace1aea3d404e15a365b8.setContent(html_e0ac1acd7016e5c59137ab2eda93c68b);
+            
+        
+
+        marker_0d2e805d8231e756881a5053c1492cc2.bindPopup(popup_949baec30fdace1aea3d404e15a365b8)
+        ;
+
+        
+    
+    
+            marker_0d2e805d8231e756881a5053c1492cc2.bindTooltip(
+                `<div>
+                     Quick Stop, Paul, Sin, $501,000 , Convenience Stores, 1920 Drummond St, Vicksburg, MS, (601) 636-3236, Convenience Stores, Convenience Stores, nan, $501,000 , Vicksburg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_eaad7606b43737e52da39554c1b46554 = L.marker(
+                [30.43685358, -89.09264025],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_fc916fd46a75fc0fc4be839a30c14554 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8e11d2f8846640b63d7062c16681b9c9 = $(`<div id="html_8e11d2f8846640b63d7062c16681b9c9" style="width: 100.0%; height: 100.0%;">Company Name: Shoe Carnival<br>Executive First Name: Jay<br>Executive Last Name: Shin<br>Address: 15146 Crossroads Pkwy<br>City: Gulfport<br>State: MS<br>Phone Number: (228) 539-0233<br>Primary SIC Description: Shoes-Retail<br>SIC Code 1 Description: Shoes-Retail<br>SIC Code 2 Description: Boots-Wholesale<br>Location Sales Volume: $3,579,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_fc916fd46a75fc0fc4be839a30c14554.setContent(html_8e11d2f8846640b63d7062c16681b9c9);
+            
+        
+
+        marker_eaad7606b43737e52da39554c1b46554.bindPopup(popup_fc916fd46a75fc0fc4be839a30c14554)
+        ;
+
+        
+    
+    
+            marker_eaad7606b43737e52da39554c1b46554.bindTooltip(
+                `<div>
+                     Shoe Carnival, Jay, Shin, $3,579,000 , Shoes-Retail, 15146 Crossroads Pkwy, Gulfport, MS, (228) 539-0233, Shoes-Retail, Shoes-Retail, Boots-Wholesale, $3,579,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b0d86c004e7910d1e341da1ecaf6cca0 = L.marker(
+                [31.6044341, -89.1966367],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_66d262162dcf68fad340d38382787cb1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_efbf6c53b5fc233a2d0a071acf6b4378 = $(`<div id="html_efbf6c53b5fc233a2d0a071acf6b4378" style="width: 100.0%; height: 100.0%;">Company Name: Ellisville Donuts & Kolaches<br>Executive First Name: Dany<br>Executive Last Name: Sim<br>Address: 103 W Ivy St<br>City: Ellisville<br>State: MS<br>Phone Number: (601) 817-4030<br>Primary SIC Description: Doughnuts<br>SIC Code 1 Description: Doughnuts<br>SIC Code 2 Description: Restaurants<br>Location Sales Volume: $45,000 <br>Metro Area: Laurel<br></div>`)[0];
+                popup_66d262162dcf68fad340d38382787cb1.setContent(html_efbf6c53b5fc233a2d0a071acf6b4378);
+            
+        
+
+        marker_b0d86c004e7910d1e341da1ecaf6cca0.bindPopup(popup_66d262162dcf68fad340d38382787cb1)
+        ;
+
+        
+    
+    
+            marker_b0d86c004e7910d1e341da1ecaf6cca0.bindTooltip(
+                `<div>
+                     Ellisville Donuts & Kolaches, Dany, Sim, $45,000 , Doughnuts, 103 W Ivy St, Ellisville, MS, (601) 817-4030, Doughnuts, Doughnuts, Restaurants, $45,000 , Laurel
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_623b393d56450ac5a71f0ef94f99a4d3 = L.marker(
+                [33.46358172, -88.81509781],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_7e2684b89a4941b018191a32f4b27ae4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3f5c3ecf6f6c998b7041a5f27060fff4 = $(`<div id="html_3f5c3ecf6f6c998b7041a5f27060fff4" style="width: 100.0%; height: 100.0%;">Company Name: Starkville Korean Church<br>Executive First Name: Woo Jun<br>Executive Last Name: Yang<br>Address: 115 S Lafayette St<br>City: Starkville<br>State: MS<br>Phone Number: (415) 847-1668<br>Primary SIC Description: Churches<br>SIC Code 1 Description: Churches<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Starkville<br></div>`)[0];
+                popup_7e2684b89a4941b018191a32f4b27ae4.setContent(html_3f5c3ecf6f6c998b7041a5f27060fff4);
+            
+        
+
+        marker_623b393d56450ac5a71f0ef94f99a4d3.bindPopup(popup_7e2684b89a4941b018191a32f4b27ae4)
+        ;
+
+        
+    
+    
+            marker_623b393d56450ac5a71f0ef94f99a4d3.bindTooltip(
+                `<div>
+                     Starkville Korean Church, Woo Jun, Yang, $0 , Churches, 115 S Lafayette St, Starkville, MS, (415) 847-1668, Churches, Churches, nan, $0 , Starkville
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c6075f10298413e856b968e3cbbf54c8 = L.marker(
+                [34.3677844, -89.534977],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_9b79a9781e59e6fe8d96a41bcea23317 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2f82d58aecb6b6b1a6ecf831faf5de1c = $(`<div id="html_2f82d58aecb6b6b1a6ecf831faf5de1c" style="width: 100.0%; height: 100.0%;">Company Name: Ole Miss<br>Executive First Name: Laurie<br>Executive Last Name: Woo<br>Address: 1 Student Union Dr<br>City: University<br>State: MS<br>Phone Number: (662) 915-7137<br>Primary SIC Description: Books School & Textbooks<br>SIC Code 1 Description: Books School & Textbooks<br>SIC Code 2 Description: Book Dealers-Retail<br>Location Sales Volume: $1,573,000 <br>Metro Area: Oxford<br></div>`)[0];
+                popup_9b79a9781e59e6fe8d96a41bcea23317.setContent(html_2f82d58aecb6b6b1a6ecf831faf5de1c);
+            
+        
+
+        marker_c6075f10298413e856b968e3cbbf54c8.bindPopup(popup_9b79a9781e59e6fe8d96a41bcea23317)
+        ;
+
+        
+    
+    
+            marker_c6075f10298413e856b968e3cbbf54c8.bindTooltip(
+                `<div>
+                     Ole Miss, Laurie, Woo, $1,573,000 , Books School & Textbooks, 1 Student Union Dr, University, MS, (662) 915-7137, Books School & Textbooks, Books School & Textbooks, Book Dealers-Retail, $1,573,000 , Oxford
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1a7d3c7acc33dd78fe8f20cb2bcbc30f = L.marker(
+                [32.32938955, -90.17252057],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_14492bdf63d48240e74a922673b31a53 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ea6b2638e7b35179e891de324f0a7648 = $(`<div id="html_ea6b2638e7b35179e891de324f0a7648" style="width: 100.0%; height: 100.0%;">Company Name: Cytogenetics Laboratory<br>Executive First Name: Cheng<br>Executive Last Name: Yu<br>Address: 2500 N State St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 984-1903<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $1,493,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_14492bdf63d48240e74a922673b31a53.setContent(html_ea6b2638e7b35179e891de324f0a7648);
+            
+        
+
+        marker_1a7d3c7acc33dd78fe8f20cb2bcbc30f.bindPopup(popup_14492bdf63d48240e74a922673b31a53)
+        ;
+
+        
+    
+    
+            marker_1a7d3c7acc33dd78fe8f20cb2bcbc30f.bindTooltip(
+                `<div>
+                     Cytogenetics Laboratory, Cheng, Yu, $1,493,000 , Physicians & Surgeons, 2500 N State St, Jackson, MS, (601) 984-1903, Physicians & Surgeons, Physicians & Surgeons, nan, $1,493,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_742388082a204baa2b4449a0a9085451 = L.marker(
+                [31.671343, -88.652492],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_852650f4e1e095153342bea3d1ef424d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_caf26c32a1ace32e829bfdd550005eb8 = $(`<div id="html_caf26c32a1ace32e829bfdd550005eb8" style="width: 100.0%; height: 100.0%;">Company Name: Hairz<br>Executive First Name: Sung<br>Executive Last Name: Yu<br>Address: 435 Azalea Dr<br>City: Waynesboro<br>State: MS<br>Phone Number: (601) 671-0499<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: nan<br>Location Sales Volume: $140,000 <br>Metro Area: nan<br></div>`)[0];
+                popup_852650f4e1e095153342bea3d1ef424d.setContent(html_caf26c32a1ace32e829bfdd550005eb8);
+            
+        
+
+        marker_742388082a204baa2b4449a0a9085451.bindPopup(popup_852650f4e1e095153342bea3d1ef424d)
+        ;
+
+        
+    
+    
+            marker_742388082a204baa2b4449a0a9085451.bindTooltip(
+                `<div>
+                     Hairz, Sung, Yu, $140,000 , Cosmetics & Perfumes-Retail, 435 Azalea Dr, Waynesboro, MS, (601) 671-0499, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, nan, $140,000 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_657f0626710866479588d195c067719c = L.marker(
+                [32.40596505, -90.17778464],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_8e49192485272209c6f9e67e7ab49dbe = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c4e287dd9905a3c1cdd1422925a9e1cf = $(`<div id="html_c4e287dd9905a3c1cdd1422925a9e1cf" style="width: 100.0%; height: 100.0%;">Company Name: Invictus Rx LLC<br>Executive First Name: Lucas Fei<br>Executive Last Name: Yu<br>Address: 104 Business Park Dr # D-E<br>City: Ridgeland<br>State: MS<br>Phone Number: Not Available<br>Primary SIC Description: Pharmacies<br>SIC Code 1 Description: Pharmacies<br>SIC Code 2 Description: nan<br>Location Sales Volume: $2,926,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_8e49192485272209c6f9e67e7ab49dbe.setContent(html_c4e287dd9905a3c1cdd1422925a9e1cf);
+            
+        
+
+        marker_657f0626710866479588d195c067719c.bindPopup(popup_8e49192485272209c6f9e67e7ab49dbe)
+        ;
+
+        
+    
+    
+            marker_657f0626710866479588d195c067719c.bindTooltip(
+                `<div>
+                     Invictus Rx LLC, Lucas Fei, Yu, $2,926,000 , Pharmacies, 104 Business Park Dr # D-E, Ridgeland, MS, Not Available, Pharmacies, Pharmacies, nan, $2,926,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_dfc65b2eacc18f2bc2b334c7e36a947d = L.marker(
+                [31.31125963, -89.31255455],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_494ba7b62ebe982bcd4891bb1b8534a3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a3d267e775e8fa2ae334d919460bf5f8 = $(`<div id="html_a3d267e775e8fa2ae334d919460bf5f8" style="width: 100.0%; height: 100.0%;">Company Name: Beauty Land Beauty Supply<br>Executive First Name: Taewon<br>Executive Last Name: Yoon<br>Address: 716 Bartur St<br>City: Hattiesburg<br>State: MS<br>Phone Number: (601) 545-5309<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: Barbers Equipment & Supplies (Whls)<br>Location Sales Volume: $630,000 <br>Metro Area: Hattiesburg<br></div>`)[0];
+                popup_494ba7b62ebe982bcd4891bb1b8534a3.setContent(html_a3d267e775e8fa2ae334d919460bf5f8);
+            
+        
+
+        marker_dfc65b2eacc18f2bc2b334c7e36a947d.bindPopup(popup_494ba7b62ebe982bcd4891bb1b8534a3)
+        ;
+
+        
+    
+    
+            marker_dfc65b2eacc18f2bc2b334c7e36a947d.bindTooltip(
+                `<div>
+                     Beauty Land Beauty Supply, Taewon, Yoon, $630,000 , Cosmetics & Perfumes-Retail, 716 Bartur St, Hattiesburg, MS, (601) 545-5309, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, Barbers Equipment & Supplies (Whls), $630,000 , Hattiesburg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_06250a43fef3d6302e916a753b8ee636 = L.marker(
+                [32.33486429, -90.31457041],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_cf9e7e7eac1164695311623d97af89f8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8a19f7912181d8713bc3346aac7fff75 = $(`<div id="html_8a19f7912181d8713bc3346aac7fff75" style="width: 100.0%; height: 100.0%;">Company Name: Hair Plus Beauty Supply<br>Executive First Name: Taekyu<br>Executive Last Name: Lee<br>Address: 202 Clinton Blvd<br>City: Clinton<br>State: MS<br>Phone Number: (601) 924-2992<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: Beauty Salons-Equipment & Supplies (Whls)<br>Location Sales Volume: $611,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_cf9e7e7eac1164695311623d97af89f8.setContent(html_8a19f7912181d8713bc3346aac7fff75);
+            
+        
+
+        marker_06250a43fef3d6302e916a753b8ee636.bindPopup(popup_cf9e7e7eac1164695311623d97af89f8)
+        ;
+
+        
+    
+    
+            marker_06250a43fef3d6302e916a753b8ee636.bindTooltip(
+                `<div>
+                     Hair Plus Beauty Supply, Taekyu, Lee, $611,000 , Cosmetics & Perfumes-Retail, 202 Clinton Blvd, Clinton, MS, (601) 924-2992, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, Beauty Salons-Equipment & Supplies (Whls), $611,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6b1103ac4fa926c50c30fee897c2a8f5 = L.marker(
+                [34.36624024, -89.51968788],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_ab3e6f27b92ec0ed0dfe4d23c362c353 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6360597123bf26828fd6c10fd6df62bd = $(`<div id="html_6360597123bf26828fd6c10fd6df62bd" style="width: 100.0%; height: 100.0%;">Company Name: Homesafe Inspections<br>Executive First Name: Peng<br>Executive Last Name: Lee<br>Address: 1109 Van Buren Ave<br>City: Oxford<br>State: MS<br>Phone Number: (662) 236-1232<br>Primary SIC Description: Real Estate Inspection<br>SIC Code 1 Description: Real Estate Inspection<br>SIC Code 2 Description: Physicians & Surgeons Equip & Supls-Whls<br>Location Sales Volume: $1,351,000 <br>Metro Area: Oxford<br></div>`)[0];
+                popup_ab3e6f27b92ec0ed0dfe4d23c362c353.setContent(html_6360597123bf26828fd6c10fd6df62bd);
+            
+        
+
+        marker_6b1103ac4fa926c50c30fee897c2a8f5.bindPopup(popup_ab3e6f27b92ec0ed0dfe4d23c362c353)
+        ;
+
+        
+    
+    
+            marker_6b1103ac4fa926c50c30fee897c2a8f5.bindTooltip(
+                `<div>
+                     Homesafe Inspections, Peng, Lee, $1,351,000 , Real Estate Inspection, 1109 Van Buren Ave, Oxford, MS, (662) 236-1232, Real Estate Inspection, Real Estate Inspection, Physicians & Surgeons Equip & Supls-Whls, $1,351,000 , Oxford
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8741af0f5e06be4534b2e7618451f680 = L.marker(
+                [34.9917609, -89.99393875],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_571327f28595f0e0937f2cf38e89e6ac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b6c8177b64cbbc42dd6c8af58348c339 = $(`<div id="html_b6c8177b64cbbc42dd6c8af58348c339" style="width: 100.0%; height: 100.0%;">Company Name: Kids & Mom Formal Wear<br>Executive First Name: Ki<br>Executive Last Name: Lee<br>Address: 201 Stateline Rd W<br>City: Southaven<br>State: MS<br>Phone Number: (662) 280-8244<br>Primary SIC Description: Formal Wear-Rental<br>SIC Code 1 Description: Formal Wear-Rental<br>SIC Code 2 Description: Bridal Shops<br>Location Sales Volume: $69,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_571327f28595f0e0937f2cf38e89e6ac.setContent(html_b6c8177b64cbbc42dd6c8af58348c339);
+            
+        
+
+        marker_8741af0f5e06be4534b2e7618451f680.bindPopup(popup_571327f28595f0e0937f2cf38e89e6ac)
+        ;
+
+        
+    
+    
+            marker_8741af0f5e06be4534b2e7618451f680.bindTooltip(
+                `<div>
+                     Kids & Mom Formal Wear, Ki, Lee, $69,000 , Formal Wear-Rental, 201 Stateline Rd W, Southaven, MS, (662) 280-8244, Formal Wear-Rental, Formal Wear-Rental, Bridal Shops, $69,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d5a1cac178bba738e98052497bf47263 = L.marker(
+                [33.60703455, -88.65781793],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_6f9f83d58ecb03009205025dc90be05f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dd50359e3b01af9bcaa665e114226183 = $(`<div id="html_dd50359e3b01af9bcaa665e114226183" style="width: 100.0%; height: 100.0%;">Company Name: Vibe Night Club LLC<br>Executive First Name: Changho<br>Executive Last Name: Lee<br>Address: 25980 W Main St<br>City: West Point<br>State: MS<br>Phone Number: Not Available<br>Primary SIC Description: Night Clubs<br>SIC Code 1 Description: Night Clubs<br>SIC Code 2 Description: nan<br>Location Sales Volume: $197,000 <br>Metro Area: West Point<br></div>`)[0];
+                popup_6f9f83d58ecb03009205025dc90be05f.setContent(html_dd50359e3b01af9bcaa665e114226183);
+            
+        
+
+        marker_d5a1cac178bba738e98052497bf47263.bindPopup(popup_6f9f83d58ecb03009205025dc90be05f)
+        ;
+
+        
+    
+    
+            marker_d5a1cac178bba738e98052497bf47263.bindTooltip(
+                `<div>
+                     Vibe Night Club LLC, Changho, Lee, $197,000 , Night Clubs, 25980 W Main St, West Point, MS, Not Available, Night Clubs, Night Clubs, nan, $197,000 , West Point
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a368ec0ce7b9423d9de293585ac437de = L.marker(
+                [34.25603206, -88.73986769],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_c75f26017ed80545077b8e77e1a07ae7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_584cb5184b21f7a5ae6aaf1aaffd6dc5 = $(`<div id="html_584cb5184b21f7a5ae6aaf1aaffd6dc5" style="width: 100.0%; height: 100.0%;">Company Name: Kim's Beauty Plus<br>Executive First Name: Joe<br>Executive Last Name: Yim<br>Address: 2306 W Main St<br>City: Tupelo<br>State: MS<br>Phone Number: (662) 844-2883<br>Primary SIC Description: Beauty Salons<br>SIC Code 1 Description: Beauty Salons<br>SIC Code 2 Description: Cosmetics & Perfumes-Retail<br>Location Sales Volume: $69,000 <br>Metro Area: Tupelo<br></div>`)[0];
+                popup_c75f26017ed80545077b8e77e1a07ae7.setContent(html_584cb5184b21f7a5ae6aaf1aaffd6dc5);
+            
+        
+
+        marker_a368ec0ce7b9423d9de293585ac437de.bindPopup(popup_c75f26017ed80545077b8e77e1a07ae7)
+        ;
+
+        
+    
+    
+            marker_a368ec0ce7b9423d9de293585ac437de.bindTooltip(
+                `<div>
+                     Kim's Beauty Plus, Joe, Yim, $69,000 , Beauty Salons, 2306 W Main St, Tupelo, MS, (662) 844-2883, Beauty Salons, Beauty Salons, Cosmetics & Perfumes-Retail, $69,000 , Tupelo
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2064b0166f57b2b2bdf1f9410ee6e625 = L.marker(
+                [30.31710052, -89.34711774],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_8ee85184229728d0645bb263bc79c434 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_90e2a810439dd02ce6bcb0acfccdda54 = $(`<div id="html_90e2a810439dd02ce6bcb0acfccdda54" style="width: 100.0%; height: 100.0%;">Company Name: Children's International Med<br>Executive First Name: Jessica T<br>Executive Last Name: Jang<br>Address: 618 Blue Meadow Rd<br>City: Bay Saint Louis<br>State: MS<br>Phone Number: (228) 467-1320<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $325,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_8ee85184229728d0645bb263bc79c434.setContent(html_90e2a810439dd02ce6bcb0acfccdda54);
+            
+        
+
+        marker_2064b0166f57b2b2bdf1f9410ee6e625.bindPopup(popup_8ee85184229728d0645bb263bc79c434)
+        ;
+
+        
+    
+    
+            marker_2064b0166f57b2b2bdf1f9410ee6e625.bindTooltip(
+                `<div>
+                     Children's International Med, Jessica T, Jang, $325,000 , Physicians & Surgeons, 618 Blue Meadow Rd, Bay Saint Louis, MS, (228) 467-1320, Physicians & Surgeons, Physicians & Surgeons, nan, $325,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bef5b65fa1632fe9bff1aadf3eac1af4 = L.marker(
+                [33.5140319, -90.1592195],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_bb7bb5afa77dd9ee1213ff648ab6bb06 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f145c85c3cb396d644d4cf419ce4eaed = $(`<div id="html_f145c85c3cb396d644d4cf419ce4eaed" style="width: 100.0%; height: 100.0%;">Company Name: One Stop Ctr Of Greenwood<br>Executive First Name: Lee<br>Executive Last Name: Jang<br>Address: 907 Bowie Ln<br>City: Greenwood<br>State: MS<br>Phone Number: (662) 455-9780<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: Convenience Stores<br>Location Sales Volume: $258,000 <br>Metro Area: Greenwood<br></div>`)[0];
+                popup_bb7bb5afa77dd9ee1213ff648ab6bb06.setContent(html_f145c85c3cb396d644d4cf419ce4eaed);
+            
+        
+
+        marker_bef5b65fa1632fe9bff1aadf3eac1af4.bindPopup(popup_bb7bb5afa77dd9ee1213ff648ab6bb06)
+        ;
+
+        
+    
+    
+            marker_bef5b65fa1632fe9bff1aadf3eac1af4.bindTooltip(
+                `<div>
+                     One Stop Ctr Of Greenwood, Lee, Jang, $258,000 , Cosmetics & Perfumes-Retail, 907 Bowie Ln, Greenwood, MS, (662) 455-9780, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, Convenience Stores, $258,000 , Greenwood
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fbc8498b60307cb0d01b20353cfbd86f = L.marker(
+                [31.25615933, -89.78939943],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_1fffbac2aeecdf9388a335aa6eb10fce = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7dcfde4c9d61d834393d1412253bcc60 = $(`<div id="html_7dcfde4c9d61d834393d1412253bcc60" style="width: 100.0%; height: 100.0%;">Company Name: Pediatrics & Family Practice<br>Executive First Name: Jonathan R<br>Executive Last Name: Jang<br>Address: 2 W Lakeview Dr # 2<br>City: Columbia<br>State: MS<br>Phone Number: (601) 444-4798<br>Primary SIC Description: Physicians & Surgeons<br>SIC Code 1 Description: Physicians & Surgeons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $538,000 <br>Metro Area: nan<br></div>`)[0];
+                popup_1fffbac2aeecdf9388a335aa6eb10fce.setContent(html_7dcfde4c9d61d834393d1412253bcc60);
+            
+        
+
+        marker_fbc8498b60307cb0d01b20353cfbd86f.bindPopup(popup_1fffbac2aeecdf9388a335aa6eb10fce)
+        ;
+
+        
+    
+    
+            marker_fbc8498b60307cb0d01b20353cfbd86f.bindTooltip(
+                `<div>
+                     Pediatrics & Family Practice, Jonathan R, Jang, $538,000 , Physicians & Surgeons, 2 W Lakeview Dr # 2, Columbia, MS, (601) 444-4798, Physicians & Surgeons, Physicians & Surgeons, nan, $538,000 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a9f3b8fcfd5940cf8c3ad96adcc48d46 = L.marker(
+                [31.25615933, -89.78939943],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_c713d20bb65ffd24826a853827a4c9a8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_826adfaec8187769162d27606e67416c = $(`<div id="html_826adfaec8187769162d27606e67416c" style="width: 100.0%; height: 100.0%;">Company Name: Practice-Columbia Pediatrics<br>Executive First Name: Jonathan R<br>Executive Last Name: Jang<br>Address: 2 W Lakeview Dr # 2<br>City: Columbia<br>State: MS<br>Phone Number: (601) 444-4798<br>Primary SIC Description: Clinics<br>SIC Code 1 Description: Clinics<br>SIC Code 2 Description: Physicians & Surgeons<br>Location Sales Volume: $1,076,000 <br>Metro Area: nan<br></div>`)[0];
+                popup_c713d20bb65ffd24826a853827a4c9a8.setContent(html_826adfaec8187769162d27606e67416c);
+            
+        
+
+        marker_a9f3b8fcfd5940cf8c3ad96adcc48d46.bindPopup(popup_c713d20bb65ffd24826a853827a4c9a8)
+        ;
+
+        
+    
+    
+            marker_a9f3b8fcfd5940cf8c3ad96adcc48d46.bindTooltip(
+                `<div>
+                     Practice-Columbia Pediatrics, Jonathan R, Jang, $1,076,000 , Clinics, 2 W Lakeview Dr # 2, Columbia, MS, (601) 444-4798, Clinics, Clinics, Physicians & Surgeons, $1,076,000 , nan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_294c33661eebde2b506e3cf90917e119 = L.marker(
+                [30.37881985, -89.0937795],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_0674736ad752e553781e7cdf1a222920 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_812e6184ff216e2a81aa930f8b56403c = $(`<div id="html_812e6184ff216e2a81aa930f8b56403c" style="width: 100.0%; height: 100.0%;">Company Name: Best Mart<br>Executive First Name: Jae<br>Executive Last Name: Chang<br>Address: 2525 24th St<br>City: Gulfport<br>State: MS<br>Phone Number: (228) 863-6320<br>Primary SIC Description: Women's Apparel-Retail<br>SIC Code 1 Description: Women's Apparel-Retail<br>SIC Code 2 Description: Wigs Toupees & Hairpieces<br>Location Sales Volume: $231,000 <br>Metro Area: Gulfport<br></div>`)[0];
+                popup_0674736ad752e553781e7cdf1a222920.setContent(html_812e6184ff216e2a81aa930f8b56403c);
+            
+        
+
+        marker_294c33661eebde2b506e3cf90917e119.bindPopup(popup_0674736ad752e553781e7cdf1a222920)
+        ;
+
+        
+    
+    
+            marker_294c33661eebde2b506e3cf90917e119.bindTooltip(
+                `<div>
+                     Best Mart, Jae, Chang, $231,000 , Women's Apparel-Retail, 2525 24th St, Gulfport, MS, (228) 863-6320, Women's Apparel-Retail, Women's Apparel-Retail, Wigs Toupees & Hairpieces, $231,000 , Gulfport
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5f4b21809c589c7d0a0eba3e5e50ead5 = L.marker(
+                [34.3631461, -89.5640003],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_08db96f40986128698dc5281d218dc4d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a5d4469f347b1b2f92c631041d8daaf5 = $(`<div id="html_a5d4469f347b1b2f92c631041d8daaf5" style="width: 100.0%; height: 100.0%;">Company Name: Jeon Philip Jongho DDS<br>Executive First Name: Philip J<br>Executive Last Name: Jeon<br>Address: 2311 Jackson Ave W # 302<br>City: Oxford<br>State: MS<br>Phone Number: (662) 234-8552<br>Primary SIC Description: Dentists<br>SIC Code 1 Description: Dentists<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Oxford<br></div>`)[0];
+                popup_08db96f40986128698dc5281d218dc4d.setContent(html_a5d4469f347b1b2f92c631041d8daaf5);
+            
+        
+
+        marker_5f4b21809c589c7d0a0eba3e5e50ead5.bindPopup(popup_08db96f40986128698dc5281d218dc4d)
+        ;
+
+        
+    
+    
+            marker_5f4b21809c589c7d0a0eba3e5e50ead5.bindTooltip(
+                `<div>
+                     Jeon Philip Jongho DDS, Philip J, Jeon, $0 , Dentists, 2311 Jackson Ave W # 302, Oxford, MS, (662) 234-8552, Dentists, Dentists, nan, $0 , Oxford
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a0b2257250275db68d98f076ce47b706 = L.marker(
+                [32.33475818, -90.87827278],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_d823e8d9834df8fe49a5c6deb25851f4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_030c09d674d798c2366603569f1c01cb = $(`<div id="html_030c09d674d798c2366603569f1c01cb" style="width: 100.0%; height: 100.0%;">Company Name: Jimmy Chu Store<br>Executive First Name: Kent<br>Executive Last Name: Chung<br>Address: 2524 Halls Ferry Rd<br>City: Vicksburg<br>State: MS<br>Phone Number: (601) 636-3713<br>Primary SIC Description: Grocers-Retail<br>SIC Code 1 Description: Grocers-Retail<br>SIC Code 2 Description: nan<br>Location Sales Volume: $167,000 <br>Metro Area: Vicksburg<br></div>`)[0];
+                popup_d823e8d9834df8fe49a5c6deb25851f4.setContent(html_030c09d674d798c2366603569f1c01cb);
+            
+        
+
+        marker_a0b2257250275db68d98f076ce47b706.bindPopup(popup_d823e8d9834df8fe49a5c6deb25851f4)
+        ;
+
+        
+    
+    
+            marker_a0b2257250275db68d98f076ce47b706.bindTooltip(
+                `<div>
+                     Jimmy Chu Store, Kent, Chung, $167,000 , Grocers-Retail, 2524 Halls Ferry Rd, Vicksburg, MS, (601) 636-3713, Grocers-Retail, Grocers-Retail, nan, $167,000 , Vicksburg
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3dbc675666219913282a1f5040e79f5b = L.marker(
+                [34.22264165, -88.70762203],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_ab3543e24dacd213949ea446f9a1f225 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_390f0d7e58ecb6085eba541d8a0ac074 = $(`<div id="html_390f0d7e58ecb6085eba541d8a0ac074" style="width: 100.0%; height: 100.0%;">Company Name: Tupelo Diesel Svc<br>Executive First Name: Terry<br>Executive Last Name: Chung<br>Address: 786 Westmoreland Dr<br>City: Tupelo<br>State: MS<br>Phone Number: (662) 844-1361<br>Primary SIC Description: Fuel Injection Equipment (Repairing)<br>SIC Code 1 Description: Fuel Injection Equipment (Repairing)<br>SIC Code 2 Description: Engines-Diesel (Whls)<br>Location Sales Volume: $302,000 <br>Metro Area: Tupelo<br></div>`)[0];
+                popup_ab3543e24dacd213949ea446f9a1f225.setContent(html_390f0d7e58ecb6085eba541d8a0ac074);
+            
+        
+
+        marker_3dbc675666219913282a1f5040e79f5b.bindPopup(popup_ab3543e24dacd213949ea446f9a1f225)
+        ;
+
+        
+    
+    
+            marker_3dbc675666219913282a1f5040e79f5b.bindTooltip(
+                `<div>
+                     Tupelo Diesel Svc, Terry, Chung, $302,000 , Fuel Injection Equipment (Repairing), 786 Westmoreland Dr, Tupelo, MS, (662) 844-1361, Fuel Injection Equipment (Repairing), Fuel Injection Equipment (Repairing), Engines-Diesel (Whls), $302,000 , Tupelo
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_dfafad3de882d5d68909e4fe69271985 = L.marker(
+                [34.96273762, -90.060326],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_cd9d9abb08bae6a47f2b031d35bad722 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_06865a3399c7cc0f8d73fb27ab716f9f = $(`<div id="html_06865a3399c7cc0f8d73fb27ab716f9f" style="width: 100.0%; height: 100.0%;">Company Name: C & C Beauty Supply<br>Executive First Name: Sophia<br>Executive Last Name: Cho<br>Address: 3966 Goodman Rd W<br>City: Horn Lake<br>State: MS<br>Phone Number: (662) 280-3455<br>Primary SIC Description: Beauty Salons<br>SIC Code 1 Description: Beauty Salons<br>SIC Code 2 Description: nan<br>Location Sales Volume: $86,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_cd9d9abb08bae6a47f2b031d35bad722.setContent(html_06865a3399c7cc0f8d73fb27ab716f9f);
+            
+        
+
+        marker_dfafad3de882d5d68909e4fe69271985.bindPopup(popup_cd9d9abb08bae6a47f2b031d35bad722)
+        ;
+
+        
+    
+    
+            marker_dfafad3de882d5d68909e4fe69271985.bindTooltip(
+                `<div>
+                     C & C Beauty Supply, Sophia, Cho, $86,000 , Beauty Salons, 3966 Goodman Rd W, Horn Lake, MS, (662) 280-3455, Beauty Salons, Beauty Salons, nan, $86,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e0aed09e4f5192abe759340097cad303 = L.marker(
+                [32.301473, -90.179938],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_2f52202c7d90ecfe5c3f40c329b12c6f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f9c72f299200d73f7d0b7cba96e55df4 = $(`<div id="html_f9c72f299200d73f7d0b7cba96e55df4" style="width: 100.0%; height: 100.0%;">Company Name: Library Administration-Jackson<br>Executive First Name: Miao<br>Executive Last Name: Jin<br>Address: 300 N State St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 968-5810<br>Primary SIC Description: Libraries-Public<br>SIC Code 1 Description: Libraries-Public<br>SIC Code 2 Description: nan<br>Location Sales Volume: $0 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_2f52202c7d90ecfe5c3f40c329b12c6f.setContent(html_f9c72f299200d73f7d0b7cba96e55df4);
+            
+        
+
+        marker_e0aed09e4f5192abe759340097cad303.bindPopup(popup_2f52202c7d90ecfe5c3f40c329b12c6f)
+        ;
+
+        
+    
+    
+            marker_e0aed09e4f5192abe759340097cad303.bindTooltip(
+                `<div>
+                     Library Administration-Jackson, Miao, Jin, $0 , Libraries-Public, 300 N State St, Jackson, MS, (601) 968-5810, Libraries-Public, Libraries-Public, nan, $0 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d7531acf98502ec06b7b9354aa34dd9b = L.marker(
+                [34.96282208, -89.98379864],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_4dec374ec2f0a4ddb716fce71fd98e9f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_616dd16d8d5754b8f5be44ba58521f89 = $(`<div id="html_616dd16d8d5754b8f5be44ba58521f89" style="width: 100.0%; height: 100.0%;">Company Name: Dryve Cleaners<br>Executive First Name: John<br>Executive Last Name: Choi<br>Address: 316 Goodman Rd E<br>City: Southaven<br>State: MS<br>Phone Number: (662) 349-6111<br>Primary SIC Description: Cleaners<br>SIC Code 1 Description: Cleaners<br>SIC Code 2 Description: nan<br>Location Sales Volume: $96,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_4dec374ec2f0a4ddb716fce71fd98e9f.setContent(html_616dd16d8d5754b8f5be44ba58521f89);
+            
+        
+
+        marker_d7531acf98502ec06b7b9354aa34dd9b.bindPopup(popup_4dec374ec2f0a4ddb716fce71fd98e9f)
+        ;
+
+        
+    
+    
+            marker_d7531acf98502ec06b7b9354aa34dd9b.bindTooltip(
+                `<div>
+                     Dryve Cleaners, John, Choi, $96,000 , Cleaners, 316 Goodman Rd E, Southaven, MS, (662) 349-6111, Cleaners, Cleaners, nan, $96,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8e09a45888f45861806198557227eae3 = L.marker(
+                [32.30549847, -90.22841842],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_6caaa3e8c4192f9dacb41c1a8a144742 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a82addcd2383b4893eaa2386152d4030 = $(`<div id="html_a82addcd2383b4893eaa2386152d4030" style="width: 100.0%; height: 100.0%;">Company Name: Goldstar<br>Executive First Name: Ching<br>Executive Last Name: Choi<br>Address: 2554 Robinson St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 353-6871<br>Primary SIC Description: General Merchandise-Retail<br>SIC Code 1 Description: General Merchandise-Retail<br>SIC Code 2 Description: Beauty Salons-Equipment & Supplies (Whls)<br>Location Sales Volume: $755,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_6caaa3e8c4192f9dacb41c1a8a144742.setContent(html_a82addcd2383b4893eaa2386152d4030);
+            
+        
+
+        marker_8e09a45888f45861806198557227eae3.bindPopup(popup_6caaa3e8c4192f9dacb41c1a8a144742)
+        ;
+
+        
+    
+    
+            marker_8e09a45888f45861806198557227eae3.bindTooltip(
+                `<div>
+                     Goldstar, Ching, Choi, $755,000 , General Merchandise-Retail, 2554 Robinson St, Jackson, MS, (601) 353-6871, General Merchandise-Retail, General Merchandise-Retail, Beauty Salons-Equipment & Supplies (Whls), $755,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d6864bc6a598cbbb354c8204d1fb7254 = L.marker(
+                [32.354395, -90.174604],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_53f69b6139a9e9eb6e11950202cb9bab = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4a293dcff5bc506e76007122158f348a = $(`<div id="html_4a293dcff5bc506e76007122158f348a" style="width: 100.0%; height: 100.0%;">Company Name: Goldstar Beauty Supply<br>Executive First Name: Euie<br>Executive Last Name: Choi<br>Address: 4545 N State St<br>City: Jackson<br>State: MS<br>Phone Number: (601) 366-3333<br>Primary SIC Description: Cosmetics & Perfumes-Retail<br>SIC Code 1 Description: Cosmetics & Perfumes-Retail<br>SIC Code 2 Description: Beauty Salons-Equipment & Supplies (Whls)<br>Location Sales Volume: $306,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_53f69b6139a9e9eb6e11950202cb9bab.setContent(html_4a293dcff5bc506e76007122158f348a);
+            
+        
+
+        marker_d6864bc6a598cbbb354c8204d1fb7254.bindPopup(popup_53f69b6139a9e9eb6e11950202cb9bab)
+        ;
+
+        
+    
+    
+            marker_d6864bc6a598cbbb354c8204d1fb7254.bindTooltip(
+                `<div>
+                     Goldstar Beauty Supply, Euie, Choi, $306,000 , Cosmetics & Perfumes-Retail, 4545 N State St, Jackson, MS, (601) 366-3333, Cosmetics & Perfumes-Retail, Cosmetics & Perfumes-Retail, Beauty Salons-Equipment & Supplies (Whls), $306,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_57121fde357b5432c4d37905a3252ded = L.marker(
+                [32.2941112, -90.22772456],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_ec204132eb48ef6cb240595ad426544b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c8fc6cce1ac6115650af3ac1331f3ac2 = $(`<div id="html_c8fc6cce1ac6115650af3ac1331f3ac2" style="width: 100.0%; height: 100.0%;">Company Name: Boost Mobile<br>Executive First Name: David<br>Executive Last Name: Ha<br>Address: 1416 Ellis Ave<br>City: Jackson<br>State: MS<br>Phone Number: (601) 398-2621<br>Primary SIC Description: Cellular Telephones (Services)<br>SIC Code 1 Description: Cellular Telephones (Services)<br>SIC Code 2 Description: Authorized Retailer-Cellular Services<br>Location Sales Volume: $1,601,000 <br>Metro Area: Jackson<br></div>`)[0];
+                popup_ec204132eb48ef6cb240595ad426544b.setContent(html_c8fc6cce1ac6115650af3ac1331f3ac2);
+            
+        
+
+        marker_57121fde357b5432c4d37905a3252ded.bindPopup(popup_ec204132eb48ef6cb240595ad426544b)
+        ;
+
+        
+    
+    
+            marker_57121fde357b5432c4d37905a3252ded.bindTooltip(
+                `<div>
+                     Boost Mobile, David, Ha, $1,601,000 , Cellular Telephones (Services), 1416 Ellis Ave, Jackson, MS, (601) 398-2621, Cellular Telephones (Services), Cellular Telephones (Services), Authorized Retailer-Cellular Services, $1,601,000 , Jackson
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_27d122a81085e50a8a2de9281687daae = L.marker(
+                [34.9322635, -89.997134],
+                {}
+            ).addTo(map_64e87c0c8f38613772bca26db3fc3a3e);
+        
+    
+        var popup_3b81a273e60e09648daf6b087a4a966e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c5e4434bf5e43f00d48aa43056749c5d = $(`<div id="html_c5e4434bf5e43f00d48aa43056749c5d" style="width: 100.0%; height: 100.0%;">Company Name: Racks BBQ Burgers & Brews<br>Executive First Name: Aaron<br>Executive Last Name: Han<br>Address: 4840 Venture Dr<br>City: Southaven<br>State: MS<br>Phone Number: (662) 470-4165<br>Primary SIC Description: Restaurants<br>SIC Code 1 Description: Restaurants<br>SIC Code 2 Description: Bars<br>Location Sales Volume: $3,192,000 <br>Metro Area: Memphs<br></div>`)[0];
+                popup_3b81a273e60e09648daf6b087a4a966e.setContent(html_c5e4434bf5e43f00d48aa43056749c5d);
+            
+        
+
+        marker_27d122a81085e50a8a2de9281687daae.bindPopup(popup_3b81a273e60e09648daf6b087a4a966e)
+        ;
+
+        
+    
+    
+            marker_27d122a81085e50a8a2de9281687daae.bindTooltip(
+                `<div>
+                     Racks BBQ Burgers & Brews, Aaron, Han, $3,192,000 , Restaurants, 4840 Venture Dr, Southaven, MS, (662) 470-4165, Restaurants, Restaurants, Bars, $3,192,000 , Memphs
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>

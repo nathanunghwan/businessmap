@@ -1,0 +1,538 @@
+Company Name,Executive First Name,Executive Last Name,Address,City,State,Phone Number Combined,Primary SIC Description,SIC Code 1 Description,SIC Code 2 Description,Location Sales Volume Actual,Metro Area 1,Address1,lat,lon
+7 Star,Yung,Kang,1001 Winnsboro Rd,Monroe,LA,(318) 325-2941,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$344,000 ",Monroe,1001 Winnsboro Rd,32.483775,-92.093686
+Ace Cleaners,Chan,Kang,1607 Prytania St,New Orleans,LA,(504) 525-0685,Cleaners,Cleaners,,"$74,000 ",New Orleans,1607 Prytania St,29.9375061,-90.0749529
+Hair Star Beauty Supply,Young,Kang,2019 W University Ave,Lafayette,LA,(337) 233-5255,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$443,000 ",Lafayette,2019 W University Ave,30.23152721,-92.03206469
+Haji Saab LLC,Penh,Kang,81550 Highway 21,Bush,LA,(985) 886-6222,Service Stations-Gasoline & Oil,Service Stations-Gasoline & Oil,Convenience Stores,"$3,172,000 ",New Orleans,81550 Highway 21,,
+Healthcare Center,Gloria C,Kang,6820 Vetrns Meml Blvd # E,Metairie,LA,(504) 454-8408,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,6820 Vetrns Meml Blvd,,
+I-Communication OP LLC,Young,Kang,1116 Creswell Ln,Opelousas,LA,Not Available,Communications,Communications,,"$1,654,000 ",Opelousas,1116 Creswell Ln,,
+Jaasim II LLC,Hardial S,Kang,8635 Highway 165 N,Monroe,LA,Not Available,Restaurants,Restaurants,,"$470,000 ",Monroe,8635 Highway 165 N,,
+K & M Connections LLC,Penh,Kang,4842 Charmes Ct,New Orleans,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,4842 Charmes Ct,30.03633325,-89.92555356
+K Young Investment LLC,Young,Kang,113 Carmel Dr,Lafayette,LA,Not Available,Investments,Investments,,"$2,313,000 ",Lafayette,113 Carmel Dr,40.4504833,-86.91771
+Kang Seung Ah MD,Seung A,Kang,1430 Tulane Ave # 8050,New Orleans,LA,(504) 988-7809,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,1430 Tulane Ave,29.9552192,-90.0767349
+Korean Agape Baptist Church,Won Hui,Kang,2020 Barataria Blvd,Marrero,LA,(504) 328-7372,Churches,Churches,,$0 ,New Orleans,2020 Barataria Blvd,29.8717959,-90.09826773
+Korean Baptist Chr-Baton Rouge,Pyung Ho,Kang,264 Burgin Ave,Baton Rouge,LA,(225) 768-7700,Churches,Churches,,$0 ,Baton Rouge,264 Burgin Ave,30.39407663,-91.15784118
+Majestic Cleaners,Jennifer,Kang,3865 General Degaulle Dr # A,New Orleans,LA,(504) 361-5067,Cleaners,Cleaners,,"$147,000 ",New Orleans,3865 General Degaulle Dr,,
+Mary Lee Donuts,Mija,Kang,8821 Highland Rd,Baton Rouge,LA,(225) 767-7735,Doughnuts,Doughnuts,,"$126,000 ",Baton Rouge,8821 Highland Rd,30.36952276,-91.12357719
+Oksop LLC,Mina O,Kang,1116 Creswell Ln,Opelousas,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Opelousas,1116 Creswell Ln,,
+Pulmonary Medicine Assoc,Judy,Kang,1111 Med Ctr Blvd # N504,Marrero,LA,(504) 349-6705,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,1111 Med Ctr Blvd,29.8913466,-90.0958567
+Seven Star Beauty & Fashi,Young Ho,Kang,103 Carmel Dr,Lafayette,LA,(337) 233-7039,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$443,000 ",Lafayette,103 Carmel Dr,40.4504833,-86.91771
+Shogun Steakhouse & Sushi Bar,Charlie,Kang,1409 E 70th St,Shreveport,LA,(318) 798-1001,Restaurants,Restaurants,,"$475,000 ",Shreveport,1409 E 70th St,32.4419997,-93.7486057
+Star Beauty,Young,Kang,1819 NW Evangeline Thrwy,Lafayette,LA,(337) 408-3791,Beauty Salons,Beauty Salons,Cosmetics & Perfumes-Retail,"$99,000 ",Lafayette,1819 NW Evangeline Thrwy,,
+Supermart II,Harry,Kang,1920 N Washington St,Bastrop,LA,(318) 281-4138,Liquors-Retail,Liquors-Retail,Convenience Stores,"$579,000 ",Monroe,1920 N Washington St,32.7953558,-91.9091677
+Anita Go,Anita,Go,1268 Southampton Dr,Alexandria,LA,(318) 449-4886,Physicians & Surgeons,Physicians & Surgeons,,"$870,000 ",Alexandria,1268 Southampton Dr,31.283814,-92.478611
+Singer Haley Precision Lasik,Colinda,Go,4720 S I 10 Serv Rd W # 406,Metairie,LA,(504) 456-3155,Laser Vision Correction,Laser Vision Correction,Physicians & Surgeons,"$1,414,000 ",New Orleans,4720 S I 10 Serv Rd W,,
+S J F Louisiana Food Inc,Richard,Ko,3867 Plaza Tower Dr,Baton Rouge,LA,Not Available,Food Products & Manufacturers,Food Products & Manufacturers,,"$3,905,000 ",Baton Rouge,3867 Plaza Tower Dr,30.41790324,-91.05057165
+Woodmere Cleaners-Alterations,Koo,Ko,2010 Woodmere Blvd # E,Harvey,LA,(504) 348-7766,Cleaners,Cleaners,,"$114,000 ",New Orleans,2010 Woodmere Blvd,29.8711721,-90.0826028
+B & B Quality Tire & Svc,Chan,Kong,700 W Admiral Doyle Dr,New Iberia,LA,(337) 365-0995,Tire-Dealers-Retail,Tire-Dealers-Retail,,"$2,565,000 ",Lafayette,700 W Admiral Doyle Dr,30.000953,-91.8421355
+Quick Track,Renchuan,Kong,37010 Perkins Rd,Prairieville,LA,(225) 673-4198,Grocers-Retail,Grocers-Retail,Convenience Stores,"$362,000 ",Baton Rouge,37010 Perkins Rd,,
+Tim's Seafood Deli,Van,Kong,1097 S Flannery Rd,Baton Rouge,LA,(225) 273-6179,Seafood-Retail,Seafood-Retail,,"$182,000 ",Baton Rouge,1097 S Flannery Rd,30.4547318,-91.0339363
+Bossier City Red River Korean,Sungkil,Kwak,4901 Medical Dr,Bossier City,LA,(318) 752-0191,Religious Organizations,Religious Organizations,Churches,$0 ,Shreveport,4901 Medical Dr,32.462052,-93.66755388
+"Koo, Dong Hyun DDS",Dong Hyun,Koo,1841 Bell Richard Ave,Fort Polk,LA,Not Available,Dentists,Dentists,,"$377,000 ",Ft Polk S,1841 Bell Richard Ave,31.040349,-93.209889
+Alexandria Korean Baptist Chr,Nam,Ku,1801 Construction Rd,Alexandria,LA,(318) 787-5973,Churches,Churches,,$0 ,Alexandria,1801 Construction Rd,31.336935,-92.504984
+"Ku, Timothy C MD",Timothy C,Ku,3900 N Causeway Blvd # 625,Metairie,LA,(504) 701-7077,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,3900 N Causeway Blvd,30.0194331,-90.1562293
+Neuro Technology Institute,Ginger,Ku,3535 S Swd Fr Blvd # 247,Baton Rouge,LA,(225) 293-6222,Associations,Associations,Physicians & Surgeons,$0 ,Baton Rouge,3535 S Swd Fr Blvd,,
+Young's Garden Chinese Rstrnt,Wai Meng,Ku,2037 Williams Blvd,Kenner,LA,(504) 467-4412,Restaurants,Restaurants,Foods-Carry Out,"$744,000 ",New Orleans,2037 Williams Blvd,29.99297933,-90.24179587
+California Provider's Ins,Ronny,Goo,2045 Highway 59,Mandeville,LA,(985) 674-8475,Insurance,Insurance,,"$144,000 ",New Orleans,2045 Highway 59,,
+Beauty Style,Lee,Gwon,662 S Range Ave,Denham Springs,LA,(225) 667-7226,Beauty Salons,Beauty Salons,Hair Cutting/Styling Wigs/Hair Pieces,"$31,000 ",Baton Rouge,662 S Range Ave,30.477498,-90.95595282
+Joe's Dry Cleaning,Michael,Kwon,2001 Saint Bernard Ave,New Orleans,LA,(504) 252-9653,Cleaners,Cleaners,Laundries,"$74,000 ",New Orleans,2001 Saint Bernard Ave,29.9771004,-90.0677367
+John KWON MD,John,Kwon,105 Medical Center Dr,Slidell,LA,(985) 649-7190,Physicians & Surgeons,Physicians & Surgeons,,"$686,000 ",New Orleans,105 Medical Center Dr,30.28750676,-89.74560627
+KWON John MD,John,Kwon,1532 Allen Toussaint Blvd,New Orleans,LA,(866) 624-7637,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,1532 Allen Toussaint Blvd,30.0201975,-90.0763203
+"KWON, Hyunah",Hyunah,Kwon,916 N Pine St,Deridder,LA,(337) 462-2019,Pharmacists,Pharmacists,,$0 ,DE Ridder,916 N Pine St,30.85970008,-93.28817647
+Kwons Tae KWON Do,Jackie,Kwon,905 E 1st St,Deridder,LA,(337) 462-5966,Martial Arts Instruction,Martial Arts Instruction,,"$201,000 ",DE Ridder,905 E 1st St,30.84689126,-93.26944796
+6853 West End Boulevard LLC,Wan,Kim,3900 N Causeway Blvd # 1300,Metairie,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,3900 N Causeway Blvd,30.0194331,-90.1562293
+Abby's Cleaners LLC,Gary,Kim,3600 Severn Ave,Metairie,LA,Not Available,Cleaners,Cleaners,,"$171,000 ",New Orleans,3600 Severn Ave,30.01431405,-90.15950527
+All Plus & Beauty World,Paul,Kim,3767 General Degaulle Dr # B,New Orleans,LA,(504) 376-1884,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$710,000 ",New Orleans,3767 General Degaulle Dr,,
+B & J World Inc,Hak Bae,Kim,8808 Chef Menteur Hwy,New Orleans,LA,Not Available,Non-Profit Organizations,Non-Profit Organizations,,$0 ,New Orleans,8808 Chef Menteur Hwy,30.0146667,-89.9832855
+Beacon Behavioral Hospital,Hyon S,Kim,64026 Highway 434 # 300,Lacombe,LA,(985) 882-0226,Physicians & Surgeons,Physicians & Surgeons,,"$686,000 ",New Orleans,64026 Highway 434,,
+Beauty,James,Kim,9550 Cortana Pl,Baton Rouge,LA,(225) 923-3393,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons,"$294,000 ",Baton Rouge,9550 Cortana Pl,30.45959094,-91.09634253
+Beauty & Fashion Outlet,Steven,Kim,908 N Parkerson Ave,Crowley,LA,(337) 783-8191,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$101,000 ",Lafayette,908 N Parkerson Ave,30.21831239,-92.37563061
+Best Image,Jay,Kim,1401 W Esplanade Ave # 302,Kenner,LA,(504) 712-7970,Photo Finishing-Retail,Photo Finishing-Retail,,"$338,000 ",New Orleans,1401 W Esplanade Ave,30.0166715,-90.24934475
+C & Son LLC,Jon,Kim,430 Pontchartrain Dr,Slidell,LA,(985) 649-0736,Convenience Stores,Convenience Stores,,"$411,000 ",New Orleans,430 Pontchartrain Dr,30.26545311,-89.78554634
+C T Nails Spa,Kenny,Kim,4726 E Texas St,Bossier City,LA,(318) 741-9447,Manicuring,Manicuring,,"$76,000 ",Shreveport,4726 E Texas St,32.5336975,-93.6687776
+Chitin Business Solutions LLC,Hyon S,Kim,23515 Highway 190,Mandeville,LA,(985) 626-6300,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,23515 Highway 190,30.3929716,-90.085828
+Cove Hawaiian Grill Inc,James,Kim,9618 Jefferson Hwy # E,Baton Rouge,LA,(225) 300-8520,Restaurants,Restaurants,,"$420,000 ",Baton Rouge,9618 Jefferson Hwy,30.41101986,-91.07815356
+D H K Hospitality Invstmnt Co,Dong Hun,Kim,603 Holiday Dr,Jennings,LA,Not Available,Investments,Investments,,"$1,367,000 ",Jennings,603 Holiday Dr,30.2434874,-92.66511211
+Diva Fashion,Yoon,Kim,318 Snyder St,Tallulah,LA,(318) 493-5155,Clothing-Retail,Clothing-Retail,Clothing-Used,"$247,000 ",,318 Snyder St,32.409489,-91.191479
+Ebony Beauty Supply,Dong Y,Kim,2221 Williams Blvd,Kenner,LA,(504) 712-3483,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$3,871,000 ",New Orleans,2221 Williams Blvd,29.9967966,-90.24177875
+Fashion World,Song,Kim,812 Julia St,Rayville,LA,(318) 728-2463,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$146,000 ",,812 Julia St,32.4745869,-91.75887682
+Fashion World Beauty Supply,Juiyon,Kim,230 N Stanley Ave,Monroe,LA,(318) 323-4832,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$229,000 ",Monroe,230 N Stanley Ave,32.52049747,-92.08656064
+Gina Fashion Jewelry Accessory,Sunghee,Kim,3835 Choctaw Dr,Baton Rouge,LA,(225) 355-3583,Jewelers-Retail,Jewelers-Retail,Cellular Telephones (Services),"$373,000 ",Baton Rouge,3835 Choctaw Dr,30.47036927,-91.15188303
+Hi Fashion,S,Kim,3707 Greenwood Rd,Shreveport,LA,(318) 621-0077,Women's Apparel-Retail,Women's Apparel-Retail,,"$242,000 ",Shreveport,3707 Greenwood Rd,32.47305858,-93.80057317
+Hoang Chiropractic Ctr,Hoang,Kim,3848 Veterans Blvd # 104,Metairie,LA,Not Available,Chiropractors DC,Chiropractors DC,,$0 ,New Orleans,3848 Veterans Blvd,30.0036094,-90.1705698
+Hoang Kim LLC,Hoang,Kim,257 Lee Dr # K,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,257 Lee Dr,30.3957543,-91.158509
+Honey Bee Supply,Yoontae,Kim,5 Fair Ave # B,Winnsboro,LA,(318) 435-5566,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Jewelers-Retail,"$632,000 ",,5 Fair Ave,32.17755931,-91.7249389
+J S Kim LLC,J S,Kim,7046 Read Blvd,New Orleans,LA,Not Available,Attorneys,Attorneys,,"$1,136,000 ",New Orleans,7046 Read Blvd,30.03868461,-89.97709379
+J's Mart,Man,Kim,724 S Union St,Opelousas,LA,(337) 407-0770,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Convenience Stores,"$1,627,000 ",Opelousas,724 S Union St,30.52723871,-92.08209734
+Joy Beauty & Fashion,Jun Ho,Kim,300 N Main St,Saint Martinville,LA,(337) 394-3393,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$2,285,000 ",Lafayette,300 N Main St,30.126532,-91.828317
+Kim & Cha DELI LLC,Mi Jeon,Kim,2928 Manhattan Blvd # 169,Harvey,LA,Not Available,Restaurants,Restaurants,,"$298,000 ",New Orleans,2928 Manhattan Blvd,29.86718385,-90.04912255
+Kim Andrew DMD,Andrew,Kim,1501 Kings Hwy,Shreveport,LA,(318) 626-0555,Dentists,Dentists,,$0 ,Shreveport,1501 Kings Hwy,32.4748575,-93.76614066
+Kim Dongsoo David,Dongsoo D,Kim,1501 Kings Hwy,Shreveport,LA,(318) 813-2625,Physicians & Surgeons,Physicians & Surgeons,Dentists,$0 ,Shreveport,1501 Kings Hwy,32.4748575,-93.76614066
+Kim Esther S,Esther S,Kim,9995 Florida Blvd,Walker,LA,(225) 283-5797,Speech Pathologists,Speech Pathologists,,$0 ,Baton Rouge,9995 Florida Blvd,30.48760994,-90.86765186
+Kim Heeryoung MD,Heeryoung,Kim,2000 Canal St,New Orleans,LA,(504) 412-1580,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,2000 Canal St,29.9596461,-90.0809545
+Kim Hibachi Sushi Bar & Grill,Chantha,Kim,322 Dalwill Dr,Mandeville,LA,(985) 778-2160,Restaurants,Restaurants,,"$367,000 ",New Orleans,322 Dalwill Dr,,
+Kim Hyon Su MD,Hyon S,Kim,23515 Highway 190,Mandeville,LA,(504) 250-5415,Physicians & Surgeons,Physicians & Surgeons,,"$686,000 ",New Orleans,23515 Highway 190,30.3929716,-90.085828
+Kim Jong Kil DDS,Jong K,Kim,7223 Mississippi Ave # 1561,Fort Polk,LA,(337) 531-2603,Dentists,Dentists,,$0 ,Ft Polk S,7223 Mississippi Ave,31.038642,-93.211207
+Kim Thanh LLC,Thanh,Kim,31804 LA Highway 16 # F,Denham Springs,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,31804 LA Highway 16,,
+Kim Thu Tran LLC,Thu Tran,Kim,3605 Government St,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,3605 Government St,30.44428286,-91.15261543
+"Kim, Arthur H MD",Arthur H,Kim,9001 Summa Ave,Baton Rouge,LA,(504) 842-4000,Physicians & Surgeons,Physicians & Surgeons,,"$567,000 ",Baton Rouge,9001 Summa Ave,30.3927873,-91.09191085
+"Kim, Beomjune B Dmd",Beomjune B,Kim,1100 Florida Ave,New Orleans,LA,(504) 619-8721,Dentists,Dentists,,"$552,000 ",New Orleans,1100 Florida Ave,29.991679,-90.085894
+"Kim, Esther",Esther,Kim,28975 S Satsuma Rd # F,Livingston,LA,(225) 292-4138,Speech Pathologists,Speech Pathologists,,"$60,000 ",Baton Rouge,28975 S Satsuma Rd,30.4903769,-90.800458
+"Kim, Jennifer MD",Jennifer,Kim,1501 Kings Hwy,Shreveport,LA,(318) 675-2655,Physicians & Surgeons,Physicians & Surgeons,,"$590,000 ",Shreveport,1501 Kings Hwy,32.4748575,-93.76614066
+"Kim, Jin H MD",Jin H,Kim,1514 Jefferson Hwy,New Orleans,LA,(504) 842-4000,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,1514 Jefferson Hwy,29.9610677,-90.14567367
+"Kim, Rang",Rang,Kim,3326 Front St,Winnsboro,LA,(318) 435-7333,Nurses-Practitioners,Nurses-Practitioners,,"$45,000 ",,3326 Front St,32.18239706,-91.72689588
+Lahaye Eye Care,Daniel K,Kim,4313 I 49 S Service Rd,Opelousas,LA,(337) 942-2024,Physicians & Surgeons,Physicians & Surgeons,,"$781,000 ",Opelousas,4313 I 49 S Service Rd,,
+Lakeview Presbyterian Church,Seuk Gau,Kim,5914 Canal Blvd,New Orleans,LA,(504) 482-7892,Rental Agencies,Rental Agencies,Churches,"$969,000 ",New Orleans,5914 Canal Blvd,29.9977831,-90.1093076
+Leesville Korean United Mthdst,Kwan Y,Kim,151 Kvvp Dr,Leesville,LA,(337) 537-5977,Churches,Churches,,$0 ,Ft Polk S,151 Kvvp Dr,,
+Louisiana Philharmonic Orchstr,Jihyun,Kim,2533 Columbus St # 202,New Orleans,LA,(504) 523-6530,Orchestras & Bands,Orchestras & Bands,Theatres-Live,"$765,000 ",New Orleans,2533 Columbus St,29.9771351,-90.0757678
+LSU Faculty Dental Practice,Beomjune,Kim,3700 Saint Charles Ave # 7,New Orleans,LA,(504) 889-9893,Dentists,Dentists,,"$552,000 ",New Orleans,3700 Saint Charles Ave,29.926703,-90.09490523
+Lux Beauty Supply,John,Kim,1310 Sterlington Rd,Monroe,LA,(318) 345-3453,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$458,000 ",Monroe,1310 Sterlington Rd,32.5373454,-92.0792649
+Mary Lee Donuts,Eunjung,Kim,17188 Airline Hwy # B,Prairieville,LA,(225) 673-8933,Doughnuts,Doughnuts,,"$100,000 ",Baton Rouge,17188 Airline Hwy,30.3233819,-90.97996745
+Melvin J Kim Accountant Inc,Melvin J,Kim,1799 Stumpf Blvd,Terrytown,LA,(504) 367-6586,Accounting & Bookkeeping General Svc,Accounting & Bookkeeping General Svc,Accountants,"$340,000 ",New Orleans,1799 Stumpf Blvd,29.912066,-90.036284
+Metro By T-Mobile Auth Rtlr,Brandon,Kim,2630 Manhattan Blvd # E,Harvey,LA,(504) 518-6886,Cellular Telephones (Services),Cellular Telephones (Services),Authorized Retailer-Cellular Services,"$437,000 ",New Orleans,2630 Manhattan Blvd,29.8741501,-90.0483411
+Model Cleaners,Jae,Kim,4235 Magazine St,New Orleans,LA,(504) 891-4025,Cleaners,Cleaners,,"$513,000 ",New Orleans,4235 Magazine St,29.92112215,-90.10002803
+Morton Salt,Rick,Kim,1127 Morton Rd,New Iberia,LA,(337) 867-4241,Salt,Salt,,"$105,000 ",Lafayette,1127 Morton Rd,,
+MRC Global,Benoit,Kim,1100 1st Ave,Harvey,LA,(504) 367-9150,Pipe-Wholesale,Pipe-Wholesale,Oil Field Supplies (Whls),"$13,326,000 ",New Orleans,1100 1st Ave,29.894985,-90.081691
+N Arnoult Ventures LLC,Hung S,Kim,3012 N Arnoult Rd,Metairie,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,3012 N Arnoult Rd,30.0059452,-90.1612645
+New Orleans Nephrology Assoc,Hui,Kim,1111 Med Ctr Blvd # N511,Marrero,LA,(504) 349-6301,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,1111 Med Ctr Blvd,29.8913466,-90.0958567
+New Orleans Nephrology Assoc,Hui,Kim,4409 Utica St # 100,Metairie,LA,(504) 457-3687,Nephrology,Nephrology,Health Services,"$1,693,000 ",New Orleans,4409 Utica St,30.000347,-90.188934
+Ochsner Medical Complex-Ibrvll,Arthur,Kim,25455 LA Highway 1,Plaquemine,LA,(866) 624-7637,Physicians & Surgeons,Physicians & Surgeons,,"$488,000 ",Baton Rouge,25455 LA Highway 1,,
+Oralmaxillofacial Surgery GRP,D,Kim,2508 Bert Koun Loop # 300,Shreveport,LA,(318) 212-5944,Physicians & Surgeons,Physicians & Surgeons,,"$590,000 ",Shreveport,2508 Bert Koun Loop,,
+People Ready,Bo,Kim,11814 Market Place Ave # D,Baton Rouge,LA,(225) 929-6022,Employment Contractors-Temporary Help,Employment Contractors-Temporary Help,Transportation Services NEC,"$119,000 ",Baton Rouge,11814 Market Place Ave,30.405798,-91.05028028
+Philly Dat Up,Eui,Kim,9350 Cortana Pl,Baton Rouge,LA,(225) 935-0006,Restaurants,Restaurants,,"$420,000 ",Baton Rouge,9350 Cortana Pl,30.462569,-91.090899
+QS Seafood & Delli,Chuck,Kim,1705 C M Fagan Dr,Hammond,LA,(985) 375-9977,Seafood-Retail,Seafood-Retail,Restaurants,"$305,000 ",Hammond,1705 C M Fagan Dr,30.48154363,-90.48178008
+Rina Kim Property LLC,Rina,Kim,3427 Highway 1 S,Donaldsonville,LA,Not Available,Real Estate Management,Real Estate Management,,"$270,000 ",Baton Rouge,3427 Highway 1 S,,
+Royal Cleaners,Gary,Kim,1417 W Morris Ave # A,Hammond,LA,(985) 419-0494,Cleaners,Cleaners,,"$34,000 ",Hammond,1417 W Morris Ave,30.500733,-90.475997
+Royal Cleaners,Gary,Kim,3600 Severn Ave,Metairie,LA,(504) 454-6336,Cleaners,Cleaners,,"$171,000 ",New Orleans,3600 Severn Ave,30.01431405,-90.15950527
+Shared Hearts Mental Health,Richard,Kim,4480 Gen Degaulle Dr # 206,New Orleans,LA,(504) 905-6945,Counselors,Counselors,Health Services,"$107,000 ",New Orleans,4480 Gen Degaulle Dr,,
+Shreveport Bossier,Young,Kim,1180 Dudley Ln,Bossier City,LA,(318) 742-3903,Churches,Churches,,$0 ,Shreveport,1180 Dudley Ln,32.51055068,-93.70074901
+SNOWFOX,Yunzu,Kim,1421 Beglis Pkwy,Sulphur,LA,(713) 517-7818,Food Service Kiosk,Food Service Kiosk,,$0 ,Lake Charles,1421 Beglis Pkwy,30.2619174,-93.36221236
+Sonny Donut Shop,Y,Kim,1409 W Court St,Winnfield,LA,(318) 648-9300,Doughnuts,Doughnuts,,"$83,000 ",,1409 W Court St,31.92957728,-92.65330252
+Spruce Cleaners,Hong,Kim,648 Terry Pkwy,Terrytown,LA,(504) 362-6610,Cleaners,Cleaners,,"$342,000 ",New Orleans,648 Terry Pkwy,29.9017614,-90.0307218
+Sun Kim LLC,Sun,Kim,308 S 1st St,Amite,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Hammond,308 S 1st St,30.72366696,-90.51060919
+Tailor's Cleaners,Chi,Kim,3648 W Esplanade Ave N,Metairie,LA,(504) 885-5353,Cleaners,Cleaners,,"$114,000 ",New Orleans,3648 W Esplanade Ave N,30.01490505,-90.16232711
+Together For Choice,Ashley,Kim,1100 Poydras St # 100,New Orleans,LA,Not Available,Non-Profit Organizations,Non-Profit Organizations,,$0 ,New Orleans,1100 Poydras St,29.9498964,-90.0754888
+Tomorrow PCS,Kat,Kim,9148 Scotland Ave,Baton Rouge,LA,(225) 757-5229,Cellular Telephones-Equipment & Supls,Cellular Telephones-Equipment & Supls,Cellular Telephones (Services),"$440,000 ",Baton Rouge,9148 Scotland Ave,30.52954456,-91.17941435
+Tower Beauty,Tony,Kim,5703 Read Blvd # A,New Orleans,LA,(504) 244-7744,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$1,183,000 ",New Orleans,5703 Read Blvd,30.0342487,-89.9733899
+Tower Beauty 5 Inc,Jin,Kim,4717 Lakewood Dr,Metairie,LA,Not Available,Beauty Salons,Beauty Salons,,"$115,000 ",New Orleans,4717 Lakewood Dr,30.0198536,-90.177922
+Tower Beauty Supply,Tony,Kim,13 Westbank Expy,Gretna,LA,(504) 366-3334,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$3,871,000 ",New Orleans,13 Westbank Expy,29.91273767,-90.05215942
+Town Beauty LLC,In,Kim,3000 Thibaut Dr # D,Donaldsonville,LA,(225) 474-0033,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$127,000 ",Baton Rouge,3000 Thibaut Dr,30.099796,-90.980748
+Viola Properties,Viola,Kim,100 Blackburn Pl,Covington,LA,(985) 893-8754,Real Estate,Real Estate,Lessors Of Real Property NEC,"$104,000 ",New Orleans,100 Blackburn Pl,,
+Walmart Pharmacy,Ngoc,Kim,10200 Sullivan Rd,Baton Rouge,LA,(225) 262-1413,Pharmacies,Pharmacies,Vitamin & Food Supplements,"$2,923,000 ",Baton Rouge,10200 Sullivan Rd,30.541764,-91.025213
+Walmart Supercenter,Ngoc,Kim,17585 Airline Hwy,Prairieville,LA,(225) 677-7375,Department Stores,Department Stores,Paint-Retail,"$94,638,000 ",Baton Rouge,17585 Airline Hwy,30.3304298,-90.98691624
+Whipped Organics LLC,John,Kim,9550 Cortana Pl,Baton Rouge,LA,Not Available,Organic Foods & Services,Organic Foods & Services,,"$715,000 ",Baton Rouge,9550 Cortana Pl,30.45959094,-91.09634253
+WRAY & Pierce LLP,Perkins,Kim,10182 Weevil St,Saint Francisville,LA,(225) 635-3920,Attorneys,Attorneys,,"$863,000 ",Baton Rouge,10182 Weevil St,30.77870803,-91.37263461
+Assumption Parish Council On,Angela,Na,166 Highway 1008,Napoleonville,LA,(985) 369-7961,Government Offices-County,Government Offices-County,Transportation Services,$0 ,Baton Rouge,166 Highway 1008,,
+Colorful Day 2 LLC,Julie,Nam,1133 Saint Vincent Ave # 200,Shreveport,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,1133 Saint Vincent Ave,32.47727305,-93.75307543
+Pro Cleaners,James,Nam,4890 Highway 22,Mandeville,LA,(985) 845-3601,Cleaners,Cleaners,,"$223,000 ",New Orleans,4890 Highway 22,30.40322763,-90.11700635
+Rantz Iv Enterprises LLC,Ajr Trust,No,101 LA Rue France # 100,Lafayette,LA,Not Available,Attorneys,Attorneys,,"$920,000 ",Lafayette,101 LA Rue France,30.19446,-92.015937
+Urban South Brewery,Don,No,1645 Tchoupitoulas St,New Orleans,LA,(504) 267-4852,Brewers (Mfrs),Brewers (Mfrs),,"$6,083,000 ",New Orleans,1645 Tchoupitoulas St,29.9296609,-90.0666427
+Jubilee Young LLC,Young S,Noh,1170 Waters Edge Cir,Shreveport,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,1170 Waters Edge Cir,32.35113304,-93.69328035
+Joe Ro Of Hammond LLC,Joe,Ro,1925 SW Railroad Ave,Hammond,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Hammond,1925 SW Railroad Ave,30.48300562,-90.45699909
+Joy Beauty & Fashion,Mike,Yim,300 N Main St,Saint Martinville,LA,(337) 394-3393,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$2,285,000 ",Lafayette,300 N Main St,30.126532,-91.828317
+Louisiana Dental Ctr,Deborah J,Yim,9020 W Judge Perez Dr,Chalmette,LA,(504) 277-4401,Dentists,Dentists,,"$673,000 ",New Orleans,9020 W Judge Perez Dr,29.94952659,-89.97213653
+Milano's Pizza,Donna,Yim,3002 Cleary Ave,Metairie,LA,(504) 780-7500,Pizza,Pizza,Restaurants,"$149,000 ",New Orleans,3002 Cleary Ave,30.0011314,-90.1725634
+Yim Michael T MD,Michael T,Yim,1501 Kings Hwy,Shreveport,LA,(318) 675-6262,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Shreveport,1501 Kings Hwy,32.4748575,-93.76614066
+"Yim, Deborah J Dmd",Deborah J,Yim,3301 Kingman St # 1,Metairie,LA,Not Available,Dentists,Dentists,,"$514,000 ",New Orleans,3301 Kingman St,30.005229,-90.180619
+Acadian Modern Dentistry,Rathana,Lim,3535 Perkins Rd # 345,Baton Rouge,LA,(225) 747-0181,Dentists,Dentists,,"$538,000 ",Baton Rouge,3535 Perkins Rd,30.4237586,-91.1546495
+Bossier Internal Medicine Diag,Kennedy Kaw,Lim,2400 Hospital Dr # 420,Bossier City,LA,(318) 212-7910,Physicians & Surgeons,Physicians & Surgeons,,"$569,000 ",Shreveport,2400 Hospital Dr,32.5587927,-93.71799367
+Dynasty Chinese Restaurant,Willie,Lim,400 Guilbeau Rd # E,Lafayette,LA,(337) 989-9999,Restaurants,Restaurants,Foods-Carry Out,"$493,000 ",Lafayette,400 Guilbeau Rd,30.19732,-92.06861
+Five Star Sew & Press,Rank,Lim,1093 Entrance Rd,Leesville,LA,(337) 537-3040,Cleaners,Cleaners,Alterations-Clothing,"$218,000 ",Ft Polk S,1093 Entrance Rd,,
+H F R Properties LLC,Cameron,Lim,13619 Landmark Dr,Baton Rouge,LA,Not Available,Real Estate Management,Real Estate Management,,"$383,000 ",Baton Rouge,13619 Landmark Dr,30.33203924,-91.13167738
+HCMC Group,Yee,Lim,1201 Camellia Blvd,Lafayette,LA,(337) 235-5800,Business Management Consultants,Business Management Consultants,,"$350,000 ",Lafayette,1201 Camellia Blvd,30.1728951,-92.04039174
+Hungry Wings N Rice,Daniel,Lim,2525 Southside Dr,Shreveport,LA,(318) 946-8174,Restaurants,Restaurants,Foods-Carry Out,"$333,000 ",Shreveport,2525 Southside Dr,32.41287167,-93.79593865
+J S M Auto LLC,Jessica,Lim,134 Chad Dr,Leesville,LA,Not Available,Automobile/Trucks Dealers-Used,Automobile/Trucks Dealers-Used,,"$1,429,000 ",Ft Polk S,134 Chad Dr,,
+JSM Auto,Jessica,Lim,1302 Pitkin Rd,Leesville,LA,(337) 653-6072,Automobile/Trucks Dealers-Used,Automobile/Trucks Dealers-Used,,"$1,429,000 ",Ft Polk S,1302 Pitkin Rd,,
+L Y Brothers LLC,Lyhao,Lim,6574 Highway 3,Benton,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,6574 Highway 3,,
+Lafourche Medical Group LLC,Stephen C,Lim,4912 Highway 1,Raceland,LA,(985) 532-2387,Physicians & Surgeons,Physicians & Surgeons,,"$473,000 ",Houma-Bayou,4912 Highway 1,,
+Lafourche Urgent Care,Stephen,Lim,4912 Highway 1,Raceland,LA,(985) 532-2387,Physicians & Surgeons-Emergency Service,Physicians & Surgeons-Emergency Service,Health Screening & Vaccination Services,"$2,365,000 ",Houma-Bayou,4912 Highway 1,,
+Lim Diana Magpayo MD,Diana M,Lim,2400 Hospital Dr # 420,Bossier City,LA,(318) 212-7910,Physicians & Surgeons,Physicians & Surgeons,,"$569,000 ",Shreveport,2400 Hospital Dr,32.5587927,-93.71799367
+"Lim, Jordan S MD",Jordan S,Lim,200 Henry Clay Ave,New Orleans,LA,(504) 899-9511,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,200 Henry Clay Ave,29.9178692,-90.12764053
+"Lim, Maria H Do",Maria H,Lim,7777 Hennessy Blvd,Baton Rouge,LA,(225) 765-5927,Physicians & Surgeons,Physicians & Surgeons,,"$567,000 ",Baton Rouge,7777 Hennessy Blvd,30.40329195,-91.10669675
+"Lim, Maria H Do",Maria H,Lim,8300 Constantin Blvd,Baton Rouge,LA,(225) 374-1317,Physicians & Surgeons,Physicians & Surgeons,,"$567,000 ",Baton Rouge,8300 Constantin Blvd,30.40044245,-91.09797599
+"Lim, Rathana DDS",Rathana,Lim,14640 Village Market St # 103,Baton Rouge,LA,Not Available,Dentists,Dentists,,"$538,000 ",Baton Rouge,14640 Village Market St,30.3615228,-91.0128012
+"Lim, Rathana DDS",Rathana,Lim,4243 Amb Caffery Pkwy # 118,Lafayette,LA,(337) 242-3532,Dentists,Dentists,,"$574,000 ",Lafayette,4243 Amb Caffery Pkwy,,
+"Lim, Rathana DDS",Rathana,Lim,2937 Vetrns Meml Blvd # C,Metairie,LA,Not Available,Dentists,Dentists,,"$514,000 ",New Orleans,2937 Vetrns Meml Blvd,,
+"Lim, Rathana DDS",Rathana,Lim,420 Town Center Pkwy,Slidell,LA,Not Available,Dentists,Dentists,,"$471,000 ",New Orleans,420 Town Center Pkwy,30.2574411,-89.7682962
+"Lim, Rathana MD",Rathana,Lim,3330 Kingman St # 3,Metairie,LA,(504) 887-8480,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,3330 Kingman St,30.0062265,-90.1812896
+"Lim, Soobin MD",Soobin,Lim,1542 Tulane Ave # 748a,New Orleans,LA,(504) 568-3310,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,1542 Tulane Ave,29.955961,-90.0786874
+Lucky Palace,Holly,Lim,750 Diamondjacks Blvd,Bossier City,LA,(318) 752-1888,Restaurants,Restaurants,Delivery Service,"$335,000 ",Shreveport,750 Diamondjacks Blvd,,
+Magic Touch Massage Spa,Charlie,Lim,4433 Veterans Memorial Blvd,Metairie,LA,(504) 457-2001,Massage Therapists,Massage Therapists,Massage,"$145,000 ",New Orleans,4433 Veterans Memorial Blvd,30.0054854,-90.1829715
+New Orleans Airport Hotel,Ivy,Lim,2829 Williams Blvd,Kenner,LA,(504) 467-5611,Hotels & Motels,Hotels & Motels,Federal Government Contractors,"$40,599,000 ",New Orleans,2829 Williams Blvd,30.0069277,-90.24027514
+New Orleans Onnuri,Bok Jae,Lim,3810 Power Blvd,Metairie,LA,(504) 300-3400,Churches,Churches,,$0 ,New Orleans,3810 Power Blvd,30.0127381,-90.2231242
+Pediatric Associates Lafayette,Susana Q,Lim,437 Heymann Blvd,Lafayette,LA,(337) 289-8989,Physicians & Surgeons,Physicians & Surgeons,,"$623,000 ",Lafayette,437 Heymann Blvd,30.20318608,-92.01594575
+Pediatric Associates-Lafayette,Susana Q,Lim,437 Heymann Blvd,Lafayette,LA,(337) 289-8989,Clinics,Clinics,Physicians & Surgeons,"$3,527,000 ",Lafayette,437 Heymann Blvd,30.20318608,-92.01594575
+Room 4 LLC,Stephen,Lim,610 City Park Ave,New Orleans,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,610 City Park Ave,29.98372014,-90.10474592
+Slidell Memorial Hospital,Joshua,Lim,4100 Canal St,New Orleans,LA,(504) 218-4853,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,4100 Canal St,29.974508,-90.100921
+Slidell Memorial Hospital Phys,Joshua T,Lim,1001 Gause Blvd,Slidell,LA,(985) 280-2200,Physicians & Surgeons,Physicians & Surgeons,,"$686,000 ",New Orleans,1001 Gause Blvd,30.28367135,-89.77023919
+South Louisiana Medical Asscs,Stephen C,Lim,1978 Industrial Blvd,Houma,LA,(985) 873-1234,Physicians & Surgeons,Physicians & Surgeons,,"$1,484,000 ",Houma-Bayou,1978 Industrial Blvd,29.56978545,-90.6882319
+St Charles Urgent Care,Stephen,Lim,13100 River Rd # 100,Destrehan,LA,(985) 235-0010,Physicians & Surgeons-Emergency Service,Physicians & Surgeons-Emergency Service,,"$2,219,000 ",New Orleans,13100 River Rd,29.940299,-90.352592
+St James Episcopal Day School,Jennifer,Lim,445 Convention St,Baton Rouge,LA,(225) 344-0805,Schools,Schools,Religious Schools,$0 ,Baton Rouge,445 Convention St,30.4483873,-91.18646482
+Yummy Donuts,Lyheang,Lim,6574 Highway 3,Benton,LA,(318) 965-3688,Doughnuts,Doughnuts,,"$156,000 ",Shreveport,6574 Highway 3,,
+Image Clothing Of Louisiana,Tae H,Yoo,1401 W Esplanade Ave,Kenner,LA,(504) 468-2320,Clothing-Retail,Clothing-Retail,,"$428,000 ",New Orleans,1401 W Esplanade Ave,30.0166715,-90.24934475
+Solafide LLC,Kwang,Yoo,1504 Stumpf Blvd,Gretna,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,1504 Stumpf Blvd,29.9122704,-90.04526247
+Yoo Daniel MD,Daniel,Yoo,1542 Tulane Ave # 734b,New Orleans,LA,(504) 568-3310,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,1542 Tulane Ave,29.955961,-90.0786874
+Yoo Janet H MD,Janet H,Yoo,501 Lapalco Blvd,Gretna,LA,(504) 393-4376,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,501 Lapalco Blvd,29.8785591,-90.0311977
+"Yoo, Aran MD",Aran,Yoo,1542 Tulane Ave,New Orleans,LA,(217) 693-2663,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,1542 Tulane Ave,29.955961,-90.0786874
+Jaks Donuts,Karen,Mok,3200 Verot School Rd,Lafayette,LA,(337) 856-8867,Doughnuts,Doughnuts,Bakers-Retail,"$131,000 ",Lafayette,3200 Verot School Rd,30.130902,-92.03257
+4903 Airline Drive LLC,Scott A,Moon,4903 Airline Dr,Bossier City,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,4903 Airline Dr,32.59069675,-93.71491062
+Aegis Financial,William,Moon,107 N Trenton St,Ruston,LA,(318) 513-2214,Financial Advisory Services,Financial Advisory Services,,"$839,000 ",Ruston,107 N Trenton St,32.529159,-92.639377
+Convention & Visitors Bureau,Nikki,Moon,2020 Saint Charles Ave,New Orleans,LA,(504) 522-2336,Information & Referral Svcs,Information & Referral Svcs,,"$11,871,000 ",New Orleans,2020 Saint Charles Ave,29.9348713,-90.0790672
+Dollar General,Jodie,Moon,3146 Louisville Ave,Monroe,LA,(318) 381-8242,Variety Stores,Variety Stores,Department Stores,"$1,374,000 ",Monroe,3146 Louisville Ave,32.52270027,-92.08584592
+Extension Service,Donny,Moon,119 W Main St # 108,Winnfield,LA,(318) 628-4528,Government Offices-State,Government Offices-State,,$0 ,,119 W Main St,31.92662537,-92.63886184
+First United Methodist Church,William A,Moon,2122 Myrtle St,Arcadia,LA,(318) 263-2860,Churches,Churches,,$0 ,,2122 Myrtle St,,
+Hair World Beauty LLC,C,Moon,2120 Oneal Ln,Baton Rouge,LA,(225) 753-9014,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons,"$294,000 ",Baton Rouge,2120 Oneal Ln,,
+Lily Moon Serenity LLC,Lily,Moon,59155 Highway 51,Amite,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Hammond,59155 Highway 51,,
+Moon & Brown Enterprises LLC,Breunka,Moon,2422 Melrose Ave,Bossier City,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,2422 Melrose Ave,32.547317,-93.715425
+Moon & Sons,Melvin,Moon,2850 Highway 154,Elm Grove,LA,(318) 987-3707,Air Conditioning Contractors & Systems,Air Conditioning Contractors & Systems,Heating Contractors,"$125,000 ",Shreveport,2850 Highway 154,32.3524628,-93.5323919
+Moon Enterprise Of LA LLC,Chul Su,Moon,1948 Woodchase Blvd,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,1948 Woodchase Blvd,30.40780767,-91.13550733
+Moon Insurance Agency,Sidney,Moon,105 Westmark Blvd,Lafayette,LA,(337) 984-1482,Insurance,Insurance,,"$285,000 ",Lafayette,105 Westmark Blvd,30.18409469,-92.07264267
+Moon Orthopedics Inc,Linda,Moon,139 Bellemeade Blvd,Gretna,LA,(504) 391-9141,Artificial Breasts,Artificial Breasts,Orthopedic Prosthetic/Srgcl Appl (Mfrs),"$437,000 ",New Orleans,139 Bellemeade Blvd,29.8909916,-90.0367144
+Moon Philip M Mai,Philip M,Moon,912 E 70th St,Shreveport,LA,(318) 865-7670,Appraisers,Appraisers,Real Estate Appraisers,"$295,000 ",Shreveport,912 E 70th St,32.4423932,-93.7403676
+Moon Tree Svc,Ben,Moon,2205 Beckett St # B4,Bossier City,LA,(318) 868-5044,Tree Service,Tree Service,,"$51,000 ",Shreveport,2205 Beckett St,32.52639136,-93.71762064
+"Moon, Eric S DDS",Eric S,Moon,7223 Mississippi Ave,Fort Polk,LA,Not Available,Dentists,Dentists,,"$377,000 ",Ft Polk S,7223 Mississippi Ave,31.038642,-93.211207
+New Hair World,Ok Chae,Moon,248 E Main St,Gramercy,LA,(225) 869-4330,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$170,000 ",New Orleans,248 E Main St,30.04779753,-90.68869784
+Payroll Rx LLC,Holly,Moon,3636 S I 10 Serv Rd W # 205,Metairie,LA,(504) 520-8368,Payroll Preparation Service,Payroll Preparation Service,Time Recorders,"$453,000 ",New Orleans,3636 S I 10 Serv Rd W,,
+Salon Dolce Vita Inc,Kristin,Moon,5720 Corporate Blvd # C,Baton Rouge,LA,(225) 448-3980,Beauty Salons,Beauty Salons,,"$239,000 ",Baton Rouge,5720 Corporate Blvd,30.4245579,-91.1312743
+Solarhome,William A,Moon,107 N Trenton St,Ruston,LA,(318) 513-2214,Solar Energy Equipment-Wholesale,Solar Energy Equipment-Wholesale,,"$4,276,000 ",Ruston,107 N Trenton St,32.529159,-92.639377
+Solarhome,Will,Moon,1705 Industrial Dr,Ruston,LA,(318) 513-2215,Solar Energy Equipment-Wholesale,Solar Energy Equipment-Wholesale,,"$4,276,000 ",Ruston,1705 Industrial Dr,32.5480942,-92.61511041
+St Elizabeth Ann Seton Church,Carole,Moon,522 E Flournoy Lucas Rd,Shreveport,LA,(318) 798-1887,Churches,Churches,,$0 ,Shreveport,522 E Flournoy Lucas Rd,32.4039028,-93.7122326
+To The Moon & Back,Pamela,Moon,7522 Beekman Dr,Baton Rouge,LA,(225) 305-4917,House Cleaning,House Cleaning,Janitor Service,"$234,000 ",Baton Rouge,7522 Beekman Dr,30.38329256,-91.00332312
+Trinity Presbyterian Church,Phil,Moon,1944 Airline Dr,Bossier City,LA,(318) 746-2951,Churches,Churches,,$0 ,Shreveport,1944 Airline Dr,32.52434776,-93.69815466
+Great Wall,Liu,Min,301 Tate Cove Rd,Ville Platte,LA,(337) 363-8689,Restaurants,Restaurants,,"$103,000 ",,301 Tate Cove Rd,30.686774,-92.264974
+"Min, Christy",Christy,Min,2050 N Mall Dr,Alexandria,LA,(318) 445-2300,Pharmacists,Pharmacists,,"$58,000 ",Alexandria,2050 N Mall Dr,31.27867375,-92.4517965
+Classy Hair & Wigs,Chong K,Pak,410 Columbia St,Bogalusa,LA,(985) 732-7500,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$104,000 ",Bogalusa,410 Columbia St,30.766879,-89.851759
+First A National Banking Assn,Sally,Pak,490 Barringer Dr,Ponchatoula,LA,(985) 386-2442,Banks,Banks,Real Estate Loans,"$1,240,000 ",Hammond,490 Barringer Dr,30.44641804,-90.45601588
+Pak Beauty Supply,Okchi,Pak,1118 Entrance Rd,Leesville,LA,(337) 537-5444,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$73,000 ",Ft Polk S,1118 Entrance Rd,,
+"Pak, KIRK J MD",Kirk J,Pak,1514 Jefferson Hwy,New Orleans,LA,(504) 842-4096,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,1514 Jefferson Hwy,29.9610677,-90.14567367
+Wig Salon,Daniel,Pak,5151 Plank Rd # 46c,Baton Rouge,LA,(225) 357-8088,Wigs Toupees & Hairpieces,Wigs Toupees & Hairpieces,,"$107,000 ",Baton Rouge,5151 Plank Rd,30.49525188,-91.15473862
+Anita Park,Anita,Park,526 W Main St,Broussard,LA,(337) 837-6828,Mobile Homes-Parks & Communities,Mobile Homes-Parks & Communities,,"$96,000 ",Lafayette,526 W Main St,30.14913301,-91.9704229
+Beauty Plus,Ilshim,Park,722 Dardeau St,Ville Platte,LA,(337) 506-3099,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$556,000 ",,722 Dardeau St,30.69931268,-92.2789699
+Best Tax Systems,Nannette,Park,2315 12th St,Lake Charles,LA,(337) 436-6939,Tax Return Preparation & Filing,Tax Return Preparation & Filing,,"$186,000 ",Lake Charles,2315 12th St,30.213135,-93.185061
+Broadmoor LLC,Michael,Park,2740 N Arnoult Rd,Metairie,LA,(504) 885-5401,General Contractors,General Contractors,Architects,$0 ,New Orleans,2740 N Arnoult Rd,30.0020693,-90.16108862
+Calvary Korean Baptist Church,Jung,Park,2403 Farragut St,New Orleans,LA,(504) 427-8155,Churches,Churches,,$0 ,New Orleans,2403 Farragut St,29.92895965,-90.03604656
+Coldwell Banker TEC,Patrick,Park,101 Beau Chene Blvd,Mandeville,LA,(985) 845-2001,Real Estate,Real Estate,Real Estate Consultants,"$2,078,000 ",New Orleans,101 Beau Chene Blvd,30.403986,-90.117922
+DH Lee Cleaners,Jong,Park,345 Gause Blvd W,Slidell,LA,(985) 649-3090,Cleaners,Cleaners,,"$334,000 ",New Orleans,345 Gause Blvd W,30.28917573,-89.78487537
+Elit Geomatics LLC,Joong Yong,Park,1003 Sterling Oaks Blvd,Slidell,LA,Not Available,Surveyors-Aerial,Surveyors-Aerial,,"$816,000 ",New Orleans,1003 Sterling Oaks Blvd,30.2805938,-89.735717
+Family Dollar,Bridgette,Park,4894 Highway 182,Houma,LA,(985) 223-2277,Variety Stores,Variety Stores,Department Stores,"$307,000 ",Houma-Bayou,4894 Highway 182,,
+Fulcrum Consultants LLC,Timothy,Park,69160 Highway 59 # 1,Mandeville,LA,Not Available,Consultants-Business NEC,Consultants-Business NEC,,"$94,000 ",New Orleans,69160 Highway 59,,
+Fuller Center For Housing,Charlie,Park,233 S Main St,Springhill,LA,(318) 539-2122,Associations,Associations,,$0 ,Minden,233 S Main St,33.00179,-93.46113634
+George S Park PHD,George S,Park,2285 Benton Rd # 3-401,Bossier City,LA,(318) 415-8755,Physicians & Surgeons,Physicians & Surgeons,Psychologists,"$569,000 ",Shreveport,2285 Benton Rd,32.54254624,-93.72241307
+Golden Nugget Casino-Lake,Julie,Park,2550 Golden Nugget Blvd,Lake Charles,LA,(337) 508-7777,Casinos,Casinos,Restaurants,"$243,000 ",Lake Charles,2550 Golden Nugget Blvd,,
+H J J & J H C LLC,Young M,Park,2816 S Claiborne Ave # C,New Orleans,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,2816 S Claiborne Ave,29.9418476,-90.09477114
+Hair Crown,Jong Mun,Park,3905 Choctaw Dr,Baton Rouge,LA,(225) 358-0664,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$880,000 ",Baton Rouge,3905 Choctaw Dr,30.47039481,-91.15094228
+Hair Crown Beauty Supply,Daniel,Park,6112 Plank Rd,Baton Rouge,LA,(225) 355-3538,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$294,000 ",Baton Rouge,6112 Plank Rd,30.5060658,-91.15074347
+Hair World Beauty LLC,Sung,Park,2120 Oneal Ln,Baton Rouge,LA,(225) 753-9014,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons,"$294,000 ",Baton Rouge,2120 Oneal Ln,,
+Heetae Park LLC,Heetae,Park,12333 Jefferson Hwy # G,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,12333 Jefferson Hwy,30.39492167,-91.04599648
+I-Communication OP LLC,Paul,Park,1116 Creswell Ln,Opelousas,LA,Not Available,Communications,Communications,,"$1,654,000 ",Opelousas,1116 Creswell Ln,,
+Inner Parish Security Corp,Patrick,Park,37 23rd St,Kenner,LA,(504) 834-5432,Security Guard & Patrol Service,Security Guard & Patrol Service,Security Systems,"$55,678,000 ",New Orleans,37 23rd St,29.99981833,-90.27326931
+Innocence Project-New Orleans,Jee,Park,4051 Ulloa St,New Orleans,LA,(504) 943-1902,Non-Profit Organizations,Non-Profit Organizations,Attorneys,$0 ,New Orleans,4051 Ulloa St,29.9695607,-90.1050057
+Jason Park MD,Jason,Park,2500 Belle Chasse Hwy,Terrytown,LA,(504) 392-3131,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,2500 Belle Chasse Hwy,29.88431565,-90.02733387
+Jios Adventures,Allison,Park,13592 River Rd,Destrehan,LA,(985) 307-1000,Doughnuts,Doughnuts,,$0 ,New Orleans,13592 River Rd,29.940299,-90.352592
+K & I Grocery,Sin,Park,1215 Moss St,Lafayette,LA,(337) 231-0070,Grocers-Retail,Grocers-Retail,,"$396,000 ",Lafayette,1215 Moss St,30.242141,-92.006828
+Kabbuki Sushi,Sam,Park,2119 Airline Dr,Bossier City,LA,(318) 742-9490,Restaurants,Restaurants,,"$144,000 ",Shreveport,2119 Airline Dr,32.5224117,-93.6971218
+Kabuki S C LA Inc,Myong,Park,2119 Airline Dr # 900,Bossier City,LA,Not Available,Restaurants,Restaurants,,"$478,000 ",Shreveport,2119 Airline Dr,32.5224117,-93.6971218
+KOOL Smiles,Harold,Park,2820 Louisville Ave,Monroe,LA,(318) 450-4253,Dentists,Dentists,,"$588,000 ",Monroe,2820 Louisville Ave,32.52457344,-92.09147994
+Lee Cleaners,Jung,Park,2201 Florida St,Mandeville,LA,(985) 626-9034,Cleaners,Cleaners,Bridal Gown Preservation Service,"$556,000 ",New Orleans,2201 Florida St,30.365233,-90.064837
+Little Korea BBQ,Joyce,Park,2240 Magazine St # 103,New Orleans,LA,(504) 821-5006,Restaurants,Restaurants,,"$631,000 ",New Orleans,2240 Magazine St,29.9289598,-90.0775557
+Mary Lee Donuts,James,Park,8821 Highland Rd,Baton Rouge,LA,(225) 767-7735,Doughnuts,Doughnuts,,"$126,000 ",Baton Rouge,8821 Highland Rd,30.36952276,-91.12357719
+New Cleaners,Stephen,Park,1504 Stumpf Blvd,Gretna,LA,(504) 368-3950,Cleaners,Cleaners,,"$228,000 ",New Orleans,1504 Stumpf Blvd,29.9122704,-90.04526247
+Pale Horse Humanitarianism,Timothy,Park,650 Poydras St # 2249,New Orleans,LA,Not Available,Non-Profit Organizations,Non-Profit Organizations,,$0 ,New Orleans,650 Poydras St,29.9492405,-90.070315
+Park Joe Young MD,Joe Y,Park,1542 Tulane Ave # 353,New Orleans,LA,(504) 568-4347,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,1542 Tulane Ave,29.955961,-90.0786874
+Park Rachel DO,Rachel,Park,1430 Tulane Ave # 8050,New Orleans,LA,(504) 988-7809,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,1430 Tulane Ave,29.9552192,-90.0767349
+"Park, Cynthia A Msn",Cynthia A,Park,PO Box 43,Angola,LA,Not Available,Nurses-Registered Rn,Nurses-Registered Rn,,"$45,000 ",Baton Rouge,PO Box 43,,
+"Park, Harrison",Harrison,Park,130 Desiard St,Monroe,LA,(318) 998-3907,Pharmacists,Pharmacists,,$0 ,Monroe,130 Desiard St,32.5267892,-92.07135547
+"Park, Harrison",Harrison,Park,2907 Cypress St,West Monroe,LA,(318) 325-3142,Pharmacists,Pharmacists,,$0 ,Monroe,2907 Cypress St,32.5164404,-92.1498869
+"Park, Kevin Do",Kevin,Park,1525 Oak Park Blvd,Lake Charles,LA,(337) 494-2023,Physicians & Surgeons,Physicians & Surgeons,,"$203,000 ",Lake Charles,1525 Oak Park Blvd,30.20348067,-93.19970045
+"Park, Sea Mi MD",Sea Mi,Park,136 Hospital Dr # 100,Lafayette,LA,(337) 289-8282,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Lafayette,136 Hospital Dr,30.20387031,-92.02020834
+PK Beauty Mart,Cecil,Park,2751 W Thomas St,Hammond,LA,(985) 542-9416,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),,"$1,574,000 ",Hammond,2751 W Thomas St,30.5035306,-90.49285173
+Quick Lane,Joe,Park,11455 Airline Hwy,Baton Rouge,LA,(225) 293-8901,Tire-Dealers-Retail,Tire-Dealers-Retail,Automobile Parts & Supplies-Retail-New,"$1,336,000 ",Baton Rouge,11455 Airline Hwy,30.3989389,-91.05320718
+Rainbow,Debbie,Park,1273 Shreveport Barksdale Hwy,Shreveport,LA,(318) 861-8936,Women's Apparel-Retail,Women's Apparel-Retail,Clothing-Retail,"$605,000 ",Shreveport,1273 Shreveport Barksdale Hwy,32.48779365,-93.70479069
+Selah Beauty Corp,No Jin,Park,4011 Lakeside Dr,Alexandria,LA,(318) 442-8950,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$404,000 ",Alexandria,4011 Lakeside Dr,31.2609296,-92.44604001
+Sherwin-Williams,Tom,Park,307 N 5th St # 1,Leesville,LA,(337) 239-2423,Paint-Retail,Paint-Retail,Wallpapers & Wallcoverings-Retail,"$988,000 ",Ft Polk S,307 N 5th St,31.1448261,-93.26391741
+Shreveport Audit Office,Valencia,Park,505 Travis St # 450,Shreveport,LA,(318) 673-7900,City Government-Finance & Taxation,City Government-Finance & Taxation,Government Offices-City/Village & Twp,$0 ,Shreveport,505 Travis St,32.51352561,-93.7506122
+Sunoak Tailor,Sunoak,Park,3126 Johnston St,Lafayette,LA,(337) 988-6565,Alterations-Clothing,Alterations-Clothing,,"$101,000 ",Lafayette,3126 Johnston St,30.20416647,-92.04602716
+Surgical Associates-Opelousas,Pierce C,Park,627 E Prudhomme St # 2,Opelousas,LA,(337) 942-7192,Physicians & Surgeons,Physicians & Surgeons,,"$781,000 ",Opelousas,627 E Prudhomme St,30.544486,-92.083437
+Walmart Vision & Glasses,Susanne,Park,4001 Behrman Pl,New Orleans,LA,(504) 364-0767,Optical Goods-Retail,Optical Goods-Retail,Opticians,"$515,000 ",New Orleans,4001 Behrman Pl,29.9207997,-90.0173481
+Woodshapers,Marvin,Park,1035 Texas Ave,Shreveport,LA,(318) 424-9581,Cabinet Makers,Cabinet Makers,Federal Government Contractors,"$246,000 ",Shreveport,1035 Texas Ave,32.50484808,-93.75349433
+Louisiana State Transportation,Jesse,Bang,121 Wakefield Rd,Cameron,LA,(337) 775-7444,Government Offices-State,Government Offices-State,,$0 ,Lake Charles,121 Wakefield Rd,29.8112428,-93.3442921
+Transportation Department,Jesse,Bang,121 Wakefield Rd,Cameron,LA,(337) 775-7444,Ferries,Ferries,State Government-Regulation & Administration-,$0 ,Lake Charles,121 Wakefield Rd,29.8112428,-93.3442921
+Zachary Nails,Charles,Bang,5810 Main St # 9,Zachary,LA,(225) 654-0855,Beauty Salons,Beauty Salons,Manicuring,"$90,000 ",Baton Rouge,5810 Main St,30.64840474,-91.14327763
+Bossier City Red River Korean,Junghoe,Bae,4901 Medical Dr,Bossier City,LA,(318) 752-0191,Religious Organizations,Religious Organizations,Churches,$0 ,Shreveport,4901 Medical Dr,32.462052,-93.66755388
+Mary Lee Donuts,Jane,Bae,802 Oneal Ln,Baton Rouge,LA,(225) 272-8113,Doughnuts,Doughnuts,,"$126,000 ",Baton Rouge,802 Oneal Ln,,
+Touch Of Style,Won,Byun,404 Desiard St,Monroe,LA,(318) 387-6657,Men's Clothing & Furnishings-Retail,Men's Clothing & Furnishings-Retail,,"$751,000 ",Monroe,404 Desiard St,32.50326878,-92.1147861
+LSU Health Sci Ctr Radiology,Leonard R,Bok,1542 Tulane Ave # 3,New Orleans,LA,(504) 568-4647,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,1542 Tulane Ave,29.955961,-90.0786874
+Seo Tech Pro Abbeville LA,Abevil,Seo,19714 W Cloma Rd # D,Abbeville,LA,(337) 283-2996,Internet Service,Internet Service,,"$1,120,000 ",Lafayette,19714 W Cloma Rd,,
+To New York Nails,Won Pyung,Seo,9638 Airline Hwy # B8,Baton Rouge,LA,(225) 218-6966,Manicuring,Manicuring,,"$60,000 ",Baton Rouge,9638 Airline Hwy,30.43324084,-91.08160776
+Capital Allocation LLC,Darin,Suh,1160 Magnolia Gln,Shreveport,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,1160 Magnolia Gln,,
+Weecare Pediatrics,Hester,Suh,2709 Mackey Ln,Shreveport,LA,(318) 505-7626,Physicians & Surgeons,Physicians & Surgeons,,"$590,000 ",Shreveport,2709 Mackey Ln,32.41161215,-93.79927035
+Dasom LLC,Jung Jae,Seok,526 N Washington St,Bastrop,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Monroe,526 N Washington St,32.7953558,-91.9091677
+Oksop LLC,Jung Jae,Seok,1116 Creswell Ln,Opelousas,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Opelousas,1116 Creswell Ln,,
+Wigs & Beauty,Jj,Seok,705 Veterans Dr,Carencro,LA,(337) 520-2189,Wigs Toupees & Hairpieces,Wigs Toupees & Hairpieces,,"$303,000 ",Lafayette,705 Veterans Dr,30.32184968,-92.04066615
+Crown Products Inc,Kim,Sun,3500 N Causeway Blvd # 1548,Metairie,LA,(504) 837-5342,Exporters (Whls),Exporters (Whls),General Merchandise-Retail,"$6,452,000 ",New Orleans,3500 N Causeway Blvd,30.0122827,-90.1569212
+Sunshine Cleaners,John,Sung,2995 Highway 190,Mandeville,LA,(985) 727-1200,Cleaners,Cleaners,,"$1,111,000 ",New Orleans,2995 Highway 190,30.3929716,-90.085828
+Triplett's Check Casher,Echo,Sung,2116 Moeling St,Lake Charles,LA,(337) 433-2279,Check Cashing Service,Check Cashing Service,,"$1,914,000 ",Lake Charles,2116 Moeling St,30.2498147,-93.1901687
+365 Plus Collection,Wooyoung,So,197 Westbank Expy,Gretna,LA,(504) 264-7758,Clothing-Retail,Clothing-Retail,,$0 ,New Orleans,197 Westbank Expy,29.91244122,-90.0526566
+ASM Capital Holdings LLC,Teresa,So,5217 Haring Ct,Metairie,LA,Not Available,Holding Companies (Non-Bank),Holding Companies (Non-Bank),,"$2,250,000 ",New Orleans,5217 Haring Ct,30.0285904,-90.20823181
+Davany LLC,Sokunratany,So,3629 Nelson Rd,Lake Charles,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Lake Charles,3629 Nelson Rd,30.19212286,-93.249334
+Jack's Quick Stop Fish Shop,Richard,So,2523 Burg Jones Ln,Monroe,LA,(318) 388-1009,Seafood-Retail,Seafood-Retail,,"$508,000 ",Monroe,2523 Burg Jones Ln,32.47528671,-92.088823
+Kims Nails,Kimo,So,313 Louisville Ave,Monroe,LA,(318) 361-9025,Manicuring,Manicuring,,"$51,000 ",Monroe,313 Louisville Ave,32.5076534,-92.12231193
+Korean American Society-New,Jin,So,3955 Washington Ave,New Orleans,LA,Not Available,Non-Profit Organizations,Non-Profit Organizations,,$0 ,New Orleans,3955 Washington Ave,29.95033226,-90.1006711
+Korean Baptist Chr-Baton Rouge,Jae Hoon,So,264 Burgin Ave,Baton Rouge,LA,(225) 768-7700,Churches,Churches,,$0 ,Baton Rouge,264 Burgin Ave,30.39407663,-91.15784118
+Generation 2 Generation,Lina,Soh,6226 Jefferson Hwy # B,Harahan,LA,Not Available,Non-Profit Organizations,Non-Profit Organizations,,$0 ,New Orleans,6226 Jefferson Hwy,29.93741465,-90.19117102
+Beauty & Hair Eboni,Hoson,Son,809 Behrman Hwy,Terrytown,LA,(504) 433-4969,Beauty Salons,Beauty Salons,Beauty Salons-Equipment & Supplies (Whls),"$115,000 ",New Orleans,809 Behrman Hwy,29.8930637,-90.0187353
+Beauty Connection,Ho,Son,5495 Crowder Blvd,New Orleans,LA,(504) 241-0191,Beauty Salons,Beauty Salons,Beauty Salons-Equipment & Supplies (Whls),"$93,000 ",New Orleans,5495 Crowder Blvd,30.02669535,-89.98972681
+Gis Trucking Div,Josh,Son,11660 Highway 308,Larose,LA,(985) 693-3490,Trucking,Trucking,Contractors-Oil Field,"$12,102,000 ",Houma-Bayou,11660 Highway 308,,
+J & Y Son LLC,Jongrae,Son,1819 NW Evangeline Trwy,Lafayette,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Lafayette,1819 NW Evangeline Trwy,,
+Jen Enterprise Inc,Kyung,Son,2300 Airline Dr # 600,Bossier City,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,2300 Airline Dr,32.541399,-93.708249
+Plant Scapes Of Plaquemine,George W,Son,24675 Edmund Dr,Plaquemine,LA,Not Available,Plants-Retail,Plants-Retail,,"$121,000 ",Baton Rouge,24675 Edmund Dr,30.26732604,-91.24266557
+Sushi General,Young,Son,6607 Line Ave,Shreveport,LA,(318) 219-7979,Restaurants,Restaurants,,"$333,000 ",Shreveport,6607 Line Ave,32.44591311,-93.74589079
+1101 N Causeway LLC,Bong R,Song,1101 N Causeway Blvd,Metairie,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,1101 N Causeway Blvd,29.9831377,-90.15559322
+7 Star,Kyung Hun,Song,1001 Winnsboro Rd,Monroe,LA,(318) 325-2941,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$344,000 ",Monroe,1001 Winnsboro Rd,32.483775,-92.093686
+A & R Beauty Fair,Jinhee,Song,1792 S 5th St,Leesville,LA,(337) 239-7910,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Wigs Toupees & Hairpieces,"$219,000 ",Ft Polk S,1792 S 5th St,31.126079,-93.26769298
+A B Freeman School Of Business,Yifan,Song,7 Mcalister Dr,New Orleans,LA,(504) 865-5407,Schools-Business & Secretarial,Schools-Business & Secretarial,,$0 ,New Orleans,7 Mcalister Dr,29.93860494,-90.12045412
+America Goldenbea Group Inc,Jinli,Song,1900 Perdido St # B64,New Orleans,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,1900 Perdido St,29.9549737,-90.08316928
+Arrow Aviation Co LLC,Shaun,Song,1318 Smede Hwy,Broussard,LA,(337) 364-4357,Aviation Consultants,Aviation Consultants,Helicopter-Servicing & Maintenance,"$680,000 ",Lafayette,1318 Smede Hwy,30.0946136,-91.932559
+B & B Spa LLC,Ting,Song,804 Oneal Ln,Baton Rouge,LA,Not Available,Miscellaneous Personal Services NEC,Miscellaneous Personal Services NEC,,$0 ,Baton Rouge,804 Oneal Ln,,
+Best Choice Beauty Supply,Bong,Song,1700 Promenade Blvd # 2001,Marrero,LA,(504) 348-4266,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$437,000 ",New Orleans,1700 Promenade Blvd,29.8785665,-90.0956631
+Big Beauty LLC,Kyung Hun,Song,230 N Stanley Ave,Monroe,LA,Not Available,Beauty Salons,Beauty Salons,,"$51,000 ",Monroe,230 N Stanley Ave,32.52049747,-92.08656064
+Choi Enterprises LLC,Jean,Song,1409 E 70th St # 109,Shreveport,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,1409 E 70th St,32.4419997,-93.7486057
+Jin's Hair Crown,Andy,Song,5934 Airline Hwy,Baton Rouge,LA,(225) 355-8191,Hair Goods & Supplies-Retail,Hair Goods & Supplies-Retail,,"$107,000 ",Baton Rouge,5934 Airline Hwy,30.50183018,-91.131039
+Kim Song LLC,Kim,Song,17221 Jefferson Hwy # B,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,17221 Jefferson Hwy,30.3623773,-91.0011043
+Korean Baptist Chr-Baton Rouge,Young,Song,264 Burgin Ave,Baton Rouge,LA,(225) 768-7700,Churches,Churches,,$0 ,Baton Rouge,264 Burgin Ave,30.39407663,-91.15784118
+Laparotools LLC,Stephen,Song,2901 N Causeway Blvd # 206,Metairie,LA,(714) 914-5806,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,2901 N Causeway Blvd,30.0045914,-90.1546988
+Leesville Korean Baptist Chr,June,Song,187 Browns Ln,Leesville,LA,(337) 537-7850,Churches,Churches,,$0 ,Ft Polk S,187 Browns Ln,,
+Professional Beauty Supply,Sueng,Song,825 Benton Rd,Bossier City,LA,(318) 747-9998,Beauty Salons,Beauty Salons,Cosmetics & Perfumes-Retail,"$76,000 ",Shreveport,825 Benton Rd,32.52768463,-93.71838491
+Shreveport Bossier,Seongho,Song,1180 Dudley Ln,Bossier City,LA,(318) 742-3903,Churches,Churches,,$0 ,Shreveport,1180 Dudley Ln,32.51055068,-93.70074901
+Song's Alterations,Kay,Song,2801 Northside Dr,Bossier City,LA,(318) 742-3321,Alterations-Clothing,Alterations-Clothing,,"$365,000 ",Shreveport,2801 Northside Dr,32.53893117,-93.70898957
+"Song, Diana J Do",Diana J,Song,1501 Kings Hwy,Shreveport,LA,(318) 626-0434,Physicians & Surgeons,Physicians & Surgeons,,"$590,000 ",Shreveport,1501 Kings Hwy,32.4748575,-93.76614066
+"Song, Xuyang MD",Xuyang,Song,1221 S Clearview Pkwy,Jefferson,LA,(504) 736-4800,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,1221 S Clearview Pkwy,29.9632302,-90.18414721
+Feist-Weiller Cancer Ctr,Anthony H,Sin,1501 Kings Hwy,Shreveport,LA,(318) 813-1555,Physicians & Surgeons,Physicians & Surgeons,,"$590,000 ",Shreveport,1501 Kings Hwy,32.4748575,-93.76614066
+"Sin, Theodore MD",Theodore,Sin,5246 Brittany Dr,Baton Rouge,LA,(225) 757-4140,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Baton Rouge,5246 Brittany Dr,30.40148035,-91.10929403
+Brightside Shopping Mall LLC,Chunwha,Shin,1750 Brightside Dr # A,Baton Rouge,LA,Not Available,Shopping Centers & Malls,Shopping Centers & Malls,,"$1,456,000 ",Baton Rouge,1750 Brightside Dr,30.3876955,-91.1775085
+Essence Beauty Supply,Yong,Shin,6605 Highway 182 E,Morgan City,LA,(985) 702-8883,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$100,000 ",Morgan City,6605 Highway 182 E,,
+Korean Agape Baptist Church,Yong,Shin,2020 Barataria Blvd,Marrero,LA,(504) 328-7372,Churches,Churches,,$0 ,New Orleans,2020 Barataria Blvd,29.8717959,-90.09826773
+Louie Living LLC,Lee,Shin,423 Pastureview Dr,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,423 Pastureview Dr,30.35646831,-91.09068035
+Watch Outlet,Joshua,Shin,1401 W Esplanade Ave # 503,Kenner,LA,(504) 464-1330,Watches-Dealers,Watches-Dealers,,"$439,000 ",New Orleans,1401 W Esplanade Ave,30.0166715,-90.24934475
+Young Tiger Donuts LLC,Chun Wha,Shin,1750 Brightside Dr # F,Baton Rouge,LA,Not Available,Doughnuts,Doughnuts,,"$188,000 ",Baton Rouge,1750 Brightside Dr,30.3876955,-91.1775085
+Napier Of London LLC,Paul A,Sim,1510 Captain Shreve Dr,Shreveport,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,1510 Captain Shreve Dr,32.46804038,-93.70619126
+Rouses Market,Lori,Sim,204 N Canal Blvd,Thibodaux,LA,(985) 446-3427,Grocers-Retail,Grocers-Retail,,"$1,189,000 ",Houma-Bayou,204 N Canal Blvd,29.80082512,-90.81736733
+Sim James Sungmin MD,James S,Sim,5131 Odonovan Dr # 100,Baton Rouge,LA,(225) 767-4893,Physicians & Surgeons,Physicians & Surgeons,,"$189,000 ",Baton Rouge,5131 Odonovan Dr,,
+Korean Baptist Chr-Baton Rouge,Jae Dong,Shim,264 Burgin Ave,Baton Rouge,LA,(225) 768-7700,Churches,Churches,,$0 ,Baton Rouge,264 Burgin Ave,30.39407663,-91.15784118
+Lafayette Korean Church,Youn,Shim,219 W Broussard Rd,Lafayette,LA,(337) 981-3646,Churches,Churches,,$0 ,Lafayette,219 W Broussard Rd,30.16142041,-92.09873294
+Hansol Inc,Min K,An,62501 Commercial St,Roseland,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Hammond,62501 Commercial St,30.7555473,-90.510258
+Orange Beauty Supply,Chong Ae,An,1900 Cameron St # B,Lafayette,LA,(337) 593-8021,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$148,000 ",Lafayette,1900 Cameron St,30.232511,-92.035505
+Stars Wire LLC,Yan,An,220 Saint Nazaire Rd # C,Broussard,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Lafayette,220 Saint Nazaire Rd,,
+"Yeo, Eric",Eric,Yeo,9209 Mansfield Rd,Shreveport,LA,(318) 671-0271,Pharmacists,Pharmacists,,"$56,000 ",Shreveport,9209 Mansfield Rd,32.4017706,-93.80405044
+New Orleans VA Hosp Med Ctr,Philip A,Yeon,2400 Canal St,New Orleans,LA,(504) 412-3700,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,2400 Canal St,29.9602534,-90.0844135
+Arzi's,Ross,Youn,6413 Jones Creek Rd,Baton Rouge,LA,(225) 771-8644,Restaurants,Restaurants,,"$158,000 ",Baton Rouge,6413 Jones Creek Rd,30.3942675,-91.01776971
+Elit Geomatics LLC,Sung,Youn,1003 Sterling Oaks Blvd,Slidell,LA,Not Available,Surveyors-Aerial,Surveyors-Aerial,,"$816,000 ",New Orleans,1003 Sterling Oaks Blvd,30.2805938,-89.735717
+Beauty Gallery,John,OH,112 Cascade Dr,Houma,LA,(985) 746-5616,Art Galleries & Dealers,Art Galleries & Dealers,Beauty Salons,"$71,000 ",Houma-Bayou,112 Cascade Dr,,
+Covington Cleaners,Hyun Mee,OH,1600 N Highway 190 # 9,Covington,LA,(985) 809-7075,Cleaners,Cleaners,,"$334,000 ",New Orleans,1600 N Highway 190,,
+Covington Cleaners,Hyun Mee,OH,70457 Highway 21 # 116,Covington,LA,(985) 302-5091,Cleaners,Cleaners,,"$334,000 ",New Orleans,70457 Highway 21,,
+H A N M I LLC,James,OH,3353 Whisper Ln,Gretna,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,3353 Whisper Ln,29.86218685,-90.03529715
+I Communications No LLC,Hyun,OH,7917 Airline Dr,Metairie,LA,Not Available,Communications,Communications,,"$1,811,000 ",New Orleans,7917 Airline Dr,29.979152,-90.2220567
+J & H Houma LLC,John Kyu,OH,112 Cascade Dr,Houma,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Houma-Bayou,112 Cascade Dr,,
+Oh Victoria Padial MD,Victoria P,OH,8415 Goodwood Blvd # 202,Baton Rouge,LA,(225) 765-8013,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Baton Rouge,8415 Goodwood Blvd,30.44244365,-91.09901073
+USA Cleaners,Jimmy,OH,6600 Franklin Ave # A10,New Orleans,LA,(504) 288-7609,Cleaners,Cleaners,,"$147,000 ",New Orleans,6600 Franklin Ave,30.0278311,-90.0545674
+EMC Eye Medical Ctr,Fay L,Woo,7777 Hennessy Blvd # 4000,Baton Rouge,LA,(225) 766-7441,Physicians & Surgeons,Physicians & Surgeons,,"$567,000 ",Baton Rouge,7777 Hennessy Blvd,30.40329195,-91.10669675
+Howard Woo MD,Howard,Woo,1514 Jefferson Hwy # 3,New Orleans,LA,(504) 842-4083,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,1514 Jefferson Hwy,29.9610677,-90.14567367
+Micah Project,Wesley,Woo,2022 Saint Bernard Ave,New Orleans,LA,(504) 528-9996,Associations,Associations,Social Service & Welfare Organizations,$0 ,New Orleans,2022 Saint Bernard Ave,29.9767289,-90.06849022
+S K Beauty Supply,John,Woo,1438 Main St,Jeanerette,LA,(337) 276-7559,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$690,000 ",Lafayette,1438 Main St,29.91667507,-91.66830119
+"Woo, Helen",Helen,Woo,1514 Jefferson Hwy,New Orleans,LA,(504) 842-2136,Dietitians,Dietitians,,"$65,000 ",New Orleans,1514 Jefferson Hwy,29.9610677,-90.14567367
+"Woo, Kenneth",Kenneth,Woo,4283 Carter St,Vidalia,LA,(318) 336-8801,Pharmacists,Pharmacists,,$0 ,Natchez,4283 Carter St,31.5707719,-91.4403002
+888 Food Svc LLC,Xin,Yu,1306 Bonnet St,New Iberia,LA,Not Available,Food Service Management,Food Service Management,,"$545,000 ",Lafayette,1306 Bonnet St,,
+Childrens Hospital Hematology,Lolie C,Yu,200 Henry Clay Ave # 4109,New Orleans,LA,(504) 896-9740,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,200 Henry Clay Ave,29.9178692,-90.12764053
+Chuan Yu Inc,Chuan,Yu,3535 Severn Ave # 2,Metairie,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,3535 Severn Ave,30.0133902,-90.1581121
+Connection Synergy LLC,Bin,Yu,8000 Innvtn Park Dr # 3100,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,8000 Innvtn Park Dr,,
+Covington Kitchen & Bath,Zhi Yu,Yu,1600 N Highway 190 # 5,Covington,LA,(985) 898-0511,Counter Tops,Counter Tops,Kitchen Cabinets & Equipment-Household,"$167,000 ",New Orleans,1600 N Highway 190,,
+H & Z LLC,Haiyun,Yu,2312 David Dr,Metairie,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,2312 David Dr,29.9974879,-90.2183656
+Haiyang Enterprises LLC,Haiyang,Yu,3334 Severn Ave # 2,Metairie,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,3334 Severn Ave,30.0098039,-90.1596376
+Hammond Kitchen & Bath,Shun Ming,Yu,1695 S Morrison Blvd,Hammond,LA,(985) 345-9948,Home Improvements,Home Improvements,Plumbing Fixtures & Supplies-New-Retail,"$723,000 ",Hammond,1695 S Morrison Blvd,30.4840971,-90.48261192
+Hitlights,Bin,Yu,8000 G S R I Rd # 3100,Baton Rouge,LA,(225) 304-0408,Manufacturers,Manufacturers,,"$90,000 ",Baton Rouge,8000 G S R I Rd,,
+Hong Kong,Jack,Yu,890 Lafayette St,Mandeville,LA,(985) 626-7181,Restaurants,Restaurants,,"$367,000 ",New Orleans,890 Lafayette St,30.36699261,-90.07004565
+Hot Wok,Jia Yin,Yu,35055 LA Highway 16,Denham Springs,LA,(225) 665-1688,Restaurants,Restaurants,,"$134,000 ",Baton Rouge,35055 LA Highway 16,,
+Mai Tai LLC,Yuzhao,Yu,6820 Vetrns Meml Blvd # 200a,Metairie,LA,(504) 885-4033,Restaurants,Restaurants,,"$298,000 ",New Orleans,6820 Vetrns Meml Blvd,,
+Motherland African Art,Salu,Yu,1021 N Peters St,New Orleans,LA,(504) 522-0722,African Goods-Retail,African Goods-Retail,,"$473,000 ",New Orleans,1021 N Peters St,29.9594611,-90.059985
+Nature Health Enterprise LLC,Zhanwen,Yu,4416 Johnston St # 9c,Lafayette,LA,Not Available,Health Services,Health Services,,"$992,000 ",Lafayette,4416 Johnston St,30.1930904,-92.0600951
+Nolakorea Korean Restaurant,Eewhan,Yu,3120 Cleary Ave,Metairie,LA,(504) 702-8811,Restaurants,Restaurants,Advertising-Computer,"$149,000 ",New Orleans,3120 Cleary Ave,30.0021911,-90.172594
+Ochsner Medical Ctr,Mary,Yu,1514 Jefferson Hwy,New Orleans,LA,(504) 842-3000,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,1514 Jefferson Hwy,29.9610677,-90.14567367
+Oki Japan Gonzales Inc,Zhong,Yu,1210 N Airline Hwy,Gonzales,LA,(225) 450-2227,Restaurants,Restaurants,,"$373,000 ",Baton Rouge,1210 N Airline Hwy,,
+Pediatric Surgery LTD,David,Yu,200 Henry Clay Ave # 4231,New Orleans,LA,(504) 896-3977,Clinics,Clinics,Physicians & Surgeons,"$1,141,000 ",New Orleans,200 Henry Clay Ave,29.9178692,-90.12764053
+Peking Garden Restaurant,Rong Weng,Yu,4416 Johnston St # 9d-E,Lafayette,LA,(337) 984-1290,Restaurants,Restaurants,,"$296,000 ",Lafayette,4416 Johnston St,30.1930904,-92.0600951
+Sushi Of Morgan City,Yan,Yu,6214 Highway 182 E,Morgan City,LA,(985) 354-6433,Restaurants,Restaurants,,"$333,000 ",Morgan City,6214 Highway 182 E,,
+Top Hair Plus Beauty Supply,Hosuk,Yu,2600 Waggoner Ave,Shreveport,LA,(318) 631-5024,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$563,000 ",Shreveport,2600 Waggoner Ave,32.453519,-93.777829
+Weng's Chinese Cuisine Inc,Hua Lin,Yu,1605 E Bert Koun Loop,Shreveport,LA,Not Available,Restaurants,Restaurants,,"$333,000 ",Shreveport,1605 E Bert Koun Loop,,
+Yu Charles Cong MD,Charles C,Yu,1514 Jefferson Hwy,New Orleans,LA,(504) 842-3970,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,1514 Jefferson Hwy,29.9610677,-90.14567367
+"Yu, Lolie C MD",Lolie C,Yu,1221 S Clearview Pkwy,New Orleans,LA,(504) 842-3950,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,1221 S Clearview Pkwy,,
+"Yu, Michael MD",Michael,Yu,8300 Constantin Blvd,Baton Rouge,LA,(225) 374-1317,Physicians & Surgeons,Physicians & Surgeons,,"$567,000 ",Baton Rouge,8300 Constantin Blvd,30.40044245,-91.09797599
+Yun Properties LLC,Hye Sun,Yun,1546 Hwy 190 W,Port Allen,LA,Not Available,Real Estate Management,Real Estate Management,,"$221,000 ",Baton Rouge,1546 Hwy 190 W,,
+"Yun, Brittney T",Brittney T,Yun,243 Curtiss Rd # 100,Barksdale AFB,LA,(318) 456-6555,Social Workers,Social Workers,,"$64,000 ",Shreveport,243 Curtiss Rd,,
+Beauty Express 2 LLC,Suk K,Yoon,3926 Barron St,Metairie,LA,(504) 581-8182,Beauty Salons,Beauty Salons,Cosmetics & Perfumes-Retail,"$115,000 ",New Orleans,3926 Barron St,30.0018631,-90.1730276
+Beauty Plus,Jin Sung,Yoon,806 Main St,Baker,LA,(225) 771-1104,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$147,000 ",Baton Rouge,806 Main St,30.58283483,-91.16905101
+H A N G A R A M Inc,Eun Gon,Yoon,1781 Monroe St,Alexandria,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Alexandria,1781 Monroe St,31.30757442,-92.46012421
+King's Mart,Paul,Yoon,1781 Monroe St,Alexandria,LA,(318) 487-4488,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$404,000 ",Alexandria,1781 Monroe St,31.30757442,-92.46012421
+Marine Gears Intl,Marvin,Yoon,2304 Engineers Rd # D,Belle Chasse,LA,(504) 393-0339,Mechanical Power Trans Equip NEC (Mfrs),Mechanical Power Trans Equip NEC (Mfrs),Marine Equipment & Supplies,"$15,230,000 ",New Orleans,2304 Engineers Rd,29.8446873,-90.03741145
+Yoon Maria Haejin DO,Maria H,Yoon,8300 Constantin Blvd,Baton Rouge,LA,(225) 374-1317,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Baton Rouge,8300 Constantin Blvd,30.40044245,-91.09797599
+Yoon's Group LLC,Chandra,Yoon,7731 Perkins Rd # 100,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,7731 Perkins Rd,30.3937218,-91.10673455
+"Yoon, Jasmine",Jasmine,Yoon,15929 Airline Hwy,Baton Rouge,LA,(225) 752-2159,Pharmacists,Pharmacists,,$0 ,Baton Rouge,15929 Airline Hwy,30.3594983,-91.00705249
+Arzi's,Ross,Youn,6413 Jones Creek Rd,Baton Rouge,LA,(225) 771-8644,Restaurants,Restaurants,,"$158,000 ",Baton Rouge,6413 Jones Creek Rd,30.3942675,-91.01776971
+Elit Geomatics LLC,Sung,Youn,1003 Sterling Oaks Blvd,Slidell,LA,Not Available,Surveyors-Aerial,Surveyors-Aerial,,"$816,000 ",New Orleans,1003 Sterling Oaks Blvd,30.2805938,-89.735717
+Ace Beauty Group,Wie,Yi,58468 Belleview Rd,Plaquemine,LA,(225) 385-4256,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$1,469,000 ",Baton Rouge,58468 Belleview Rd,,
+Ascension Catholic Church,Paul,Yi,716 Mississippi St,Donaldsonville,LA,(225) 473-3176,Cemeteries,Cemeteries,Churches,"$383,000 ",Baton Rouge,716 Mississippi St,30.104151,-90.98368188
+Best Alterations-Dry Cleaners,Song,Yi,1102 Entrance Rd,Leesville,LA,(337) 537-9763,Monograms,Monograms,Cleaners,"$90,000 ",Ft Polk S,1102 Entrance Rd,,
+Bruce's Chinese Kitchen,Kennard,Yi,39510 Highway 190 E,Slidell,LA,(985) 201-7005,Restaurants,Restaurants,Caterers,"$184,000 ",New Orleans,39510 Highway 190 E,,
+Chunhui Yi MD,Chunhui,Yi,2700 Napoleon Ave,New Orleans,LA,(504) 899-9311,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,2700 Napoleon Ave,29.9375381,-90.10443626
+Dr Cleaners,Ae,Yi,9301 Lake Forest Blvd # 102,New Orleans,LA,(504) 245-8191,Cleaners,Cleaners,,"$147,000 ",New Orleans,9301 Lake Forest Blvd,30.0297766,-89.98219588
+Miller's Grocery,Lee,Yi,33630 Highway 16,Amite,LA,(985) 748-6197,Grocers-Retail,Grocers-Retail,,"$621,000 ",Baton Rouge,33630 Highway 16,,
+Tokyo Japan Sushi-Hibachi,Gui Ren,Yi,107 Hector Connoly Rd # 200-20,Carencro,LA,Not Available,Restaurants,Restaurants,,"$493,000 ",Lafayette,107 Hector Connoly Rd,30.32254415,-92.02785397
+Yee Chinese Restaurant Inc,Lucia,Yi,300 Pontchartrain Dr,Slidell,LA,(985) 641-4940,Restaurants,Restaurants,Foods-Carry Out,"$275,000 ",New Orleans,300 Pontchartrain Dr,30.266503,-89.786609
+"Yi, Chunhui MD",Chunhui,Yi,180 W Esplanade Ave,Kenner,LA,(504) 464-8024,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,180 W Esplanade Ave,30.0254535,-90.27107029
+Atomic Cow LLC,Yoon,Lee,934 Hagan Ave,New Orleans,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,934 Hagan Ave,29.9769839,-90.08722785
+Ban Suk Korean Baptist Church,Yong,Lee,2219 Brownlee Rd,Bossier City,LA,(318) 741-3132,Churches,Churches,,$0 ,Shreveport,2219 Brownlee Rd,32.57580911,-93.729201
+Brightside Shopping Mall LLC,Youngjae,Lee,1750 Brightside Dr # A,Baton Rouge,LA,Not Available,Shopping Centers & Malls,Shopping Centers & Malls,,"$1,456,000 ",Baton Rouge,1750 Brightside Dr,30.3876955,-91.1775085
+Caffery Real Estate Inc,Haewon,Lee,1105 Parkview Dr # 1,New Iberia,LA,(337) 367-7708,Real Estate,Real Estate,,"$983,000 ",Lafayette,1105 Parkview Dr,30.00265079,-91.80223927
+Capt'n John's Seafood,Tran,Lee,1896 Airline Dr,Bossier City,LA,(318) 747-7747,Restaurants,Restaurants,Respirators (Whls),"$96,000 ",Shreveport,1896 Airline Dr,32.52059195,-93.6958318
+Centene Corp,Jun,Lee,825 Kaliste Saloom Rd,Lafayette,LA,(337) 233-4050,Health Care Management,Health Care Management,Hospital & Medical Service Plans,"$1,516,000 ",Lafayette,825 Kaliste Saloom Rd,30.18040167,-92.02086085
+Chow Yum Phat,Vu,Lee,2363 Hollydale Ave,Baton Rouge,LA,(225) 726-7335,Restaurants,Restaurants,,"$420,000 ",Baton Rouge,2363 Hollydale Ave,30.4253245,-91.1579758
+Crown Products Inc,Kee,Lee,3500 N Causeway Blvd # 1548,Metairie,LA,(504) 837-5342,Exporters (Whls),Exporters (Whls),General Merchandise-Retail,"$6,452,000 ",New Orleans,3500 N Causeway Blvd,30.0122827,-90.1569212
+Dong Yang Market,Chun,Lee,3324 Transcontinental Dr,Metairie,LA,(504) 457-4567,Grocers-Retail,Grocers-Retail,,"$425,000 ",New Orleans,3324 Transcontinental Dr,30.006684,-90.1958533
+Doo's 1 Seafood & Deli LLC,Doo,Lee,34690 LA Highway 16,Denham Springs,LA,(225) 665-1767,Restaurants,Restaurants,,"$201,000 ",Baton Rouge,34690 LA Highway 16,,
+Doos Seafood & Deli,Doo,Lee,18331 Highway 22,Ponchatoula,LA,(985) 386-9310,Restaurants,Restaurants,Grocers-Retail,"$515,000 ",Hammond,18331 Highway 22,,
+Ebony,Young,Lee,406 Bolton Ave,Alexandria,LA,(318) 443-4779,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Wigs Toupees & Hairpieces,"$673,000 ",Alexandria,406 Bolton Ave,31.309965,-92.4607801
+Embassy Suites By Hilton New,Trung,Lee,315 Julia St,New Orleans,LA,(504) 525-1993,Hotels & Motels,Hotels & Motels,Restaurants,"$16,103,000 ",New Orleans,315 Julia St,29.94504055,-90.06628301
+Eunhee Lee LLC,Eunhee,Lee,8821 Highland Rd,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,8821 Highland Rd,30.36952276,-91.12357719
+Glamor Nails Shop,Thuy,Lee,634 Terry Pkwy,Terrytown,LA,(504) 361-8953,Manicuring,Manicuring,,"$115,000 ",New Orleans,634 Terry Pkwy,29.9024218,-90.0306913
+Gorgeous Nails,Tan,Lee,138 South Dr,Natchitoches,LA,(318) 356-2407,Manicuring,Manicuring,,"$67,000 ",Natchitoches,138 South Dr,31.7471459,-93.0822175
+Inga's Subs & Salads,Soonmi,Lee,254 W Chimes St,Baton Rouge,LA,(225) 344-4861,Restaurants,Restaurants,,"$105,000 ",Baton Rouge,254 W Chimes St,30.41744832,-91.17821079
+Korean Baptist Chr-Baton Rouge,Jae,Lee,264 Burgin Ave,Baton Rouge,LA,(225) 768-7700,Churches,Churches,,$0 ,Baton Rouge,264 Burgin Ave,30.39407663,-91.15784118
+Lee's Auto Sales,Hung,Lee,2131 Belle Chasse Hwy,Gretna,LA,(504) 364-9318,Automobile/Trucks Dealers-Used,Automobile/Trucks Dealers-Used,,"$408,000 ",New Orleans,2131 Belle Chasse Hwy,29.9036196,-90.0506751
+"Lee, Hayoung MD",Hayoung,Lee,1542 Tulane Ave # T4m2,New Orleans,LA,(503) 442-3058,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,1542 Tulane Ave,29.955961,-90.0786874
+Lendnation,Meng,Lee,6908 Highway 182 E,Morgan City,LA,(985) 384-9690,Payday Loans,Payday Loans,Check Cashing Service,"$479,000 ",Morgan City,6908 Highway 182 E,,
+Nails Couture,Han,Lee,1915 Hickory Ave # C,New Orleans,LA,(504) 737-2200,Manicuring,Manicuring,,"$115,000 ",New Orleans,1915 Hickory Ave,,
+Perfect Nail,Hieu,Lee,2055 E Madison Ave,Bastrop,LA,(318) 281-0068,Manicuring,Manicuring,,"$110,000 ",Monroe,2055 E Madison Ave,32.777705,-91.886987
+Q Lee Laundry & Cleaners,Quong,Lee,1629 Basin St,New Orleans,LA,(504) 523-8615,Cleaners,Cleaners,Laundries,"$659,000 ",New Orleans,1629 Basin St,29.9589313,-90.0707184
+Queen Nails,Nam,Lee,5027 Shreveport Hwy,Pineville,LA,(318) 640-1740,Manicuring,Manicuring,,"$136,000 ",Alexandria,5027 Shreveport Hwy,31.3442244,-92.4317665
+Square One,Bat,Lee,701 Poydras St # 122,New Orleans,LA,(504) 323-9884,Restaurants,Restaurants,,"$190,000 ",New Orleans,701 Poydras St,29.9502763,-90.07079825
+VIP Nails,Nhan,Lee,17650 Highland Rd # F,Baton Rouge,LA,(225) 751-6080,Manicuring,Manicuring,Beauty Salons,"$150,000 ",Baton Rouge,17650 Highland Rd,30.4046915,-91.1736487
+King Mart,Poksunim,Im,120 Polk St # B,Mansfield,LA,(318) 872-6749,Department Stores,Department Stores,Tools-New & Used,"$88,000 ",Shreveport,120 Polk St,32.03765171,-93.69139594
+Joy Beauty & Fashion,Mike,Yim,300 N Main St,Saint Martinville,LA,(337) 394-3393,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$2,285,000 ",Lafayette,300 N Main St,30.126532,-91.828317
+Louisiana Dental Ctr,Deborah J,Yim,9020 W Judge Perez Dr,Chalmette,LA,(504) 277-4401,Dentists,Dentists,,"$673,000 ",New Orleans,9020 W Judge Perez Dr,29.94952659,-89.97213653
+Milano's Pizza,Donna,Yim,3002 Cleary Ave,Metairie,LA,(504) 780-7500,Pizza,Pizza,Restaurants,"$149,000 ",New Orleans,3002 Cleary Ave,30.0011314,-90.1725634
+Yim Michael T MD,Michael T,Yim,1501 Kings Hwy,Shreveport,LA,(318) 675-6262,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Shreveport,1501 Kings Hwy,32.4748575,-93.76614066
+"Yim, Deborah J Dmd",Deborah J,Yim,3301 Kingman St # 1,Metairie,LA,Not Available,Dentists,Dentists,,"$514,000 ",New Orleans,3301 Kingman St,30.005229,-90.180619
+Jang Albert MD,Albert,Jang,1430 Tulane Ave # Sl-50,New Orleans,LA,(504) 988-5263,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,1430 Tulane Ave,29.9552192,-90.0767349
+"Jang, Jessica T MD",Jessica T,Jang,1346 Lindberg Dr # 7,Slidell,LA,(985) 646-1580,Physicians & Surgeons,Physicians & Surgeons,,"$686,000 ",New Orleans,1346 Lindberg Dr,30.28362792,-89.75414361
+"Jang, Lianne",Lianne,Jang,2570 Barataria Blvd,Marrero,LA,(504) 341-0005,Pharmacists,Pharmacists,,"$71,000 ",New Orleans,2570 Barataria Blvd,29.855942,-90.10521205
+Lake After Hours,James J,Jang,12525 Perkins Rd,Baton Rouge,LA,(225) 819-8857,Physicians & Surgeons,Physicians & Surgeons,,"$567,000 ",Baton Rouge,12525 Perkins Rd,30.37050545,-91.07852192
+"Jeon, Hoonbae MD",Hoonbae,Jeon,1415 Tulane Ave # 6,New Orleans,LA,(504) 988-5110,Physicians & Surgeons,Physicians & Surgeons,,"$685,000 ",New Orleans,1415 Tulane Ave,29.9558617,-90.07629325
+Parish Cleaners,Shil,Jeon,70325 Highway 1077,Covington,LA,(985) 845-1515,Cleaners,Cleaners,,"$112,000 ",New Orleans,70325 Highway 1077,,
+Sunshine Cleaners,Sung,Jeon,2165 Gause Blvd W # 3,Slidell,LA,(985) 726-0908,Cleaners,Cleaners,,"$112,000 ",New Orleans,2165 Gause Blvd W,30.30236727,-89.82353022
+Korean Baptist Chr-Baton Rouge,Misung,Jun,264 Burgin Ave,Baton Rouge,LA,(225) 768-7700,Churches,Churches,,$0 ,Baton Rouge,264 Burgin Ave,30.39407663,-91.15784118
+Big Easy T-Shirt Co,Joseph,Chon,600 Decatur St,New Orleans,LA,(504) 524-4729,T-Shirts-Retail,T-Shirts-Retail,Clothing-Used,"$297,000 ",New Orleans,600 Decatur St,29.9556718,-90.0631003
+Lafayette Korean Church,Kyung R,Chon,219 W Broussard Rd,Lafayette,LA,(337) 981-3646,Churches,Churches,,$0 ,Lafayette,219 W Broussard Rd,30.16142041,-92.09873294
+724 LLC,Kyung,Jeong,601 Main St,La Place,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,601 Main St,27.9908139,-82.7032159
+Hair City Beauty Supply,Jay,Jeong,401 S Vienna St,Ruston,LA,(318) 255-0470,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$591,000 ",Ruston,401 S Vienna St,32.525522,-92.638209
+Mary Lee Donuts,Misook,Jeong,625 S Burnside Ave # 1,Gonzales,LA,(225) 647-0200,Doughnuts,Doughnuts,,"$100,000 ",Baton Rouge,625 S Burnside Ave,30.22902882,-90.920567
+Mom's Seafood & Deli,Tae,Jeong,1792 N Foster Dr,Baton Rouge,LA,(225) 923-8286,Restaurants,Restaurants,,"$105,000 ",Baton Rouge,1792 N Foster Dr,30.46511863,-91.13953367
+P O K A Industries Inc,Myungsub,Jeong,1330 W Mcneese St # 10305,Lake Charles,LA,Not Available,Manufacturers,Manufacturers,,"$163,000 ",Lake Charles,1330 W Mcneese St,30.17620186,-93.23944941
+724 LLC,Da,Jung,601 Main St,La Place,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,601 Main St,27.9908139,-82.7032159
+Red River Seafood Distr LLC,Dong,Jung,3040 Knolin Dr,Bossier City,LA,Not Available,Seafood-Wholesale,Seafood-Wholesale,,"$6,380,000 ",Shreveport,3040 Knolin Dr,32.5255449,-93.6922543
+Beauty Mart,Janis,Chung,526 N Washington St,Bastrop,LA,(318) 281-1100,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$191,000 ",Monroe,526 N Washington St,32.7953558,-91.9091677
+Boiling Pot,Anthony,Chung,3868 Gentilly Blvd,New Orleans,LA,(504) 518-6354,Restaurants,Restaurants,Convenience Stores,"$127,000 ",New Orleans,3868 Gentilly Blvd,30.00284131,-90.0461837
+Casa Margarita,Shu Wei,Chung,1407 The Blvd,Rayne,LA,(337) 393-2866,Restaurants,Restaurants,,"$296,000 ",Lafayette,1407 The Blvd,30.25019443,-92.26985111
+Chung Vam Pham MD,Vam P,Chung,120 Ochsner Blvd # 110,Gretna,LA,(504) 595-8310,Physicians & Surgeons,Physicians & Surgeons,,$0 ,New Orleans,120 Ochsner Blvd,,
+"Chung, Betty M Do",Betty M,Chung,1514 Jefferson Hwy,New Orleans,LA,(504) 842-3330,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,1514 Jefferson Hwy,29.9610677,-90.14567367
+David's Auto Repair,Hoi,Chung,13399 Florida Blvd,Baton Rouge,LA,(225) 275-1675,Automobile Repairing & Service,Automobile Repairing & Service,,"$358,000 ",Baton Rouge,13399 Florida Blvd,30.4623561,-91.0364993
+Diamond Seafood,Tom,Chung,2905 W 70th St,Shreveport,LA,(318) 688-8777,Restaurants,Restaurants,,"$333,000 ",Shreveport,2905 W 70th St,32.4418975,-93.785117
+Hair & Beauty Fashion Inc,Doo H,Chung,2211 Louisville Ave,Monroe,LA,(318) 398-4291,Beauty Salons,Beauty Salons,,"$51,000 ",Monroe,2211 Louisville Ave,32.5208782,-92.10164903
+Harrison 789 LLC,Ting Chiu,Chung,789 Harrison Ave,New Orleans,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,789 Harrison Ave,30.0048083,-90.1058868
+Louisiana Computer Corp,Alex,Chung,3500 N Hullen St # 16,Metairie,LA,(504) 218-5960,Maintenance Contractors,Maintenance Contractors,Computer & Equipment Dealers,"$1,571,000 ",New Orleans,3500 N Hullen St,30.0119347,-90.1585367
+Obesity Surgery Ctr,Keith,Chung,4150 Nelson Rd # B6,Lake Charles,LA,(337) 433-1303,Physicians & Surgeons,Physicians & Surgeons,,"$811,000 ",Lake Charles,4150 Nelson Rd,30.18142671,-93.24940888
+Southwest Key Programs,Melody,Chung,201b S Walnut St,Tallulah,LA,(318) 680-0033,Social Service & Welfare Organizations,Social Service & Welfare Organizations,,"$376,000 ",,201b S Walnut St,32.4032056,-91.1948365
+US Air Force 2nd Medical Group,Jack K,Chung,243 Curtiss Rd # 100,Barksdale AFB,LA,(318) 456-6124,Dentists,Dentists,,"$267,000 ",Shreveport,243 Curtiss Rd,,
+Episcopal School-Baton Rouge,Dion,Cheong,3200 Woodland Ridge Blvd,Baton Rouge,LA,(225) 753-3180,Schools,Schools,Federal Government Contractors,$0 ,Baton Rouge,3200 Woodland Ridge Blvd,30.4234737,-91.0364857
+Picture People,Mo,Cheong,5919 Bluebonnet Blvd,Baton Rouge,LA,(225) 394-2611,Photographers-Portrait,Photographers-Portrait,Services NEC,"$566,000 ",Baton Rouge,5919 Bluebonnet Blvd,30.39427966,-91.08651529
+"Jo, Jeannie Y Dpm",Jeannie Y,Jo,1014 Saint Clair Blvd # 3015,Gonzales,LA,(225) 745-5500,Podiatrists,Podiatrists,,"$333,000 ",Baton Rouge,1014 Saint Clair Blvd,,
+New Cleaners,Moho,Jo,979 E Boston St,Covington,LA,(985) 867-9792,Cleaners,Cleaners,,"$112,000 ",New Orleans,979 E Boston St,30.4769092,-90.0868939
+Algiers Development District,Peter L,Cho,2500 General Meyer Ave,New Orleans,LA,(504) 367-3331,Industrial Developments,Industrial Developments,,"$772,000 ",New Orleans,2500 General Meyer Ave,29.944146,-90.031176
+Beauty Plus,Hye,Cho,806 Main St,Baker,LA,(225) 771-1104,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$147,000 ",Baton Rouge,806 Main St,30.58283483,-91.16905101
+Deca335 Master Tenant LLC,Simon,Cho,828 Canal St,New Orleans,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,828 Canal St,29.95414136,-90.07011062
+Eco CS Corp,Jaehwi,Cho,3251 Manhattan Blvd # B,Harvey,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,3251 Manhattan Blvd,29.8616499,-90.0465279
+First United Methodist Church,Sung Woo,Cho,202 N 5th St,Leesville,LA,(337) 239-3828,Churches,Churches,,$0 ,Ft Polk S,202 N 5th St,31.14408456,-93.26389712
+Gigu Restaurant,Dongsoo,Cho,4620 Veterans Memorial Blvd,Metairie,LA,(504) 872-9992,Restaurants,Restaurants,,"$298,000 ",New Orleans,4620 Veterans Memorial Blvd,30.0047223,-90.18681905
+H&R Block,Eun,Cho,7020 Vetrns Meml Blvd # 11a,Metairie,LA,(504) 832-7717,Tax Return Preparation & Filing,Tax Return Preparation & Filing,Financial Advisory Services,"$464,000 ",New Orleans,7020 Vetrns Meml Blvd,,
+Korean Baptist Chr-Baton Rouge,Young,Cho,264 Burgin Ave,Baton Rouge,LA,(225) 768-7700,Churches,Churches,,$0 ,Baton Rouge,264 Burgin Ave,30.39407663,-91.15784118
+Leesville Korean United Mthdst,Sung Woo,Cho,151 Kvvp Dr,Leesville,LA,(337) 537-5977,Churches,Churches,,$0 ,Ft Polk S,151 Kvvp Dr,,
+Mag 301 Developer LLC,Simon,Cho,828 Canal St,New Orleans,LA,Not Available,Real Estate,Real Estate,,"$416,000 ",New Orleans,828 Canal St,29.95414136,-90.07011062
+New Cleaners,Jae,Cho,3251 Manhattan Blvd # 4,Harvey,LA,(504) 368-2690,Cleaners,Cleaners,,"$684,000 ",New Orleans,3251 Manhattan Blvd,29.8616499,-90.0465279
+North Oaks Physical Medicine,Dong,Cho,2101 Robin Ave # 14,Hammond,LA,(985) 230-1860,Physicians & Surgeons,Physicians & Surgeons,,"$435,000 ",Hammond,2101 Robin Ave,30.48522434,-90.48346547
+Pop D'Art LLC,Veronica,Cho,334 Carondelet St # B,New Orleans,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,334 Carondelet St,29.9509791,-90.0713904
+S T N D R D A C LLC,Simon,Cho,828 Canal St,New Orleans,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,828 Canal St,29.95414136,-90.07011062
+Sports Plus,Simon,Cho,828 Canal St,New Orleans,LA,(504) 529-3211,Shoes-Retail,Shoes-Retail,,"$1,194,000 ",New Orleans,828 Canal St,29.95414136,-90.07011062
+Sung Rai-Cato Inc,Sungrai,Cho,2003 Metairie Rd,Metairie,LA,(504) 833-8400,Women's Apparel-Retail,Women's Apparel-Retail,,"$465,000 ",New Orleans,2003 Metairie Rd,29.9856837,-90.1450533
+Tam's Nails,Kevin,Cho,2515 Oneal Ln,Baton Rouge,LA,(225) 755-8877,Manicuring,Manicuring,,"$60,000 ",Baton Rouge,2515 Oneal Ln,,
+Tidy Building Svc,Charles,Cho,609 W Wilam David Pkwy # 202,Metairie,LA,(504) 838-9843,Janitor Service,Janitor Service,,"$528,000 ",New Orleans,609 W Wilam David Pkwy,,
+Winn Community Dental Ctr,Jun Sang,Cho,425 W Lafayette St,Winnfield,LA,(318) 302-3261,Dentists,Dentists,,"$348,000 ",,425 W Lafayette St,31.92487833,-92.64258608
+Jeenola Tech Svc LLC,Norman,Jee,111 Golfview Ln,Covington,LA,Not Available,Services NEC,Services NEC,,"$800,000 ",New Orleans,111 Golfview Ln,,
+Sam Wing Cleaners & Laundry,Dennis S,Jee,3018 Elysian Fields Ave,New Orleans,LA,(504) 949-8186,Cleaners,Cleaners,,"$293,000 ",New Orleans,3018 Elysian Fields Ave,29.9892849,-90.0588789
+Pie Italian,Jim,Ji,15540 George Oneal Rd,Baton Rouge,LA,(225) 292-4744,Restaurants,Restaurants,Pizza,"$158,000 ",Baton Rouge,15540 George Oneal Rd,30.4070893,-91.003887
+Houying,Houying,Jin,10404 Coursey Blvd,Baton Rouge,LA,(225) 296-8018,Restaurants,Restaurants,,"$105,000 ",Baton Rouge,10404 Coursey Blvd,30.41777769,-91.06676759
+New China,Lin,Jin,2732 W 70th St,Shreveport,LA,(318) 631-2551,Restaurants,Restaurants,,"$48,000 ",Shreveport,2732 W 70th St,32.44210887,-93.78215171
+Sushi Village,Huo Ying,Jin,10404 Coursey Blvd,Baton Rouge,LA,(225) 296-8017,Restaurants,Restaurants,,"$420,000 ",Baton Rouge,10404 Coursey Blvd,30.41777769,-91.06676759
+Hilton Garden Inn-New Orleans,Peter,Cha,1001 S Peters St,New Orleans,LA,(504) 525-0044,Hotels & Motels,Hotels & Motels,Marine Transportation Consultants,"$8,760,000 ",New Orleans,1001 S Peters St,29.941518,-90.065836
+Sagewood Hospitality LLC,Alan,Cha,300 Arena Rd,Sulphur,LA,(337) 532-7802,Hotel & Motel Management,Hotel & Motel Management,,"$60,624,000 ",Lake Charles,300 Arena Rd,,
+J & A Jewelry LLC,Ju A,Chae,5905 Florida Blvd,Baton Rouge,LA,Not Available,Jewelers-Retail,Jewelers-Retail,,"$560,000 ",Baton Rouge,5905 Florida Blvd,30.45126886,-91.12993841
+Cane Rio Cafe,Jessica,Choe,105 Church St,Natchitoches,LA,(318) 238-3555,Restaurants,Restaurants,Bakers-Retail,"$304,000 ",Natchitoches,105 Church St,31.7608248,-93.0864519
+"Choe, Stephen",Stephen,Choe,7223 Mississippi Avenue # 1561,Fort Polk,LA,(337) 531-2121,Dentists,Dentists,,$0 ,Ft Polk S,7223 Mississippi Avenue,31.038642,-93.211207
+Daewoo Logistics New Orleans,Bong,Choe,4741 Utica St # 104,Metairie,LA,Not Available,Logistics Consulting Services,Logistics Consulting Services,,"$725,000 ",New Orleans,4741 Utica St,30.0005896,-90.1883825
+Ella Unkyong Choe MD,Ella U,Choe,2500 Belle Chasse Hwy,Terrytown,LA,(504) 595-8030,Physicians & Surgeons,Physicians & Surgeons,,"$462,000 ",New Orleans,2500 Belle Chasse Hwy,29.88431565,-90.02733387
+Mary Lee Donuts,Young Sup,Choe,14501 Plank Rd,Baker,LA,(225) 774-9696,Doughnuts,Doughnuts,Automobile Inspection Stations-New/Used,"$126,000 ",Baton Rouge,14501 Plank Rd,30.578628,-91.127293
+New Cleaners,Young H,Choe,5952 Magazine St,New Orleans,LA,(504) 899-6901,Cleaners,Cleaners,,"$147,000 ",New Orleans,5952 Magazine St,29.92181861,-90.12060469
+Smoothie Time LLC,June,Choe,1401 Westbank Expy # 103,Westwego,LA,Not Available,Restaurants,Restaurants,,"$298,000 ",New Orleans,1401 Westbank Expy,29.8997925,-90.1470798
+Ankor E & P Holdings Corp,Jongweon,Choi,1615 Poydras St # 2000,New Orleans,LA,(504) 587-6500,Oil & Gas Producers,Oil & Gas Producers,,"$8,229,000 ",New Orleans,1615 Poydras St,29.9528584,-90.0799198
+Choi Construction LLC,John Jong,Choi,4626 Nelson Rd,Lake Charles,LA,Not Available,Construction Companies,Construction Companies,,"$563,000 ",Lake Charles,4626 Nelson Rd,30.17439335,-93.24924916
+Choi Enterprises LLC,Nak,Choi,1409 E 70th St # 109,Shreveport,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,1409 E 70th St,32.4419997,-93.7486057
+"Choi, Jee Eun",Jee Eun,Choi,916 N Pine St,Deridder,LA,(857) 360-8841,Pharmacists,Pharmacists,,"$43,000 ",DE Ridder,916 N Pine St,30.85970008,-93.28817647
+E C S K LLC,Eunhee,Choi,4901 Medical Dr,Bossier City,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Shreveport,4901 Medical Dr,32.462052,-93.66755388
+Ebony Beauty Supply & Clothes,Sang Soon,Choi,2632 Hollywood Ave,Shreveport,LA,(318) 621-9646,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$376,000 ",Shreveport,2632 Hollywood Ave,32.45655773,-93.77789298
+Exceptional Client Care Svc,Jenny,Choi,835 Margaret Pl,Shreveport,LA,(318) 221-1161,Home Health Service,Home Health Service,Health Care Instruction,"$10,485,000 ",Shreveport,835 Margaret Pl,32.49593637,-93.74706304
+Hi Style,Myung,Choi,5943 Lapalco Blvd,Marrero,LA,(504) 348-0060,Women's Apparel-Retail,Women's Apparel-Retail,,"$619,000 ",New Orleans,5943 Lapalco Blvd,29.8736873,-90.1101019
+Master Choi's Tae KWON Do,Jong,Choi,1415 E Prien Lake Rd,Lake Charles,LA,(337) 477-8080,Martial Arts Instruction,Martial Arts Instruction,,"$249,000 ",Lake Charles,1415 E Prien Lake Rd,30.19832971,-93.20121129
+Master Chol Tae Kwondo Inst,Jong,Choi,3400 Maplewood Dr,Sulphur,LA,(337) 625-6788,Martial Arts Instruction,Martial Arts Instruction,,"$125,000 ",Lake Charles,3400 Maplewood Dr,30.22762,-93.338531
+New Orleans Crawfish,Jihee,Choi,7481 Park Ave,Houma,LA,(985) 876-5774,Restaurants,Restaurants,Foods-Carry Out,"$485,000 ",Houma-Bayou,7481 Park Ave,29.59813645,-90.72339064
+Papaya Clothing,Kelly,Choi,350 Boardwalk Blvd,Bossier City,LA,(318) 742-4800,Clothing-Retail,Clothing-Retail,Women's Apparel-Retail,"$438,000 ",Shreveport,350 Boardwalk Blvd,32.5186433,-93.7372019
+Procter & Gamble Co,Paul,Choi,3701 Monroe Hwy,Pineville,LA,(318) 640-2800,Soaps & Detergents-Manufacturers,Soaps & Detergents-Manufacturers,Paper-Manufacturers,"$485,677,000 ",Alexandria,3701 Monroe Hwy,31.341844,-92.4327656
+Sne LLC,Anthony,Choi,310 W Highway 30,Gonzales,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,310 W Highway 30,,
+V & P Seafood Deli,Gile,Choi,3055 Florida St,Baton Rouge,LA,(225) 336-9931,Seafood-Retail,Seafood-Retail,Convenience Stores,"$545,000 ",Baton Rouge,3055 Florida St,30.449283,-91.1893354
+KOBE Japanese Restaurant,Jin,Tae,535 Benton Rd,Bossier City,LA,(318) 742-5623,Restaurants,Restaurants,Caterers,"$478,000 ",Shreveport,535 Benton Rd,32.52226538,-93.7161152
+1906 Josephine Street LLC,Quan,Ha,1119 Terpsichore St,New Orleans,LA,Not Available,Offices & Clinics Of Doctors-Osteopathy,Offices & Clinics Of Doctors-Osteopathy,,$0 ,New Orleans,1119 Terpsichore St,29.9365182,-90.0723795
+Aden & Sarah Inc,Mung Thi,Ha,5081 Dueling Oaks Ave,Marrero,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,New Orleans,5081 Dueling Oaks Ave,29.8711484,-90.10153118
+AJM Nails LLC,Sandy,Ha,620 Nabours St,Many,LA,Not Available,Manicuring,Manicuring,,"$44,000 ",,620 Nabours St,31.5671866,-93.49018479
+Bac Of New Orleans,Tuyet Thi,Ha,13900 Chef Menteur Hwy,New Orleans,LA,(504) 254-0207,Automobile Body-Repairing & Painting,Automobile Body-Repairing & Painting,,"$225,000 ",New Orleans,13900 Chef Menteur Hwy,30.03523765,-89.91461434
+Brew N' Brows LLC,Jenny,Ha,312 S Domingue Ave,Lafayette,LA,Not Available,Brewers (Mfrs),Brewers (Mfrs),,$0 ,Lafayette,312 S Domingue Ave,30.192661,-92.08361833
+Colors Nailspa LLC,Tuyet,Ha,1722 E 70th St,Shreveport,LA,Not Available,Manicuring,Manicuring,,"$117,000 ",Shreveport,1722 E 70th St,32.44355287,-93.71729427
+D & T Nails,Cuc,Ha,503 W Oak St,Amite,LA,(985) 747-8700,Manicuring,Manicuring,Hair Removing,"$80,000 ",Hammond,503 W Oak St,30.7266385,-90.5105797
+Ha Kim Ninh OD,Kim N,Ha,105 Medical Center Dr # 202,Slidell,LA,(985) 639-3777,Optometrists OD,Optometrists OD,,$0 ,New Orleans,105 Medical Center Dr,30.28750676,-89.74560627
+Ha Ninh OD,Ninh,Ha,105 Medical Center Dr # 202,Slidell,LA,(866) 624-7637,Ophthalmologists,Ophthalmologists,Physicians & Surgeons,"$686,000 ",New Orleans,105 Medical Center Dr,30.28750676,-89.74560627
+Ha Trong Ky DC,Trong K,Ha,2926 Canal St,New Orleans,LA,(504) 821-1500,Chiropractors DC,Chiropractors DC,,$0 ,New Orleans,2926 Canal St,29.96710385,-90.09033965
+"Ha, Andrew Dpm",Andrew,Ha,1514 Jefferson Hwy,New Orleans,LA,(601) 818-7611,Podiatrists,Podiatrists,,"$489,000 ",New Orleans,1514 Jefferson Hwy,29.9610677,-90.14567367
+Harry Quick Stop Inc,Hoang T,Ha,18356 River Rd,La Place,LA,(985) 651-7110,Service Stations-Gasoline & Oil,Service Stations-Gasoline & Oil,Convenience Stores,"$2,142,000 ",New Orleans,18356 River Rd,26.6662059,-81.8830401
+Johnny Ha LLC,Johnny,Ha,2100 Federal Ave,Morgan City,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Morgan City,2100 Federal Ave,29.712876,-91.214364
+K D Seafood LLC,Johnny,Ha,1227 N University Ave,Lafayette,LA,(337) 504-4775,Seafood-Retail,Seafood-Retail,,"$488,000 ",Lafayette,1227 N University Ave,30.24624265,-92.03372963
+Katy's Cleaners,Tony,Ha,4041 Williams Blvd # B9,Kenner,LA,(504) 443-3952,Cleaners,Cleaners,,"$171,000 ",New Orleans,4041 Williams Blvd,30.0289558,-90.2391201
+L T Yacht Refinishing LLC,Cuong,Ha,4716 Ithaca St,Metairie,LA,Not Available,Yachts-Repairing (Mfrs),Yachts-Repairing (Mfrs),,"$1,082,000 ",New Orleans,4716 Ithaca St,30.01230445,-90.19058258
+Phuong Trang Ha LLC,Phuong T,Ha,3151 College Dr,Baton Rouge,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Baton Rouge,3151 College Dr,30.4174584,-91.1421871
+Quynh Tam LLC,Quan,Ha,1119 Terpsichore St,New Orleans,LA,Not Available,Offices & Clinics Of Doctors-Osteopathy,Offices & Clinics Of Doctors-Osteopathy,,$0 ,New Orleans,1119 Terpsichore St,29.9365182,-90.0723795
+Tuyetha LLC,Nhutuyet,Ha,27853 Juban Rd # 120,Denham Springs,LA,Not Available,Attorneys,Attorneys,,"$499,000 ",Baton Rouge,27853 Juban Rd,30.464192,-90.9174457
+Vina Alterations,Hoa,Ha,5905 Johnston St,Lafayette,LA,(337) 981-7755,Alterations-Clothing,Alterations-Clothing,,"$101,000 ",Lafayette,5905 Johnston St,30.1684436,-92.08248281
+Beauty Depot,Taenja,Han,1508 Lapalco Blvd,Harvey,LA,(504) 367-3550,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$583,000 ",New Orleans,1508 Lapalco Blvd,29.87662315,-90.04628986
+Christie Nails,C,Han,3335 Williams Blvd,Kenner,LA,(504) 443-5013,Manicuring,Manicuring,,"$39,000 ",New Orleans,3335 Williams Blvd,30.0170434,-90.2400788
+"Han, Sanghoon",Sanghoon,Han,120 N Highway 171,Lake Charles,LA,(337) 855-4848,Pharmacists,Pharmacists,,"$72,000 ",Lake Charles,120 N Highway 171,,
+Hanameel LLC,Donghee,Han,805 Wilshire Blvd # C,Metairie,LA,Not Available,Attorneys,Attorneys,,"$603,000 ",New Orleans,805 Wilshire Blvd,30.00553163,-90.12981086
+Pelican Cleaners,Jenny,Han,6473 Highway 44 # 109,Gonzales,LA,(225) 474-0068,Cleaners,Cleaners,,"$150,000 ",Baton Rouge,6473 Highway 44,,
+Pelican Cleaners,Jin,Han,14028 Highway 73,Prairieville,LA,(225) 673-8676,Cleaners,Cleaners,,"$150,000 ",Baton Rouge,14028 Highway 73,,
+Walgreens,Rebecca,Han,1111 Medical Center Blvd,Marrero,LA,(504) 349-6185,Pharmacies,Pharmacies,Variety Stores,"$1,523,000 ",New Orleans,1111 Medical Center Blvd,29.8913466,-90.0958567
+Yinghan Enterprise LLC,Ying,Han,3905 Ryan St,Lake Charles,LA,(337) 477-1755,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Lake Charles,3905 Ryan St,30.18726114,-93.21848676
+Yoshi LLC,Ying,Han,149 W Prien Lake Rd,Lake Charles,LA,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Lake Charles,149 W Prien Lake Rd,30.1979572,-93.2411333
+Yummy Sushi,Seongsu,Han,416 Homer Rd,Minden,LA,(318) 299-3848,Restaurants,Restaurants,,"$200,000 ",Minden,416 Homer Rd,32.6214327,-93.2723986
+Louisiana State University,Jong,Ham,114 Courthouse St,Breaux Bridge,LA,(337) 332-2181,University-College Dept/Facility/Office,University-College Dept/Facility/Office,,$0 ,Lafayette,114 Courthouse St,30.27415601,-91.90062613

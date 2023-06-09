@@ -1,0 +1,627 @@
+Company Name,Executive First Name,Executive Last Name,Address,City,State,Phone Number Combined,Primary SIC Description,SIC Code 1 Description,SIC Code 2 Description,Location Sales Volume Actual,Metro Area 1,Address1,lat,lon
+Exotic Wings Chicken & Things,Chong,Kang,1254 Center Point Pkwy,Birmingham,AL,(205) 856-2900,Restaurants,Restaurants,,"$345,000 ",Birmingham,1254 Center Point Pkwy,33.61667625,-86.68605488398737
+Huntsville Hospital Physician,Heeeun,Kang,44 Hughes Rd # 1200,Madison,AL,(256) 265-5970,Physicians & Surgeons,Physicians & Surgeons,,"$734,000 ",Huntsville,44 Hughes Rd,34.691088,-86.735355
+Lotte Chemical,Richard,Kang,765 W Veterans Blvd,Auburn,AL,(334) 826-0094,Chemicals-Manufacturers,Chemicals-Manufacturers,,"$632,000 ",Auburn-Oplka,765 W Veterans Blvd,32.561259,-85.509341
+Mccorquodale Transfer Inc,Dong,Kang,2714 2nd Ave N,Birmingham,AL,(205) 969-0113,Storage-Household & Commercial,Storage-Household & Commercial,Delivery Service,"$10,820,000 ",Birmingham,2714 2nd Ave N,33.52135,-86.793737
+One Solutions,Min,Kang,36 Samford Ave # D,Opelika,AL,(334) 737-6026,Personnel Consultants,Personnel Consultants,Employment Agencies & Opportunities,"$142,000 ",Auburn-Oplka,36 Samford Ave,32.65778337622675,-85.37238697773275
+Oriental Food & Gifts Of Choi,Wol,Kang,402 Jordan Ln NW,Huntsville,AL,(256) 533-9118,Oriental Goods,Oriental Goods,Grocers-Retail,"$125,000 ",Huntsville,402 Jordan Ln NW,34.7243624,-86.6270196
+Seung San Pack,Matthew,Kang,3840 Lower Wetumpka Rd,Montgomery,AL,(334) 386-2891,Boxes-Paper (Mfrs),Boxes-Paper (Mfrs),,"$11,297,000 ",Montgomery,3840 Lower Wetumpka Rd,32.43092521212121,-86.28097777777778
+Smart Alabama LLC,Ho,Kang,121 Shin Young Dr,Luverne,AL,(334) 335-5800,Metal Goods-Manufacturers,Metal Goods-Manufacturers,Automobile-Manufacturers,"$1,312,000 ",,121 Shin Young Dr,,
+Syscon Construction Co,Diane,Kang,1755 E Blue Birds,Montgomery,AL,(334) 281-1520,General Contractors,General Contractors,,"$10,429,000 ",Montgomery,1755 E Blue Birds,,
+Tokyo Japanese Steakhouse-Ssh,Koo,Kang,1105 Wayne Rd NW,Huntsville,AL,(256) 217-1719,Restaurants,Restaurants,,"$1,017,000 ",Huntsville,1105 Wayne Rd NW,34.745675,-86.677942
+"Go, Rommel MD",Rommel,Go,423 Blount Ave,Guntersville,AL,Not Available,Physicians & Surgeons,Physicians & Surgeons,,"$936,000 ",Albertville,423 Blount Ave,34.358759,-86.292837
+Marshall Medical Ctr,Rommel C,Go,603 Medical Center Pkwy,Boaz,AL,(256) 558-6000,Physicians & Surgeons,Physicians & Surgeons,,"$936,000 ",Albertville,603 Medical Center Pkwy,34.2186707,-86.1606977
+Hyundia Steel,Kanghee,Ko,200 Team Member Ln,Greenville,AL,(334) 382-9101,Trucking-Motor Freight,Trucking-Motor Freight,Steel Products (Whls),"$17,376,000 ",,200 Team Member Ln,,
+Nori Thai & Sushi Restaurant,Chi,Ko,4704 Cahaba River Rd,Vestavia,AL,(205) 970-7570,Restaurants,Restaurants,,"$345,000 ",Birmingham,4704 Cahaba River Rd,33.449983,-86.741348
+Seoul Oriental Groceries,Miong,Ko,7908 Memorial Pkwy SW,Huntsville,AL,(256) 650-5911,Oriental Goods,Oriental Goods,,"$125,000 ",Huntsville,7908 Memorial Pkwy SW,34.662163,-86.571204
+Sca Inc,Woo,Koh,764 W Veterans Blvd,Auburn,AL,(334) 887-6720,Plastics-Products-Retail,Plastics-Products-Retail,,"$298,000 ",Auburn-Oplka,764 W Veterans Blvd,32.561259,-85.509341
+Wig Master,Don,Koh,7201 Aaron Aronov Dr # 18,Fairfield,AL,(205) 929-9997,Wigs Toupees & Hairpieces,Wigs Toupees & Hairpieces,Caps & Hats-Retail,"$377,000 ",Birmingham,7201 Aaron Aronov Dr,33.466011800000004,-86.91213603581332
+Bae Systems Plc,Lisa,Kong,2101 W 10th St,Anniston,AL,(256) 237-2841,Aerospace Industries (Mfrs),Aerospace Industries (Mfrs),Steel Works/Blast Furnaces/Rolling Mills,"$115,134,000 ",Anniston,2101 W 10th St,33.657027,-85.857089
+Daylight Donuts,Narein,Kong,609 Highland Ave,Selma,AL,(334) 327-6264,Doughnuts,Doughnuts,Coffee Shops,"$73,000 ",Selma,609 Highland Ave,32.43128087007569,-87.03193321507844
+Massage Wellness,Ciayua,Kong,3108 Airport Blvd,Mobile,AL,(251) 607-6657,Massage Therapists,Massage Therapists,,"$142,000 ",Mobile,3108 Airport Blvd,30.676375159752382,-88.11478114442616
+"KWAK, Young J MD",Young J,Kwak,1720 2nd Ave S # Efh414,Birmingham,AL,(205) 975-6415,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,1720 2nd Ave S,33.5117738,-86.8013892
+Mando America Corp,Tae,Kwak,4200 N Park Dr,Opelika,AL,(334) 737-3899,Alternators & Generators-Automotive-Mfrs,Alternators & Generators-Automotive-Mfrs,Automobile Parts & Supplies-Retail-New,"$70,183,000 ",Auburn-Oplka,4200 N Park Dr,,
+Vestavia Country Club,Yoon,Kwak,400 Beaumont Dr,Vestavia Hills,AL,(205) 823-2451,Clubs,Clubs,Restaurants,"$15,780,000 ",Birmingham,400 Beaumont Dr,33.45382,-86.772775
+Chowel Weldparts,James,Koo,5826 Montgomery Hwy,Luverne,AL,(334) 335-3774,Welding Equipment & Supplies (Whls),Welding Equipment & Supplies (Whls),,"$43,808,000 ",,5826 Montgomery Hwy,31.716709,-86.274374
+Glovis America,Hyungjoon,Koo,300 Hyundai Blvd,Montgomery,AL,(334) 387-4200,Logistics Consulting Services,Logistics Consulting Services,Automobile Parts & Supplies-Mfrs,"$8,855,000 ",Montgomery,300 Hyundai Blvd,32.277786,-86.326186
+Caleb Construction Mgmt LLC,Emmanuel,Ku,2021 10th Ave S,Birmingham,AL,Not Available,Construction Management,Construction Management,,"$830,000 ",Birmingham,2021 10th Ave S,33.50205527965778,-86.79679842736469
+Flint River Dental,So Dam,Kwon,2246 Winchester Rd NE # 106,Huntsville,AL,(256) 859-8066,Dentists,Dentists,,"$588,000 ",Huntsville,2246 Winchester Rd NE,34.817836319397436,-86.49099412183952
+Hyundai Motor Mfg-Alabama,Chris,Kwon,700 Hyundai Blvd,Montgomery,AL,(334) 387-8000,Automobile-Manufacturers,Automobile-Manufacturers,Automobile & Truck Brokers (Whls),"$416,511,000 ",Montgomery,700 Hyundai Blvd,32.277645667256245,-86.33812842951598
+KWON Hae Yoon PT,Hae Y,Kwon,1310 Alford Ave # 102,Hoover,AL,(205) 824-8850,Physical Therapists,Physical Therapists,,$0 ,Birmingham,1310 Alford Ave,33.43327257065983,-86.82224127988077
+"KWON, Hangirl",Hangirl,Kwon,10 Veterans Memorial Pkwy,Lanett,AL,(334) 644-2807,Pharmacists,Pharmacists,,$0 ,Lagrange,10 Veterans Memorial Pkwy,32.850994,-85.2046
+L L Cleaners,Young,Kwon,100 7th St SW,Cullman,AL,(256) 734-5750,Laundries,Laundries,Pressing Machines-Clothes (Whls),"$327,000 ",Cullman,100 7th St SW,34.1688926,-86.8455251
+Sys-CON LLC,Dae,Kwon,4444 Park Blvd,Montgomery,AL,(334) 281-1520,General Contractors,General Contractors,,"$33,025,000 ",Montgomery,4444 Park Blvd,32.33477535816901,-86.23199134139021
+1day Auto Tint,John,Kim,4450 University Dr NW,Huntsville,AL,(256) 837-7804,Automotive Glass Coating & Tinting,Automotive Glass Coating & Tinting,Automobile Radio & Stereo Systs-Sls/Svc,"$220,000 ",Huntsville,4450 University Dr NW,34.73491465625,-86.63619419375
+A-Tech Dental Lab Inc,Jack,Kim,5609 Cahaba Glen Cir,Birmingham,AL,(205) 956-5070,Laboratories-Dental,Laboratories-Dental,,"$822,000 ",Birmingham,5609 Cahaba Glen Cir,,
+Adaptt Chiropractic & Wellness,John,Kim,5092 Cahaba Valley Rd,Birmingham,AL,(205) 981-8081,Health Care Facilities,Health Care Facilities,Skin Treatments,"$1,989,000 ",Birmingham,5092 Cahaba Valley Rd,33.4478561,-86.6550437
+Alabama Real Estate Solutions,Shindorf,Kim,218 S Madison St,Athens,AL,(256) 233-3400,Real Estate,Real Estate,,"$1,138,000 ",Huntsville,218 S Madison St,34.80218444897959,-86.973472
+Altadena Valley Presbyterian,Ron,Kim,4660 Caldwell Mill Rd,Vestavia,AL,(205) 967-0680,Churches,Churches,,$0 ,Birmingham,4660 Caldwell Mill Rd,33.42656683333333,-86.73571933333334
+Alterations & Designs By Hong,Hong,Kim,104 Tazewell Ct,Dothan,AL,(334) 798-3195,Alterations-Clothing,Alterations-Clothing,,"$126,000 ",Dothan,104 Tazewell Ct,31.223251308361796,-85.46521763304347
+American Deli,Jangwook,Kim,2230 Sparkman Dr NW # 300,Huntsville,AL,(256) 858-0900,Restaurants,Restaurants,Foods-Carry Out,"$204,000 ",Huntsville,2230 Sparkman Dr NW,34.76317012596164,-86.59462062123468
+American Deli,Kyong,Kim,1680 Montclair Rd # 400,Irondale,AL,(205) 956-4421,Restaurants,Restaurants,Foods-Carry Out,"$99,000 ",Birmingham,1680 Montclair Rd,33.529387,-86.712694
+American Osment,Sunny,Kim,2923 5th Ave S,Birmingham,AL,(205) 326-3456,Janitors Equipment/Supplies (Whls),Janitors Equipment/Supplies (Whls),Carpet & Rug Cleaning Equip/Supls (Whls),$0 ,Birmingham,2923 5th Ave S,33.514162408163266,-86.78863475510204
+American Osment,Sunny,Kim,1120 Emory Folmar Blvd,Montgomery,AL,(334) 269-4309,Janitors Equipment/Supplies (Whls),Janitors Equipment/Supplies (Whls),Industrial Inorganic Chmcls NEC (Mfrs),"$13,917,000 ",Montgomery,1120 Emory Folmar Blvd,32.411703107844936,-86.25723496681479
+Beauty City,Sang,Kim,10668 Chantilly Pkwy,Montgomery,AL,(334) 262-0305,Beauty Salons,Beauty Salons,Cosmetics & Perfumes-Retail,"$46,000 ",Montgomery,10668 Chantilly Pkwy,32.3647878,-86.1373485
+Beauty Land Beauty Supplies,Charles,Kim,330 S Wilson Ave,Mobile,AL,(251) 452-8484,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$1,016,000 ",Mobile,330 S Wilson Ave,30.7196514,-88.0843232
+Beauty Outlet Inc,Bak,Kim,3211 Stillman Blvd,Tuscaloosa,AL,(205) 349-1717,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$250,000 ",Tuscaloosa,3211 Stillman Blvd,33.202383,-87.578275
+Brantwood Children's Home,Herbert,Kim,1309 Upper Wetumpka Rd,Montgomery,AL,(334) 265-0784,Foster Care,Foster Care,Residential Care Homes,$0 ,Montgomery,1309 Upper Wetumpka Rd,32.38310948979592,-86.29166393877551
+C & J Tech,Yeon,Kim,145 Plant 10 Dr,Alexander City,AL,(256) 392-4290,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,,"$27,330,000 ",Alexandr Cty,145 Plant 10 Dr,,
+Cahaba Family Medicine Rsdncy,Daniel Y,Kim,405 Belcher St,Centreville,AL,(205) 926-2992,Physicians & Surgeons,Physicians & Surgeons,,"$429,000 ",Birmingham,405 Belcher St,32.9462160556731,-87.14549754575215
+Cahaba Medical Care-West,Daniel,Kim,1308 Tuscaloosa Ave SW,Birmingham,AL,(205) 679-6325,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,1308 Tuscaloosa Ave SW,,
+Cap't Loui,Haden,Kim,5510 Promenade Pont Pkwy # 195,Madison,AL,(256) 858-1388,Restaurants,Restaurants,Foods-Carry Out,$0 ,Huntsville,5510 Promenade Pont Pkwy,,
+Cej Hospitality LLC,Eun,Kim,800 Corporate Rdg,Birmingham,AL,Not Available,Hotel & Motel Management,Hotel & Motel Management,,"$563,000 ",Birmingham,800 Corporate Rdg,,
+Choi Kim & Park LLP,James,Kim,6743 Taylor Cir,Montgomery,AL,(334) 356-5550,Accountants,Accountants,,"$591,000 ",Montgomery,6743 Taylor Cir,32.34718945008163,-86.17503968993537
+Classic Cleaners,Yong,Kim,11208 Memorial Pkwy SW # A,Huntsville,AL,(256) 883-6906,Cleaners,Cleaners,Janitor Service,"$148,000 ",Huntsville,11208 Memorial Pkwy SW,34.64006666666667,-86.567036
+Daehan Solutions Alabama LLC,Bong,Kim,9101 County Road 26,Hope Hull,AL,(334) 404-5000,Insulation Contractors-Cold & Heat,Insulation Contractors-Cold & Heat,,"$20,852,000 ",Montgomery,9101 County Road 26,,
+Daewon America Inc,Gyoung,Kim,4600 N Park Dr,Opelika,AL,(334) 364-1600,Manufacturers,Manufacturers,,"$1,400,000 ",Auburn-Oplka,4600 N Park Dr,,
+Deli USA,Man,Kim,190 Greenville Byp,Greenville,AL,(334) 371-7354,Restaurants,Restaurants,,"$188,000 ",,190 Greenville Byp,31.847597654671176,-86.63673609531186
+Dongwon Autopart,Charlie,Kim,12865 Montgomery Hwy,Luverne,AL,(334) 537-5000,Automobile Parts & Supplies-Mfrs,Automobile Parts & Supplies-Mfrs,Manufacturers,"$88,186,000 ",,12865 Montgomery Hwy,31.716709,-86.274374
+E Dental PC An AL Pro Corp,David,Kim,6910 Vaughn Rd,Montgomery,AL,(334) 578-0011,Dentists,Dentists,,"$683,000 ",Montgomery,6910 Vaughn Rd,32.33930365880365,-86.19558187906848
+Eastern Shore Taekwondo Ctr,John,Kim,25478 Friendship Rd # B,Daphne,AL,(251) 621-9933,Martial Arts Instruction,Martial Arts Instruction,Karate Judo Jiu-Jitsu & Kung Fu Instr,"$161,000 ",Daphne-Frhp,25478 Friendship Rd,30.597294,-87.8773
+Elite Dentistry,Jaime,Kim,100 Chelsea Corners Way # 113,Chelsea,AL,(205) 678-2525,Dentists,Dentists,,"$132,000 ",Birmingham,100 Chelsea Corners Way,33.346698,-86.637008
+Ensley Seafood Express,Hajin,Kim,2161 Carson Rd,Birmingham,AL,(205) 815-0990,Restaurants,Restaurants,,"$148,000 ",Birmingham,2161 Carson Rd,33.64355205,-86.70688028276531
+Expert Quality Tailor,Yeongseon,Kim,7643a Highway 72 W,Madison,AL,(256) 325-1664,Tailors,Tailors,Alterations-Clothing,"$272,000 ",Huntsville,7643a Highway 72 W,,
+Express Oil Change-Tire Engrs,Lev,Kim,1930 S College St,Auburn,AL,(334) 821-2000,Automobile Repairing & Service,Automobile Repairing & Service,Tire-Dealers-Retail,"$1,113,000 ",Auburn-Oplka,1930 S College St,32.56962445,-85.5010465384477
+First Baptist Church,Gene,Kim,2100 Old Springville Rd,Center Point,AL,(205) 854-1472,Churches,Churches,,$0 ,Birmingham,2100 Old Springville Rd,33.636924,-86.660853
+Florence Medical Assoc,Wonsuck,Kim,646 Cox Creek Pkwy # A,Florence,AL,(256) 760-1771,Optometrists OD,Optometrists OD,Physicians & Surgeons,"$87,000 ",Flrnc-Msc Sh,646 Cox Creek Pkwy,34.8445342,-87.65412588430958
+Fox Army Health Ctr,Andrew C,Kim,4100 Goss Rd SW,Huntsville,AL,(256) 955-8888,Physicians & Surgeons,Physicians & Surgeons,,"$734,000 ",Huntsville,4100 Goss Rd SW,34.698737,-86.664277
+Georgia Plating Co,Jin,Kim,3509 45th St SW,Lanett,AL,(334) 576-0199,Plating (Mfrs),Plating (Mfrs),,"$2,046,000 ",Lagrange,3509 45th St SW,,
+Glencoe Public Library,Andrew,Kim,101 Main St W,Glencoe,AL,(256) 459-4285,Libraries-Public,Libraries-Public,,$0 ,Gadsden,101 Main St W,,
+Hair Plus Beauty Supply,Young,Kim,504 W Fairview Ave,Montgomery,AL,(334) 263-6800,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),,"$5,567,000 ",Montgomery,504 W Fairview Ave,32.35158440931067,-86.31533559224415
+Hanmanmus Presbyterian Church,Soo,Kim,770 Nance Rd,Madison,AL,(256) 325-6287,Churches,Churches,,$0 ,Huntsville,770 Nance Rd,34.77726600024154,-86.73181702348148
+Hanwha,Moon,Kim,4400 N Park Dr,Opelika,AL,(334) 741-7725,Importers-Automotive-Parts & Supplies,Importers-Automotive-Parts & Supplies,Automobile Parts & Supplies-Mfrs,"$138,686,000 ",Auburn-Oplka,4400 N Park Dr,,
+Happy Feet,Jong,Kim,1003 Eastdale Mall,Montgomery,AL,(334) 271-0907,Shoe & Boot Repairing,Shoe & Boot Repairing,Shoe Shining,"$108,000 ",Montgomery,1003 Eastdale Mall,,
+HSS LLC,Daniel,Kim,2520 Gunter Park Dr,Montgomery,AL,(334) 279-7782,Importers (Whls),Importers (Whls),Attorneys,"$4,324,000 ",Montgomery,2520 Gunter Park Dr,32.41563189459426,-86.23396525371541
+Hunter's Lawn Small Engine Svc,Sandra,Kim,1121 Lee Road 430,Smiths Station,AL,(334) 480-2190,Lawn Mowers-Sharpening & Repairing,Lawn Mowers-Sharpening & Repairing,,"$81,000 ",Auburn-Oplka,1121 Lee Road 430,,
+Hyundai Motor Mfg-Alabama,Jin,Kim,700 Hyundai Blvd,Montgomery,AL,(334) 387-8000,Automobile-Manufacturers,Automobile-Manufacturers,Automobile & Truck Brokers (Whls),"$416,511,000 ",Montgomery,700 Hyundai Blvd,32.277645667256245,-86.33812842951598
+International Mission Jesus,Junghoon,Kim,1712 Broad St,Selma,AL,(312) 882-5782,Churches,Churches,,$0 ,Selma,1712 Broad St,32.423351823529416,-87.024186
+Japan Cajun Grill,Allan,Kim,1001 Rainbow Dr # 77,Gadsden,AL,(256) 547-5010,Restaurants,Restaurants,,"$85,000 ",Gadsden,1001 Rainbow Dr,33.9954112,-86.00707832672354
+K Accounting & Tax LLC,Eun,Kim,213 Beaver Crst,Pelham,AL,Not Available,Accounting & Bookkeeping General Svc,Accounting & Bookkeeping General Svc,,"$261,000 ",Birmingham,213 Beaver Crst,33.334261781778004,-86.81685227369827
+K's Formal,Kyung M,Kim,2000 Riverchase Galleria,Hoover,AL,(205) 403-2842,Formal Wear-Rental,Formal Wear-Rental,Bridal Shops,"$150,000 ",Birmingham,2000 Riverchase Galleria,33.3792395,-86.8085604
+Kam's Food Mart,Iban,Kim,1846 Brownsferry St,Athens,AL,(256) 232-2311,Service Stations-Gasoline & Oil,Service Stations-Gasoline & Oil,Convenience Stores,"$1,016,000 ",Huntsville,1846 Brownsferry St,,
+KARS International,Titon S,Kim,2504 Roland Rd SW,Huntsville,AL,(256) 534-6717,Automobile Repairing & Service,Automobile Repairing & Service,Automobile Air Conditioning Equipment,"$91,000 ",Huntsville,2504 Roland Rd SW,34.71288660606061,-86.59916328282827
+Kim & Park LLC,Ji,Kim,1860 Center Point Pkwy,Birmingham,AL,Not Available,Parks,Parks,,$0 ,Birmingham,1860 Center Point Pkwy,33.6360707,-86.6842987
+Kim David Jiwoong MD,David J,Kim,2006 Franklin St SE # 200,Huntsville,AL,(256) 539-0457,Physicians & Surgeons,Physicians & Surgeons,,"$734,000 ",Huntsville,2006 Franklin St SE,34.71987371428571,-86.57691559183674
+Kim Joonseok MD,Joonseok,Kim,619 19th St S,Birmingham,AL,(205) 934-4011,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Birmingham,619 19th St S,33.505282,-86.8013356
+Kim Juyeon MD,Juyeon,Kim,2451 Univ Hospital Dr # 120,Mobile,AL,(251) 471-7786,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Mobile,2451 Univ Hospital Dr,,
+Kim Youlee Claudia,Youlee C,Kim,1235 Point Mallard Pkwy SE,Decatur,AL,(256) 898-3037,Pharmacists,Pharmacists,,$0 ,Decatur,1235 Point Mallard Pkwy SE,34.5406905,-86.9192921
+"Kim, Daniel C MD",Daniel C,Kim,3160 Center Rd # N3160,Mobile,AL,Not Available,Physicians & Surgeons,Physicians & Surgeons,,"$503,000 ",Mobile,3160 Center Rd,30.60595512121212,-88.09698924242424
+"Kim, Frank H MD",Frank H,Kim,1465 1st Ave SW # B,Jacksonville,AL,(256) 782-4377,Physicians & Surgeons,Physicians & Surgeons,,"$861,000 ",Anniston,1465 1st Ave SW,33.78634523964578,-85.76509831810785
+"Kim, Jung W MD",Jung W,Kim,1720 2nd Ave S # Sc560f,Birmingham,AL,(205) 996-0173,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,1720 2nd Ave S,33.5117738,-86.8013892
+"Kim, Jung Won MD",Jung Won,Kim,1600 7th Ave S,Birmingham,AL,(205) 939-9100,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,1600 7th Ave S,33.50468945,-86.80563534772864
+"Kim, Katie L",Katie L,Kim,4810 Whitesport Cir SW # 110,Huntsville,AL,(205) 977-9876,Physicians Assistants,Physicians Assistants,,"$67,000 ",Huntsville,4810 Whitesport Cir SW,34.6962941,-86.5717188
+"Kim, Kyuho",Kyuho,Kim,1450 N Brindlee Mountain Pkwy,Arab,AL,(256) 586-1540,Pharmacists,Pharmacists,,"$52,000 ",Albertville,1450 N Brindlee Mountain Pkwy,34.3500531,-86.5042092
+"Kim, Minyoung",Minyoung,Kim,2515 Crawford Rd,Phenix City,AL,(334) 297-3722,Pharmacists,Pharmacists,,$0 ,Columbus,2515 Crawford Rd,32.47497101569465,-85.02708222850806
+"Kim, Robert Y MD",Robert Y,Kim,2145 Bonner Way,Birmingham,AL,(205) 978-0250,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,2145 Bonner Way,,
+"Kim, Sophia",Sophia,Kim,400 Taylor Rd,Montgomery,AL,(224) 715-1032,Nurses-Registered Rn,Nurses-Registered Rn,,$0 ,Montgomery,400 Taylor Rd,32.3763995,-86.17493
+"Kim, Soyoung",Soyoung,Kim,1702 Catherine Ct # 1a,Auburn,AL,(334) 501-1081,Nurses-Practitioners,Nurses-Practitioners,Nurses-Registered Rn,$0 ,Auburn-Oplka,1702 Catherine Ct,32.61313052729592,-85.44929075781633
+"Kim, Su Hyun",Su Hyun,Kim,1725 Pine St,Montgomery,AL,(334) 293-8000,Pharmacists,Pharmacists,,"$59,000 ",Montgomery,1725 Pine St,32.3665644,-86.28477423871117
+"Kim, Sung D",Sung D,Kim,1218 13th Ave SE,Decatur,AL,(256) 351-5015,Physical Therapists,Physical Therapists,,"$114,000 ",Decatur,1218 13th Ave SE,34.58909252748415,-86.9713367719785
+"Kim, Sung D",Sung D,Kim,8475 Wann Dr,Madison,AL,(256) 704-1700,Physical Therapists,Physical Therapists,,"$67,000 ",Huntsville,8475 Wann Dr,,
+"Kim, Wesley F MD",Wesley F,Kim,701 20th Street S Ab 921,Birmingham,AL,Not Available,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,701 20th Street S Ab 921,,
+Kims Fashions & Beauty Inc,Jerry,Kim,2990 Spring Hill Ave,Mobile,AL,(251) 479-7053,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Women's Apparel-Retail,"$508,000 ",Mobile,2990 Spring Hill Ave,30.700320440677967,-88.11234055932204
+KMIN USA Inc,Harry,Kim,1055 Towel Ave,Valley,AL,(334) 756-5920,Automobile Parts & Supplies-Mfrs,Automobile Parts & Supplies-Mfrs,Manufacturers-Agents & Representatives,"$20,416,000 ",Lagrange,1055 Towel Ave,32.781188,-85.176738
+Koam Industrial Svc,Taeseok,Kim,2401 Industrial Blvd # 2,Opelika,AL,(334) 737-3279,Machine Shops (Mfrs),Machine Shops (Mfrs),,"$844,000 ",Auburn-Oplka,2401 Industrial Blvd,32.672547,-85.365366
+Korean First Baptist Church,Pyung,Kim,4922 Rucker Blvd,Enterprise,AL,(334) 393-2023,Clergy,Clergy,Churches,$0 ,Ozark,4922 Rucker Blvd,31.334056,-85.796258
+Kwangsung America Corp,Moon,Kim,217 Thweatt Industrial Blvd,Dadeville,AL,(256) 825-0540,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Wholesale,"$820,000 ",Alexandr Cty,217 Thweatt Industrial Blvd,,
+Lee's Hair Salon,Kyunghee,Kim,1829 Eastern Blvd,Montgomery,AL,(334) 279-7775,Beauty Salons,Beauty Salons,Manicuring,"$68,000 ",Montgomery,1829 Eastern Blvd,32.35449661195262,-86.21812491074412
+LG Electronics,Youngkyoon,Kim,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+Liberty Cleaners,Steve,Kim,8000 Liberty Pkwy # 100,Vestavia,AL,(205) 970-0888,Cleaners,Cleaners,,"$230,000 ",Birmingham,8000 Liberty Pkwy,33.4745487,-86.6992138
+Liles Josh,Robert,Kim,2495 Valleydale Rd,Hoover,AL,(205) 985-8810,Cleaners,Cleaners,,"$213,000 ",Birmingham,2495 Valleydale Rd,33.376249019465895,-86.75318468854334
+Little Diner,Nany,Kim,1219 Jordan Ln NW # A,Huntsville,AL,(256) 837-6971,Restaurants,Restaurants,,"$153,000 ",Huntsville,1219 Jordan Ln NW,34.73958730262041,-86.62755486489004
+Madison Korean Church,Jang Young,Kim,4257 Sullivan St,Madison,AL,(256) 772-9489,Churches,Churches,,$0 ,Huntsville,4257 Sullivan St,34.69602784812225,-86.75113445358582
+Mando America Corp,Kibong,Kim,4200 N Park Dr,Opelika,AL,(334) 737-3899,Alternators & Generators-Automotive-Mfrs,Alternators & Generators-Automotive-Mfrs,Automobile Parts & Supplies-Retail-New,"$70,183,000 ",Auburn-Oplka,4200 N Park Dr,,
+Manufacturing Technical Sltns,Rebecca,Kim,308 Voyager Way NW # 100,Huntsville,AL,(256) 890-9090,Defense Contractors,Defense Contractors,Business Services NEC,"$14,647,000 ",Huntsville,308 Voyager Way NW,34.715500199999994,-86.67851234291516
+Metro By T-Mobile Auth Rtlr,Brian,Kim,3310 Pepperell Pkwy # 3,Opelika,AL,(334) 203-1800,Cellular Telephones (Services),Cellular Telephones (Services),Authorized Retailer-Cellular Services,"$1,897,000 ",Auburn-Oplka,3310 Pepperell Pkwy,32.63416709784119,-85.4271709397544
+Metro City Bank,Jin,Kim,2779 Bell Rd,Montgomery,AL,(334) 260-4926,Banks,Banks,,"$770,000 ",Montgomery,2779 Bell Rd,32.34082178388772,-86.19544591327198
+Metro City Bank,Johanne,Kim,1805 Gateway Dr,Opelika,AL,(334) 741-1300,Banks,Banks,Financial Advisory Services,"$2,415,000 ",Auburn-Oplka,1805 Gateway Dr,32.621008,-85.404464
+Mikata,Sun,Kim,4600 Montgomery Hwy,Dothan,AL,(334) 673-9966,Restaurants,Restaurants,,"$655,000 ",Dothan,4600 Montgomery Hwy,31.26794615279563,-85.4452020956886
+Mikata Japanese Steakhouse,Peter,Kim,1663 Highway 231 S,Troy,AL,(334) 566-1500,Restaurants,Restaurants,,"$264,000 ",Troy,1663 Highway 231 S,,
+Miyako Japanese Steak & Sushi,Sonny,Kim,8173 Vaughn Rd,Montgomery,AL,(334) 215-2275,Restaurants,Restaurants,,"$463,000 ",Montgomery,8173 Vaughn Rd,32.33882411455623,-86.17123843075792
+Mobile Arts Council Inc,Crystal,Kim,6 S Joachim St # 1927,Mobile,AL,(251) 432-9796,Arts Organizations & Information,Arts Organizations & Information,Art Galleries & Dealers,$0 ,Mobile,6 S Joachim St,30.6905568,-88.04404661447043
+Mobis Alabama LLC,Soon Hwa,Kim,1395 Mitchell Young Rd,Montgomery,AL,(334) 387-4800,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,Automobile Body Shop Equip/Supls (Whls),"$668,000 ",Montgomery,1395 Mitchell Young Rd,32.3256246,-86.4395164
+Monicas Alterations,Monica,Kim,5510 Highway 280 # 110,Birmingham,AL,(205) 980-8565,Tailors,Tailors,Alterations-Clothing,"$217,000 ",Birmingham,5510 Highway 280,,
+NACCO Materials Handling,Brandon,Kim,7711 Highway 278,Sulligent,AL,(205) 698-8017,Material Handling Equipment (Whls),Material Handling Equipment (Whls),Truck-Manufacturers,"$428,385,000 ",,7711 Highway 278,,
+Ohlman Beomjy Kim MD,Beomjy,Kim,625 19th St S,Birmingham,AL,(205) 975-0208,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,625 19th St S,33.505282,-86.8013356
+One-Day Auto Restyling Inc,John,Kim,4450 University Dr NW,Huntsville,AL,(256) 837-7804,Automotive Glass Coating & Tinting,Automotive Glass Coating & Tinting,Signs (Mfrs),"$293,000 ",Huntsville,4450 University Dr NW,34.73491465625,-86.63619419375
+P D G Cleaners,Charles,Kim,4764 Eastern Valley Rd # 100,Mc Calla,AL,(205) 477-4232,Cleaners,Cleaners,Alterations-Clothing,"$173,000 ",Birmingham,4764 Eastern Valley Rd,,
+Panda Express,Jami,Kim,6125 University Dr NW,Huntsville,AL,(256) 971-6992,Restaurants,Restaurants,Foods-Carry Out,"$610,000 ",Huntsville,6125 University Dr NW,34.7415503,-86.6767372
+Peacehealth Medical Group-Or,Myung,Kim,601 Providence Park Dr E,Mobile,AL,(541) 222-7600,Physicians & Surgeons,Physicians & Surgeons,Physician & Surgeon Recruitment,"$503,000 ",Mobile,601 Providence Park Dr E,,
+Phifer Inc,Sung,Kim,4400 Kauloosa Ave,Tuscaloosa,AL,(205) 345-2120,Textiles-Retail,Textiles-Retail,Aluminum Extruded Products (Mfrs),$0 ,Tuscaloosa,4400 Kauloosa Ave,33.167728,-87.557466
+Pristine Cleaners,Charles,Kim,1103 Greystone Cove Dr,Birmingham,AL,(205) 991-0052,Cleaners,Cleaners,,"$160,000 ",Birmingham,1103 Greystone Cove Dr,,
+Pro Clean,Josephine,Kim,2801 John Hawkins Pkwy,Hoover,AL,(205) 982-1117,Cleaners,Cleaners,Patio & Deck Cleaning & Restoration,"$115,000 ",Birmingham,2801 John Hawkins Pkwy,33.3655533,-86.8242823
+Prolink,Guam,Kim,792 Commerce Dr # 101,Alexander City,AL,(256) 234-7005,Employment Service-Govt Co Fraternal,Employment Service-Govt Co Fraternal,Employment Agencies & Opportunities,"$232,000 ",Alexandr Cty,792 Commerce Dr,32.93780337617791,-85.96853241187392
+Pyung Hwa America Inc,Tae H,Kim,620 Fox Run Pkwy,Opelika,AL,(334) 364-2912,Automobile & Truck Brokers (Whls),Automobile & Truck Brokers (Whls),,"$7,074,000 ",Auburn-Oplka,620 Fox Run Pkwy,32.6524049,-85.3556061
+Realty South,Julie,Kim,109 Inverness Plz,Birmingham,AL,(205) 222-9000,Real Estate,Real Estate,,"$237,000 ",Birmingham,109 Inverness Plz,,
+Salvation Army Bessemer Svc,Yong,Kim,1309 6th Ave N,Bessemer,AL,(205) 425-4303,Social Service & Welfare Organizations,Social Service & Welfare Organizations,,"$244,000 ",Birmingham,1309 6th Ave N,33.39802608163266,-86.96200240816326
+Satsuki,T K,Kim,6534 Atlanta Hwy,Montgomery,AL,(334) 239-7450,Restaurants,Restaurants,,"$93,000 ",Montgomery,6534 Atlanta Hwy,32.38229794685286,-86.18359799662026
+Sca Inc,Hana,Kim,764 W Veterans Blvd,Auburn,AL,(334) 887-6720,Plastics-Products-Retail,Plastics-Products-Retail,,"$298,000 ",Auburn-Oplka,764 W Veterans Blvd,32.561259,-85.509341
+Sja Inc,Gyudong,Kim,274 Thweatt Industrial Blvd,Dadeville,AL,(256) 825-2290,Plastics-Mold-Manufacturers,Plastics-Mold-Manufacturers,Automobile Parts & Supplies-Wholesale,"$101,714,000 ",Alexandr Cty,274 Thweatt Industrial Blvd,,
+Smart Alabama LLC,Jaemyung,Kim,121 Shin Young Dr,Luverne,AL,(334) 335-5800,Metal Goods-Manufacturers,Metal Goods-Manufacturers,Automobile-Manufacturers,"$1,312,000 ",,121 Shin Young Dr,,
+Smith's Cleaners,Young,Kim,3101 Shannon Oxmoor Rd,Birmingham,AL,(205) 943-0004,Cleaners,Cleaners,Alterations-Clothing,"$251,000 ",Birmingham,3101 Shannon Oxmoor Rd,33.4343382,-86.843585
+Soon Tailoring & Alterations,Eun,Kim,151 Hughes Rd,Madison,AL,(256) 772-1991,Cleaners,Cleaners,Laundries-Drop Off Service,"$272,000 ",Huntsville,151 Hughes Rd,34.69288826989744,-86.734337812352
+Southeastern Meats & Veggies,Joseph,Kim,1751 Pinson Valley Pkwy,Birmingham,AL,(205) 808-9923,Grocers-Retail,Grocers-Retail,Meat-Retail,"$682,000 ",Birmingham,1751 Pinson Valley Pkwy,33.6387641,-86.7264781
+Southern Shirt Co,Angelina,Kim,3722 Palisades Dr # A,Tuscaloosa,AL,(205) 533-8808,Office Buildings & Parks,Office Buildings & Parks,,"$8,966,000 ",Tuscaloosa,3722 Palisades Dr,33.174315,-87.49808414285714
+Southview Medical Group,Edward M,Kim,833 Saint Vincents Dr # 300,Birmingham,AL,(205) 939-4500,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,833 Saint Vincents Dr,,
+Sprout Daphne LLC,Charles,Kim,5363 Highway 280 # 105,Birmingham,AL,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Birmingham,5363 Highway 280,,
+Sun's Tailor & Alterations,Rachel,Kim,8000 Madison Blvd,Madison,AL,(256) 461-4118,Alterations-Clothing,Alterations-Clothing,,"$272,000 ",Huntsville,8000 Madison Blvd,34.691981049999995,-86.71760209544883
+Sunny Alterations,Chris,Kim,1775 Opelika Rd # 9,Auburn,AL,(334) 826-0081,Alterations-Clothing,Alterations-Clothing,,"$269,000 ",Auburn-Oplka,1775 Opelika Rd,32.6268475,-85.4437941
+Sunny Beauty Supply,Sunny,Kim,111 Southland Vlg,Troy,AL,(334) 670-0070,Women's Apparel-Retail,Women's Apparel-Retail,Cosmetics & Perfumes-Retail,"$462,000 ",Troy,111 Southland Vlg,,
+Surgical Dermatology Group,Anna,Kim,1940 Stonegate Dr # 130,Vestavia Hills,AL,(205) 977-9876,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Birmingham,1940 Stonegate Dr,,
+Sys-CON LLC,Sung,Kim,4444 Park Blvd,Montgomery,AL,(334) 281-1520,General Contractors,General Contractors,,"$33,025,000 ",Montgomery,4444 Park Blvd,32.33477535816901,-86.23199134139021
+T J Tires,Jimmy,Kim,1708 Crestwood Blvd,Irondale,AL,(205) 956-9984,Tire Service,Tire Service,Tire-Distributors (Whls),"$261,000 ",Birmingham,1708 Crestwood Blvd,33.53186130612245,-86.7067296122449
+T1 Automotive,Jack,Kim,50 Hanil Dr,Tallassee,AL,(334) 252-8000,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,,"$61,590,000 ",Montgomery,50 Hanil Dr,,
+Today's Family Dentistry,David Y,Kim,506 1st Ave SE,Cullman,AL,(256) 297-3448,Dentists,Dentists,Denturists,"$1,825,000 ",Cullman,506 1st Ave SE,34.17340793877551,-86.84045806122448
+Todays Family Dentistry,David,Kim,506 1st Ave SE,Cullman,AL,(256) 734-1400,Dentists,Dentists,,"$487,000 ",Cullman,506 1st Ave SE,34.17340793877551,-86.84045806122448
+Tonki Donkatsu,V,Kim,96 Old Highway 134,Daleville,AL,(334) 709-9111,Restaurants,Restaurants,Foods-Carry Out,"$260,000 ",Ozark,96 Old Highway 134,,
+Uncle Buds Mini Mart,Young,Kim,20024 AL Highway 127,Athens,AL,(256) 230-0450,Convenience Stores,Convenience Stores,Service Stations-Gasoline & Oil,"$339,000 ",Huntsville,20024 AL Highway 127,,
+Univerity Alabama Medical Ctr,Wesley,Kim,1900 University Blvd,Birmingham,AL,(205) 934-2536,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,1900 University Blvd,33.504182,-86.80043
+UPS Store,Angelina,Kim,1105 Southview Ln # 103,Tuscaloosa,AL,(205) 345-5345,Mailing & Shipping Services,Mailing & Shipping Services,Post Offices,"$366,000 ",Tuscaloosa,1105 Southview Ln,33.12471214075898,-87.55253019882608
+USA Orthopaedics,Daniel,Kim,3421 Medical Park Dr # 2,Mobile,AL,(251) 665-8200,Physicians & Surgeons,Physicians & Surgeons,,"$503,000 ",Mobile,3421 Medical Park Dr,30.61895904651163,-88.17030481395349
+Utopia Cleaners & Laundry,Il,Kim,3129 Cahaba Heights Rd # A,Vestavia,AL,(205) 969-2350,Cleaners,Cleaners,,"$58,000 ",Birmingham,3129 Cahaba Heights Rd,33.454765369849895,-86.73513803666563
+Vision Baptist Church,Hanusp,Kim,136 Old Highway 134,Daleville,AL,(334) 503-0369,Churches,Churches,,$0 ,Ozark,136 Old Highway 134,,
+Wig World,Yang,Kim,2205 University Dr NW # E,Huntsville,AL,(256) 536-1212,Wigs Toupees & Hairpieces,Wigs Toupees & Hairpieces,,"$136,000 ",Huntsville,2205 University Dr NW,34.73849,-86.603978
+Wing Master,Ji,Kim,1 W Fairview Ave,Montgomery,AL,(334) 263-5030,Restaurants,Restaurants,,"$185,000 ",Montgomery,1 W Fairview Ave,32.351676,-86.30855
+Wiz Tech,Lucy,Kim,2214 Marvyn Pkwy,Opelika,AL,(334) 742-0030,Energy Conservation & Mgmt Consultants,Energy Conservation & Mgmt Consultants,,"$284,000 ",Auburn-Oplka,2214 Marvyn Pkwy,32.625286589380835,-85.37153580516583
+Minako Japanese Restaurant,John,Na,2704 S US Highway 231,Ozark,AL,(334) 443-0888,Restaurants,Restaurants,,"$260,000 ",Ozark,2704 S US Highway 231,,
+Sushi Hero,Youngdae,Na,1642 S College St,Auburn,AL,(334) 209-2988,Restaurants,Restaurants,,"$305,000 ",Auburn-Oplka,1642 S College St,32.5762558,-85.4988731
+Hingetech USA Inc,Chan,Nam,2280 W Fairview Ave,Montgomery,AL,(334) 239-7806,Manufacturers,Manufacturers,,"$1,179,000 ",Montgomery,2280 W Fairview Ave,32.35143602040816,-86.33064006122449
+Hwashin America Corp,Juhyun,Nam,661 Montgomery Hwy,Greenville,AL,(334) 382-1100,Manufacturers,Manufacturers,,"$1,251,000 ",,661 Montgomery Hwy,31.8666663,-86.5787827
+Shinsung NVH USA,Michael,Nam,201 Smothers Rd,Montgomery,AL,(334) 676-3344,Chemical Plant-Equipment & Supls (Whls),Chemical Plant-Equipment & Supls (Whls),,$0 ,Montgomery,201 Smothers Rd,32.36559562397162,-86.12132543141898
+Shinsung Petro Chemical,Michael,Nam,1965 Mitchell Young Rd,Montgomery,AL,(334) 386-4496,Service Stations-Gasoline & Oil,Service Stations-Gasoline & Oil,Engineering Equipment & Supplies (Whls),"$3,318,000 ",Montgomery,1965 Mitchell Young Rd,32.3256246,-86.4395164
+Medical Park OB/Gyn,Richard A,Roh,150 S Ingleside St # 6,Fairhope,AL,(251) 928-1222,Physicians & Surgeons,Physicians & Surgeons,,"$555,000 ",Daphne-Frhp,150 S Ingleside St,30.52040144897959,-87.89044844897958
+Robertsdale High,Joseph D,Roh,1 Golden Bear Dr,Robertsdale,AL,(251) 947-4154,Schools,Schools,,$0 ,Daphne-Frhp,1 Golden Bear Dr,,
+"Ro, Daniel I MD",Daniel I,Ro,2451 University Hospital Dr,Mobile,AL,(251) 445-8261,Physicians & Surgeons,Physicians & Surgeons,,"$503,000 ",Mobile,2451 University Hospital Dr,,
+Lickin' Good Donuts,Vibol,Yim,3915 Government Blvd,Mobile,AL,(251) 219-7922,Doughnuts,Doughnuts,,"$58,000 ",Mobile,3915 Government Blvd,30.638206891891894,-88.13954112162162
+"Yim, Deborah",Deborah,Yim,118 E Choccolocco St,Oxford,AL,(256) 831-4601,Counselors,Counselors,,"$48,000 ",Anniston,118 E Choccolocco St,33.615072,-85.831712
+42nd Medical Group,Mercy B,Lim,300 Twining St # 760,Montgomery,AL,(334) 953-3368,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,300 Twining St,32.3757239,-86.3463074
+Airbus Americas Engineering,Terence,Lim,1801 S Broad St,Mobile,AL,(251) 434-7200,Airline Companies,Airline Companies,Engineers-Professional,"$117,711,000 ",Mobile,1801 S Broad St,30.6459473,-88.06314589669162
+Alabama Symphony Orchestra,Sodam,Lim,3621 6th Ave S,Birmingham,AL,(205) 251-6929,Organizations,Organizations,Orchestras & Bands,$0 ,Birmingham,3621 6th Ave S,33.51786581035263,-86.77849194702596
+Auburn University,Alvin,Lim,307 Samford Hall,Auburn University,AL,(334) 844-4438,Schools & Educational Services NEC,Schools & Educational Services NEC,,$0 ,Auburn-Oplka,307 Samford Hall,,
+China Dragon,Aijiao,Lim,322 Washington St,Livingston,AL,(205) 652-2558,Restaurants,Restaurants,,"$221,000 ",,322 Washington St,32.58284999791761,-88.18894831094542
+Cseng Inc,Jungim,Lim,1551 Jackson Ferry Rd,Montgomery,AL,(334) 481-0164,General Contractors,General Contractors,Pallets & Skids (Whls),"$2,434,000 ",Montgomery,1551 Jackson Ferry Rd,32.40410331505197,-86.30772585674556
+Family Practice Clinic-Dothan,Suh Y,Lim,1812 E Main St,Dothan,AL,(334) 792-5184,Physicians & Surgeons,Physicians & Surgeons,,"$754,000 ",Dothan,1812 E Main St,31.21834214111208,-85.36461012539975
+Hyundai Motor Mfg-Alabama,Hye,Lim,700 Hyundai Blvd,Montgomery,AL,(334) 387-8000,Automobile-Manufacturers,Automobile-Manufacturers,Automobile & Truck Brokers (Whls),"$416,511,000 ",Montgomery,700 Hyundai Blvd,32.277645667256245,-86.33812842951598
+Jackson Hospitalist Group,Gerald,Lim,1725 Pine St,Montgomery,AL,(334) 293-4040,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,1725 Pine St,32.3665644,-86.28477423871117
+Lim Jordan Spidle MD,Jordan S,Lim,1600 7th Ave S,Birmingham,AL,(205) 638-9922,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Birmingham,1600 7th Ave S,33.50468945,-86.80563534772864
+"Lim, James T OD",James T,Lim,540 Hughes Rd # 7,Madison,AL,(256) 772-4005,Optometrists OD,Optometrists OD,Optical Goods-Retail,"$377,000 ",Huntsville,540 Hughes Rd,34.7133682244898,-86.74193946938776
+"Lim, Whei Ying MD",Whei Ying,Lim,1601 Center St,Mobile,AL,(251) 410-5437,Physicians & Surgeons,Physicians & Surgeons,,"$503,000 ",Mobile,1601 Center St,30.6949301,-88.0762479235957
+New China,Ximcai,Lim,5361 Highway 280 # 104,Birmingham,AL,(205) 995-2228,Restaurants,Restaurants,,"$100,000 ",Birmingham,5361 Highway 280,,
+Premier Eyecare,James T,Lim,540 Hughes Rd # 7,Madison,AL,(256) 772-4005,Optometrists OD,Optometrists OD,Optical Goods-Retail,"$377,000 ",Huntsville,540 Hughes Rd,34.7133682244898,-86.74193946938776
+Yamato Steak House Of Japan,Jessica,Lim,105 Mountain St NW,Jacksonville,AL,(256) 782-0588,Restaurants,Restaurants,,"$244,000 ",Anniston,105 Mountain St NW,33.8188639,-85.7622348
+Hanwha,S J,Ryu,4400 N Park Dr,Opelika,AL,(334) 741-7725,Importers-Automotive-Parts & Supplies,Importers-Automotive-Parts & Supplies,Automobile Parts & Supplies-Mfrs,"$138,686,000 ",Auburn-Oplka,4400 N Park Dr,,
+Pha Body Systems,Christina,Ryu,139 Folmar Pkwy,Montgomery,AL,(334) 284-9972,Motorcycles & Motor Scooters-Accessories,Motorcycles & Motor Scooters-Accessories,,"$1,198,000 ",Montgomery,139 Folmar Pkwy,32.264879,-86.364791
+Pro Alterations,Angela,Ryu,1003 S Broad St,Scottsboro,AL,(256) 594-1704,Alterations-Clothing,Alterations-Clothing,,"$74,000 ",Scottsboro,1003 S Broad St,34.591915,-86.092244
+Mobis Alabama LLC,Young,Ryoo,1395 Mitchell Young Rd,Montgomery,AL,(334) 387-4800,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,Automobile Body Shop Equip/Supls (Whls),"$668,000 ",Montgomery,1395 Mitchell Young Rd,32.3256246,-86.4395164
+Another Broken Egg Cafe,Min,Yoo,2722 Carl T Jones Dr SE # D,Huntsville,AL,(256) 883-2915,Restaurants,Restaurants,Foods-Carry Out,"$2,033,000 ",Huntsville,2722 Carl T Jones Dr SE,34.67971670276147,-86.55089649089449
+Dauphin Island Med Group LLC,Jun,Yoo,1008 Alabama Ave,Dauphin Island,AL,(843) 424-4818,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Mobile,1008 Alabama Ave,30.253278375,-88.1136913125
+LG Electronics,Hwayoung,Yoo,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+Professional Glass Tinting,Yong,Yoo,492 W Fairview Ave,Montgomery,AL,(334) 262-8111,Automotive Glass Coating & Tinting,Automotive Glass Coating & Tinting,,"$262,000 ",Montgomery,492 W Fairview Ave,32.35175099871909,-86.31486054073689
+Providence Medical Group-Nrlgy,Jun,Yoo,6801 Airport Blvd,Mobile,AL,(251) 266-3580,Physicians & Surgeons,Physicians & Surgeons,,"$503,000 ",Mobile,6801 Airport Blvd,30.679321,-88.19853998167432
+Thomas Hospital,Jun,Yoo,750 Morphy Ave,Fairhope,AL,(251) 928-2375,Physicians & Surgeons,Physicians & Surgeons,,"$555,000 ",Daphne-Frhp,750 Morphy Ave,30.51903605,-87.88835174705152
+University Of Al Dental Group,Joseph J,Yoo,1919 7th Ave S,Birmingham,AL,(205) 934-2340,Dentists,Dentists,,"$132,000 ",Birmingham,1919 7th Ave S,33.523587,-86.765832
+Yoo Jun DO,Jun,Yoo,3099 Loop Rd # 4,Orange Beach,AL,(251) 981-2377,Physicians & Surgeons,Physicians & Surgeons,,"$555,000 ",Daphne-Frhp,3099 Loop Rd,30.2698522,-87.593299
+Alabama Aquarium & Pond Svc,Kyle,Moon,5924 Chelsea Rd,Columbiana,AL,(205) 663-6888,Aquariums & Aquarium Supls,Aquariums & Aquarium Supls,Ponds & Pond Supplies,"$1,905,000 ",Birmingham,5924 Chelsea Rd,33.26912389329521,-86.62068008521081
+Alabama Forestry Assn,Joel,Moon,555 Alabama St,Montgomery,AL,(334) 265-8733,Associations,Associations,Non-Profit Organizations,$0 ,Montgomery,555 Alabama St,32.374317795918365,-86.30166208163266
+American Red Cross,Misty,Moon,2130 Paul W Bryant Dr # B,Tuscaloosa,AL,(205) 758-3608,Social Service & Welfare Organizations,Social Service & Welfare Organizations,Clinics,"$200,000 ",Tuscaloosa,2130 Paul W Bryant Dr,33.20615644897959,-87.56284453061225
+Anniston Korean Presbyterian,Hak,Moon,440 Noah Medders Pkwy,Anniston,AL,(256) 820-1193,Churches,Churches,,$0 ,Anniston,440 Noah Medders Pkwy,33.725434500000006,-85.8223215
+Audrey Moon-State Farm Ins,Audrey,Moon,302 E Church St,Atmore,AL,(251) 368-8191,Insurance,Insurance,Insurance Consultants & Advisors,"$208,000 ",Atmore,302 E Church St,31.022613,-87.49030391831285
+Batteries Plus Bulbs,Pat,Moon,5951 Valley Rd,Trussville,AL,(205) 655-0002,Batteries-Storage-Retail,Batteries-Storage-Retail,Light Bulbs & Tubes (Whls),"$907,000 ",Birmingham,5951 Valley Rd,33.633106,-86.623094
+Beauty World Inc,Chuck,Moon,706 Douglas Ave,Brewton,AL,(251) 867-7016,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$396,000 ",Atmore,706 Douglas Ave,31.11545687755102,-87.06851402040817
+Best Buy,Melissa,Moon,5201 Highway 280 # 200,Birmingham,AL,(205) 437-8966,Electronic Equipment & Supplies-Retail,Electronic Equipment & Supplies-Retail,Cellular Telephones (Services),"$23,448,000 ",Birmingham,5201 Highway 280,33.4192291,-86.6856597
+Birmingham Fire-Rescue Svc Dpt,Cory,Moon,1808 7th Ave N,Birmingham,AL,(205) 254-2052,Fire Departments,Fire Departments,,$0 ,Birmingham,1808 7th Ave N,33.5194397,-86.8103199
+Blount County Sheriff's Office,Mark,Moon,225 Industrial Park Rd,Oneonta,AL,(205) 625-4127,Sheriff,Sheriff,Government Offices-County,$0 ,Birmingham,225 Industrial Park Rd,33.92914926181468,-86.4896460057845
+Blue Cross & Blue Shield Of Al,William A,Moon,450 Riverchase Pkwy E,Hoover,AL,(205) 220-2100,Insurance,Insurance,Child Care Service,$0 ,Birmingham,450 Riverchase Pkwy E,33.367902150000006,-86.78913199838547
+Burger King,Cassandra,Moon,8670 Highway 72 W,Madison,AL,(256) 325-1587,Restaurants,Restaurants,Foods-Carry Out,"$1,271,000 ",Huntsville,8670 Highway 72 W,,
+Checkmate Cash Advance,Rochelle,Moon,100 E Meighan Blvd,Gadsden,AL,(256) 546-9040,Loans,Loans,Check Cashing Service,"$991,000 ",Gadsden,100 E Meighan Blvd,34.011697,-85.992746
+Cherokee County High School,Wendy,Moon,910 Warrior Dr,Centre,AL,(256) 927-3625,Schools,Schools,,$0 ,,910 Warrior Dr,34.1634619,-85.6591785
+Children's Place,Skyla,Moon,90 Oxford Exchange Blvd # 90,Oxford,AL,(256) 831-1875,Childrens & Infants Wear-Retail,Childrens & Infants Wear-Retail,,"$1,404,000 ",Anniston,90 Oxford Exchange Blvd,33.6109397,-85.780081
+Choice Restaurant,Joel,Moon,531 Broad St,Gadsden,AL,(256) 546-9055,Restaurants,Restaurants,,"$213,000 ",Gadsden,531 Broad St,34.013940615786225,-86.00520357627475
+Civil Consultants Inc,David,Moon,3528 Vann Rd # 105,Birmingham,AL,(205) 655-1991,Engineers-Civil,Engineers-Civil,Consultants-Business NEC,"$2,108,000 ",Birmingham,3528 Vann Rd,,
+Cody Moon Processing,Cody,Moon,88 Whipporwill Ln,Calera,AL,(205) 690-8526,Taxidermists,Taxidermists,Butchering (Whls),"$624,000 ",Birmingham,88 Whipporwill Ln,,
+Corporate Health Systems Of AL,Ronald T,Moon,820 University Blvd,Birmingham,AL,(205) 327-5030,Physicians & Surgeons,Physicians & Surgeons,Occupational Therapists,"$196,000 ",Birmingham,820 University Blvd,33.49840051020408,-86.8154187755102
+Daryl W Moon Law Offices,Daryl W,Moon,102 S Court St # 502,Florence,AL,(256) 767-5309,Attorneys,Attorneys,,"$614,000 ",Flrnc-Msc Sh,102 S Court St,34.799664,-87.67597725812708
+F & B Law Firm,Stacy L,Moon,213 Greene St NE,Huntsville,AL,(256) 536-0095,Attorneys,Attorneys,,"$288,000 ",Huntsville,213 Greene St NE,34.73361475,-86.58595706216815
+Fas Systems Inc,Charles,Moon,129 Hicks Industrial Blvd,Union Springs,AL,(334) 738-4180,Gps Navigation Systems & Services (Mfrs),Gps Navigation Systems & Services (Mfrs),Business Services NEC,"$1,175,000 ",,129 Hicks Industrial Blvd,32.14465601467771,-85.69771899882579
+Forestry Application Svc,Charles,Moon,129 Hicks Industrial Blvd,Union Springs,AL,(334) 738-4180,Foresters-Consulting,Foresters-Consulting,Gps Navigation Systems & Services (Mfrs),"$193,000 ",,129 Hicks Industrial Blvd,32.14465601467771,-85.69771899882579
+Gadsden Fabrication,Larry,Moon,601 Industrial Pkwy,Gadsden,AL,(256) 494-9313,Metal Fabricators,Metal Fabricators,,"$2,127,000 ",Gadsden,601 Industrial Pkwy,33.98927873023349,-85.95714760503556
+Goshen United Methodist Church,Deborah,Moon,625 AL Highway 9 S,Piedmont,AL,(256) 447-6039,Churches,Churches,,$0 ,,625 AL Highway 9 S,,
+Greens At Auburn Golf-Athletic,Leslie,Moon,4315 Golf Club Dr,Auburn,AL,(334) 821-4061,Apartments,Apartments,Football Clubs,"$439,000 ",Auburn-Oplka,4315 Golf Club Dr,,
+H&R Block,Judy,Moon,1110 N Brindlee Mountain Pkwy,Arab,AL,(256) 586-6862,Tax Return Preparation & Filing,Tax Return Preparation & Filing,,"$40,000 ",Albertville,1110 N Brindlee Mountain Pkwy,34.333846071428574,-86.50316435714286
+Hampton Inn-Alexander City,Laurie,Moon,1551 Elkahatchee Rd,Alexander City,AL,(256) 234-2244,Hotels & Motels,Hotels & Motels,,"$911,000 ",Alexandr Cty,1551 Elkahatchee Rd,32.92541729216512,-85.96724116535545
+Haney Equipment Co,Adam,Moon,1702 US Highway 72 E,Athens,AL,(256) 232-5850,Farm Equipment (Whls),Farm Equipment (Whls),Trailers-Equipment & Parts-Manufacturers,"$7,866,000 ",Huntsville,1702 US Highway 72 E,34.78169359698563,-86.93448512453449
+Hanna Steel Corp,Brent,Moon,3812 Commerce Ave,Fairfield,AL,(205) 783-8200,Trucking-Heavy Hauling,Trucking-Heavy Hauling,Trucking,"$182,019,000 ",Birmingham,3812 Commerce Ave,33.4962620044426,-86.91481234062482
+Hanna Steel Corp,Brent,Moon,1701 Boone Blvd,Northport,AL,(205) 333-4444,Steel Pipe & Tubes (Mfrs),Steel Pipe & Tubes (Mfrs),Welding & Steel Fabrication,"$23,640,000 ",Tuscaloosa,1701 Boone Blvd,33.2340638,-87.6385617
+Hanon Systems Alabama Corp,Hee S,Moon,676 Hala Bama Dr,Shorter,AL,(334) 466-5049,Heating Equipment-Manufacturers,Heating Equipment-Manufacturers,,"$133,924,000 ",,676 Hala Bama Dr,,
+Hazel Green Chiropractic,Danny,Moon,13971 Highway 231 431 N,Hazel Green,AL,(256) 828-4288,Chiropractors DC,Chiropractors DC,,"$822,000 ",Huntsville,13971 Highway 231 431 N,,
+Heritage Christian University,Pat,Moon,3625 Helton Dr,Florence,AL,(256) 766-6610,Schools-Universities & Colleges Academic,Schools-Universities & Colleges Academic,College Admissions Counselors,$0 ,Flrnc-Msc Sh,3625 Helton Dr,34.8561422,-87.66300054696758
+Highlands Publications,Randy,Moon,312 Lorna Sq,Hoover,AL,(205) 824-9793,Publishers-Periodical (Mfrs),Publishers-Periodical (Mfrs),Publishers (Mfrs),"$8,434,000 ",Birmingham,312 Lorna Sq,33.396495991967875,-86.80300589156627
+Joe's Plumbing,Joe,Moon,,Rogersville,AL,(256) 810-2568,Plumbing Contractors,Plumbing Contractors,,"$196,000 ",Flrnc-Msc Sh,,,
+K & S Plumbing Svc LLC,Gary,Moon,467 Oxford Way,Pelham,AL,Not Available,Plumbing Contractors,Plumbing Contractors,,"$353,000 ",Birmingham,467 Oxford Way,33.24580586645508,-86.78388263373778
+Lanier Environmental Conslnts,Cheri,Moon,6777 Taylor Cir,Montgomery,AL,(334) 430-1130,Environmental & Ecological Services,Environmental & Ecological Services,Federal Government Contractors,$0 ,Montgomery,6777 Taylor Cir,32.34681280749682,-86.17621154306515
+Lockheed Martin Corp,Tom,Moon,7 Frankford Ave,Anniston,AL,(256) 741-5240,Aircraft-Manufacturers,Aircraft-Manufacturers,Aerospace Industries (Mfrs),"$11,454,000 ",Anniston,7 Frankford Ave,,
+Lockheed Martin Corp,Beth,Moon,200 Lockheed Martin Way,Courtland,AL,(678) 761-6687,Aircraft-Manufacturers,Aircraft-Manufacturers,Aerospace Industries (Mfrs),"$5,784,000 ",Decatur,200 Lockheed Martin Way,34.669561,-87.353234
+Lockheed Martin Corp,Beth,Moon,133 W Park Loop NW,Huntsville,AL,(256) 722-0175,Aerospace Industries (Mfrs),Aerospace Industries (Mfrs),Contractors,"$7,291,000 ",Huntsville,133 W Park Loop NW,34.74557916228648,-86.68958371223633
+Lowe's Home Improvement,Beverly,Moon,3505 Memorial Pkwy NW,Huntsville,AL,(256) 859-0735,Home Centers,Home Centers,Home Improvements,"$6,927,000 ",Huntsville,3505 Memorial Pkwy NW,34.77119673469387,-86.5860124489796
+Marshall County Retired-Senior,Jean Ann,Moon,19272 US Highway 431,Guntersville,AL,(256) 571-7734,Government Offices-County,Government Offices-County,Mailing & Shipping Services,$0 ,Albertville,19272 US Highway 431,,
+Mercedes Benz-Birmingham,Gary,Moon,750 Mercedes Way,Irondale,AL,(205) 848-7000,Automobile Dealers-New Cars,Automobile Dealers-New Cars,Automobile Dealers-Electric Cars-New,"$7,086,000 ",Birmingham,750 Mercedes Way,,
+Moon Construction Svc Inc,Joe,Moon,206 Beirne Ave NE,Huntsville,AL,(256) 489-1448,General Contractors,General Contractors,,"$1,480,000 ",Huntsville,206 Beirne Ave NE,34.74086995918367,-86.58299842857143
+Moon Construction Svc Inc,Joseph,Moon,PO Box 19048,Huntsville,AL,(256) 489-1448,General Contractors,General Contractors,Concrete-Ready Mixed,"$1,480,000 ",Huntsville,PO Box 19048,,
+Moon Income Tax Svc,Georgia,Moon,1911 Gurnee Ave,Anniston,AL,(256) 237-4028,Tax Return Preparation & Filing,Tax Return Preparation & Filing,,"$35,000 ",Anniston,1911 Gurnee Ave,33.66922001269341,-85.83095657614206
+Moon Variety & Frame Shop,Harry,Moon,694 Cedar Bluff Rd,Centre,AL,(256) 927-5605,Picture Framing,Picture Framing,Variety Stores,"$161,000 ",,694 Cedar Bluff Rd,34.160875739952566,-85.66762154470598
+"Moon, Danielle M",Danielle M,Moon,1222 Somerville Rd SE,Decatur,AL,(256) 341-0152,Nurses-Practitioners,Nurses-Practitioners,,"$114,000 ",Decatur,1222 Somerville Rd SE,,
+"Moon, Joseph",Joseph,Moon,1235 Point Mallard Pkwy SE,Decatur,AL,(256) 898-3037,Pharmacists,Pharmacists,,$0 ,Decatur,1235 Point Mallard Pkwy SE,34.5406905,-86.9192921
+"Moon, Kiersten T OD",Kiersten T,Moon,109 Coosa St E # A,Talladega,AL,(256) 362-4872,Optometrists OD,Optometrists OD,,"$254,000 ",Talladega,109 Coosa St E,33.43781053257874,-86.10271489432876
+"Moon, Robert H MD",Robert H,Moon,501 Dexter Ave,Montgomery,AL,Not Available,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,501 Dexter Ave,32.377731,-86.302375
+"Moon, Tina S Aty",Tina S,Moon,131 1st St,Prattville,AL,(334) 361-3339,Attorneys,Attorneys,,"$320,000 ",Montgomery,131 1st St,,
+Oakstone Publishing LLC,Justin,Moon,2 Perimeter Park S # 160e,Birmingham,AL,(800) 633-4743,Publishing Consultants,Publishing Consultants,Publishers (Mfrs),$0 ,Birmingham,2 Perimeter Park S,33.43826697064119,-86.72419090382725
+Primesouth Bank,Whitney,Moon,301 Main St,Tallassee,AL,(334) 283-6594,Banks,Banks,,"$6,884,000 ",Alexandr Cty,301 Main St,32.5435956,-85.87347
+RE/Max Classic,Rodney,Moon,5511 Highway 280 # 116,Birmingham,AL,(205) 408-1306,Real Estate,Real Estate,,"$2,252,000 ",Birmingham,5511 Highway 280,,
+Riverbend Commons Condos,Jason,Moon,150 Rice Mine Rd,Tuscaloosa,AL,(205) 349-3913,Apartments,Apartments,Real Estate Management,"$254,000 ",Tuscaloosa,150 Rice Mine Rd,33.2289683,-87.5295463
+Riverchase United Mthdst Chr,Seth,Moon,1953 Old Montgomery Hwy,Hoover,AL,(205) 987-4030,Churches,Churches,Schools-Pre-School/Kindergarten-Academic,$0 ,Birmingham,1953 Old Montgomery Hwy,33.3577215,-86.808879
+RSVP,Jeananne,Moon,19272 US Highway 431,Guntersville,AL,(256) 571-7734,Non-Profit Organizations,Non-Profit Organizations,,$0 ,Albertville,19272 US Highway 431,,
+Rumsey Environmental LLC,Justin,Moon,5400 Kauloosa Ave,Tuscaloosa,AL,(205) 248-0002,Consultants-Business NEC,Consultants-Business NEC,Dumps-Rubbish,"$1,408,000 ",Tuscaloosa,5400 Kauloosa Ave,33.161092054882886,-87.55269548171975
+Saint-Gobain Abrasives,Brett,Moon,219 Cap Adkins Rd SE,Huntsville,AL,(256) 883-5000,Abrasive Products (Mfrs),Abrasive Products (Mfrs),Nonclay Refractories (Mfrs),"$43,746,000 ",Huntsville,219 Cap Adkins Rd SE,34.55315255102041,-86.53427306122448
+Salon Centric,Mimi,Moon,1663 Mcfarland Blvd N # G1,Tuscaloosa,AL,(205) 366-1117,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),,"$2,708,000 ",Tuscaloosa,1663 Mcfarland Blvd N,33.23440010365459,-87.54435587379787
+Servisfirst Bank,Lu,Moon,324 Arrington Blvd N,Birmingham,AL,(205) 949-2200,Banks,Banks,,"$1,623,000 ",Birmingham,324 Arrington Blvd N,33.5180426010101,-86.80614588888889
+Shelby County Veteran Affairs,Harry,Moon,54 Kelly Ln,Columbiana,AL,(205) 669-3835,Government Offices-County,Government Offices-County,,$0 ,Birmingham,54 Kelly Ln,,
+Ski Lodge Apartments,Penny,Moon,3501 Birmingham Hwy,Opelika,AL,(334) 745-5739,Apartments,Apartments,,"$439,000 ",Auburn-Oplka,3501 Birmingham Hwy,32.64471,-85.426134
+Snap Fitness,Nikki,Moon,2846 Moody Pkwy # 200,Moody,AL,(205) 640-5588,Health Clubs Studios & Gymnasiums,Health Clubs Studios & Gymnasiums,Tanning Salons,"$29,000 ",Birmingham,2846 Moody Pkwy,33.590104606283056,-86.4970353267784
+Sola Salon Studios,Kristen,Moon,808 Green Springs Hwy # 124,Homewood,AL,(205) 360-0580,Beauty Salons,Beauty Salons,Hair Cutting/Styling Wigs/Hair Pieces,"$650,000 ",Birmingham,808 Green Springs Hwy,33.4605871,-86.8193651
+Sola Salon Studios,Kristen,Moon,1694 Montgomery Hwy # 172,Hoover,AL,(205) 360-0580,Beauty Salons,Beauty Salons,Spas-Beauty & Day,"$650,000 ",Birmingham,1694 Montgomery Hwy,33.3870091,-86.8079244
+Sola Salon Studios,Kristen,Moon,3780 Riverchase Vlg # 500,Hoover,AL,(205) 360-0580,Beauty Salons,Beauty Salons,,"$650,000 ",Birmingham,3780 Riverchase Vlg,,
+Sola Salon Studios,Kristen,Moon,710 Inverness Cors # 172,Hoover,AL,(205) 360-0580,Beauty Salons,Beauty Salons,,"$956,000 ",Birmingham,710 Inverness Cors,,
+St James Hotel & Restaurant,Gavin,Moon,1200 Water Ave,Selma,AL,(334) 267-5733,Hotels & Motels,Hotels & Motels,Restaurants,"$506,000 ",Selma,1200 Water Ave,32.407008,-87.018016
+Standard Furniture Mfg Co LLC,Danny,Moon,801 S US Highway 31,Bay Minette,AL,(251) 937-6741,Furniture-Manufacturers,Furniture-Manufacturers,Wood-Office Furniture (Mfrs),"$139,859,000 ",Daphne-Frhp,801 S US Highway 31,,
+TCI,Josh,Moon,1317 Wilmer Ave # 103,Anniston,AL,(256) 237-1401,Computers-Service & Repair,Computers-Service & Repair,Radio/TV Broadcasting/Comm Equip (Mfrs),"$1,664,000 ",Anniston,1317 Wilmer Ave,33.6616238,-85.8281189
+TMC,Pete,Moon,210 Wynn Dr NW,Huntsville,AL,(256) 837-4430,Environmental & Ecological Services,Environmental & Ecological Services,Electroplating/Polishing/Anodizing (Mfr),$0 ,Huntsville,210 Wynn Dr NW,34.72564946750539,-86.65618659814317
+Tobacco Express,Linda,Moon,919 2nd Ave E,Oneonta,AL,(205) 274-9000,Cigar Cigarette & Tobacco Dealers-Retail,Cigar Cigarette & Tobacco Dealers-Retail,,"$184,000 ",Birmingham,919 2nd Ave E,33.95393161998019,-86.46672295208342
+Toray Carbon Fibers America,Chet,Moon,2030 Highway 20,Decatur,AL,(256) 260-2626,Fiber & Fiber Products (Mfrs),Fiber & Fiber Products (Mfrs),,$0 ,Decatur,2030 Highway 20,,
+Trussville Dentistry,Vicki F,Moon,3713 Mary Taylor Rd,Birmingham,AL,(205) 661-2201,Dentists,Dentists,Denturists,"$792,000 ",Birmingham,3713 Mary Taylor Rd,33.608759532867495,-86.62886391018736
+Tuscumbia City Schools,Vickey,Moon,303 N Commons St E,Tuscumbia,AL,(256) 389-2900,School Districts,School Districts,,$0 ,Flrnc-Msc Sh,303 N Commons St E,34.7378856,-87.7013565
+U-Haul Neighborhood Dealer,Charles,Moon,129 Hicks Industrial Blvd,Union Springs,AL,(334) 738-4002,Truck Renting & Leasing,Truck Renting & Leasing,Moving-Self-Service,"$442,000 ",,129 Hicks Industrial Blvd,32.14465601467771,-85.69771899882579
+UA Huntsville Bookstore,Amanda,Moon,4705 Holmes Ave,Huntsville,AL,(256) 824-6604,Books School & Textbooks,Books School & Textbooks,Book Dealers-Retail,"$854,000 ",Huntsville,4705 Holmes Ave,,
+United States Sports Academy,Jordan R,Moon,1 Academy Dr,Daphne,AL,(251) 626-3303,Schools-Universities & Colleges Academic,Schools-Universities & Colleges Academic,College Admissions Counselors,$0 ,Daphne-Frhp,1 Academy Dr,30.639965,-87.91248
+USPS,Connie,Moon,6520 Stage Rd,Loachapoka,AL,(334) 887-8465,Post Offices,Post Offices,Mailing & Shipping Services,$0 ,Auburn-Oplka,6520 Stage Rd,32.60399657730454,-85.58930503380422
+WEBB-Stiles Of Alabama,Ryan,Moon,700 Industrial Pkwy,Gadsden,AL,(256) 492-6642,Conveyors & Conveying Equipment-Mfrs,Conveyors & Conveying Equipment-Mfrs,Industrial Trucks Tractors/Trailers (Mfrs),"$17,765,000 ",Gadsden,700 Industrial Pkwy,33.99032396872937,-85.95900100607366
+Wildflower Cafe,L C,Moon,6007 AL Highway 117,Mentone,AL,(256) 634-0066,Restaurants,Restaurants,Consignment Shops,"$1,235,000 ",Fort Payne,6007 AL Highway 117,,
+Wiregrass Shrine Club,W C,Moon,6007 W Main St,Dothan,AL,(334) 792-3810,Clubs,Clubs,,$0 ,Dothan,6007 W Main St,31.239819240963854,-85.48391408835342
+Wood Fruitticher Grocery Inc,Greg,Moon,2900 Alton Rd,Irondale,AL,(205) 836-9663,Food Service-Distributors (Whls),Food Service-Distributors (Whls),Food Brokers (Whls),"$424,512,000 ",Birmingham,2900 Alton Rd,33.56288,-86.6514265
+Working Man Rental,Joel,Moon,661 Sutton Bridge Rd,Rainbow City,AL,(256) 413-9675,Contractors-Equip/Supls-Dlrs/Svc (Whls),Contractors-Equip/Supls-Dlrs/Svc (Whls),Lawn & Garden Equipment & Supls-Whls,"$1,515,000 ",Gadsden,661 Sutton Bridge Rd,33.965066,-86.039296
+China Cafe,Mindy,Min,14450 Highway 231 431 N # B,Hazel Green,AL,(256) 828-5078,Restaurants,Restaurants,,"$153,000 ",Huntsville,14450 Highway 231 431 N,,
+Cyberzone,Elaine,Bak,107 N 9th St,Opelika,AL,(334) 737-5000,Family Entertainment Centers,Family Entertainment Centers,Video Games,"$321,000 ",Auburn-Oplka,107 N 9th St,32.648472673469385,-85.38140771428571
+Baldwin Optical & Hearing Aid,Yun K,Pak,310 E Laurel Ave,Foley,AL,(251) 943-1758,Optical Goods-Retail,Optical Goods-Retail,Contact Lenses,"$568,000 ",Daphne-Frhp,310 E Laurel Ave,30.406295778229143,-87.67982587055803
+Cajun Grill,Hyeok,Pak,2801 Memorial Pkwy SW # 40,Huntsville,AL,(256) 534-7225,Restaurants,Restaurants,,"$153,000 ",Huntsville,2801 Memorial Pkwy SW,34.7066882,-86.5873659
+Midfield Dental Ctr,Maria,Pak,114 Brookwood Rd E,Midfield,AL,(205) 923-6828,Dentists,Dentists,,"$528,000 ",Birmingham,114 Brookwood Rd E,33.4620858,-86.9106318
+Mikato Japanese Steak House,John,Pak,3800 Gulf Shores Pkwy # 200,Gulf Shores,AL,(251) 968-2525,Restaurants,Restaurants,Caterers,"$487,000 ",Daphne-Frhp,3800 Gulf Shores Pkwy,30.3018838,-87.6800647
+Port Of Decatur,Larry,Pak,500 Market St NW,Decatur,AL,(256) 353-1715,Business Development,Business Development,,"$741,000 ",Decatur,500 Market St NW,34.619049,-86.987495
+Sunny's Home Cooking,Sunny,Pak,7380 Fairfax Byp,Valley,AL,(334) 756-2500,Restaurants,Restaurants,,"$148,000 ",Lagrange,7380 Fairfax Byp,32.81618885,-85.1979805608108
+Alabama Symphony Orchestra,Karin,Park,3621 6th Ave S,Birmingham,AL,(205) 251-6929,Organizations,Organizations,Orchestras & Bands,$0 ,Birmingham,3621 6th Ave S,33.51786581035263,-86.77849194702596
+American Family Care Trssvll,Kay,Park,5892 Trussville Crossings Pkwy,Birmingham,AL,(205) 655-4002,Physicians & Surgeons-Emergency Service,Physicians & Surgeons-Emergency Service,Physicians & Surgeons,"$3,903,000 ",Birmingham,5892 Trussville Crossings Pkwy,,
+Autozone,Patrick,Park,1701 E Main St,Prattville,AL,(334) 365-9755,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,Batteries-Storage-Retail,"$1,144,000 ",Montgomery,1701 E Main St,32.460582,-86.425404
+Bee Hive-Government Street,Bert E,Park,901 Government St,Mobile,AL,(251) 438-4714,Churches,Churches,Religious Organizations,$0 ,Mobile,901 Government St,30.68583635,-88.05379474767963
+Boaters Choice Insurance,Jim,Park,2211 7th Ave S,Birmingham,AL,(205) 581-9126,Insurance-Boat,Insurance-Boat,,"$2,669,000 ",Birmingham,2211 7th Ave S,33.523587,-86.765832
+Bobby Park Truck & Eqpt Inc,Pamela,Park,5301 Highway 69 S,Tuscaloosa,AL,(205) 759-4872,Truck-Repairing & Service,Truck-Repairing & Service,Truck Equipment & Parts-Wholesale,"$1,668,000 ",Tuscaloosa,5301 Highway 69 S,,
+Brigham Williams Coml Prprts,Jed,Park,400 Union Hill Dr,Birmingham,AL,(205) 868-4575,Real Estate,Real Estate,Real Estate Consultants,"$383,000 ",Birmingham,400 Union Hill Dr,,
+Century 21 Harris-Mckay Realty,Ruth,Park,123 S Quintard Ave,Anniston,AL,(256) 236-0377,Real Estate,Real Estate,Real Estate Management,"$2,169,000 ",Anniston,123 S Quintard Ave,33.645692821430984,-85.82608972388735
+Choi Kim & Park LLP,Heon,Park,6743 Taylor Cir,Montgomery,AL,(334) 356-5550,Accountants,Accountants,,"$591,000 ",Montgomery,6743 Taylor Cir,32.34718945008163,-86.17503968993537
+Computer Programs & Systs Inc,Lance,Park,54 Saint Emanuel St,Mobile,AL,(251) 639-8100,Data Systems Consultants & Designers,Data Systems Consultants & Designers,Physicians & Surgeons Equip & Supls-Mfrs,$0 ,Mobile,54 Saint Emanuel St,30.690823249999998,-88.04166325
+Crickets,G,Park,3810 Sullivan St # L,Madison,AL,(256) 464-3777,Restaurants,Restaurants,,"$153,000 ",Huntsville,3810 Sullivan St,34.6809919,-86.7528026
+Custom Cable Svc,John Gary,Park,3518 Decatur Hwy,Fultondale,AL,(205) 631-0484,Television-Cable & Catv,Television-Cable & Catv,,"$2,032,000 ",Birmingham,3518 Decatur Hwy,33.621392,-86.801869
+Daehan Solutions Alabama LLC,Richard,Park,9101 County Road 26,Hope Hull,AL,(334) 404-5000,Insulation Contractors-Cold & Heat,Insulation Contractors-Cold & Heat,,"$20,852,000 ",Montgomery,9101 County Road 26,,
+Deer Valley Homebuilders Inc,Damien J,Park,205 Carriage St,Guin,AL,(205) 468-8400,Mobile Homes-Manufacturers,Mobile Homes-Manufacturers,,$0 ,,205 Carriage St,33.984024,-87.919483
+Dynamic Concepts LLC,Thomas,Park,6700 Odyssey Dr NW # 202,Huntsville,AL,(256) 922-9888,Aircraft Equipment Parts & Supplies,Aircraft Equipment Parts & Supplies,Engineering,"$23,893,000 ",Huntsville,6700 Odyssey Dr NW,34.7223809,-86.675261
+Erica Lane Enterprises Inc,Jill,Park,3226 Bob Wallace Ave SW,Huntsville,AL,(256) 536-7117,Video Conferencing,Video Conferencing,Employment Consultants,"$21,524,000 ",Huntsville,3226 Bob Wallace Ave SW,34.711684,-86.610662
+Gates Cleaners,Chris,Park,401 Hughes Rd # 5,Madison,AL,(256) 772-8418,Cleaners,Cleaners,Alterations-Clothing,"$336,000 ",Huntsville,401 Hughes Rd,34.7097843,-86.7413606
+Good News Wellness,Leah,Park,2733 Bell Rd,Montgomery,AL,(334) 356-6075,Wellness Programs,Wellness Programs,,"$463,000 ",Montgomery,2733 Bell Rd,32.341276853417725,-86.19531560045219
+Good News Wellness,Sean,Park,3760 Pepperell Pkwy,Opelika,AL,(334) 737-5445,Chiropractors DC,Chiropractors DC,Physical Therapists,"$259,000 ",Auburn-Oplka,3760 Pepperell Pkwy,32.632832142801064,-85.4336433405566
+Greene Beverage Co,Walton,Park,6000 Grover Burchfield Dr,Tuscaloosa,AL,(205) 345-6950,Beverages (Whls),Beverages (Whls),Beer & Ale-Retail,"$95,316,000 ",Tuscaloosa,6000 Grover Burchfield Dr,33.173623,-87.611985
+Hyundai Motor Mfg-Alabama,Jong,Park,700 Hyundai Blvd,Montgomery,AL,(334) 387-8000,Automobile-Manufacturers,Automobile-Manufacturers,Automobile & Truck Brokers (Whls),"$416,511,000 ",Montgomery,700 Hyundai Blvd,32.277645667256245,-86.33812842951598
+Jerry Damson Honda,Bruce,Park,6591 Highway 72 W,Huntsville,AL,(256) 533-4105,Automobile Dealers-New Cars,Automobile Dealers-New Cars,Truck-Dealers-New,"$80,150,000 ",Huntsville,6591 Highway 72 W,,
+Joo Sung Engineering Inc,Jong,Park,30 Samford Ave # C,Opelika,AL,(334) 203-1869,Engineers,Engineers,Engineering Equipment & Supplies (Whls),"$445,000 ",Auburn-Oplka,30 Samford Ave,32.657588460074486,-85.37257734707364
+Julia Park Therapy,Julia,Park,7734 Madison Blvd # 125,Huntsville,AL,(205) 643-0589,Marriage & Family Counselors,Marriage & Family Counselors,,"$242,000 ",Huntsville,7734 Madison Blvd,34.69899,-86.696292
+KK Jewlers,Kevin,Park,809 Main St,Gardendale,AL,(205) 631-1010,Jewelers-Retail,Jewelers-Retail,,"$406,000 ",Birmingham,809 Main St,33.64477802389251,-86.81118144362428
+Know Style,Hadi,Park,728 Brookwood Vlg,Birmingham,AL,(205) 802-2297,Beauty Salons,Beauty Salons,,"$228,000 ",Birmingham,728 Brookwood Vlg,,
+LG Electronics,Ju,Park,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+Lotte Chemical,Jae,Park,765 W Veterans Blvd,Auburn,AL,(334) 826-0094,Chemicals-Manufacturers,Chemicals-Manufacturers,,"$632,000 ",Auburn-Oplka,765 W Veterans Blvd,32.561259,-85.509341
+Mando America Corp,Thomas,Park,4200 N Park Dr,Opelika,AL,(334) 737-3899,Alternators & Generators-Automotive-Mfrs,Alternators & Generators-Automotive-Mfrs,Automobile Parts & Supplies-Retail-New,"$70,183,000 ",Auburn-Oplka,4200 N Park Dr,,
+Mcgriff Seibels & Williams Inc,Jim,Park,2211 7th Ave S,Birmingham,AL,(205) 252-9871,Insurance,Insurance,Insurance-Property & Casualty,$0 ,Birmingham,2211 7th Ave S,33.523587,-86.765832
+Mobis Alabama LLC,Sung,Park,1395 Mitchell Young Rd,Montgomery,AL,(334) 387-4800,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,Automobile Body Shop Equip/Supls (Whls),"$668,000 ",Montgomery,1395 Mitchell Young Rd,32.3256246,-86.4395164
+Park Chang Hwan MD,Chang H,Park,1108 Ross Clark Cir # 210,Dothan,AL,(334) 712-3329,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Dothan,1108 Ross Clark Cir,31.21610655,-85.36308641535447
+Park Christopher A MD,Christopher,Park,3700 Dauphin St # A,Mobile,AL,(251) 340-6600,Physicians & Surgeons,Physicians & Surgeons,Cosmetic Plastic/Reconstructive Surgery,"$503,000 ",Mobile,3700 Dauphin St,30.685805,-88.132863
+Park Clinic For Cosmetic,Christopher,Park,3700 Dauphin St # A,Mobile,AL,(251) 340-6600,Physicians & Surgeons,Physicians & Surgeons,Clinics,"$838,000 ",Mobile,3700 Dauphin St,30.685805,-88.132863
+Park Real Estate,Hong,Park,418 Jordan Ln NW # A,Huntsville,AL,(256) 533-6700,Real Estate,Real Estate,,"$228,000 ",Huntsville,418 Jordan Ln NW,34.7258306,-86.6270196
+Park Transfer & Storage Co Inc,Larry,Park,802 41st St N,Birmingham,AL,(205) 345-0311,Movers,Movers,Storage-Household & Commercial,"$707,000 ",Birmingham,802 41st St N,33.538581444444446,-86.77686622222222
+"Park, Saeun",Saeun,Park,7700 Vaughn Rd,Montgomery,AL,(334) 290-4920,Pharmacists,Pharmacists,,"$59,000 ",Montgomery,7700 Vaughn Rd,32.338471,-86.183237
+Parkway Greenhouse & Flower,Hong,Park,13605 Memorial Pkwy SE,Huntsville,AL,(256) 650-4644,Greenhouses,Greenhouses,,"$192,000 ",Huntsville,13605 Memorial Pkwy SE,,
+Ppark Construction Inc,Paul,Park,1647 Quail Ridge Dr,Gardendale,AL,Not Available,Construction Companies,Construction Companies,,"$1,094,000 ",Birmingham,1647 Quail Ridge Dr,33.66016117720064,-86.77608986396936
+Rue21,Summer,Park,301 Cox Creek Pkwy # 1022,Florence,AL,(256) 740-6977,Clothing-Retail,Clothing-Retail,Men's Clothing & Furnishings-Retail,"$2,010,000 ",Flrnc-Msc Sh,301 Cox Creek Pkwy,34.83434965,-87.63669336232034
+Sangae Kim-Park MD PC,Chulwon,Park,52 Medical Park Dr E # 312,Birmingham,AL,(205) 702-6602,Physicians & Surgeons,Physicians & Surgeons,,"$1,366,000 ",Birmingham,52 Medical Park Dr E,33.5964213,-86.6664845
+Smart Alabama LLC,Jincheol,Park,121 Shin Young Dr,Luverne,AL,(334) 335-5800,Metal Goods-Manufacturers,Metal Goods-Manufacturers,Automobile-Manufacturers,"$1,312,000 ",,121 Shin Young Dr,,
+Spring Creek Animal Clinic,Laura,Park,4229 AL Highway 79 S,Guntersville,AL,(256) 582-5910,Animal Hospitals,Animal Hospitals,Veterinarians,"$295,000 ",Albertville,4229 AL Highway 79 S,,
+Sung Woo USA,Youngpae,Park,6177 Perimeter Pkwy,Montgomery,AL,(334) 356-8992,Exporters (Whls),Exporters (Whls),Electric Equipment & Supplies-Retail,"$6,054,000 ",Montgomery,6177 Perimeter Pkwy,32.30015603809723,-86.20655977039827
+Trinity Counseling Ctr,Judy C,Park,810 Shoney Dr SW # 120,Huntsville,AL,(256) 883-3231,Physicians & Surgeons,Physicians & Surgeons,Psychologists,"$734,000 ",Huntsville,810 Shoney Dr SW,34.70191798434731,-86.58595604488941
+Troy City Schools,Allie,Park,358 Elba Hwy,Troy,AL,(334) 566-3741,School Districts,School Districts,,$0 ,Troy,358 Elba Hwy,31.78138252384017,-85.96442009031728
+University Of Alabama,Carol,Park,405 Cahaba Cir,Tuscaloosa,AL,(205) 348-6508,University-College Dept/Facility/Office,University-College Dept/Facility/Office,Federal Government Contractors,$0 ,Tuscaloosa,405 Cahaba Cir,33.21041981248733,-87.518257454313
+West Al Coca-Cola Bottling Co,Frank,Park,4959 Prospect Rd,Carbon Hill,AL,(205) 924-9922,Bottlers (Mfrs),Bottlers (Mfrs),,"$29,025,000 ",Jasper,4959 Prospect Rd,33.923748135375156,-87.47320357941477
+West Central Al Orthopedics,Hanchong J,Park,1023 Med Ctr Pkwy # 311,Selma,AL,(334) 877-3550,Physicians & Surgeons,Physicians & Surgeons,,"$1,577,000 ",Selma,1023 Med Ctr Pkwy,32.4287535625,-87.053147
+Widener Appraisal,Robert,Park,3713 Forest Run Rd,Mountain Brook,AL,(205) 591-0707,Real Estate Appraisers,Real Estate Appraisers,Appraisers,"$383,000 ",Birmingham,3713 Forest Run Rd,33.48364452686787,-86.72430017061684
+Wild Wing Station,Mimi,Park,2212 Dauphin Island Pkwy,Mobile,AL,(251) 287-1824,Restaurants,Restaurants,,"$313,000 ",Mobile,2212 Dauphin Island Pkwy,30.626356,-88.088695
+Wild Wings Station,Charlie,Park,3445 Saint Stephens Rd,Mobile,AL,(251) 725-1250,Restaurants,Restaurants,,"$313,000 ",Mobile,3445 Saint Stephens Rd,30.750105208053693,-88.11486829530202
+Yongsan Automotive,Micheal,Park,1100 Jeter Ave,Opelika,AL,(334) 748-9222,Automobile Repairing & Service,Automobile Repairing & Service,Manufacturers,"$405,000 ",Auburn-Oplka,1100 Jeter Ave,32.655212,-85.3600432
+Youth Reach Gulf Coast,Joseph,Park,25062 County Road 38,Summerdale,AL,(251) 967-4809,Youth Organizations & Centers,Youth Organizations & Centers,,"$293,000 ",Daphne-Frhp,25062 County Road 38,,
+"Bang, Junghwan",Junghwan,Bang,500 Hyundai Blvd,Montgomery,AL,(334) 387-8000,Physical Therapists,Physical Therapists,,"$59,000 ",Montgomery,500 Hyundai Blvd,32.27769343705883,-86.33215697883966
+Beauty Outlet,Charlie,Bang,1817 7th Ave N,Bessemer,AL,(205) 428-6655,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$147,000 ",Birmingham,1817 7th Ave N,33.40430506122449,-86.95880918367347
+South Alabama Pediatrics,Canchan,Bang,101 E Paulk Ave,Opp,AL,(334) 493-2400,Physicians & Surgeons,Physicians & Surgeons,,"$803,000 ",,101 E Paulk Ave,31.293344,-86.255399
+American Deli,Jack,Bae,5519 Grove Blvd # 137,Hoover,AL,(205) 987-4900,Restaurants,Restaurants,Foods-Carry Out,"$197,000 ",Birmingham,5519 Grove Blvd,33.36165599121667,-86.84898627229136
+Hyundia Steel,Wanho,Bae,200 Team Member Ln,Greenville,AL,(334) 382-9101,Trucking-Motor Freight,Trucking-Motor Freight,Steel Products (Whls),"$17,376,000 ",,200 Team Member Ln,,
+Jack Hughston Memorial Hosp,Andrew S,Bae,4401 Riverchase Dr,Phenix City,AL,(334) 732-3000,Physicians & Surgeons,Physicians & Surgeons,,"$127,000 ",Columbus,4401 Riverchase Dr,,
+LG Electronics,Soohan,Bae,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+O E C Factory Corp,Chang,Bae,1025 20th St S,Birmingham,AL,Not Available,Manufacturers,Manufacturers,,"$483,000 ",Birmingham,1025 20th St S,33.496573,-86.7925773
+"Back, Jungha",Jungha,Back,1726 W 3rd St,Montgomery,AL,(334) 593-3932,Opticians,Opticians,,$0 ,Montgomery,1726 W 3rd St,32.363466632653065,-86.2858220612245
+American Deli,Gun,Byun,6570 Highway 69 S # A,Tuscaloosa,AL,(205) 710-5610,Restaurants,Restaurants,Foods-Carry Out,"$344,000 ",Tuscaloosa,6570 Highway 69 S,,
+"Bok, Young Ho Dc",Young Ho,Bok,420 Inverness Cors,Birmingham,AL,(636) 575-9982,Chiropractors DC,Chiropractors DC,,"$414,000 ",Birmingham,420 Inverness Cors,,
+Grace Presbyterian Church,Steve,Bong,5555 Wall Triana Hwy,Madison,AL,(256) 722-0508,Churches,Churches,,$0 ,Huntsville,5555 Wall Triana Hwy,34.74075355,-86.74930190625
+Jaya Corp,Steve,Bong,4801 University Sq # 33,Huntsville,AL,(256) 722-0700,Computers-System Designers & Consultants,Computers-System Designers & Consultants,Information Retrieval Systs/Equip (Whls),"$971,000 ",Huntsville,4801 University Sq,34.741115,-86.656093
+Mimi Beauty Supply,Kim,Bong,510 13th St,Phenix City,AL,(334) 297-0056,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Federal Government Contractors,"$183,000 ",Columbus,510 13th St,32.470853610441154,-84.99865945020039
+Sunbelt Business Brokers,Jerry,Bong,1216 Memorial Pkwy NW,Huntsville,AL,(513) 762-7636,Business Brokers,Business Brokers,,"$702,000 ",Huntsville,1216 Memorial Pkwy NW,34.7958883,-86.5763501
+Seo Tech Pro Leeds Al,Leeds,Seo,2425 Briarcliff Dr # B,Leeds,AL,(251) 651-6090,Advertising-Computer,Advertising-Computer,Website Design Service,$0 ,Birmingham,2425 Briarcliff Dr,,
+Dura Coating Products,John,Suh,26655 Peoples Rd,Madison,AL,(256) 350-4300,Coatings-Protective-Manufacturers,Coatings-Protective-Manufacturers,Paint-Manufacturers,"$9,104,000 ",Huntsville,26655 Peoples Rd,34.63493295,-86.85112934386513
+Montgomery Cardiovascular,SE Young,Suh,1801 Pine St,Montgomery,AL,(334) 293-8877,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,1801 Pine St,32.366654,-86.284253
+Southern Accounting Systs Inc,Steven,Suh,509 Highway 43 S,Tuscumbia,AL,(256) 383-2029,Legal Marketing,Legal Marketing,Business Forms & Systems-Manufacturers,"$2,326,000 ",Flrnc-Msc Sh,509 Highway 43 S,,
+A's Beauty Supply,S K,Seok,305 George Wallace Dr # D-E,Gadsden,AL,(256) 543-0701,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$269,000 ",Gadsden,305 George Wallace Dr,33.99937496461917,-85.99292396461917
+Northrop Grumman,Charles,Sunwoo,213 Wynn Dr NW,Huntsville,AL,(256) 837-2400,Aerospace Industries (Mfrs),Aerospace Industries (Mfrs),Defense Contractors,$0 ,Huntsville,213 Wynn Dr NW,34.72566310775701,-86.65618737758611
+Know Style,Kim,Sung,728 Brookwood Vlg,Birmingham,AL,(205) 802-2297,Beauty Salons,Beauty Salons,,"$228,000 ",Birmingham,728 Brookwood Vlg,,
+Psychiatry South,Cynthia J,Sung,3000 Southlake Park # 100,Hoover,AL,(205) 987-0724,Physicians & Surgeons,Physicians & Surgeons,,"$834,000 ",Birmingham,3000 Southlake Park,,
+Soh Peter B MD,Peter B,Soh,2451 Univ Hospital Dr # 714,Mobile,AL,(251) 660-5108,Physicians & Surgeons,Physicians & Surgeons,,"$503,000 ",Mobile,2451 Univ Hospital Dr,,
+VA Dothan Clinic,A M,Soh,3753 Ross Clark Cir # 4,Dothan,AL,(334) 678-1933,Physicians & Surgeons,Physicians & Surgeons,,"$754,000 ",Dothan,3753 Ross Clark Cir,31.253116913072553,-85.41443771709571
+VA Medical Ctr-Montgomery,A M,Soh,215 Perry Hill Rd,Montgomery,AL,(334) 678-1933,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,215 Perry Hill Rd,32.3771735,-86.2434556
+K Cleaners Inc,Jae,Son,2736 Cahaba Rd,Mountain Brook,AL,(205) 871-3456,Cleaners,Cleaners,,"$230,000 ",Birmingham,2736 Cahaba Rd,33.48416081333333,-86.77387388
+Kee's Beauty Supply,Kee,Son,721 Battle St E,Talladega,AL,(256) 362-7757,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$250,000 ",Talladega,721 Battle St E,33.43793735714286,-86.08659414285714
+Korens,Yong,Son,600 Joseph St,Alexander City,AL,(256) 392-5355,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Wholesale,"$1,367,000 ",Alexandr Cty,600 Joseph St,32.934251,-85.954149
+Nail Place,Bien,Son,972 Market Pl,Alexander City,AL,(256) 234-4744,Manicuring,Manicuring,,"$73,000 ",Alexandr Cty,972 Market Pl,32.9196659,-85.9584858
+Son's Beauty Supply,Jae,Son,711 E Main St,Prattville,AL,(334) 365-0075,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$183,000 ",Montgomery,711 E Main St,32.46000231699791,-86.45611933409957
+Express Food Marts,Chang,Song,3721 Sullivan St,Madison,AL,(256) 461-7334,Convenience Stores,Convenience Stores,,"$233,000 ",Huntsville,3721 Sullivan St,34.678358,-86.751794
+Flagstone Food Mart,Chang,Song,8066 Madison Blvd # B,Madison,AL,(256) 461-9714,Service Stations-Gasoline & Oil,Service Stations-Gasoline & Oil,Convenience Stores,"$3,642,000 ",Huntsville,8066 Madison Blvd,34.689631391304346,-86.71986743478261
+Ji & Ey Investment LLC,Ji,Song,7201 Aaron Aronov Dr # 26,Fairfield,AL,Not Available,Investments,Investments,,"$4,117,000 ",Birmingham,7201 Aaron Aronov Dr,33.466011800000004,-86.91213603581332
+Saehan Management LLC,Joseph,Song,2800 Zelda Rd,Montgomery,AL,(334) 593-5900,Management Services,Management Services,,"$1,350,000 ",Montgomery,2800 Zelda Rd,32.353978,-86.263854
+Song Esther Yerang DO,Esther Y,Song,833 Princeton Ave SW,Birmingham,AL,(205) 783-7663,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Birmingham,833 Princeton Ave SW,33.49846329106231,-86.84699231689888
+Song Eye Ctr,Dae Y,Song,1100 Medical Center Pkwy,Selma,AL,(334) 874-8787,Physicians & Surgeons,Physicians & Surgeons,,"$1,577,000 ",Selma,1100 Medical Center Pkwy,32.417225,-87.045595
+Song Eye Ctr,Dae Yong,Song,1100 Medical Center Pkwy # 120,Selma,AL,(334) 874-8787,Optical Goods-Retail,Optical Goods-Retail,Physicians & Surgeons,"$927,000 ",Selma,1100 Medical Center Pkwy,32.417225,-87.045595
+Song Sara A MD,Sara A,Song,2868 Acton Rd,Vestavia,AL,(205) 379-6075,Physicians & Surgeons,Physicians & Surgeons,,"$196,000 ",Birmingham,2868 Acton Rd,33.424251,-86.742195
+Song Weifeng,Weifeng,Song,619 19th St S,Birmingham,AL,(205) 934-4011,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,619 19th St S,33.505282,-86.8013356
+Song Ziyan MD,Ziyan,Song,625 19th St S,Birmingham,AL,(205) 934-3411,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Birmingham,625 19th St S,33.505282,-86.8013356
+Song's Alterations,Mary Lee,Song,5802 Woodmere Blvd,Montgomery,AL,(334) 273-8888,Tailors,Tailors,Alterations-Clothing,"$186,000 ",Montgomery,5802 Woodmere Blvd,32.35574108474576,-86.21304930508475
+Young's Fashion,Young,Song,116 Butler Sq,Greenville,AL,(334) 382-6397,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Beauty Salons,"$1,087,000 ",,116 Butler Sq,,
+Yoga & Meditation Classes,Harinam,Sin,1901 11th Ave S,Birmingham,AL,(205) 933-6333,Yoga Instruction,Yoga Instruction,Educational Consultants,"$358,000 ",Birmingham,1901 11th Ave S,33.4956219,-86.8068221
+F C Fire Protection Inc,Jun,Shin,7 Monroe Dr,Pelham,AL,(205) 620-2433,Fire Protection Equipment & Supls (Whls),Fire Protection Equipment & Supls (Whls),Fire Sprinkler Systems Installation,"$22,285,000 ",Birmingham,7 Monroe Dr,33.26772290274142,-86.79553762004826
+Holiday International Market,Chasey,Shin,2701 Patton Rd SW # A,Huntsville,AL,(256) 533-1967,Grocers-Retail,Grocers-Retail,,"$1,163,000 ",Huntsville,2701 Patton Rd SW,34.7123684,-86.62588642522829
+K's Beauty Supply,Eun,Shin,2420 Jordan Ln NW # K,Huntsville,AL,(256) 722-5573,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$242,000 ",Huntsville,2420 Jordan Ln NW,34.755296333333334,-86.63870433333334
+LG Electronics,Timothy,Shin,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+Montgomery Eye Physicians,In Chul,Shin,2752 Zelda Rd,Montgomery,AL,(334) 271-3804,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,2752 Zelda Rd,32.36312372493697,-86.26632643129324
+Montgomery Eye Physicians,In C,Shin,8131 Seaton Pl,Montgomery,AL,(334) 323-1889,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,8131 Seaton Pl,32.3378906,-86.1720116
+Pro Appliance LLC,Lewis,Shin,225 Oxmoor Cir # 810,Birmingham,AL,Not Available,Appliances-Household-Major-Dealers,Appliances-Household-Major-Dealers,,"$523,000 ",Birmingham,225 Oxmoor Cir,33.453513,-86.83827
+Pyung Hwa America Inc,Mario,Shin,620 Fox Run Pkwy,Opelika,AL,(334) 364-2912,Automobile & Truck Brokers (Whls),Automobile & Truck Brokers (Whls),,"$7,074,000 ",Auburn-Oplka,620 Fox Run Pkwy,32.6524049,-85.3556061
+Q Beauty Supply,Mi,Shin,3425 Pulaski Pike NW,Huntsville,AL,(256) 852-1112,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$242,000 ",Huntsville,3425 Pulaski Pike NW,34.77043013043478,-86.61680060869566
+Shin Inc,Dong,Shin,5291 Valleydale Rd # 101,Birmingham,AL,Not Available,Software/Application/Platform Publishing,Software/Application/Platform Publishing,,"$6,299,000 ",Birmingham,5291 Valleydale Rd,,
+"Shin, Ah Lahm MD",Ah Lahm,Shin,701 20th Street S Ab 921,Birmingham,AL,Not Available,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,701 20th Street S Ab 921,,
+"Shin, Jay",Jay,Shin,4616 US 280,Birmingham,AL,(205) 991-6248,Pharmacists,Pharmacists,,"$67,000 ",Birmingham,4616 US 280,33.42592289473684,-86.70485552631578
+Solid Gold Beauty Supply,Myong,Shin,3505 Pulaski Pike NW,Huntsville,AL,(256) 851-6088,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$1,423,000 ",Huntsville,3505 Pulaski Pike NW,34.77143581632653,-86.61678659183674
+Terra Equities,Ki,Shin,3755 Corporate Woods Dr,Vestavia,AL,(205) 423-6914,Real Estate Investments,Real Estate Investments,,"$356,000 ",Birmingham,3755 Corporate Woods Dr,33.4797378,-86.7011507
+Watches Unlimited,John,Shin,2000 Riverchs Gallria # 141,Hoover,AL,(205) 402-9787,Watches-Dealers,Watches-Dealers,Jewelry-Repairing,"$406,000 ",Birmingham,2000 Riverchs Gallria,,
+Wings & Stuff,Young,Shin,4012 Richard M Scrushy Pkwy,Fairfield,AL,(205) 785-1818,Restaurants,Restaurants,,"$99,000 ",Birmingham,4012 Richard M Scrushy Pkwy,,
+Y's,Mi,Shin,1502 Moulton St W,Decatur,AL,(256) 353-0416,Hair Goods & Supplies-Retail,Hair Goods & Supplies-Retail,,"$103,000 ",Decatur,1502 Moulton St W,34.60433857471157,-87.00582411715646
+Clower Electric Supply Co Inc,Richard,Sim,2488 Halls Mill Rd,Mobile,AL,(251) 471-6176,Electric Equipment & Supplies-Wholesale,Electric Equipment & Supplies-Wholesale,Light Bulbs & Tubes (Whls),"$5,962,000 ",Mobile,2488 Halls Mill Rd,30.657666,-88.10017169565218
+Electric Clower,Richard,Sim,2488 Halls Mill Rd,Mobile,AL,(251) 471-6176,Electric Companies,Electric Companies,Light Bulbs & Tubes (Whls),"$16,000,000 ",Mobile,2488 Halls Mill Rd,30.657666,-88.10017169565218
+Jimmy John's,Zac,Sim,9 Du Rhu Dr # 320,Mobile,AL,(251) 340-8694,Restaurants,Restaurants,Foods-Carry Out,"$447,000 ",Mobile,9 Du Rhu Dr,30.689291949999998,-88.12982317
+M G M KOBE Inc,Sung,Sim,3501 Grandview Pkwy,Birmingham,AL,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Birmingham,3501 Grandview Pkwy,33.438503,-86.723607
+Oak Mountain State Park,April,Sim,200 Terrace Dr,Pelham,AL,(205) 620-2520,State Parks,State Parks,Recreational Vehicles-Storage,$0 ,Birmingham,200 Terrace Dr,33.327236,-86.753865
+"Ahn, Sooryun MD",Sooryun,Ahn,1851 N Mckenzie St # 200,Foley,AL,(251) 424-1288,Physicians & Surgeons,Physicians & Surgeons,,"$555,000 ",Daphne-Frhp,1851 N Mckenzie St,,
+Beauty Mark Inc,Joe,Ahn,1621 Skyland Blvd E,Tuscaloosa,AL,(205) 556-2005,Tuxedos,Tuxedos,Women's Apparel-Retail,"$4,629,000 ",Tuscaloosa,1621 Skyland Blvd E,33.16844688871455,-87.51576853757892
+Hana Factory Automation,Soon Hae,Ahn,304 Fox Run Ave,Opelika,AL,(334) 745-3705,Automation Consultants,Automation Consultants,,"$313,000 ",Auburn-Oplka,304 Fox Run Ave,32.64582427545099,-85.3546261638834
+TGL Communications Inc,Linda,Ahn,2372 Waterstone Cir,Auburn,AL,(334) 528-0058,Communications,Communications,,"$2,018,000 ",Auburn-Oplka,2372 Waterstone Cir,32.622678500000006,-85.52678603345959
+American Deli,Hong,An,1001 Rainbow Dr # 78,Gadsden,AL,(256) 438-5324,Restaurants,Restaurants,Foods-Carry Out,"$170,000 ",Gadsden,1001 Rainbow Dr,33.9954112,-86.00707832672354
+Lakeland Industries Inc,Hui,An,1525 Perimeter Pkwy NW # 325,Huntsville,AL,(256) 350-3873,Safety Equipment & Clothing (Whls),Safety Equipment & Clothing (Whls),Mens & Boys Work Clothing (Mfrs),$0 ,Huntsville,1525 Perimeter Pkwy NW,34.74508578997489,-86.67276912725826
+Star Beauty Supply,Andrew,An,2620 31st Ave N,Birmingham,AL,(205) 326-0053,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),,"$1,524,000 ",Birmingham,2620 31st Ave N,33.5529446122449,-86.81805604081633
+Vaughn Urgent Care,Thang Q,An,9540 Wynlakes Pl,Montgomery,AL,(334) 395-9933,Clinics,Clinics,Physicians & Surgeons,"$1,739,000 ",Montgomery,9540 Wynlakes Pl,32.33967012244898,-86.14788757142857
+Lear Corp,Myung,Yang,200 Folmar Pkwy,Montgomery,AL,(334) 280-5500,Automobile Parts & Supplies-Mfrs,Automobile Parts & Supplies-Mfrs,,"$250,970,000 ",Montgomery,200 Folmar Pkwy,32.264879,-86.364791
+Das North America,James,Uhm,840 Industrial Park Blvd,Montgomery,AL,(334) 284-2544,Automobile Seatcovers-Wholesale,Automobile Seatcovers-Wholesale,,"$7,458,000 ",Montgomery,840 Industrial Park Blvd,32.378381685678875,-86.11050882475209
+KJ USA Inc,Willy,Uhm,780 Industrial Park Blvd,Montgomery,AL,(334) 819-8693,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,,"$668,000 ",Montgomery,780 Industrial Park Blvd,32.377439621258745,-86.11104458462695
+Yeo Minsoo DMD,Minsoo,Yeo,2015 Interstate Dr,Opelika,AL,(334) 203-2740,Dentists,Dentists,,$0 ,Auburn-Oplka,2015 Interstate Dr,32.617769,-85.4033185
+Hair Holi'd,Kim,Youn,2801 Memorial Pkwy SW,Huntsville,AL,(256) 519-5917,Wigs Toupees & Hairpieces,Wigs Toupees & Hairpieces,Cosmetics & Perfumes-Retail,"$272,000 ",Huntsville,2801 Memorial Pkwy SW,34.7066882,-86.5873659
+Sky Fashion 2 Inc,Seung,Youn,2000 Riverchs Gallria # 147,Hoover,AL,Not Available,Clothing-Retail,Clothing-Retail,,"$683,000 ",Birmingham,2000 Riverchs Gallria,,
+"Youn, Edward",Edward,Youn,1802 6th Ave S,Birmingham,AL,(205) 934-3411,Nurses-Practitioners,Nurses-Practitioners,,"$77,000 ",Birmingham,1802 6th Ave S,33.506493750000004,-86.80257999633864
+"Youn, Edward",Edward,Youn,619 19th St S,Birmingham,AL,(205) 934-4011,Nurses-Practitioners,Nurses-Practitioners,,"$77,000 ",Birmingham,619 19th St S,33.505282,-86.8013356
+Accounting Firm,Patricia,OH,3800 Colonnade Pkwy # 500,Birmingham,AL,(205) 967-9744,Accountants,Accountants,,"$296,000 ",Birmingham,3800 Colonnade Pkwy,33.43664425,-86.73229834127807
+Childrens Hospital,M K,OH,1600 6th Ave S # 200,Birmingham,AL,(205) 939-6123,Clinics,Clinics,,"$1,561,000 ",Birmingham,1600 6th Ave S,33.504487,-86.806169
+Eurostyle Custom Tailoring,Kwang S,OH,4124 Government Blvd # B,Mobile,AL,(251) 661-5875,Alterations-Clothing,Alterations-Clothing,,"$218,000 ",Mobile,4124 Government Blvd,30.634168,-88.14468
+Holic,Paul,OH,2000 Riverchase Galleria,Hoover,AL,(205) 582-9381,Clothing-Retail,Clothing-Retail,Boutique Items-Retail,"$683,000 ",Birmingham,2000 Riverchase Galleria,33.3792395,-86.8085604
+Oh Beauty Mart,Kevin,OH,2900 Triana Blvd SW,Huntsville,AL,(256) 585-1764,Beauty Salons,Beauty Salons,,"$112,000 ",Huntsville,2900 Triana Blvd SW,34.7111365,-86.6102702
+"Oh, Young Eun",Young Eun,OH,703 S Memorial Dr,Prattville,AL,(334) 361-2261,Pharmacists,Pharmacists,,$0 ,Montgomery,703 S Memorial Dr,32.45916609510278,-86.4505509442493
+TK Electric,Cheol,OH,5341 Perimeter Pkwy,Montgomery,AL,(334) 356-8464,Electric Contractors,Electric Contractors,Electric Companies,"$1,159,000 ",Montgomery,5341 Perimeter Pkwy,32.30130987605348,-86.21045301041153
+Trends Menswear,Paul,OH,7201 Aaron Aronov Dr,Fairfield,AL,(205) 923-4479,Men's Clothing & Furnishings-Retail,Men's Clothing & Furnishings-Retail,,"$470,000 ",Birmingham,7201 Aaron Aronov Dr,33.466011800000004,-86.91213603581332
+Daehan Solutions Alabama LLC,Alex,Woo,9101 County Road 26,Hope Hull,AL,(334) 404-5000,Insulation Contractors-Cold & Heat,Insulation Contractors-Cold & Heat,,"$20,852,000 ",Montgomery,9101 County Road 26,,
+Dollar General,Mary,Woo,637 S Valley Ave,Collinsville,AL,(205) 536-9991,Variety Stores,Variety Stores,Department Stores,"$1,144,000 ",Fort Payne,637 S Valley Ave,34.25571246511234,-85.86689866483088
+Huntsville City Schools,Charlotte,Woo,4908 Garth Rd SE,Huntsville,AL,(256) 428-7220,Schools,Schools,,$0 ,Huntsville,4908 Garth Rd SE,34.68972844343706,-86.55250973967593
+Inzi Controls Of Alabama,K H,Woo,375 Alabama Highway 203,Elba,AL,(334) 897-0100,Tool & Die Makers Equip & Supls (Whls),Tool & Die Makers Equip & Supls (Whls),Automobile-Manufacturers,"$86,670,000 ",Enterprise,375 Alabama Highway 203,,
+Jung Enterprises Inc,Jung,Woo,151 Main St,Hoover,AL,Not Available,Real Estate,Real Estate,,"$638,000 ",Birmingham,151 Main St,33.3744228,-86.814652
+Mando America Corp,Jong,Woo,4200 N Park Dr,Opelika,AL,(334) 737-3899,Alternators & Generators-Automotive-Mfrs,Alternators & Generators-Automotive-Mfrs,Automobile Parts & Supplies-Retail-New,"$70,183,000 ",Auburn-Oplka,4200 N Park Dr,,
+"Woo, Nicole",Nicole,Woo,1401 Doug Baker Blvd # 107,Hoover,AL,(205) 475-7070,Nurses-Practitioners,Nurses-Practitioners,,$0 ,Birmingham,1401 Doug Baker Blvd,33.409352557607114,-86.66989424298376
+"Woo, Nicole",Nicole,Woo,151 N 20th St,Opelika,AL,(334) 203-1777,Nurses-Practitioners,Nurses-Practitioners,,"$65,000 ",Auburn-Oplka,151 N 20th St,32.63607531107101,-85.40370166807118
+Joy's Cleaners,Lee,Won,7985 Highway 72 W # A,Madison,AL,(256) 864-9945,Cleaners,Cleaners,,"$14,000 ",Huntsville,7985 Highway 72 W,,
+Won's Martial Arts-Phenix City,Amy,Won,3789 Opelika Rd,Phenix City,AL,(334) 297-7851,Martial Arts Instruction,Martial Arts Instruction,,"$159,000 ",Columbus,3789 Opelika Rd,32.49400501734075,-85.04854576838672
+"Won, Song Do",Song,Won,2161 Carson Rd,Birmingham,AL,Not Available,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,2161 Carson Rd,33.64355205,-86.70688028276531
+American Promotional Events,Peter,Yu,4003 Helton Dr,Florence,AL,(256) 284-1003,Fireworks (Whls),Fireworks (Whls),Events-Special,"$255,000 ",Flrnc-Msc Sh,4003 Helton Dr,34.8212153,-87.6670857
+American Promotional Events,Peter,Yu,4511 Helton Dr,Florence,AL,(256) 764-6131,Fireworks (Whls),Fireworks (Whls),,$0 ,Flrnc-Msc Sh,4511 Helton Dr,34.8777254,-87.66405601424066
+Angel Alterations,Nan,Yu,8006 Madison Pike # 12b,Madison,AL,(256) 464-6947,Alterations-Clothing,Alterations-Clothing,,"$272,000 ",Huntsville,8006 Madison Pike,34.706482041177246,-86.72019174015782
+C & J Tech,Pyeong,Yu,145 Plant 10 Dr,Alexander City,AL,(256) 392-4290,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,,"$27,330,000 ",Alexandr Cty,145 Plant 10 Dr,,
+Distinguished Young Women,Brenda,Yu,751 Government St,Mobile,AL,(251) 438-3621,Scholarship Programs,Scholarship Programs,Non-Profit Organizations,"$4,257,000 ",Mobile,751 Government St,30.686896,-88.05128
+Dixie Beauty Supply,Su,Yu,490 W Fairview Ave,Montgomery,AL,(334) 263-4132,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Hair Goods & Supplies-Retail,"$528,000 ",Montgomery,490 W Fairview Ave,32.35175190237639,-86.31481105221047
+Hong Kong Restaurant,Shuping,Yu,1817 Pinson Valley Pkwy,Birmingham,AL,(205) 841-8800,Restaurants,Restaurants,,"$148,000 ",Birmingham,1817 Pinson Valley Pkwy,33.6387641,-86.7264781
+Juicy Crab,Queen,Yu,3250 Airport Blvd,Mobile,AL,(251) 300-8397,Miscellaneous Food Stores,Miscellaneous Food Stores,Restaurants,$0 ,Mobile,3250 Airport Blvd,30.67603,-88.12294874999999
+LG Electronics,Kyumoon,Yu,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+Martin Retail Group,Jennifer,Yu,2801 University Blvd # 201,Birmingham,AL,(205) 930-9200,Advertising-Agencies & Counselors,Advertising-Agencies & Counselors,,"$888,000 ",Birmingham,2801 University Blvd,33.509946,-86.787169
+Med Help,Song I,Yu,5915 Chalkville Mtn Rd # 100,Birmingham,AL,(205) 547-3920,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,5915 Chalkville Mtn Rd,,
+Top Games,Thomas,Yu,1058 Main St,Gardendale,AL,(205) 285-8500,Games & Game Supplies,Games & Game Supplies,Video Games,"$268,000 ",Birmingham,1058 Main St,33.646633,-86.811473
+"Yu, Andy Do",Andy,Yu,750 Morphy Ave,Fairhope,AL,(251) 279-1529,Physicians & Surgeons,Physicians & Surgeons,,"$555,000 ",Daphne-Frhp,750 Morphy Ave,30.51903605,-87.88835174705152
+"Yu, Jonathan C MD",Jonathan C,Yu,1313 13th St S,Birmingham,AL,Not Available,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,1313 13th St S,33.5047872,-86.8119818
+Wiz Tech,Jongil,Yun,2214 Marvyn Pkwy,Opelika,AL,(334) 742-0030,Energy Conservation & Mgmt Consultants,Energy Conservation & Mgmt Consultants,,"$284,000 ",Auburn-Oplka,2214 Marvyn Pkwy,32.625286589380835,-85.37153580516583
+Afc Primed,Dongjin,Yoon,34 Taylor Rd N,Montgomery,AL,(334) 323-1510,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,34 Taylor Rd N,32.38309583148188,-86.1732853358117
+Fashion World,Hye,Yoon,2032 Airport Blvd # G,Mobile,AL,(251) 476-0177,Martial Arts Instruction,Martial Arts Instruction,Women's Apparel-Retail,"$68,000 ",Mobile,2032 Airport Blvd,30.676558,-88.089091
+LG Electronics,Man Soub,Yoon,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+Serina Therapeutics Inc,Kunsang,Yoon,601 Genome Way # 2001,Huntsville,AL,(256) 327-0566,Biotechnology Products & Services,Biotechnology Products & Services,Federal Government Contractors,$0 ,Huntsville,601 Genome Way,34.724138,-86.69005
+"Yoon, Yesie MD",Yesie,Yoon,1600 7th Ave S,Birmingham,AL,(205) 939-9100,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,1600 7th Ave S,33.50468945,-86.80563534772864
+Hair Holi'd,Kim,Youn,2801 Memorial Pkwy SW,Huntsville,AL,(256) 519-5917,Wigs Toupees & Hairpieces,Wigs Toupees & Hairpieces,Cosmetics & Perfumes-Retail,"$272,000 ",Huntsville,2801 Memorial Pkwy SW,34.7066882,-86.5873659
+Sky Fashion 2 Inc,Seung,Youn,2000 Riverchs Gallria # 147,Hoover,AL,Not Available,Clothing-Retail,Clothing-Retail,,"$683,000 ",Birmingham,2000 Riverchs Gallria,,
+"Youn, Edward",Edward,Youn,1802 6th Ave S,Birmingham,AL,(205) 934-3411,Nurses-Practitioners,Nurses-Practitioners,,"$77,000 ",Birmingham,1802 6th Ave S,33.506493750000004,-86.80257999633864
+"Youn, Edward",Edward,Youn,619 19th St S,Birmingham,AL,(205) 934-4011,Nurses-Practitioners,Nurses-Practitioners,,"$77,000 ",Birmingham,619 19th St S,33.505282,-86.8013356
+Hwashin America Corp,Franklin,Yi,661 Montgomery Hwy,Greenville,AL,(334) 382-1100,Manufacturers,Manufacturers,,"$1,251,000 ",,661 Montgomery Hwy,31.8666663,-86.5787827
+J C's Beauty Supply,Misuk,Yi,2701 Patton Rd SW # D,Huntsville,AL,(256) 535-4443,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),,"$712,000 ",Huntsville,2701 Patton Rd SW,34.7123684,-86.62588642522829
+Pinnacle Solutions Inc,Angela,Yi,5030 Bradford Dr NW # 130,Huntsville,AL,(256) 327-4181,Banks,Banks,Aerospace Industries (Mfrs),$0 ,Huntsville,5030 Bradford Dr NW,,
+AIA Recycling Corp,Jae,Lee,470 Cloverdale Rd,Greenville,AL,(334) 382-0505,Scrap Metals & Iron (Whls),Scrap Metals & Iron (Whls),,"$12,574,000 ",,470 Cloverdale Rd,31.854983138186597,-86.62408237249943
+American Deli,Won,Lee,971 Ann St,Montgomery,AL,(334) 262-6122,Restaurants,Restaurants,Foods-Carry Out,"$232,000 ",Montgomery,971 Ann St,32.3688215865591,-86.27088657683883
+Burgundy Appeal Inc,Thong,Lee,1124 Eastdale Mall,Montgomery,AL,(334) 272-1347,Clothing-Retail,Clothing-Retail,,"$243,000 ",Montgomery,1124 Eastdale Mall,,
+Dixie Wings,Sun,Lee,10630 Lee Road 240,Phenix City,AL,(334) 297-0909,Restaurants,Restaurants,,"$115,000 ",Auburn-Oplka,10630 Lee Road 240,,
+Dongwon Autopart,Dong,Lee,12865 Montgomery Hwy,Luverne,AL,(334) 537-5000,Automobile Parts & Supplies-Mfrs,Automobile Parts & Supplies-Mfrs,Manufacturers,"$88,186,000 ",,12865 Montgomery Hwy,31.716709,-86.274374
+Dothan Martial Arts Academy,Ho,Lee,102 Central Park Ave # 3,Dothan,AL,(334) 678-0903,Martial Arts Instruction,Martial Arts Instruction,,"$54,000 ",Dothan,102 Central Park Ave,,
+First Alert Tax Svc,Tae,Lee,1270 Center Point Pkwy # C,Birmingham,AL,(205) 928-3829,Tax Return Preparation & Filing,Tax Return Preparation & Filing,,"$60,000 ",Birmingham,1270 Center Point Pkwy,33.616965,-86.685536
+Glory Trading,Kwang,Lee,3071 Pelham Pkwy,Pelham,AL,(205) 663-8939,Service Stations-Gasoline & Oil,Service Stations-Gasoline & Oil,Convenience Stores,"$7,407,000 ",Birmingham,3071 Pelham Pkwy,33.291843943686764,-86.81177562974588
+Greystone Cleaners,Hongsik,Lee,5510 Highway 280 # 101,Birmingham,AL,(205) 991-3411,Cleaners,Cleaners,,"$319,000 ",Birmingham,5510 Highway 280,,
+Gummoon USA,Sunhee,Lee,2292 Pumphrey Ave,Auburn,AL,(334) 502-8899,Automobile Parts & Supplies-Wholesale,Automobile Parts & Supplies-Wholesale,Chrome (Mfrs),"$9,478,000 ",Auburn-Oplka,2292 Pumphrey Ave,32.6022091,-85.5224785
+Huntsville-Madison County 911,Un,Lee,1570 Old Monrovia Rd NW,Huntsville,AL,(256) 722-7140,Government Offices-County,Government Offices-County,,$0 ,Huntsville,1570 Old Monrovia Rd NW,34.754976,-86.67881371428571
+JMC Beauty Supply,Suni,Lee,4736 Mobile Hwy,Montgomery,AL,(334) 286-8006,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons,"$264,000 ",Montgomery,4736 Mobile Hwy,32.310453,-86.349945
+Judy's,Sun,Lee,2243 Bessemer Rd,Birmingham,AL,(205) 780-7878,Women's Apparel-Retail,Women's Apparel-Retail,,"$131,000 ",Birmingham,2243 Bessemer Rd,33.49590560456767,-86.87793179531538
+Kirklin Clinic Neurosurgery,Ikjae,Lee,2000 6th Ave S,Birmingham,AL,(205) 801-8950,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,2000 6th Ave S,33.50795185,-86.80028228723772
+Korean First Methodist Church,Minyoung,Lee,6801 Vaughn Rd,Montgomery,AL,(334) 279-3871,Churches,Churches,,$0 ,Montgomery,6801 Vaughn Rd,32.343984,-86.223145
+Lee Goo,Goo,Lee,619 19th St S,Birmingham,AL,(205) 934-4011,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,619 19th St S,33.505282,-86.8013356
+Lee Precision Machine Shop,John,Lee,26182 US Highway 72,Athens,AL,(256) 233-3131,Machine Shops (Mfrs),Machine Shops (Mfrs),Automobile Machine Shop Service,"$2,651,000 ",Huntsville,26182 US Highway 72,34.7756907,-86.9146332
+Lee's VIP Hair Salon Inc,Young,Lee,5812 Woodmere Blvd,Montgomery,AL,(334) 593-3131,Beauty Salons,Beauty Salons,,"$46,000 ",Montgomery,5812 Woodmere Blvd,32.35573930508475,-86.21304489830509
+LG Electronics,Sangwon,Lee,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+Motorola Solutions,Joong,Lee,1900 International Park Dr,Birmingham,AL,(205) 968-8097,Communication Equipment-Manufacturers,Communication Equipment-Manufacturers,Cellular Telephones (Services),"$7,463,000 ",Birmingham,1900 International Park Dr,,
+Stifel,Shon,Lee,2660 Eastchase Ln # 400,Montgomery,AL,(334) 213-1600,Stock & Bond Brokers,Stock & Bond Brokers,Investment Securities,"$15,299,000 ",Montgomery,2660 Eastchase Ln,32.3576768,-86.1587003
+USA Nails & Tan,Quoc,Lee,640 N Mckenzie St # 150,Foley,AL,(251) 970-1001,Manicuring,Manicuring,,"$232,000 ",Daphne-Frhp,640 N Mckenzie St,,
+Yesol Electric,Ji,Lee,2914 Day St,Montgomery,AL,(334) 613-2035,Electric Equipment-Manufacturers,Electric Equipment-Manufacturers,Electric Equipment & Supplies-Wholesale,"$8,510,000 ",Montgomery,2914 Day St,32.36934214285714,-86.34100714285714
+Lickin' Good Donuts,Vibol,Yim,3915 Government Blvd,Mobile,AL,(251) 219-7922,Doughnuts,Doughnuts,,"$58,000 ",Mobile,3915 Government Blvd,30.638206891891894,-88.13954112162162
+"Yim, Deborah",Deborah,Yim,118 E Choccolocco St,Oxford,AL,(256) 831-4601,Counselors,Counselors,,"$48,000 ",Anniston,118 E Choccolocco St,33.615072,-85.831712
+Ajin USA,Jake,Jang,1500 County Road 177,Cusseta,AL,(334) 756-8600,Metal Stamping (Mfrs),Metal Stamping (Mfrs),Automobile Parts & Supplies-Wholesale,"$2,224,000 ",Lagrange,1500 County Road 177,,
+K C Sol Tech Co Inc,Chang,Jang,1127 W Veterans Blvd,Auburn,AL,(334) 887-0204,Machine Shops (Mfrs),Machine Shops (Mfrs),,"$1,160,000 ",Auburn-Oplka,1127 W Veterans Blvd,32.561259,-85.509341
+Smyrna Korean Presbyterian Chr,Joon Yung,Jang,4081 Rucker Blvd,Enterprise,AL,(334) 308-9893,Churches,Churches,,$0 ,Ozark,4081 Rucker Blvd,31.340137037974685,-85.77763710126582
+St Andrew Parish,Byeong C,Jang,433 Clayton St,Montgomery,AL,(334) 262-3241,Churches,Churches,Clergy,$0 ,Montgomery,433 Clayton St,32.37307885,-86.31639716139946
+Gyunglim USA Inc,Hyungwoo,Jeon,309 Williamson Ave,Opelika,AL,(334) 749-5012,Packaging Service,Packaging Service,Storage-Household & Commercial,"$999,000 ",Auburn-Oplka,309 Williamson Ave,32.62573259182853,-85.37738531386547
+Briarwood Presbyterian Church,Seung H,Cheon,2200 Briarwood Way,Birmingham,AL,(205) 776-5200,Churches,Churches,,$0 ,Birmingham,2200 Briarwood Way,33.4163696,-86.75993680942898
+Das North America,Chris,Cheon,840 Industrial Park Blvd,Montgomery,AL,(334) 284-2544,Automobile Seatcovers-Wholesale,Automobile Seatcovers-Wholesale,,"$7,458,000 ",Montgomery,840 Industrial Park Blvd,32.378381685678875,-86.11050882475209
+WLJR,Caleb,Cheon,2200 Briarwood Way,Birmingham,AL,(205) 776-5232,Radio Stations & Broadcasting Companies,Radio Stations & Broadcasting Companies,,"$1,309,000 ",Birmingham,2200 Briarwood Way,33.4163696,-86.75993680942898
+Avion Solutions,Michael,Chun,4905 Research Dr NW,Huntsville,AL,(256) 721-7006,Engineers-Aeronautical,Engineers-Aeronautical,Embassies & Legations,$0 ,Huntsville,4905 Research Dr NW,34.73069503447607,-86.6562654048759
+"Chun, Bokyung",Bokyung,Chun,1726 W 3rd St,Montgomery,AL,(334) 593-3932,Opticians,Opticians,,$0 ,Montgomery,1726 W 3rd St,32.363466632653065,-86.2858220612245
+Daehan Solutions Alabama LLC,Yong Kee,Chun,9101 County Road 26,Hope Hull,AL,(334) 404-5000,Insulation Contractors-Cold & Heat,Insulation Contractors-Cold & Heat,,"$20,852,000 ",Montgomery,9101 County Road 26,,
+Perfect Finish Body Shop,Robert,Chun,305 Triana Blvd NW,Huntsville,AL,(256) 203-2915,Automobile Body-Repairing & Painting,Automobile Body-Repairing & Painting,,"$161,000 ",Huntsville,305 Triana Blvd NW,34.722769650000004,-86.60949012515698
+Al Partnership For Children,Alycia,Jeong,2595 Bell Rd,Montgomery,AL,(334) 271-0304,Social Service & Welfare Organizations,Social Service & Welfare Organizations,Federal Government Contractors,"$352,000 ",Montgomery,2595 Bell Rd,32.3432112173913,-86.19482804347827
+Auburn Opelika Korean Church,Junmo,Jeong,1800 Rocky Brook Rd,Opelika,AL,(334) 749-5386,Churches,Churches,,$0 ,Auburn-Oplka,1800 Rocky Brook Rd,32.67029198307475,-85.38141406698647
+Hyundia Steel,Joseph,Jeong,200 Team Member Ln,Greenville,AL,(334) 382-9101,Trucking-Motor Freight,Trucking-Motor Freight,Steel Products (Whls),"$17,376,000 ",,200 Team Member Ln,,
+Kyoto Sushi & Japanese Rstrnt,Kwant,Jeong,4177 Montgomery Hwy # 2,Dothan,AL,(334) 699-1078,Restaurants,Restaurants,,"$349,000 ",Dothan,4177 Montgomery Hwy,31.262909738994036,-85.43979117490765
+Sejong Alabama,Shin,Jeong,450 Old Fort Rd E,Fort Deposit,AL,(334) 227-0822,Services NEC,Services NEC,,"$182,000 ",Montgomery,450 Old Fort Rd E,,
+Yong In Martial Arts,Sangok,Jeong,7985 Highway 72 W # C,Madison,AL,(256) 217-8700,Martial Arts Instruction,Martial Arts Instruction,,"$62,000 ",Huntsville,7985 Highway 72 W,,
+Sca Inc,Jae,Jung,764 W Veterans Blvd,Auburn,AL,(334) 887-6720,Plastics-Products-Retail,Plastics-Products-Retail,,"$298,000 ",Auburn-Oplka,764 W Veterans Blvd,32.561259,-85.509341
+Smart Alabama LLC,Yeon,Jung,121 Shin Young Dr,Luverne,AL,(334) 335-5800,Metal Goods-Manufacturers,Metal Goods-Manufacturers,Automobile-Manufacturers,"$1,312,000 ",,121 Shin Young Dr,,
+Birmingham Allergy-Asthma,Clara K,Chung,3125 Independence Dr # 210,Birmingham,AL,(205) 943-1197,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,3125 Independence Dr,,
+Chung Edward Hun DO,Edward H,Chung,625 19th St S,Birmingham,AL,(205) 975-0045,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Birmingham,625 19th St S,33.505282,-86.8013356
+East Montgomery Ortho Med Grp,Tai,Chung,6936 Winton Blount Blvd,Montgomery,AL,(334) 260-2288,Physicians & Surgeons,Physicians & Surgeons,,"$435,000 ",Montgomery,6936 Winton Blount Blvd,32.37787678427291,-86.17664811648658
+Edward Jones,Sang,Chung,1951 Berry Chase Pl,Montgomery,AL,(334) 271-9573,Financial Advisory Services,Financial Advisory Services,Stock & Bond Brokers,"$612,000 ",Montgomery,1951 Berry Chase Pl,32.35244498315849,-86.16742544479142
+Inverness Smiles,Sunny,Chung,5291 Valleydale Rd # 129,Birmingham,AL,(205) 995-3989,Cosmetic Dentistry,Cosmetic Dentistry,Facial Cosmetology,"$526,000 ",Birmingham,5291 Valleydale Rd,,
+Ladonia Nails,Nghia,Chung,3928 US Highway 80 W,Phenix City,AL,(334) 297-0500,Manicuring,Manicuring,,"$44,000 ",Columbus,3928 US Highway 80 W,,
+Malibu Salon & Spa,Lora,Chung,3817 Mcfarland Blvd # D,Northport,AL,(205) 330-1800,Beauty Salons,Beauty Salons,Manicuring,"$62,000 ",Tuscaloosa,3817 Mcfarland Blvd,33.239296341386456,-87.59442284473795
+Oriental Palace,Hung L,Chung,11590 Dauphin Island Pkwy,Theodore,AL,(251) 973-2998,Restaurants,Restaurants,,"$134,000 ",Mobile,11590 Dauphin Island Pkwy,,
+Paper Source,Nami,Chung,214 Summit Blvd # 550,Vestavia,AL,(205) 815-6386,Stationers-Retail,Stationers-Retail,Paper Brokers & Mill Representatives,"$736,000 ",Birmingham,214 Summit Blvd,33.451798,-86.731048
+Pizza Todinos,Carlos,Chung,1001 Rainbow Dr # 81,Gadsden,AL,(256) 547-2488,Pizza,Pizza,Restaurants,"$128,000 ",Gadsden,1001 Rainbow Dr,33.9954112,-86.00707832672354
+Shanghai Express,U T,Chung,118 E Broad St,Gadsden,AL,(256) 459-4896,Restaurants,Restaurants,,"$298,000 ",Gadsden,118 E Broad St,34.008351736663386,-85.99360839734709
+Tai Q Chung MD,Tai,Chung,6936 Winton Blount Blvd,Montgomery,AL,(334) 260-2288,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Montgomery,6936 Winton Blount Blvd,32.37787678427291,-86.17664811648658
+Tai Q Chung MD,Tai Q,Chung,6936 Winton Blount Blvd,Montgomery,AL,(334) 260-2281,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,6936 Winton Blount Blvd,32.37787678427291,-86.17664811648658
+Telegraph Branding,Jin,Chung,3019 2nd Ave S,Birmingham,AL,(205) 983-8080,Marketing Consultants,Marketing Consultants,Telegraph Service,"$1,973,000 ",Birmingham,3019 2nd Ave S,33.5117738,-86.8013892
+Transomic Technologies Inc,Jason,Chung,601 Genome Way # 1222,Huntsville,AL,(759) 304-8439,Biotechnology Products & Services,Biotechnology Products & Services,Federal Government Contractors,$0 ,Huntsville,601 Genome Way,34.724138,-86.69005
+Uniformal LLC,Kyung,Chung,744 Brookwood Vlg # 239,Birmingham,AL,(205) 461-5539,T-Shirts-Retail,T-Shirts-Retail,,"$251,000 ",Birmingham,744 Brookwood Vlg,,
+Hwashin America Corp,Hyunwoo,Jo,661 Montgomery Hwy,Greenville,AL,(334) 382-1100,Manufacturers,Manufacturers,,"$1,251,000 ",,661 Montgomery Hwy,31.8666663,-86.5787827
+"Jo, Nahyun MD",Nahyun,Jo,2055 E South Blvd,Montgomery,AL,(334) 747-7569,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,2055 E South Blvd,32.3271003,-86.2577981
+Ristretto Lounge,Johan,Jo,2650 Corporate Park Dr,Opelika,AL,(334) 321-9250,Cocktail Lounges,Cocktail Lounges,Restaurants,$0 ,Auburn-Oplka,2650 Corporate Park Dr,32.6169393,-85.4154233
+Cho DO Yeon,DO Yeon,Cho,2000 6th Ave S # 5,Birmingham,AL,(205) 934-9999,Physicians & Surgeons,Physicians & Surgeons,,"$196,000 ",Birmingham,2000 6th Ave S,33.50795185,-86.80028228723772
+Cho Yoon Young DO,Yoon Young,Cho,2055 E South Blvd # 200,Montgomery,AL,(334) 551-2033,Physicians & Surgeons,Physicians & Surgeons,,"$653,000 ",Montgomery,2055 E South Blvd,32.3271003,-86.2577981
+"Cho, Derrick H MD",Derrick H,Cho,201 Governors Dr SW # 1,Huntsville,AL,(256) 533-1600,Physicians & Surgeons,Physicians & Surgeons,,"$734,000 ",Huntsville,201 Governors Dr SW,34.71973,-86.581189
+CS Eng Inc,Yong Goo,Cho,4446 Selma Hwy,Montgomery,AL,(334) 481-0164,Pallets & Skids (Whls),Pallets & Skids (Whls),,"$8,808,000 ",Montgomery,4446 Selma Hwy,32.30723429591837,-86.3916890510204
+Elyton Meat Market,Seung,Cho,301 Center St N,Birmingham,AL,(205) 251-5306,Meat-Retail,Meat-Retail,Butchering (Whls),"$324,000 ",Birmingham,301 Center St N,33.506954,-86.836199
+Gummoon USA,John,Cho,2292 Pumphrey Ave,Auburn,AL,(334) 502-8899,Automobile Parts & Supplies-Wholesale,Automobile Parts & Supplies-Wholesale,Chrome (Mfrs),"$9,478,000 ",Auburn-Oplka,2292 Pumphrey Ave,32.6022091,-85.5224785
+Hwashin America Corp,Seonghyun,Cho,661 Montgomery Hwy,Greenville,AL,(334) 382-1100,Manufacturers,Manufacturers,,"$1,251,000 ",,661 Montgomery Hwy,31.8666663,-86.5787827
+Hyundai Motor Mfg-Alabama,Thomas,Cho,700 Hyundai Blvd,Montgomery,AL,(334) 387-8000,Automobile-Manufacturers,Automobile-Manufacturers,Automobile & Truck Brokers (Whls),"$416,511,000 ",Montgomery,700 Hyundai Blvd,32.277645667256245,-86.33812842951598
+Mary Cho Realty Inc,Mary,Cho,311 N College St,Auburn,AL,(334) 524-8867,Real Estate,Real Estate,Real Estate Consultants,"$93,000 ",Auburn-Oplka,311 N College St,32.610694960405226,-85.48188898675353
+Prolink Dadeville,Chad,Cho,18124 Highway 280,Dadeville,AL,(256) 825-0332,Personnel Consultants,Personnel Consultants,Employment Agencies & Opportunities,"$421,000 ",Alexandr Cty,18124 Highway 280,,
+Pyung Hwa America Inc,Young Kwon,Cho,620 Fox Run Pkwy,Opelika,AL,(334) 364-2912,Automobile & Truck Brokers (Whls),Automobile & Truck Brokers (Whls),,"$7,074,000 ",Auburn-Oplka,620 Fox Run Pkwy,32.6524049,-85.3556061
+Smart Alabama LLC,Kevin,Cho,121 Shin Young Dr,Luverne,AL,(334) 335-5800,Metal Goods-Manufacturers,Metal Goods-Manufacturers,Automobile-Manufacturers,"$1,312,000 ",,121 Shin Young Dr,,
+Outreach Seventh-Day Adventist,Gitack,Ju,1808 S Long St,Opelika,AL,(334) 749-3151,Ministries-Out Reach,Ministries-Out Reach,Churches,$0 ,Auburn-Oplka,1808 S Long St,32.638632,-85.388104
+H Benjamin Ji LLC,H B,Ji,106 Memorial Pkwy,Troy,AL,(334) 566-2366,Dentists,Dentists,,"$423,000 ",Troy,106 Memorial Pkwy,,
+Ji's Barber Shop,Sung Ik,Ji,946 N Daleville Ave,Daleville,AL,(334) 598-5336,Barbers,Barbers,,"$85,000 ",Ozark,946 N Daleville Ave,31.3138504,-85.7114972
+"Ji, Yoon Do",Yoon,Ji,2451 University Hospital Dr,Mobile,AL,(251) 434-7207,Physicians & Surgeons,Physicians & Surgeons,,"$503,000 ",Mobile,2451 University Hospital Dr,,
+Anniston Medical Clinic PC,Chang-Kon,Jin,1010 Christine Ave,Anniston,AL,(256) 236-5631,Physicians & Surgeons,Physicians & Surgeons,,"$861,000 ",Anniston,1010 Christine Ave,33.65735212244898,-85.82348051020409
+Greenway Health,Jingren,Jin,1 Metroplex Dr # 500,Birmingham,AL,(205) 871-1031,Software/Application/Platform Publishing,Software/Application/Platform Publishing,Holding Companies (Non-Bank),"$110,093,000 ",Birmingham,1 Metroplex Dr,,
+Junes Massage,Mandy,Jin,503 Greystone Way,Prattville,AL,(334) 380-9155,Massage Therapists,Massage Therapists,Massage,"$94,000 ",Montgomery,503 Greystone Way,32.46181477919651,-86.4254476715329
+Kinder Morgan Inc,Qing,Jin,1501 Meadowcraft Rd,Birmingham,AL,(205) 327-6998,Pipe Line Companies,Pipe Line Companies,Oil & Gas Producers,"$50,037,000 ",Birmingham,1501 Meadowcraft Rd,,
+Morrow Brothers LLC,Bin,Jin,9417 Parkway E,Birmingham,AL,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Birmingham,9417 Parkway E,33.592130499999996,-86.69546950643547
+Myron Gardner-State Farm Ins,Cuihua,Jin,1819 Darby Dr,Florence,AL,(256) 764-2234,Insurance,Insurance,Banks,"$484,000 ",Flrnc-Msc Sh,1819 Darby Dr,34.8236051,-87.65674855068485
+New China Restaurants,Senz,Jin,765 S Forest Ave,Luverne,AL,(334) 335-2788,Restaurants,Restaurants,,"$89,000 ",,765 S Forest Ave,31.695037,-86.266217
+Shinerich International,Weidong,Jin,289 Cahaba Valley Pkwy N,Pelham,AL,(205) 380-6750,Sales Promotion Service,Sales Promotion Service,Grain Hauling,"$300,000 ",Birmingham,289 Cahaba Valley Pkwy N,33.34342669290838,-86.78475159850987
+Sun East Chinese Restaurant,Xiu F,Jin,985 Ross St,Heflin,AL,(256) 463-2298,Restaurants,Restaurants,Chinese Food Products,"$95,000 ",,985 Ross St,33.6503236152717,-85.58735416048408
+Choe Hannah Marshall DO,Hannah M,Choe,2451 Univ Hospital Dr # 714,Mobile,AL,(251) 434-3475,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Mobile,2451 Univ Hospital Dr,,
+Coco Beauty Supply,Jae Chan,Choe,1235 Highway 231 S,Troy,AL,(334) 566-1456,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$221,000 ",Troy,1235 Highway 231 S,,
+Hot Wings Express,Chae,Choe,5452 Atlanta Hwy,Montgomery,AL,(334) 396-4970,Restaurants,Restaurants,,"$139,000 ",Montgomery,5452 Atlanta Hwy,32.381770166459525,-86.21321252388917
+J C's Beauty Supply,Misuk,Choe,2516 Sparkman Dr NW,Huntsville,AL,(256) 852-3687,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$121,000 ",Huntsville,2516 Sparkman Dr NW,34.763403,-86.595382
+Korean First Baptist,An S,Choe,2807 Hood Rd SW,Huntsville,AL,(256) 881-0281,Churches,Churches,,$0 ,Huntsville,2807 Hood Rd SW,34.69657043880828,-86.5994967092699
+USA Children's & Women Hosp,Minkyung,Choe,1700 Center St,Mobile,AL,(251) 415-1087,Physicians & Surgeons,Physicians & Surgeons,,"$503,000 ",Mobile,1700 Center St,30.698309899999998,-88.07745725825652
+Auntie Anne's Pretzels,Joon,Choi,2000 Riverchs Gallria # 148,Hoover,AL,(205) 987-2700,Pretzels-Retail,Pretzels-Retail,Pretzels-Manufacturers,"$282,000 ",Birmingham,2000 Riverchs Gallria,,
+Birmingham Building Mntnc,Yang,Choi,2224 3rd Ave N,Birmingham,AL,(205) 324-7677,Janitor Service,Janitor Service,Building Maintenance,"$149,000 ",Birmingham,2224 3rd Ave N,33.51787897523332,-86.80380128609856
+Choi Hannah MD,Hannah,Choi,1108 Ross Clark Cir # 210,Dothan,AL,(334) 712-3329,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Dothan,1108 Ross Clark Cir,31.21610655,-85.36308641535447
+Choi John K,John K,Choi,619 19th St S,Birmingham,AL,(205) 801-8000,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Birmingham,619 19th St S,33.505282,-86.8013356
+Choi Surgery Ctr LLC,Young,Choi,2100 Devereux Cir # 201,Vestavia,AL,(205) 879-2221,Physicians & Surgeons,Physicians & Surgeons,,"$1,171,000 ",Birmingham,2100 Devereux Cir,33.428249,-86.741022
+Choi Young H MD,Young H,Choi,2100 Devereux Cir # 100,Vestavia,AL,(205) 879-2221,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,2100 Devereux Cir,33.428249,-86.741022
+"Choi, Da Som",Da Som,Choi,440b Saint Lukes Dr,Montgomery,AL,(334) 593-4414,Nurses-Practitioners,Nurses-Practitioners,Nurses-Registered Rn,"$59,000 ",Montgomery,440b Saint Lukes Dr,,
+"Choi, Dennis Y",Dennis Y,Choi,2570 Government Blvd,Mobile,AL,(251) 586-6486,Pharmacists,Pharmacists,,"$55,000 ",Mobile,2570 Government Blvd,30.6698286,-88.1042696
+"Choi, Young H MD",Young H,Choi,2700 US 280 # 212,Birmingham,AL,(205) 390-0100,Physicians & Surgeons,Physicians & Surgeons,,"$231,000 ",Birmingham,2700 US 280,33.480510634578756,-86.77507535940457
+Druid City Hosp Regl Med Ctr,Hanseek,Choi,809 University Blvd E,Tuscaloosa,AL,(205) 759-7690,Physicians & Surgeons,Physicians & Surgeons,,"$413,000 ",Tuscaloosa,809 University Blvd E,33.204164,-87.52753681434177
+Evergreen Korean Church,Sam,Choi,5555 Bell Rd,Montgomery,AL,(334) 356-9208,Churches,Churches,,$0 ,Montgomery,5555 Bell Rd,32.31495564245398,-86.21833328915513
+Gyunglim USA Inc,Namsik,Choi,309 Williamson Ave,Opelika,AL,(334) 749-5012,Packaging Service,Packaging Service,Storage-Household & Commercial,"$999,000 ",Auburn-Oplka,309 Williamson Ave,32.62573259182853,-85.37738531386547
+Hanon Systems Alabama Corp,Jay,Choi,676 Hala Bama Dr,Shorter,AL,(334) 466-5049,Heating Equipment-Manufacturers,Heating Equipment-Manufacturers,,"$133,924,000 ",,676 Hala Bama Dr,,
+Huffman Beauty Supply,James,Choi,1145 Huffman Rd,Center Point,AL,(205) 853-5520,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Beauty Salons,"$1,524,000 ",Birmingham,1145 Huffman Rd,33.62016,-86.688316
+Hyundai Motor Mfg-Alabama,Jaehun,Choi,700 Hyundai Blvd,Montgomery,AL,(334) 387-8000,Automobile-Manufacturers,Automobile-Manufacturers,Automobile & Truck Brokers (Whls),"$416,511,000 ",Montgomery,700 Hyundai Blvd,32.277645667256245,-86.33812842951598
+Imperial Hair & Beauty Supply,Charlie,Choi,2203 Bessemer Rd,Birmingham,AL,(205) 781-7024,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$439,000 ",Birmingham,2203 Bessemer Rd,33.49528032166604,-86.87875869670412
+Invision Ophthalmology,Young,Choi,350 Hallman Hl E # 81,Birmingham,AL,(205) 871-7767,Physicians & Surgeons,Physicians & Surgeons,Opticians,"$586,000 ",Birmingham,350 Hallman Hl E,,
+Invision Ophthalmology PC,Young H,Choi,2100 Devereux Cir # 101,Vestavia,AL,(205) 871-7767,Laser Vision Correction,Laser Vision Correction,Optical Goods-Retail,"$308,000 ",Birmingham,2100 Devereux Cir,33.428249,-86.741022
+J & M Cleaners,Mi,Choi,149 Buck Creek Plz,Alabaster,AL,(205) 664-7519,Cleaners,Cleaners,Acoustical Cleaners,"$107,000 ",Birmingham,149 Buck Creek Plz,33.21750750475041,-86.82578514170649
+Kwangsung America Corp,Chae,Choi,217 Thweatt Industrial Blvd,Dadeville,AL,(256) 825-0540,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Wholesale,"$820,000 ",Alexandr Cty,217 Thweatt Industrial Blvd,,
+LG Electronics,Jinho,Choi,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+Meister Logistics Corp America,Jin H,Choi,4200 N Park Dr,Opelika,AL,Not Available,Logistics Consulting Services,Logistics Consulting Services,,"$142,000 ",Auburn-Oplka,4200 N Park Dr,,
+Momotaro Of Alabama Inc,Lam,Choi,1011 20th St S,Birmingham,AL,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Birmingham,1011 20th St S,33.496573,-86.7925773
+Moon's Acupuncture,Moon,Choi,1759 Eastern Blvd,Montgomery,AL,(410) 580-8889,Acupuncture,Acupuncture,,"$59,000 ",Montgomery,1759 Eastern Blvd,32.355283130325844,-86.217690262597
+Posco America,Joosik,Choi,6500 Jefferson Metro Pkwy,Mc Calla,AL,(205) 277-2169,Steel Processing (Mfrs),Steel Processing (Mfrs),Steel Mills (Mfrs),"$24,497,000 ",Birmingham,6500 Jefferson Metro Pkwy,,
+Shogun Japanese Steak-Sushi Br,Richard,Choi,3991 University Dr NW,Huntsville,AL,(256) 534-3000,Restaurants,Restaurants,Caterers,"$864,000 ",Huntsville,3991 University Dr NW,34.73513066666666,-86.62659916666667
+Golden Beauty,Byung,Tak,965 US Highway 80 W # 700,Demopolis,AL,(334) 287-2882,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$268,000 ",,965 US Highway 80 W,,
+Anthony Vince Nail Spa,Thao,Ha,214 Summit Blvd # 450,Vestavia,AL,(205) 970-3989,Manicuring,Manicuring,,"$98,000 ",Birmingham,214 Summit Blvd,33.451798,-86.731048
+H & C Quick Stop,Tan,Ha,231 Cody Rd N,Mobile,AL,(251) 344-7911,Convenience Stores,Convenience Stores,,"$351,000 ",Mobile,231 Cody Rd N,30.718661,-88.207454
+"Ha, Jennifer",Jennifer,Ha,5804 1st Ave S,Birmingham,AL,(205) 380-9450,Pharmacists,Pharmacists,,$0 ,Birmingham,5804 1st Ave S,33.5422006,-86.7484357
+Le Nails,Don,Ha,1391 E Highland Ave # 111,Selma,AL,(334) 874-8040,Manicuring,Manicuring,,"$91,000 ",Selma,1391 E Highland Ave,32.4313057,-87.012156
+Nails Star,Kim,Ha,736 Main St,Montevallo,AL,(205) 665-9928,Beauty Salons,Beauty Salons,Manicuring,"$96,000 ",Birmingham,736 Main St,33.100490909372475,-86.86262028203512
+Purity Nails & Spa,Danny,Ha,9912 Dimitrios Blvd # 104,Daphne,AL,(251) 625-8687,Manicuring,Manicuring,Spas-Beauty & Day,"$47,000 ",Daphne-Frhp,9912 Dimitrios Blvd,,
+Salon 8,Alice,Ha,3030 Memorial Pkwy SW # A108,Huntsville,AL,(256) 880-1601,Beauty Salons,Beauty Salons,,"$297,000 ",Huntsville,3030 Memorial Pkwy SW,34.6473995,-86.5664395
+A-Keep,Meesoon,Han,100 N Union St # 732,Montgomery,AL,(334) 625-8515,Non-Profit Organizations,Non-Profit Organizations,Federal Government Contractors,$0 ,Montgomery,100 N Union St,32.379118,-86.29968
+Daylight Donuts,Charlie,Han,7985 Highway 72 W # 4,Madison,AL,(256) 325-4009,Doughnuts,Doughnuts,Restaurants,"$102,000 ",Huntsville,7985 Highway 72 W,,
+"Han, Jingnan MD",Jingnan,Han,625 19th St S,Birmingham,AL,(205) 934-9666,Physicians & Surgeons,Physicians & Surgeons,,"$196,000 ",Birmingham,625 19th St S,33.505282,-86.8013356
+"Han, Sang M MD",Sang M,Han,2451 Univ Hospital Dr # 714,Mobile,AL,(857) 230-8658,Physicians & Surgeons,Physicians & Surgeons,,"$503,000 ",Mobile,2451 Univ Hospital Dr,,
+"Han, Tiffany S MD",Tiffany S,Han,817 Princeton Ave SW # 106,Birmingham,AL,(205) 971-5745,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,817 Princeton Ave SW,33.49858068981178,-86.84679476113457
+Icubate Inc,Jian,Han,601 Genome Way # 3005,Huntsville,AL,(855) 256-3330,Biotechnology Products & Services,Biotechnology Products & Services,Federal Government Contractors,$0 ,Huntsville,601 Genome Way,34.724138,-86.69005
+LG Electronics,Seung Jun,Han,201 James Record Rd SW,Huntsville,AL,(256) 772-8860,Electronic Equipment & Supplies-Mfrs,Electronic Equipment & Supplies-Mfrs,Warehouses-Private & Public,"$42,407,000 ",Huntsville,201 James Record Rd SW,34.661471352507625,-86.77692973076469
+Michael K Han MD,Michael K,Han,833 Saint Vincents Dr # 300,Birmingham,AL,(205) 939-4512,Physicians & Surgeons,Physicians & Surgeons,,"$586,000 ",Birmingham,833 Saint Vincents Dr,,
+Oasis Massage,Bin,Han,5479 Highway 280,Birmingham,AL,(205) 538-5113,Massage Therapists,Massage Therapists,,"$128,000 ",Birmingham,5479 Highway 280,33.554419307692314,-86.75247432692308
+Peter Han Inc,Hui,Han,16054 Highway 280,Chelsea,AL,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Birmingham,16054 Highway 280,,
+Pro V & V Inc,Stephen,Han,6705 Odyssey Dr NW # C,Huntsville,AL,(256) 713-1110,Engineers-Testing,Engineers-Testing,Federal Government Contractors,"$1,587,000 ",Huntsville,6705 Odyssey Dr NW,34.722167,-86.674643
+Southeastern Foundry Products,Rachel,Han,42 Longview Cir,Alabaster,AL,(205) 620-0146,Foundries-Steel (Mfrs),Foundries-Steel (Mfrs),Foundry Equipment & Supplies (Whls),"$831,000 ",Birmingham,42 Longview Cir,,
+Sys-CON LLC,Areum,Han,4444 Park Blvd,Montgomery,AL,(334) 281-1520,General Contractors,General Contractors,,"$33,025,000 ",Montgomery,4444 Park Blvd,32.33477535816901,-86.23199134139021
+Wok 'n Roll Restaurant & Bar,Shangying,Han,1703 Columbus Pkwy,Opelika,AL,(334) 745-3338,Restaurants,Restaurants,,"$191,000 ",Auburn-Oplka,1703 Columbus Pkwy,32.64272224489796,-85.34059155102041
+Bud's Service Station,Sam,Heo,101 Kyser Blvd,Madison,AL,(256) 464-0738,Convenience Stores,Convenience Stores,Service Stations-Gasoline & Oil,"$698,000 ",Huntsville,101 Kyser Blvd,34.689198,-86.752148
+Mobis Alabama LLC,Sunggoo,Heo,1395 Mitchell Young Rd,Montgomery,AL,(334) 387-4800,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,Automobile Body Shop Equip/Supls (Whls),"$668,000 ",Montgomery,1395 Mitchell Young Rd,32.3256246,-86.4395164
+Saehaesung Alabama Corp,Jin,Heo,210 Progress Dr,Andalusia,AL,(334) 222-2015,Automobile Parts & Supplies-Mfrs,Automobile Parts & Supplies-Mfrs,,"$33,765,000 ",,210 Progress Dr,,
+West End Cleaners,Hyo,Heo,1533 Jefferson Ave SW,Birmingham,AL,(205) 925-4437,Cleaners,Cleaners,,"$230,000 ",Birmingham,1533 Jefferson Ave SW,33.465342,-86.885447

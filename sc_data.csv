@@ -1,0 +1,507 @@
+Company Name,Executive First Name,Executive Last Name,Address,City,State,Phone Number Combined,Primary SIC Description,SIC Code 1 Description,SIC Code 2 Description,Location Sales Volume Actual,Metro Area 1,Address1,lat,lon
+Columbia Presbyterian Mission,Joon Won,Kang,2235 Legrand Rd,Columbia,SC,(803) 788-7553,Churches,Churches,,$0 ,Columbia,2235 Legrand Rd,,
+Cummins Turbo Technologies,Jasmine,Kang,9051 Palmetto Commerce Pkwy,Ladson,SC,(843) 695-2181,Engines-Diesel (Whls),Engines-Diesel (Whls),Engines-Supplies-Equipment & Parts-Mfrs,$0 ,Charleston,9051 Palmetto Commerce Pkwy,,
+Evergreen Beauty Supply,Won,Kang,20 S Main St,Sumter,SC,(803) 778-2081,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Wigs Toupees & Hairpieces,"$2,414,000 ",Sumter,20 S Main St,33.92007128620754,-80.34182840305948
+F M Cleaners,Gaein,Kang,818 Tom Hall St # 102,Fort Mill,SC,(803) 548-3380,Cleaners,Cleaners,,"$81,000 ",Charlotte,818 Tom Hall St,35.0073252,-80.9345114
+Hyewons Beauty Salon,Hyewon,Kang,4103 Hard Scrabble Rd,Columbia,SC,(803) 736-0110,Beauty Salons,Beauty Salons,,"$106,000 ",Columbia,4103 Hard Scrabble Rd,,
+Iljin USA Corp,Sang,Kang,1705 Poplar Drive Ext,Greer,SC,(864) 848-5225,Software/Application/Platform Publishing,Software/Application/Platform Publishing,,"$4,123,000 ",Greenville,1705 Poplar Drive Ext,,
+Insp LLC,Mark,Kang,3000 Worldreach Dr,Fort Mill,SC,(803) 578-1419,Attorneys,Attorneys,,"$563,000 ",Charlotte,3000 Worldreach Dr,,
+J D's Fashion 11,Chung,Kang,7535 Garners Ferry Rd # F,Columbia,SC,(803) 714-6427,Sportswear-Retail,Sportswear-Retail,,"$213,000 ",Columbia,7535 Garners Ferry Rd,33.95872105635851,-80.93792579599994
+K-Beauty Supply,Ki,Kang,326 Main St,Greenwood,SC,(864) 223-7271,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$199,000 ",Greenwood,326 Main St,34.190235333333334,-82.160435
+Nanuri Group LLC,Sung,Kang,1933 Wilson Rd,Newberry,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Newberry,1933 Wilson Rd,34.2935022239047,-81.60568234803168
+Pain Spine & Sports Medicine,C Gregory,Kang,3029 Newcastle Loop,Myrtle Beach,SC,(843) 215-8868,Physicians & Surgeons,Physicians & Surgeons,Sports Medicine & Injuries,"$533,000 ",Myrtle Beach,3029 Newcastle Loop,,
+Pain Spine & Sports Medicine,C Gregory,Kang,3029 Newcastle Loop,Myrtle Beach,SC,(843) 215-8868,Physicians & Surgeons,Physicians & Surgeons,Pain Control,"$1,777,000 ",Myrtle Beach,3029 Newcastle Loop,,
+Sentinel Health Partners,Min Wook,Kang,2689 Highway 1 S,Elgin,SC,(803) 438-7698,Physicians & Surgeons,Physicians & Surgeons,,"$577,000 ",Columbia,2689 Highway 1 S,,
+Sentinel Health Partners,Min W,Kang,710 Dewitt Dr,Lugoff,SC,(803) 438-7566,Physicians & Surgeons,Physicians & Surgeons,,"$577,000 ",Columbia,710 Dewitt Dr,,
+Sentinel Health Partners PA,Min W,Kang,1344 Haile St,Camden,SC,(803) 432-8426,Physicians & Surgeons,Physicians & Surgeons,,"$577,000 ",Columbia,1344 Haile St,34.253419,-80.593511
+Stephen Kang,Stephen,Kang,312 W Stone Ave,Greenville,SC,(864) 235-4008,Insurance,Insurance,Financial Advisory Services,"$284,000 ",Greenville,312 W Stone Ave,34.8625495,-82.4019681427028
+Stephen Kang Agency Inc,Stephen,Kang,312 W Stone Ave,Greenville,SC,(864) 235-4008,Insurance,Insurance,Insurance-Property & Casualty,"$425,000 ",Greenville,312 W Stone Ave,34.8625495,-82.4019681427028
+Sushimiru LLC,Myung,Kang,1290 Bower Pkwy,Columbia,SC,Not Available,Restaurants,Restaurants,,"$298,000 ",Columbia,1290 Bower Pkwy,34.0701994,-81.1524559
+Viriciti LLC,Valery,Kang,112 W Stone Ave # B,Greenville,SC,Not Available,Software/Application/Platform Developers & Pr,Software/Application/Platform Developers & Pr,Federal Government Contractors,$0 ,Greenville,112 W Stone Ave,34.86219715,-82.39710158565589
+Wells Fargo,Nichole,Kang,202 Eddie Chasteen Dr,Walterboro,SC,(843) 549-2571,Banks,Banks,Loans,"$1,477,000 ",,202 Eddie Chasteen Dr,32.91171665,-80.66902235758553
+Young Fashions,Soon Bok,Kang,235 Main St,Seneca,SC,(864) 882-9505,Men's Clothing & Furnishings-Retail,Men's Clothing & Furnishings-Retail,Cellular Telephones (Services),"$252,000 ",Seneca,235 Main St,34.6851915,-82.9516684
+"Go, Carla M Pt",Carla M,Go,197 Piedmont Blvd # 111,Rock Hill,SC,(704) 323-2000,Physical Therapists,Physical Therapists,,"$54,000 ",Charlotte,197 Piedmont Blvd,34.9550875,-81.0511496
+Womens Medical Group-The Crlns,Robin Ong,Go,1330 Boiling Spgs Rd # 2500,Spartanburg,SC,(864) 585-5433,Physicians & Surgeons,Physicians & Surgeons,,"$164,000 ",Spartanburg,1330 Boiling Spgs Rd,,
+Kato's Grille & Bbq,Richard,Ko,2070 Sam Rittenberg Blvd,Charleston,SC,(843) 763-8898,Restaurants,Restaurants,,"$506,000 ",Charleston,2070 Sam Rittenberg Blvd,32.79190381854152,-80.0313635059834
+Ko Capital LLC,John H,Ko,126 Mount Vista Ave,Greenville,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Greenville,126 Mount Vista Ave,34.8215552,-82.38125188417112
+St Andrews Regional Library,Lin,Ko,2916 Broad River Rd,Columbia,SC,(803) 772-6675,Libraries-Public,Libraries-Public,,$0 ,Columbia,2916 Broad River Rd,34.04781935,-81.10260672108242
+University Of South Carolina,Ho-J,Koh,813 Assembly St,Columbia,SC,(803) 777-4278,University-College Dept/Facility/Office,University-College Dept/Facility/Office,,$0 ,Columbia,813 Assembly St,33.9911766,-81.0309366
+Grand Strand Plastic,Kimberley B,Goh,4610 Oleander Dr # 101,Myrtle Beach,SC,(843) 497-2227,Physicians & Surgeons,Physicians & Surgeons,,"$533,000 ",Myrtle Beach,4610 Oleander Dr,33.7313799783662,-78.86263685438685
+88 Oriental Market,Karen,Kong,6795 Saint Andrews Rd,Columbia,SC,(803) 749-1995,Grocers-Retail,Grocers-Retail,,"$421,000 ",Columbia,6795 Saint Andrews Rd,34.0505507,-81.1027688
+Little China,Charles,Kwak,6476 Savannah Hwy,Neeses,SC,(803) 247-5588,Restaurants,Restaurants,,"$74,000 ",Orangeburg,6476 Savannah Hwy,33.526433,-81.1210106
+Super Young Inc,Kyung,Kwak,2316 Ebenezer Rd,Rock Hill,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Charlotte,2316 Ebenezer Rd,34.950037,-81.041694
+Town Fashions,David,Kwak,311 S Mill St,Manning,SC,(803) 435-2548,Women's Apparel-Retail,Women's Apparel-Retail,Beauty Salons-Equipment & Supplies (Whls),"$311,000 ",Sumter,311 S Mill St,33.69058850118022,-80.2121639852379
+Canteen Cutler Hammer 3975,Boeing,Koo,2210 Highway 72 W,Greenwood,SC,(864) 942-6284,Restaurants,Restaurants,,"$159,000 ",Greenwood,2210 Highway 72 W,,
+Innovative Fibers LLC,Joseph,Ku,185 Littlejohn Rd,Spartanburg,SC,(864) 595-8945,Textile Manufacturers,Textile Manufacturers,Industrial Equipment & Supplies (Whls),"$1,760,000 ",Spartanburg,185 Littlejohn Rd,,
+"KWON, Hyejin MD",Hyejin,Kwon,169 Ashley Ave,Charleston,SC,(843) 792-3072,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,169 Ashley Ave,32.782956907899965,-79.94539804531368
+"KWON, Matthew Y MD",Matthew Y,Kwon,316 Calhoun St,Charleston,SC,(843) 724-2010,Physicians & Surgeons,Physicians & Surgeons,,"$141,000 ",Charleston,316 Calhoun St,32.78266495,-79.94908809987882
+"KWON, Susan Dmd",Susan,Kwon,1 Pinckney Blvd,Beaufort,SC,(803) 240-6109,Dentists,Dentists,,"$1,503,000 ",Hilton Hd Is,1 Pinckney Blvd,,
+Mcleod Cardiothoracic Surgcl,Samantha E,Kwon,101 S Ravenel St # 270,Florence,SC,(843) 777-7020,Physicians & Surgeons,Physicians & Surgeons,,"$524,000 ",Florence,101 S Ravenel St,34.197183,-79.761074
+Palmetto Moon,Joanna,Kwon,700 Haywood Rd,Greenville,SC,(864) 288-2262,Retail Shops,Retail Shops,T-Shirts-Retail,"$9,636,000 ",Greenville,700 Haywood Rd,34.849582549999994,-82.33315889539456
+Palmetto Wholesale Cars,Myoung,Kwon,3507 S Okatie Hwy # A,Hardeeville,SC,(843) 784-7884,Automobile/Trucks Dealers-Used,Automobile/Trucks Dealers-Used,,"$1,905,000 ",Hilton Hd Is,3507 S Okatie Hwy,,
+Pwi Partners Of Taylors SC,Dae,Kwon,3245 Wade Hampton Blvd # F,Taylors,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Greenville,3245 Wade Hampton Blvd,34.9278296,-82.2992197
+245 Dry Cleaners,Jun,Kim,9139 Two Notch Rd,Columbia,SC,(803) 699-4648,Cleaners,Cleaners,,"$288,000 ",Columbia,9139 Two Notch Rd,34.0393736,-81.0006244
+A O Hardee & Son Inc,Lewis,Kim,4206 Sea Mountain Hwy,Little River,SC,(843) 249-1264,General Contractors,General Contractors,Grading Contractors,"$53,911,000 ",Myrtle Beach,4206 Sea Mountain Hwy,33.8625498,-78.665077
+Beauty For Me,Jeannie,Kim,5101 Ashley Phos Rd # 106,North Charleston,SC,(843) 552-6602,Beauty Salons,Beauty Salons,Cosmetics & Perfumes-Retail,"$105,000 ",Charleston,5101 Ashley Phos Rd,,
+Beauty Mart,Shang,Kim,169 John B White Sr Blvd,Spartanburg,SC,(864) 345-2141,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons,"$510,000 ",Spartanburg,169 John B White Sr Blvd,34.9442228,-81.9418905
+Beauty Mart,Iris,Kim,408 N Duncan Byp # A,Union,SC,(864) 429-8446,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$273,000 ",Union,408 N Duncan Byp,34.7199528,-81.6383633
+Beauty Stop,Gwi,Kim,109 Shakespeare Ln,Columbia,SC,(803) 497-3499,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),,"$2,155,000 ",Columbia,109 Shakespeare Ln,,
+Beauty Stop,Gwi,Kim,2371 Augusta Rd,West Columbia,SC,(803) 936-9444,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$638,000 ",Columbia,2371 Augusta Rd,33.9833367,-81.0969226
+Beauty Stop 2,Gwi,Kim,1180 Dutch Fork Rd,Irmo,SC,(803) 732-3982,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$3,592,000 ",Columbia,1180 Dutch Fork Rd,34.127358,-81.220387
+Beauty Stop Two LLC,Gwi Y,Kim,516 Aiken Hunt Cir,Columbia,SC,(803) 497-3499,Beauty Salons,Beauty Salons,,"$106,000 ",Columbia,516 Aiken Hunt Cir,,
+Block Advisors,Seung Taek,Kim,2000 Rittenbrg Blvd # 136,Charleston,SC,(843) 556-1831,Tax Return Preparation & Filing,Tax Return Preparation & Filing,Business Services NEC,"$201,000 ",Charleston,2000 Rittenbrg Blvd,,
+Boomboombeauty Beauty Supplies,Su,Kim,55 E Antrim Dr,Greenville,SC,(864) 232-5300,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Batteries-Storage-Wholesale,"$1,052,000 ",Greenville,55 E Antrim Dr,34.8415508,-82.3609991
+Building Cleaning & Mntnc Inc,Sean,Kim,143 Rabon Rd,Columbia,SC,(803) 419-1144,Janitor Service,Janitor Service,Federal Government Contractors,"$272,000 ",Columbia,143 Rabon Rd,,
+C & K Trucking,Matt,Kim,2819 Industrial Ave,North Charleston,SC,(843) 529-9234,Trucking,Trucking,Transportation Services,"$348,000 ",Charleston,2819 Industrial Ave,32.84735997860801,-80.00465753192847
+China Hut Ace,Jung,Kim,720 Broad River Rd,Columbia,SC,(803) 750-6454,Restaurants,Restaurants,,"$143,000 ",Columbia,720 Broad River Rd,34.025343,-81.07993
+China Wing,Byul,Kim,1953 Mccrays Mill Rd,Sumter,SC,(803) 773-5767,Restaurants,Restaurants,Foods-Carry Out,"$336,000 ",Sumter,1953 Mccrays Mill Rd,33.90439361014799,-80.37901792232996
+Chinese American House,Euna,Kim,8006 Garners Ferry Rd # C,Columbia,SC,(803) 776-6633,Restaurants,Restaurants,,"$237,000 ",Columbia,8006 Garners Ferry Rd,33.9579697,-80.9365472
+Cim Solutions Inc,Jong,Kim,116 Goodridge Ct,Greer,SC,(864) 567-4149,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Spartanburg,116 Goodridge Ct,34.8602385,-82.2158159449204
+Columbia Agape Presbyterian,Sung Hoon,Kim,251 Rabon Rd,Columbia,SC,(803) 260-2090,Churches,Churches,,$0 ,Columbia,251 Rabon Rd,,
+Columbia Presbyterian Mission,Choong Pae,Kim,2235 Legrand Rd,Columbia,SC,(803) 788-7553,Churches,Churches,,$0 ,Columbia,2235 Legrand Rd,,
+Cornerstone Cleaners,Peter,Kim,1013 Oakland Ave,Rock Hill,SC,(803) 329-8320,Cleaners,Cleaners,,"$161,000 ",Charlotte,1013 Oakland Ave,34.9425389,-81.0307216
+Cricket Wireless Auth Retailer,Chris,Kim,113 E Shockley Ferry Rd,Anderson,SC,(864) 231-5364,Cellular Telephones (Services),Cellular Telephones (Services),Telecommunications Wiring & Cabling,"$2,063,000 ",Greenville,113 E Shockley Ferry Rd,34.47989911028262,-82.64790346401057
+Cricket Wireless Auth Retailer,Sean,Kim,1306 Charleston Hwy,West Columbia,SC,(803) 708-9808,Cellular Telephones (Services),Cellular Telephones (Services),Mobile Telephone Service,"$2,750,000 ",Columbia,1306 Charleston Hwy,33.9767548130366,-81.0757235963015
+Crossroads Cleaners,Yeon,Kim,1255 Rutherford Rd,Greenville,SC,(864) 235-6833,Cleaners,Cleaners,,"$170,000 ",Greenville,1255 Rutherford Rd,34.88806785,-82.37326351723448
+Direct Communication LLC,Sean,Kim,1084 Broad St,Sumter,SC,(803) 774-4000,Communications,Communications,Cellular Telephones-Equipment & Supls,"$284,000 ",Sumter,1084 Broad St,33.95109293410798,-80.37666021891856
+Doctors Care,Chun Soo,Kim,7653 Garners Ferry Rd,Columbia,SC,(803) 783-2661,Physicians & Surgeons,Physicians & Surgeons,,"$573,000 ",Columbia,7653 Garners Ferry Rd,33.95829018638312,-80.93707846493993
+Evergreen,Sok,Kim,510 Calhoun St,Johnston,SC,(803) 275-4288,Men's Clothing & Furnishings-Retail,Men's Clothing & Furnishings-Retail,,"$213,000 ",Augusta,510 Calhoun St,33.83274068708992,-81.79977217583529
+Exit Real Estate Solutions,Jae,Kim,7328 Broad River Rd,Irmo,SC,(803) 708-8045,Real Estate,Real Estate,,"$589,000 ",Columbia,7328 Broad River Rd,34.09603615384615,-81.15947023076923
+Flagship Sign Designs,David,Kim,1819 Two Notch Rd,Columbia,SC,(803) 796-2003,Signs (Mfrs),Signs (Mfrs),Signs-Wholesale,"$5,469,000 ",Columbia,1819 Two Notch Rd,34.01639851322846,-81.01462610766038
+For U Beauty,Gin,Kim,518 Lamar Hwy,Darlington,SC,(843) 398-9822,Beauty Salons,Beauty Salons,Beauty Salons-Equipment & Supplies (Whls),"$99,000 ",Florence,518 Lamar Hwy,34.29081449904074,-79.89133566530654
+Gastroenterology Associates,Suzy L,Kim,200 Patewood Dr # B200,Greenville,SC,(864) 232-7338,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,200 Patewood Dr,34.851895049999996,-82.32714134055895
+Gastroenterology Associates,Suzy L,Kim,317 Saint Francis Dr # 170,Greenville,SC,(864) 232-7338,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,317 Saint Francis Dr,,
+Gog Enterprise Co Inc,Jung,Kim,3702 Mcconnells Hwy,Rock Hill,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Charlotte,3702 Mcconnells Hwy,34.9322414,-81.0587334
+Greenville Health Syst Univ,Eugene J,Kim,67 Creekside Park Ct,Greenville,SC,(864) 242-4602,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,67 Creekside Park Ct,34.84666982501937,-82.31612120045274
+Greenville Health Syst Univ,Eugene J,Kim,830 S Buncombe Rd,Greer,SC,(864) 242-4602,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,830 S Buncombe Rd,34.9213452,-82.2443815
+Greenville Health Syst Univ,John P,Kim,830 S Buncombe Rd,Greer,SC,(864) 242-4602,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,830 S Buncombe Rd,34.9213452,-82.2443815
+Hope Fellowship Church,Wendy,Kim,213 Brown Rd,Anderson,SC,(864) 226-5445,Churches,Churches,,$0 ,Greenville,213 Brown Rd,34.556743499999996,-82.681218526896
+Hyundai Oriental Grocery,Hung,Kim,1807 Decker Blvd # 1,Columbia,SC,(803) 738-0702,Gift Shops,Gift Shops,Grocers-Retail,"$156,000 ",Columbia,1807 Decker Blvd,,
+Iljin USA Corp,Erica,Kim,1705 Poplar Drive Ext,Greer,SC,(864) 848-5225,Software/Application/Platform Publishing,Software/Application/Platform Publishing,,"$4,123,000 ",Greenville,1705 Poplar Drive Ext,,
+J D's Fashions,SE Chin,Kim,5540 Forest Dr,Columbia,SC,(803) 787-3608,Hair Goods & Supplies-Retail,Hair Goods & Supplies-Retail,Beauty Salons-Equipment & Supplies (Whls),"$213,000 ",Columbia,5540 Forest Dr,34.02400189115145,-80.9501516237454
+Jd's Fashions,Brandon,Kim,624 Highway 15-401 Byp E,Bennettsville,SC,(843) 454-0080,Hair Goods & Supplies-Retail,Hair Goods & Supplies-Retail,Cosmetics & Perfumes-Retail,"$153,000 ",Bennettsvl,624 Highway 15-401 Byp E,,
+JDS Fashion,Eric,Kim,2716 Anderson Rd,Greenville,SC,(864) 220-4120,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Batteries-Storage-Wholesale,"$263,000 ",Greenville,2716 Anderson Rd,34.8146985,-82.4435378
+Kim Enterprises,Tok Chin,Kim,3315 Broad River Rd # 90,Columbia,SC,(803) 772-9187,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$1,437,000 ",Columbia,3315 Broad River Rd,34.05337632857418,-81.10914924500288
+Kim Enterprises LLC,Tok Chin,Kim,225 Oneil Ct,Columbia,SC,(803) 699-9630,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$655,000 ",Columbia,225 Oneil Ct,,
+Kim Jean Moore Psyd,Jean M,Kim,1400 Griffin Mill Rd,Easley,SC,(864) 397-1028,Psychologists,Psychologists,,$0 ,Greenville,1400 Griffin Mill Rd,34.8379912,-82.66646574166666
+Kim John Phillip MD,John P,Kim,67 Creekside Park Ct,Greenville,SC,(864) 242-4602,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,67 Creekside Park Ct,34.84666982501937,-82.31612120045274
+Kim Julian A MD,Julian A,Kim,2 Medical Park Rd # 300,Columbia,SC,(803) 545-5800,Physicians & Surgeons,Physicians & Surgeons,,"$573,000 ",Columbia,2 Medical Park Rd,34.0297459,-81.0343143
+Kim Kook Sun DMD,Kook S,Kim,4323 Hill St,Columbia,SC,(803) 751-5178,Dentists,Dentists,,"$573,000 ",Columbia,4323 Hill St,34.006823,-80.9324704
+Kim Paul E MD,Paul E,Kim,421 Epting Ave,Greenwood,SC,(864) 227-6818,Physicians & Surgeons,Physicians & Surgeons,,"$472,000 ",Greenwood,421 Epting Ave,34.17117627967541,-82.15712066054382
+Kim Van Vo MD,Van V,Kim,9 Richland Medical Park Dr,Columbia,SC,(803) 434-6598,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Columbia,9 Richland Medical Park Dr,34.02743932653061,-81.03047981632653
+Kim's Yin & Yang Acupuncture,Kwanjoong,Kim,23 Plantation Park Dr # 203,Bluffton,SC,(843) 757-7512,Acupuncture,Acupuncture,,$0 ,Hilton Hd Is,23 Plantation Park Dr,32.271739,-80.868133
+"Kim, Abraham DDS",Abraham,Kim,1 Pinckney Blvd,Beaufort,SC,(843) 228-5600,Dentists,Dentists,,"$1,503,000 ",Hilton Hd Is,1 Pinckney Blvd,,
+"Kim, Grace E Dmd",Grace E,Kim,719 Okatie Hwy,Okatie,SC,(843) 298-2551,Dentists,Dentists,,$0 ,Hilton Hd Is,719 Okatie Hwy,,
+"Kim, Hannah Yong",Hannah Yong,Kim,2035 Whiskey Rd,Aiken,SC,(803) 648-7766,Pharmacists,Pharmacists,,"$50,000 ",Augusta,2035 Whiskey Rd,33.5182751,-81.7195538688371
+"Kim, Jinho E MD",Jinho E,Kim,1801 Sunset Dr,Columbia,SC,(803) 434-4127,Physicians & Surgeons,Physicians & Surgeons,,"$573,000 ",Columbia,1801 Sunset Dr,34.02967440909091,-81.03464797979798
+"Kim, Young J Dmd",Young J,Kim,2020 Savannah Hwy,Charleston,SC,(843) 789-4342,Dentists,Dentists,,"$540,000 ",Charleston,2020 Savannah Hwy,32.78976980165979,-80.02966597741755
+Kims 2 Shoe Repair-Alterations,S C,Kim,549 College Park Rd,Ladson,SC,(843) 553-2677,Exporters (Whls),Exporters (Whls),,"$2,296,000 ",Charleston,549 College Park Rd,33.00824010723993,-80.08841262243457
+Kyong H Kim DDS LLC,Kyong H,Kim,6941 N Trenholm Rd,Columbia,SC,(803) 743-9894,Dentists,Dentists,,"$430,000 ",Columbia,6941 N Trenholm Rd,,
+Kyong H Kim LLC,Kyong Hi,Kim,6941 N Trenholm Rd # E,Columbia,SC,(803) 743-9894,Dentists,Dentists,,"$573,000 ",Columbia,6941 N Trenholm Rd,,
+Legacy Martial Arts HQ LLC,Daniel,Kim,7579 Saint Andrews Rd,Irmo,SC,(803) 407-4422,Martial Arts Instruction,Martial Arts Instruction,,$0 ,Columbia,7579 Saint Andrews Rd,34.08973775541669,-81.18571158927996
+Low Fare Travel,Sam,Kim,2210 E North St,Greenville,SC,(864) 242-9195,Travel Agencies & Bureaus,Travel Agencies & Bureaus,,"$352,000 ",Greenville,2210 E North St,34.86649775,-82.36184419735542
+Lowcountry Lung & Critical Cr,Sola,Kim,9150 Medcom St # B,North Charleston,SC,(843) 572-3330,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,9150 Medcom St,32.975821694847106,-80.0692613485652
+Lucy's Beauty Supply,Yeong,Kim,1156 Main St S,Greenwood,SC,(864) 223-3520,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$1,303,000 ",Greenwood,1156 Main St S,34.17982757994711,-82.15471773411903
+Master Kim's World Class Tae,Michelle M,Kim,1258 Woodruff Rd,Greenville,SC,(864) 289-0201,Martial Arts Instruction,Martial Arts Instruction,,"$716,000 ",Greenville,1258 Woodruff Rd,34.82530679411765,-82.29627079411765
+Mckim S Tae KWON Do USA,M C,Kim,4114 Hard Scrabble Rd,Columbia,SC,(803) 788-0053,Martial Arts Instruction,Martial Arts Instruction,,"$72,000 ",Columbia,4114 Hard Scrabble Rd,,
+Metro By T-Mobile Auth Rtlr,Timothy,Kim,2127 Boundary St # 14,Beaufort,SC,(843) 379-3377,Cellular Telephones (Services),Cellular Telephones (Services),Authorized Retailer-Cellular Services,"$1,549,000 ",Hilton Hd Is,2127 Boundary St,32.443117650000005,-80.69170322601971
+Modern Cleaners & Laundry,Jae,Kim,222 N Pinckney St,Union,SC,(864) 427-5514,Laundries,Laundries,,"$132,000 ",Union,222 N Pinckney St,34.716103408163264,-81.62378208163265
+New Image,Sunye,Kim,109 Laurens St SW,Aiken,SC,(803) 642-5152,Department Stores,Department Stores,,"$429,000 ",Augusta,109 Laurens St SW,33.5613517,-81.7228881
+New Lotus Therapy,Michael,Kim,8907 Two Notch Rd # G,Columbia,SC,(803) 788-1970,Massage Therapists,Massage Therapists,Massage,"$32,000 ",Columbia,8907 Two Notch Rd,34.089199,-80.9294725
+Newport Dry Cleaners,Hakchung,Kim,5168 Old York Rd,Rock Hill,SC,(803) 980-4477,Cleaners,Cleaners,,"$121,000 ",Charlotte,5168 Old York Rd,,
+North Beauty Supply,Julie,Kim,622b Main St,North,SC,(803) 247-3443,Beauty Salons,Beauty Salons,Beauty Salons-Equipment & Supplies (Whls),"$29,000 ",Orangeburg,622b Main St,34.758756,-79.615438
+Omatic Software LLC,Daniel,Kim,3200 N Carolina Ave,North Charleston,SC,(843) 253-4682,Software/Application/Platform Publishing,Software/Application/Platform Publishing,,"$9,499,000 ",Charleston,3200 N Carolina Ave,32.856689,-79.967086
+One Hour Valet,Paul,Kim,8510 Rivers Ave,North Charleston,SC,(843) 797-5218,Cleaners,Cleaners,Alterations-Clothing,"$164,000 ",Charleston,8510 Rivers Ave,32.954314634324724,-80.04262874000975
+Quality Inn,Noel,Kim,1314 S Pleasantburg Dr,Greenville,SC,(864) 770-3737,Hotels & Motels,Hotels & Motels,,"$1,525,000 ",Greenville,1314 S Pleasantburg Dr,34.80285285,-82.37640166142172
+Royal Cleaners,Jong Chan,Kim,1637 Main St,Columbia,SC,(803) 252-2791,Cleaners,Cleaners,,"$336,000 ",Columbia,1637 Main St,34.00714047577068,-81.03623694706869
+Sato Japanese Restaurant,Young,Kim,1999 N Beltline Blvd,Columbia,SC,(803) 999-2550,Restaurants,Restaurants,Foods-Carry Out,"$616,000 ",Columbia,1999 N Beltline Blvd,34.013584,-80.984301
+Signworks,Ron,Kim,901 Seaboard St,Myrtle Beach,SC,(843) 626-1954,Signs (Mfrs),Signs (Mfrs),,"$367,000 ",Myrtle Beach,901 Seaboard St,33.7098567,-78.90200491325989
+Snappy Car Wash,J,Kim,2700 Decker Blvd,Columbia,SC,(803) 736-5695,Car Washing & Polishing,Car Washing & Polishing,,"$919,000 ",Columbia,2700 Decker Blvd,,
+South Carolina Sleep Medicine,Sola,Kim,92 Springview Ln,Summerville,SC,(843) 871-4006,Physicians & Surgeons,Physicians & Surgeons,,"$395,000 ",Charleston,92 Springview Ln,32.96055053861218,-80.1603231838665
+Southern Beauty Inc,Yung,Kim,223 Robertson Blvd,Walterboro,SC,(843) 549-6101,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$2,007,000 ",,223 Robertson Blvd,32.9118072,-80.6456305
+Springs Memorial Hospital,Joon Dong,Kim,800 W Meeting St,Lancaster,SC,(803) 286-1214,Physicians & Surgeons,Physicians & Surgeons,,"$498,000 ",Charlotte,800 W Meeting St,34.717821799999996,-80.7883588283947
+Subway,Jin,Kim,1421 Sumter St # H,Columbia,SC,(803) 779-0800,Restaurants,Restaurants,Foods-Carry Out,"$237,000 ",Columbia,1421 Sumter St,34.00475695065291,-81.033355310269
+Tierra Global LLC,Kaylynn,Kim,75 Oak Tree Rd,Bluffton,SC,Not Available,Consulting Services,Consulting Services,,"$842,000 ",Hilton Hd Is,75 Oak Tree Rd,,
+US Tae KWON Do Academy,M C,Kim,728 W Main St,Lexington,SC,(803) 356-5077,Martial Arts Instruction,Martial Arts Instruction,,"$54,000 ",Columbia,728 W Main St,33.984894,-81.25080059110249
+Valmet Inc,Jin,Kim,25 Beloit St,Aiken,SC,(803) 293-2100,Paper Mill Machinery-Manufacturers,Paper Mill Machinery-Manufacturers,Paper Products (Whls),"$11,914,000 ",Augusta,25 Beloit St,33.64888511372181,-81.7043717031782
+Venus Beauty Supply,Hoon,Kim,2435 E North St # 1107,Greenville,SC,(864) 322-9996,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Batteries-Storage-Wholesale,"$132,000 ",Greenville,2435 E North St,34.8698068,-82.3547024
+Young's Beauty Supply,Young,Kim,1408 Boone Hill Rd,Summerville,SC,(843) 873-0390,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$124,000 ",Charleston,1408 Boone Hill Rd,,
+Korean Community Presbyterian,James,Nam,1412 Richland St,Columbia,SC,(803) 765-2500,Churches,Churches,,$0 ,Columbia,1412 Richland St,34.011633169560675,-81.03414818744577
+Palmetto Health Tuomey,Myung H,Nam,129 N Washington St,Sumter,SC,(803) 774-9000,Physicians & Surgeons,Physicians & Surgeons,,"$632,000 ",Sumter,129 N Washington St,33.9233581,-80.34290084585247
+Dong L Noh CPA,Dong,Noh,7101 Parklane Rd # B,Columbia,SC,(803) 788-7494,Accountants,Accountants,,"$498,000 ",Columbia,7101 Parklane Rd,,
+Kings Beauty Supply,Justin,Noh,3336 Augusta Rd,Greenville,SC,(864) 277-8900,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Batteries-Storage-Wholesale,"$789,000 ",Greenville,3336 Augusta Rd,34.805737,-82.381003
+Sparkle Car Wash,Patrick,Noh,6212 Garners Ferry Rd,Columbia,SC,(803) 776-6067,Car Washing & Polishing,Car Washing & Polishing,,"$736,000 ",Columbia,6212 Garners Ferry Rd,33.98120597470395,-80.96350919041004
+Sparkle Car Wash,Patrick,Noh,8601 Two Notch Rd,Columbia,SC,(803) 788-7222,Automobile Detail & Clean-Up Service,Automobile Detail & Clean-Up Service,Car Washing & Polishing,"$1,149,000 ",Columbia,8601 Two Notch Rd,34.0393736,-81.0006244
+Columbia Museum Of Art,Michael,Roh,1515 Main St,Columbia,SC,(803) 799-2810,Museums,Museums,Caterers,$0 ,Columbia,1515 Main St,34.0059268,-81.03619717791278
+"Rho, Silvia Y MD",Silvia Y,Rho,701 Grove Rd,Greenville,SC,(864) 455-5251,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,701 Grove Rd,34.81959795,-82.41041755696604
+Building Cleaning & Mntnc Inc,Jenny,Yim,143 Rabon Rd,Columbia,SC,(803) 419-1144,Janitor Service,Janitor Service,Federal Government Contractors,"$272,000 ",Columbia,143 Rabon Rd,,
+Lake Wylie Pizza-Italian,Cory,Yim,4074 Charlotte Hwy,Clover,SC,(803) 831-0855,Pizza,Pizza,Restaurants,"$867,000 ",Charlotte,4074 Charlotte Hwy,,
+Yim's Tiger Tae KWON Do Acad,Jenny,Yim,2400 Decker Blvd,Columbia,SC,(803) 419-7172,Martial Arts Instruction,Martial Arts Instruction,,"$143,000 ",Columbia,2400 Decker Blvd,,
+Action Printing,Bo,Lim,140 W Henry St,Spartanburg,SC,(864) 585-9581,Flags & Banners-Manufacturers,Flags & Banners-Manufacturers,Printers (Mfrs),"$219,000 ",Spartanburg,140 W Henry St,34.9462662,-81.9315476
+Bangkok Cafe,Steve,Lim,1200 E Main St # 16,Spartanburg,SC,(864) 583-2532,Restaurants,Restaurants,,"$93,000 ",Spartanburg,1200 E Main St,34.9629839,-81.9025748
+Building Cleaning & Mntnc Inc,Roy,Lim,143 Rabon Rd,Columbia,SC,(803) 419-1144,Janitor Service,Janitor Service,Federal Government Contractors,"$272,000 ",Columbia,143 Rabon Rd,,
+Center For Urological Diseases,Arthur J,Lim,838 W Meeting St # E,Lancaster,SC,(803) 416-8300,Physicians & Surgeons,Physicians & Surgeons,,"$498,000 ",Charlotte,838 W Meeting St,34.716619007550754,-80.78803865026289
+China Dragon Chinese Rstrnt,Lou,Lim,14 Savannah Hwy # 3,Beaufort,SC,(843) 322-6688,Restaurants,Restaurants,,"$94,000 ",Hilton Hd Is,14 Savannah Hwy,32.39439582444665,-80.76413053836175
+China Wok 3,Chungang,Lim,1201 Chapin Rd,Chapin,SC,(803) 945-4799,Restaurants,Restaurants,,"$255,000 ",Columbia,1201 Chapin Rd,34.1658137,-81.3501815
+Crossroads Grill,Kent,Lim,1667 Memorial Park Rd,Lancaster,SC,(803) 286-4273,Service Stations-Gasoline & Oil,Service Stations-Gasoline & Oil,Restaurants,"$6,434,000 ",Charlotte,1667 Memorial Park Rd,34.69443471670178,-80.79131762076933
+Exxon,Kent,Lim,1667 Memorial Park Rd,Lancaster,SC,(803) 286-4273,Service Stations-Gasoline & Oil,Service Stations-Gasoline & Oil,,"$6,434,000 ",Charlotte,1667 Memorial Park Rd,34.69443471670178,-80.79131762076933
+Home Depot,Edward,Lim,79 Woodruff Industrial Ln,Greenville,SC,(864) 284-0991,Home Centers,Home Centers,Home Improvements,"$75,529,000 ",Greenville,79 Woodruff Industrial Ln,34.8281646,-82.3075442
+Lim Ming Yeong,Ming Y,Lim,171 Ashley Ave,Charleston,SC,(843) 792-1414,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,171 Ashley Ave,32.78553865,-79.9517057940751
+"Lim, Bridgette L",Bridgette L,Lim,720 Old Cherokee Rd,Lexington,SC,(803) 490-0960,Speech Pathologists,Speech Pathologists,,"$57,000 ",Columbia,720 Old Cherokee Rd,34.01001708933361,-81.24527520096778
+"Lim, Diego A MD",Diego A,Lim,890 W Faris Rd # 100,Greenville,SC,(913) 588-6005,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,890 W Faris Rd,34.81757725,-82.41043059134401
+"Lim, Leonard C MD",Leonard C,Lim,105 Vinecrest Ct # 1000,Greenwood,SC,(864) 725-3350,Physicians & Surgeons,Physicians & Surgeons,,"$158,000 ",Greenwood,105 Vinecrest Ct,34.15979803342058,-82.17472022058489
+"Lim, Reteshia P Np",Reteshia P,Lim,701 Grove Rd,Greenville,SC,(864) 455-3287,Nurses-Practitioners,Nurses-Practitioners,,$0 ,Greenville,701 Grove Rd,34.81959795,-82.41041755696604
+"Lim, Reteshia P Np",Reteshia P,Lim,830 S Buncombe Rd,Greer,SC,(864) 797-8000,Nurses-Practitioners,Nurses-Practitioners,,"$47,000 ",Greenville,830 S Buncombe Rd,34.9213452,-82.2443815
+New Hong Kong Restaurant,Mei,Lim,404 E Main St,Ridgeland,SC,(843) 726-8897,Restaurants,Restaurants,,"$123,000 ",Hilton Hd Is,404 E Main St,32.479343,-80.976626
+Ocean Island Chinese Rstrnt,Jing,Lim,5 S Alliance Dr # C,Goose Creek,SC,(843) 572-0005,Restaurants,Restaurants,,"$171,000 ",Charleston,5 S Alliance Dr,33.0178845,-80.0876502
+Orthopaedic Associates P A,Chi,Lim,1330 Boiling Springs Rd # 16,Spartanburg,SC,(864) 582-6396,Physicians & Surgeons,Physicians & Surgeons,,"$492,000 ",Spartanburg,1330 Boiling Springs Rd,34.989785850000004,-81.9445905501432
+Orthopaedic Associates PA,Chi,Lim,115 Deacon Tiller Ct,Duncan,SC,(864) 587-6755,Physicians & Surgeons,Physicians & Surgeons,,"$492,000 ",Spartanburg,115 Deacon Tiller Ct,34.90770565,-82.09915549927481
+Sun,Young,Lim,4963 Fort Jackson Blvd,Columbia,SC,(803) 787-5307,Restaurants,Restaurants,,"$48,000 ",Columbia,4963 Fort Jackson Blvd,33.99462881939921,-80.96051441395348
+Beauty Line,Amy,Yoo,1360 Grove Park Dr,Orangeburg,SC,(803) 536-1414,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),,"$2,956,000 ",Orangeburg,1360 Grove Park Dr,,
+Beautyline4,Chris,Yoo,4712 Lee Rd,Columbia,SC,(803) 790-2151,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$131,000 ",Columbia,4712 Lee Rd,33.9945124,-80.9421374
+Columbia Presbyterian Mission,Kichun,Yoo,2235 Legrand Rd,Columbia,SC,(803) 788-7553,Churches,Churches,,$0 ,Columbia,2235 Legrand Rd,,
+Healthfirst,Benjamin,Yoo,8740 Rivers Ave,North Charleston,SC,(843) 572-5990,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,8740 Rivers Ave,32.96528318367347,-80.04401193877551
+Peace Textile Inc,Young,Yoo,1605 S Guignard Pkwy,Sumter,SC,(803) 773-2177,Textile Manufacturers,Textile Manufacturers,Knitted Fabrics (Mfrs),$0 ,Sumter,1605 S Guignard Pkwy,33.88180325609756,-80.34558752439024
+Philly Special,Shinna,Yoo,1732 Russell St,Orangeburg,SC,(803) 809-0061,Restaurants,Restaurants,,$0 ,Orangeburg,1732 Russell St,33.49311568421052,-80.85578110526316
+Yoo Frederick,Frederick,Yoo,171 Ashley Ave,Charleston,SC,(843) 792-1414,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,171 Ashley Ave,32.78553865,-79.9517057940751
+Yoo Kim T,Kim T,Yoo,403 Stony Landing Rd,Moncks Corner,SC,(843) 761-8282,Counselors,Counselors,,$0 ,Charleston,403 Stony Landing Rd,,
+"Yoo, Benjamin MD",Benjamin,Yoo,1000 J Dodds Blvd # 103-412,Mount Pleasant,SC,(843) 693-1438,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,1000 J Dodds Blvd,,
+Solvay,David,Mok,2151 King Street Ext,North Charleston,SC,(843) 554-1229,Industrial Organic Chemicals NEC (Mfrs),Industrial Organic Chemicals NEC (Mfrs),Industrial Inorganic Chmcls NEC (Mfrs),"$371,811,000 ",Charleston,2151 King Street Ext,,
+Austin Woods,Kim,Mun,7648 Garners Ferry Rd,Columbia,SC,(803) 783-4973,Apartments,Apartments,Apartment Rental Agencies,"$1,607,000 ",Columbia,7648 Garners Ferry Rd,33.95830640129024,-80.9371153867217
+Advance Auto Parts,Tiffany,Moon,937 Folly Rd,Charleston,SC,(843) 795-5130,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Retail-New,Automobile Parts & Supplies-Wholesale,"$1,933,000 ",Charleston,937 Folly Rd,32.733253393777375,-79.96929880051856
+Beauty Boss LLC,Du,Moon,6432 Two Notch Rd # M,Columbia,SC,Not Available,Beauty Salons,Beauty Salons,,"$106,000 ",Columbia,6432 Two Notch Rd,34.0393736,-81.0006244
+Beauty Supply Star,Lisa,Moon,2358 Taylor St,Columbia,SC,(803) 256-6889,Barbers,Barbers,Beauty Salons-Equipment & Supplies (Whls),"$96,000 ",Columbia,2358 Taylor St,34.01252330645161,-81.01701025806452
+Better Brands Inc,Jason,Moon,908 Jackson St,Myrtle Beach,SC,(843) 839-3637,Importers (Whls),Importers (Whls),Beer & Ale-Wholesale,"$46,672,000 ",Myrtle Beach,908 Jackson St,33.69581266744636,-78.88496063954565
+Bluecross Blueshield Of SC,Marie,Moon,2501 Faraway Dr,Columbia,SC,(803) 788-3860,Insurance,Insurance,,"$4,602,000 ",Columbia,2501 Faraway Dr,,
+Bluesky,Keun D,Moon,263070 Highway 9,Pageland,SC,(843) 672-7399,Convenience Stores,Convenience Stores,Grocers-Retail,"$144,000 ",,263070 Highway 9,,
+Carolina Auto Finance,Chris,Moon,614 W Wade Hampton Blvd,Greer,SC,(864) 655-7088,Financing-Automobile,Financing-Automobile,Financing,"$1,629,000 ",Greenville,614 W Wade Hampton Blvd,34.947969148064104,-82.24098033286359
+Carolina Computer Training,Katie,Moon,33 Villa Rd # B100,Greenville,SC,(864) 527-8100,Software/Application/Platform Publishing,Software/Application/Platform Publishing,Compressors-Air & Gas-Renting,"$2,062,000 ",Greenville,33 Villa Rd,34.8601597,-82.3550651
+Cat Around Town Project Inc,Marie,Moon,123 Laurel Ct,Lugoff,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Columbia,123 Laurel Ct,34.210891897546695,-80.72709461453374
+Computers I AM,Luther,Moon,19 N Main St,Honea Path,SC,(864) 369-1605,Website Hosting,Website Hosting,Computer & Equipment Dealers,"$376,000 ",Greenville,19 N Main St,34.4470586,-82.3933672
+Croft State Park,John,Moon,450 Croft State Park Rd,Spartanburg,SC,(864) 585-1283,State Parks,State Parks,Campgrounds,$0 ,Spartanburg,450 Croft State Park Rd,34.891389,-81.871347
+Data Network Solutions,James,Moon,629 Lake Tide Dr,Chapin,SC,(803) 932-9915,Information Technology Services,Information Technology Services,Federal Government Contractors,$0 ,Columbia,629 Lake Tide Dr,,
+Dollar General,Megan,Moon,4122 Celanese Rd # 126,Rock Hill,SC,(704) 800-5480,Variety Stores,Variety Stores,Department Stores,"$980,000 ",Charlotte,4122 Celanese Rd,34.977899,-81.067375
+Domino's,William,Moon,4965 Centre Pointe Dr,North Charleston,SC,(843) 747-4400,Pizza,Pizza,Foods-Carry Out,"$759,000 ",Charleston,4965 Centre Pointe Dr,32.8683702,-80.0207837
+E S Moon's Martial Arts,E S,Moon,6138 Calhoun Memorial Hwy,Easley,SC,(864) 859-2300,Martial Arts Instruction,Martial Arts Instruction,Health Clubs Studios & Gymnasiums,"$279,000 ",Greenville,6138 Calhoun Memorial Hwy,34.82376735,-82.58010709999999
+E S Moon's Martial Arts Inc,E S,Moon,239 Maxwell Ave,Greenwood,SC,(864) 223-2111,Martial Arts Instruction,Martial Arts Instruction,,"$235,000 ",Greenwood,239 Maxwell Ave,34.19000608163265,-82.16336040816327
+Fca Of Nc Inc,Brian,Moon,440 Saint Andrews St,Spartanburg,SC,(864) 271-1111,Surveyors-Land,Surveyors-Land,,"$218,000 ",Spartanburg,440 Saint Andrews St,34.94355,-81.91362343939394
+Friendship Fire Dept Sta 15,Brian,Moon,1938 Abercrombie Rd,Honea Path,SC,(864) 369-0613,Fire Departments,Fire Departments,,$0 ,Greenville,1938 Abercrombie Rd,,
+Gaffney City Visitors Ctr,Leighann,Moon,210 W Frederick St,Gaffney,SC,(864) 487-6244,City Government-Economic Program Administrati,City Government-Economic Program Administrati,Government Offices-City/Village & Twp,$0 ,Gaffney,210 W Frederick St,35.0766436,-81.6480993
+Greenville News,Autumn,Moon,32 E Broad St,Greenville,SC,(864) 298-4100,Newspapers (Publishers/Mfrs),Newspapers (Publishers/Mfrs),News Service,$0 ,Greenville,32 E Broad St,34.8471387,-82.3996088
+Halls Chophouse,Dalton,Moon,434 King St,Charleston,SC,(843) 727-0090,Restaurants,Restaurants,Foods-Carry Out,"$3,288,000 ",Charleston,434 King St,32.788528,-79.937992
+High Falls Church Of God,Jason F,Moon,405 Neal Rd,Seneca,SC,Not Available,Churches,Churches,,$0 ,Seneca,405 Neal Rd,34.801695800000005,-82.93085391617647
+Hilton Columbia Ctr,Mario,Moon,924 Senate St,Columbia,SC,(803) 744-7800,Hotels & Motels,Hotels & Motels,Caterers,"$6,601,000 ",Columbia,924 Senate St,33.99820175,-81.03638631259382
+Home Trust Bank,Conner,Moon,499 Woodruff Rd,Greenville,SC,(864) 335-2200,Banks,Banks,,"$2,128,000 ",Greenville,499 Woodruff Rd,34.83627295,-82.33512515464099
+Isola Laminate Systems,Mike,Moon,100 Tillessen Blvd,Ridgeway,SC,(803) 337-4200,Copper Foundries (Mfrs),Copper Foundries (Mfrs),,"$21,259,000 ",Columbia,100 Tillessen Blvd,,
+Jaguar Greenville,Brad,Moon,2668 Laurens Rd,Greenville,SC,(864) 288-7575,Automobile Dealers-New Cars,Automobile Dealers-New Cars,Automobile Dealers-Electric Cars-New,"$41,958,000 ",Greenville,2668 Laurens Rd,34.8198097,-82.34261349188495
+Joseph T Moon PA,Joseph T,Moon,2089 Woodruff Rd,Greenville,SC,(864) 297-6700,Dentists,Dentists,Dental Hygienists,"$562,000 ",Greenville,2089 Woodruff Rd,34.8208609,-82.25976055162789
+Kingdom Hall-Jehovah's Wtnsss,Roger,Moon,106 Holcombe Rd,Simpsonville,SC,(864) 277-7008,Churches,Churches,Religious Organizations,$0 ,Greenville,106 Holcombe Rd,,
+Mimi's Investments LLC,Amy,Moon,2829 Gentry Memorial Hwy,Pickens,SC,Not Available,Investments,Investments,,"$1,046,000 ",Greenville,2829 Gentry Memorial Hwy,34.87365935,-82.6962549
+Moon & Son Lawn Care,Thomas,Moon,309 Mcclure Rd,Seneca,SC,(864) 882-7468,Lawn & Grounds Maintenance,Lawn & Grounds Maintenance,,"$289,000 ",Seneca,309 Mcclure Rd,,
+Moon Bell Law Firm,Allison,Moon,1306 S Church St # 104,Greenville,SC,(864) 271-1595,Attorneys,Attorneys,,"$537,000 ",Greenville,1306 S Church St,34.8339785,-82.4033438
+Moon Mcmanus Builders-Devlprs,Chris,Moon,306a W Poinsett St,Greer,SC,(864) 848-0930,Real Estate Investments,Real Estate Investments,Real Estate Developers,"$807,000 ",Greenville,306a W Poinsett St,34.9401166,-82.2323895
+Moon Tire & Auto,Roger,Moon,103 Oneal Rd,Greer,SC,(864) 879-3524,Tire-Dealers-Retail,Tire-Dealers-Retail,Tile-Ceramic-Contractors & Dealers,"$817,000 ",Greenville,103 Oneal Rd,34.943315401005904,-82.25602736320317
+Moon's Electric,David,Moon,407 Clayton Dr,Charleston,SC,(843) 766-5200,Electric Contractors,Electric Contractors,,"$661,000 ",Charleston,407 Clayton Dr,32.7840535147861,-80.03807743873027
+"Moon, Lydia J",Lydia J,Moon,3851 Commercial Center Dr,Ladson,SC,(843) 314-5434,Speech Pathologists,Speech Pathologists,,"$63,000 ",Charleston,3851 Commercial Center Dr,32.986691,-80.0967881
+"Moon, Tara D MD",Tara D,Moon,60 Physician Dr # 100,Aiken,SC,(803) 641-2183,Physicians & Surgeons,Physicians & Surgeons,,"$451,000 ",Augusta,60 Physician Dr,,
+Office Products Plus,Adele,Moon,365 Red Cedar St # 202,Bluffton,SC,(843) 815-4711,Printers (Mfrs),Printers (Mfrs),Office Furniture & Equipment-Dealers (Whls),"$697,000 ",Hilton Hd Is,365 Red Cedar St,32.256328,-80.861511
+P I Stores Inc,Richard,Moon,620 Congaree Rd # F,Greenville,SC,(716) 720-5121,General Merchandise-Retail,General Merchandise-Retail,,"$685,000 ",Greenville,620 Congaree Rd,34.8455071,-82.3245362
+Pamplico First Baptist Church,Barry,Moon,119 Hickory St,Pamplico,SC,(843) 493-2102,Churches,Churches,,$0 ,Florence,119 Hickory St,33.99614754545455,-79.57253254545454
+Pee Dee Family Practice,David W,Moon,276 N Ron Mcnair Blvd,Lake City,SC,(843) 394-5471,Physicians & Surgeons,Physicians & Surgeons,,"$524,000 ",Florence,276 N Ron Mcnair Blvd,33.88040313322978,-79.75889127736647
+Peoples Bank,Tammy,Moon,605 N Main St,Anderson,SC,(864) 261-6500,Banks,Banks,,"$1,228,000 ",Greenville,605 N Main St,34.508624600000005,-82.65168220697939
+Pharmacy Innovations,Richard,Moon,640 Congaree Rd,Greenville,SC,(864) 241-0477,Pharmacies,Pharmacies,,"$1,143,000 ",Greenville,640 Congaree Rd,34.84590132100655,-82.32460753510699
+Prisma Health Occupational,Percilla,Moon,1020 Grove Rd,Greenville,SC,(864) 455-2300,Physicians & Surgeons,Physicians & Surgeons,Medical Centers,"$2,575,000 ",Greenville,1020 Grove Rd,34.809311535566685,-82.42059637058102
+S & L Decks LLC,Donna,Moon,146 Pettigrew Rd,Starr,SC,Not Available,Patio & Deck Builders,Patio & Deck Builders,,"$650,000 ",Greenville,146 Pettigrew Rd,,
+Sai Flight Svc,Brad,Moon,2100 Gsp Dr # 1,Greer,SC,(864) 304-9112,Services NEC,Services NEC,Federal Government Contractors,"$1,337,000 ",Spartanburg,2100 Gsp Dr,34.896906200000004,-82.21290727342662
+Shared Services Alliance,Jamie,Moon,102 Edinburgh Ct,Greenville,SC,Not Available,Organizations,Organizations,Federal Government Contractors,$0 ,Greenville,102 Edinburgh Ct,34.84097305,-82.36603087789854
+Spoleto Festival USA,David,Moon,14 George St,Charleston,SC,(843) 722-2764,Music Shows,Music Shows,Carnivals,"$1,271,000 ",Charleston,14 George St,32.78573009124536,-79.93213303921088
+Star Beauty Supplies,Suk,Moon,1610 Rittenbrg Blvd # 301,Charleston,SC,(843) 556-1750,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$399,000 ",Charleston,1610 Rittenbrg Blvd,,
+Subway,Devin,Moon,101 Sprklbrry Xing Rd # 5,Columbia,SC,(803) 865-9580,Restaurants,Restaurants,Foods-Carry Out,"$379,000 ",Columbia,101 Sprklbrry Xing Rd,,
+Teleco,Alan,Moon,430 Woodruff Rd # 300,Greenville,SC,(864) 261-3001,Telecommunications Services,Telecommunications Services,Veterinarian Emergency Services,"$25,976,000 ",Greenville,430 Woodruff Rd,34.8342137,-82.3367384
+Thornblade Club,Caitlyn,Moon,1275 Thornblade Blvd,Greer,SC,(864) 234-5100,Clubs,Clubs,,"$3,493,000 ",Greenville,1275 Thornblade Blvd,,
+Walk This Way Adventures LLC,Kara D,Moon,349 Amberwood Rd,Pickens,SC,Not Available,Adventure Vacations,Adventure Vacations,,$0 ,Greenville,349 Amberwood Rd,34.84810362035564,-82.75955484036722
+White Oak Estates,Susan,Moon,400 Webber Rd Ofc,Spartanburg,SC,(864) 579-3655,Convalescent Homes,Convalescent Homes,Retirement Communities & Homes,"$7,847,000 ",Spartanburg,400 Webber Rd Ofc,,
+Zerorez Myrtle Beach,Ryan,Moon,4983 Socastee Blvd,Myrtle Beach,SC,(843) 981-0008,Carpet & Rug Cleaners,Carpet & Rug Cleaners,,$0 ,Myrtle Beach,4983 Socastee Blvd,33.6858459,-78.9613931
+Jd's Fashions,Mike,Min,11357 Dunbarton Blvd,Barnwell,SC,(803) 541-0605,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Childrens & Infants Wear-Retail,"$192,000 ",,11357 Dunbarton Blvd,33.2385798,-81.3909727
+Progress Lighting,Jason,Bak,101 Corporate Dr # L,Spartanburg,SC,(864) 599-6000,Lighting Fixtures-Retail,Lighting Fixtures-Retail,,"$782,000 ",Spartanburg,101 Corporate Dr,34.999285,-81.9366258159458
+Arden's Burger & Grill,Nok,Pak,3319 N Main St,Anderson,SC,(864) 540-8028,Restaurants,Restaurants,,"$246,000 ",Greenville,3319 N Main St,34.5041152,-82.6503439
+Jenny's Alteration & Dry Clean,Jenny,Pak,4114 Hard Scrabble Rd,Columbia,SC,(803) 451-0075,Cleaners,Cleaners,Alterations-Clothing,$0 ,Columbia,4114 Hard Scrabble Rd,,
+Knight Pool,Sang,Pak,3296 Magruder Ave,Columbia,SC,(803) 751-4796,Swimming Pools-Public,Swimming Pools-Public,,"$711,000 ",Columbia,3296 Magruder Ave,34.006649041492544,-80.95051903325238
+Pak's Martial Arts Fitness Ctr,David,Pak,1027 Cranford St,Rock Hill,SC,(803) 327-9000,Karate Judo Jiu-Jitsu & Kung Fu Instr,Karate Judo Jiu-Jitsu & Kung Fu Instr,,"$57,000 ",Charlotte,1027 Cranford St,,
+Paknet,Kevin,Pak,346 N Jefferies Blvd,Walterboro,SC,(843) 782-4046,Communications Services-Common Carriers,Communications Services-Common Carriers,Telecommunications Contractors,"$1,344,000 ",,346 N Jefferies Blvd,32.9112819,-80.6681268
+Town Beauty Supply,Bong,Pak,130 Cherry Rd S,Rock Hill,SC,(803) 325-1101,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$2,439,000 ",Charlotte,130 Cherry Rd S,34.94155571428571,-81.0355141632653
+106 Y LLC,James,Park,8730 Northpark Blvd # 4a,North Charleston,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Charleston,8730 Northpark Blvd,32.96525037755102,-80.04334573469387
+A P Transmissions,Terry,Park,148 Elk Dr # 1,Murrells Inlet,SC,(843) 357-2886,Automobile Repairing & Service,Automobile Repairing & Service,Automobile Air Conditioning Equipment,"$419,000 ",Myrtle Beach,148 Elk Dr,,
+Ace Alterations & Tailoring,Bob,Park,436 Lee Rd,Columbia,SC,(803) 865-1788,Tailors,Tailors,Wedding Supplies-Wholesale,"$213,000 ",Columbia,436 Lee Rd,34.000113913564626,-80.93927236391153
+Aflac,Lester,Park,1829 Senate St # 8d,Columbia,SC,(803) 929-0044,Insurance,Insurance,Insurance-Life (Agents),"$5,752,000 ",Columbia,1829 Senate St,34.00297835288461,-81.02284348045276
+Ben Arnold Sunbelt Beverage-Sc,Frank,Park,101 Beverage Blvd,Ridgeway,SC,(803) 337-3500,Beverages (Whls),Beverages (Whls),Liquors-Wholesale,$0 ,Columbia,101 Beverage Blvd,,
+Boeing Co,Ellen,Park,9775 Patriot Blvd,Ladson,SC,(843) 641-2700,Aircraft-Manufacturers,Aircraft-Manufacturers,Aerospace Industries (Mfrs),"$9,745,000 ",Charleston,9775 Patriot Blvd,,
+Breeden Inn Bed & Breakfast,Wesley D,Park,404 E Main St,Bennettsville,SC,(843) 479-3665,Bed & Breakfast Accommodations,Bed & Breakfast Accommodations,Tax Return Preparation & Filing,"$121,000 ",Bennettsvl,404 E Main St,34.618649990780746,-79.67938032825833
+Cash America Pawn,Lucy,Park,1208 N Main St # A,Summerville,SC,(843) 821-4355,Pawnbrokers,Pawnbrokers,Jewelers-Retail,"$7,887,000 ",Charleston,1208 N Main St,33.03508621434258,-80.15888559494316
+Centurum Inc,Janie,Park,1002 Trident St # 100,Hanahan,SC,(843) 552-4720,Engineers-Electrical,Engineers-Electrical,Federal Government Contractors,$0 ,Charleston,1002 Trident St,32.906354007870675,-79.98595068997004
+Columbia Korean United Mthdst,Sohhwan J,Park,420 N Chelsea Rd,Columbia,SC,(803) 736-7678,Churches,Churches,,$0 ,Columbia,420 N Chelsea Rd,,
+Crown Cleaners,Kevin,Park,725 Cherry Rd # 178,Rock Hill,SC,(803) 328-3944,Cleaners,Cleaners,,"$81,000 ",Charlotte,725 Cherry Rd,34.9451236,-81.0287613
+Darla Moore School Of Business,Sungsik,Park,1014 Greene St,Columbia,SC,(803) 777-2200,University-College Dept/Facility/Office,University-College Dept/Facility/Office,,$0 ,Columbia,1014 Greene St,33.9945266,-81.03346689466619
+Dorothy Park Assoc,Dorothy J,Park,1818 Hampton St,Columbia,SC,(803) 254-6306,Laser Vision Correction,Laser Vision Correction,Optical Goods-Retail,"$434,000 ",Columbia,1818 Hampton St,34.00829090635538,-81.02528912153568
+Extreme Concrete Designs,Brenda,Park,600 Old Bethel Rd,Moore,SC,(864) 706-6656,Concrete Contractors,Concrete Contractors,Swimming Pool Contrs Dealers & Designers,"$122,000 ",Spartanburg,600 Old Bethel Rd,34.8703196,-82.0776938
+Geoseed,George,Park,121 Gary Rd,Hodges,SC,(864) 227-5117,Seeds & Bulbs-Retail,Seeds & Bulbs-Retail,,"$1,481,000 ",Greenwood,121 Gary Rd,34.28318,-82.239661
+Golden In Home Svc Inc,James,Park,1018 S Batesville Rd # 3a,Greer,SC,(864) 334-5534,Remodeling & Repairing Building Contractors,Remodeling & Repairing Building Contractors,Television & Radio-Service/Repair,"$1,110,000 ",Greenville,1018 S Batesville Rd,34.87019,-82.2499092
+Hair Q,Joon,Park,1721 Highmarket St,Georgetown,SC,(843) 546-4921,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Barbers Equipment & Supplies-Mfrs,"$2,003,000 ",Georgetown,1721 Highmarket St,33.37651765656565,-79.2941817070707
+Harbor Freight,Billy,Park,937 S Irby St,Florence,SC,(843) 664-1900,Tools-New & Used,Tools-New & Used,Tools-Cutting (Whls),"$1,863,000 ",Florence,937 S Irby St,34.18014583589342,-79.767063455909
+Health First,Sonny Yong,Park,8740 Rivers Ave,North Charleston,SC,(843) 572-5990,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,8740 Rivers Ave,32.96528318367347,-80.04401193877551
+K Discount Beauty Supply,Eunice,Park,312 N Main St,Marion,SC,(843) 275-9818,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$101,000 ",,312 N Main St,34.180619,-79.400125
+Karen Park Family Dentistry,Karen C,Park,125 Medical Cir,West Columbia,SC,(803) 796-2637,Dentists,Dentists,,"$550,000 ",Columbia,125 Medical Cir,,
+Lady & Kids,Sang In,Park,121 W Evans St,Florence,SC,(843) 662-1084,Women's Apparel-Retail,Women's Apparel-Retail,,"$212,000 ",Florence,121 W Evans St,34.19740105882353,-79.76648017647058
+Madida LLC,Jacob,Park,1939 Woodruff Rd # B,Greenville,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Greenville,1939 Woodruff Rd,34.82075905000001,-82.26372965
+Marlboro County School Dist,Wes,Park,122 Broad St,Bennettsville,SC,(843) 479-4016,School Districts,School Districts,Educational Programs,$0 ,Bennettsvl,122 Broad St,34.59433793424497,-79.67869162002806
+Micfo LLC,David,Park,198 E Bay St # 201,Charleston,SC,(800) 900-7744,Website Hosting,Website Hosting,,"$685,000 ",Charleston,198 E Bay St,32.780166,-79.9269958
+Midlands Oral & Maxillofacial,Joseph W,Park,100 Palmetto Health Pkwy # 310,Columbia,SC,(803) 749-0988,Dentists,Dentists,,"$573,000 ",Columbia,100 Palmetto Health Pkwy,34.087802,-81.159441
+Midlands Oral & Maxillofacial,Joseph W,Park,1755 Saint Julian Pl,Columbia,SC,(803) 254-2972,Dentists,Dentists,,"$573,000 ",Columbia,1755 Saint Julian Pl,34.01626430612245,-81.00170375510204
+Midlands Oral Surgery,Joseph W,Park,2605 Kinard St # 101,Newberry,SC,(803) 276-2084,Dentists,Dentists,,"$458,000 ",Newberry,2605 Kinard St,34.29032226822583,-81.60438836513153
+Mortgage Exchange Inc,Tony,Park,124 Verdae Blvd,Greenville,SC,(864) 751-6121,Real Estate Loans,Real Estate Loans,,"$20,583,000 ",Greenville,124 Verdae Blvd,34.8198932,-82.3367571
+Motivated Marketing LLC,Chris,Park,1250 Fairmont Ave,Mount Pleasant,SC,(843) 856-7322,Marketing Consultants,Marketing Consultants,,"$1,274,000 ",Charleston,1250 Fairmont Ave,32.79109068832962,-79.8683092607693
+Palmetto Dental,Jae Sung,Park,1578 Constitution Blvd # 1,Rock Hill,SC,(803) 366-1456,Dentists,Dentists,,"$538,000 ",Charlotte,1578 Constitution Blvd,34.9515395,-81.0477209
+Palmetto Dental PA,Jae,Park,1578 Constitution Blvd # 1,Rock Hill,SC,(803) 366-1456,Dentists,Dentists,,"$672,000 ",Charlotte,1578 Constitution Blvd,34.9515395,-81.0477209
+Park Grocery,Han,Park,732 E Main St,Rock Hill,SC,(803) 980-0172,Convenience Stores,Convenience Stores,,"$476,000 ",Charlotte,732 E Main St,34.919548551020405,-81.01461185714285
+Park Jeanhyong MD,Jeanhyong,Park,171 Ashley Ave,Charleston,SC,(843) 792-1414,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Charleston,171 Ashley Ave,32.78553865,-79.9517057940751
+"Park, Brandon J",Brandon J,Park,1520 E Greenville St # G,Anderson,SC,(864) 261-3099,Physical Therapists,Physical Therapists,,"$53,000 ",Greenville,1520 E Greenville St,34.52754471868257,-82.63601516007535
+"Park, Julie U MD",Julie U,Park,103 S Venture Dr # B,Greenville,SC,(864) 610-1947,Physicians & Surgeons,Physicians & Surgeons,,"$129,000 ",Greenville,103 S Venture Dr,34.85585535,-82.32645655878044
+Peace Cener Gunter Theatre,Lauren,Park,300 S Main St,Greenville,SC,(864) 467-3000,Performing Arts,Performing Arts,Theatres-Live,"$8,360,000 ",Greenville,300 S Main St,34.8478828,-82.4016886
+PK International Food,Sunhee,Park,2200 Two Notch Rd,Columbia,SC,(803) 252-6910,Restaurants,Restaurants,,"$237,000 ",Columbia,2200 Two Notch Rd,34.021439,-81.014036
+Sandhills Periodontics,Sohee K,Park,456 Clemson Rd,Columbia,SC,(803) 788-9715,Dentists,Dentists,,"$716,000 ",Columbia,456 Clemson Rd,34.11202197440537,-80.84672695943209
+Sandhills Periodontics,Sohee,Park,456 Clemson Rd,Columbia,SC,(803) 788-9715,Dentists,Dentists,,"$144,000 ",Columbia,456 Clemson Rd,34.11202197440537,-80.84672695943209
+Saulisbury Business Machines,Tracy,Park,7632 Southrail Rd,Charleston,SC,(843) 572-9111,Calculating & Adding Machs/Supls (Whls),Calculating & Adding Machs/Supls (Whls),Copying & Duplicating Machines & Supls,"$4,641,000 ",Charleston,7632 Southrail Rd,32.939068,-80.063486
+Semlinq,John,Park,222 W Coleman Blvd # 124,Mount Pleasant,SC,(843) 654-4250,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Charleston,222 W Coleman Blvd,32.798051,-79.8943175
+Showa Denko Carbon Inc,Robert,Park,478 Ridge Rd,Ridgeville,SC,(843) 875-3200,Carbon & Graphite Products (Mfrs),Carbon & Graphite Products (Mfrs),Graphite (Mfrs),"$74,615,000 ",Charleston,478 Ridge Rd,33.08639413825141,-80.34160164573227
+Silstar Corp Of America,Charles,Park,PO Box 6505,West Columbia,SC,(803) 794-8521,Boat Distributors (Whls),Boat Distributors (Whls),,"$4,335,000 ",Columbia,PO Box 6505,,
+Sonoco Recycling,John,Park,1132 Idlewild Blvd,Columbia,SC,(803) 779-0500,Paper-Manufacturers,Paper-Manufacturers,Paper Tubes & Cores-Manufacturers,"$40,065,000 ",Columbia,1132 Idlewild Blvd,,
+South Carolina Golf Assn,James,Park,7451 Irmo Dr,Columbia,SC,(803) 732-9311,Associations,Associations,,$0 ,Columbia,7451 Irmo Dr,,
+Spanish Wells Golf Club,Chuck,Park,1 Brams Point Rd,Hilton Head Island,SC,(843) 681-2819,Clubs,Clubs,,$0 ,Hilton Hd Is,1 Brams Point Rd,32.191687,-80.781105
+Specialty Polymers,Yong,Park,869 Old Richburg Rd,Chester,SC,(803) 581-0734,Chemicals (Whls),Chemicals (Whls),Chemicals-Manufacturers,"$65,130,000 ",Charlotte,869 Old Richburg Rd,34.72012964678253,-81.13132941937603
+Stars Wireless,Jae,Park,2349 Cherry Rd,Rock Hill,SC,(803) 366-9997,Business Services NEC,Business Services NEC,Cellular Telephones (Services),"$140,000 ",Charlotte,2349 Cherry Rd,34.96388901005025,-81.00020490954773
+Suit Expo,Sang,Park,1928 W Evans St,Florence,SC,(843) 667-1653,Men's Clothing & Furnishings-Retail,Men's Clothing & Furnishings-Retail,Clothing-Used,"$377,000 ",Florence,1928 W Evans St,34.19535534975909,-79.80348783734846
+Swift Marine Boat Detailing,John,Park,222 W Coleman Blvd # 124,Mount Pleasant,SC,(843) 990-2970,Boat Repairing,Boat Repairing,,"$1,489,000 ",Charleston,222 W Coleman Blvd,32.798051,-79.8943175
+Tiger Smiles Dental,Karen,Park,1128 Mack St,Gaston,SC,(803) 796-6011,Dentists,Dentists,,"$550,000 ",Columbia,1128 Mack St,33.81770461007478,-81.10278991389286
+Tiger Smiles Dental,Jim,Park,1128 Mack St,Gaston,SC,(803) 796-6011,Dentists,Dentists,,"$825,000 ",Columbia,1128 Mack St,33.81770461007478,-81.10278991389286
+Tsunami Vista,Dustin,Park,700 Gervais St,Columbia,SC,(803) 312-9911,Restaurants,Restaurants,,$0 ,Columbia,700 Gervais St,33.99832937198153,-81.04279977980094
+Twilley Seed Co Inc,George,Park,121 Gary Rd,Hodges,SC,(864) 227-5150,Seeds & Bulbs-Wholesale,Seeds & Bulbs-Wholesale,Greenhouses,"$28,823,000 ",Greenwood,121 Gary Rd,34.28318,-82.239661
+UPS Store,John,Park,5000 Old Buncombe Rd # 27,Greenville,SC,(864) 236-1127,Mailing & Shipping Services,Mailing & Shipping Services,Post Offices,"$729,000 ",Greenville,5000 Old Buncombe Rd,34.9103999,-82.4263766
+Varner Commercial Properties,Shannon,Park,814 Johnnie Dodds Blvd,Mount Pleasant,SC,(843) 881-5744,Real Estate,Real Estate,,"$284,000 ",Charleston,814 Johnnie Dodds Blvd,32.8063721,-79.885775
+W P Law LLC,David,Park,141 Calvin Dr,Columbia,SC,(803) 754-5917,Pipe-New (Wholesale),Pipe-New (Wholesale),Irrigation Systems & Equipment-Mfrs,"$1,898,000 ",Columbia,141 Calvin Dr,,
+Waypoint Strategic Advisors,Shawn,Park,10570 Dorchester Rd,Summerville,SC,(843) 873-4420,Pharmaceutical Consultants,Pharmaceutical Consultants,,"$978,000 ",Charleston,10570 Dorchester Rd,32.966787454245974,-80.19753469212114
+Wells Fargo,Richard,Park,2361 Dick Pond Rd,Surfside Beach,SC,(843) 215-6161,Banks,Banks,Safe Deposit Box-Rental,"$2,572,000 ",Myrtle Beach,2361 Dick Pond Rd,,
+Westwood Estates,Weston,Park,100 Riverbend Dr,West Columbia,SC,(803) 794-2948,Apartments,Apartments,,"$978,000 ",Columbia,100 Riverbend Dr,33.999027,-81.065853
+Wild Hare Productions Inc,Barbara,Park,120 Overbrook Rd,Greenwood,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Greenwood,120 Overbrook Rd,34.23993030100939,-82.18457412459198
+WP Law Inc,David,Park,303 Riverchase Way,Lexington,SC,(803) 461-0599,Irrigation Systems & Equipment (Whls),Irrigation Systems & Equipment (Whls),Aquaculture,"$49,648,000 ",Columbia,303 Riverchase Way,34.01399765863103,-81.14365766149179
+Bang Chau MD,Chau,Bang,129 N Washington St,Sumter,SC,(803) 774-9000,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Sumter,129 N Washington St,33.9233581,-80.34290084585247
+"Bang, Eric Riley OD",Eric Riley,Bang,508 Bypass 72 NW,Greenwood,SC,(864) 223-1960,Optometrists OD,Optometrists OD,,"$263,000 ",Greenwood,508 Bypass 72 NW,34.20826545,-82.19247924764058
+David W Bang Optometrist,David W,Bang,9565 Highway 78 # 900,Ladson,SC,(843) 764-3030,Physicians & Surgeons,Physicians & Surgeons,Optometrists OD,"$838,000 ",Charleston,9565 Highway 78,,
+David W Bang Optometrist,David W,Bang,9565 Highway 78 # 900,Ladson,SC,(843) 764-3030,Optometrists OD,Optometrists OD,,"$360,000 ",Charleston,9565 Highway 78,,
+Experienced Eyecare LLC,David W,Bang,9565 Highway 78,Ladson,SC,(843) 764-3030,Optical Goods-Retail,Optical Goods-Retail,Contact Lenses,"$591,000 ",Charleston,9565 Highway 78,,
+Integrated Vision Assoc,Eric R,Bang,508 Bypass 72 NW,Greenwood,SC,(864) 223-1960,Optometrists OD,Optometrists OD,,"$263,000 ",Greenwood,508 Bypass 72 NW,34.20826545,-82.19247924764058
+Le Nails,Kathy,Bang,5672 Memorial Blvd,Saint George,SC,(843) 636-9877,Manicuring,Manicuring,,"$35,000 ",Charleston,5672 Memorial Blvd,33.18979860190125,-80.58174652897883
+Perception Eye Care,Eric Riley,Bang,3319 N Main St # F,Anderson,SC,(864) 965-0493,Optical Goods-Retail,Optical Goods-Retail,,"$346,000 ",Greenville,3319 N Main St,34.5041152,-82.6503439
+Saigon Fast Food,Helene,Bang,1011 N Pleasantburg Dr,Greenville,SC,(864) 235-3472,Restaurants,Restaurants,,"$95,000 ",Greenville,1011 N Pleasantburg Dr,34.8671238,-82.3583227
+Strategic Connections Inc,Jim,Bang,1335 Enterprise Ave # A,Myrtle Beach,SC,(843) 626-2100,Sound Systems & Equipment (Whls),Sound Systems & Equipment (Whls),Sound Systems & Equipment-Manufacturers,"$6,554,000 ",Myrtle Beach,1335 Enterprise Ave,33.7045578,-78.90271374999999
+Charleston Korean United,Yon T,Bae,2745 Shadow Ln,Charleston,SC,(843) 797-8199,Churches,Churches,,$0 ,Charleston,2745 Shadow Ln,32.9741465033052,-80.06453236749144
+Peace Textile Distribution,Chang,Bae,1950 Corporate Way,Sumter,SC,(803) 481-3000,Warehouses,Warehouses,Textile Manufacturers,"$607,000 ",Sumter,1950 Corporate Way,33.860346,-80.380394
+Peace Textile Inc,Chang,Bae,1605 S Guignard Pkwy,Sumter,SC,(803) 773-2177,Textile Manufacturers,Textile Manufacturers,Knitted Fabrics (Mfrs),$0 ,Sumter,1605 S Guignard Pkwy,33.88180325609756,-80.34558752439024
+Lexus Of Greenville,John,Baek,2660 Laurens Rd,Greenville,SC,(864) 568-3650,Automobile Dealers-New Cars,Automobile Dealers-New Cars,Automobile Dealers-Electric Cars-New,"$120,279,000 ",Greenville,2660 Laurens Rd,34.8205746,-82.3426818
+Medicine Shoppe Pharmacy,John,Baek,1061 N Fraser St,Georgetown,SC,(843) 546-2880,Pharmacies,Pharmacies,Physicians & Surgeons Equip & Supls-Whls,"$561,000 ",Georgetown,1061 N Fraser St,33.386122243252444,-79.28855650892714
+Columbia Korean United Mthdst,Miyoung,Paik,420 N Chelsea Rd,Columbia,SC,(803) 736-7678,Churches,Churches,,$0 ,Columbia,420 N Chelsea Rd,,
+Lexington United Methodist Chr,Miyoung,Paik,309 E Main St,Lexington,SC,(803) 359-6838,Schools-Pre-School/Kindergarten-Academic,Schools-Pre-School/Kindergarten-Academic,Churches,$0 ,Columbia,309 E Main St,33.979325900000006,-81.2342345977448
+Manhattan Mens Wear,Jim,Paik,7201 Two Notch Rd,Columbia,SC,(803) 736-9990,Men's Clothing & Furnishings-Retail,Men's Clothing & Furnishings-Retail,,"$731,000 ",Columbia,7201 Two Notch Rd,34.06597555,-80.96172902910322
+Bok Willem Eduard MD,Willem E,Bok,134 E Rebound Rd,Lancaster,SC,(803) 313-3700,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Charlotte,134 E Rebound Rd,34.8620695,-80.802395
+Honeywell Scanning & Mobility,Linda,Bok,9680 Old Bailes Rd,Fort Mill,SC,(803) 835-8000,Identification Equip & Supls-Mfrs,Identification Equip & Supls-Mfrs,Lighting Equipment-Manufacturers,$0 ,Charlotte,9680 Old Bailes Rd,,
+Seo Tech Pro North Charleston,Norclest,Seo,6951 S Kenwood Dr # 3g-A,North Charleston,SC,(843) 823-3499,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Charleston,6951 S Kenwood Dr,32.922303333309614,-80.04627231001119
+Star Beauty & Fashion,Young Yel,Seo,5060 Dorchester Rd # 240,Charleston,SC,(843) 767-0266,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$266,000 ",Charleston,5060 Dorchester Rd,32.85691443382989,-80.03417555133665
+Chicken Shack,Seikon,Suh,3755 Camden Hwy,Dalzell,SC,(803) 469-8615,Restaurants,Restaurants,,"$75,000 ",Sumter,3755 Camden Hwy,34.01631216544693,-80.42766699913184
+Gene Jonea Marketing & Pr,Thomas,Suh,1306 N Oak St,Myrtle Beach,SC,(843) 839-4607,Marketing Consultants,Marketing Consultants,Federal Government Contractors,"$220,000 ",Myrtle Beach,1306 N Oak St,33.698492147380826,-78.88040383562547
+Harvard Wine & Beverage,Anthony,Suh,145 Kings Grant Dr,Aiken,SC,(803) 502-1909,Liquors-Retail,Liquors-Retail,,"$1,544,000 ",Augusta,145 Kings Grant Dr,33.53337208287843,-81.72397328784326
+"Suh, Jimmy MD",Jimmy,Suh,169 Ashley Ave # 202,Charleston,SC,(843) 792-3222,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,169 Ashley Ave,32.782956907899965,-79.94539804531368
+"Suh, Lily",Lily,Suh,169 Ashley Ave # 202,Charleston,SC,(501) 364-1874,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Charleston,169 Ashley Ave,32.782956907899965,-79.94539804531368
+Wasabi Japanese Restaurant,Katsu,So,1529 John B White Sr Blvd # C,Spartanburg,SC,(864) 576-8998,Restaurants,Restaurants,,"$370,000 ",Spartanburg,1529 John B White Sr Blvd,34.9224131,-81.9747146
+Heritage Cleaners,Ann,Son,705 Long Point Rd,Mount Pleasant,SC,(843) 761-4999,Cleaners,Cleaners,,"$273,000 ",Charleston,705 Long Point Rd,32.842086897183094,-79.85292899031674
+House Of Raeford Farms Inc,Jong,Son,1354 Rutherford Rd,Greenville,SC,(864) 268-6917,Poultry Processing Plants (Mfrs),Poultry Processing Plants (Mfrs),Farm Equipment (Whls),"$121,175,000 ",Greenville,1354 Rutherford Rd,34.89239605,-82.36943327305562
+Village Cleaners,Ann,Son,705 Long Point Rd,Mount Pleasant,SC,(843) 881-5595,Cleaners,Cleaners,,"$55,000 ",Charleston,705 Long Point Rd,32.842086897183094,-79.85292899031674
+Aesolutions,Daisy,Song,250 Commonwealth Dr,Greenville,SC,(864) 676-0600,Engineering,Engineering,,$0 ,Greenville,250 Commonwealth Dr,34.8511558,-82.3193959
+Affinity Health Ctr,Rhonnie,Song,455 Lakeshore Pkwy,Rock Hill,SC,(803) 909-6363,Physicians & Surgeons,Physicians & Surgeons,,"$599,000 ",Charlotte,455 Lakeshore Pkwy,34.93085989853916,-81.00173380394534
+Carolina Radiology Assoc,Young S,Song,1303 Azalea Ct # C,Myrtle Beach,SC,(843) 467-2676,Physicians & Surgeons,Physicians & Surgeons,,"$533,000 ",Myrtle Beach,1303 Azalea Ct,33.73052269387755,-78.86388557142857
+Greenville Health Syst Univ,S Nancy,Song,200 Patewood Dr,Greenville,SC,(864) 454-2670,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,200 Patewood Dr,34.851895049999996,-82.32714134055895
+"Song, Weizhong Pa",Weizhong,Song,2836 Augusta Rd,West Columbia,SC,(803) 939-0545,Physicians Assistants,Physicians Assistants,,$0 ,Columbia,2836 Augusta Rd,33.9833367,-81.0969226
+Station Wings,Sung,Song,585 Whitman St,Orangeburg,SC,(803) 531-4747,Restaurants,Restaurants,,"$74,000 ",Orangeburg,585 Whitman St,33.49189902650965,-80.85586929444986
+True North Church,Jay,Song,1297 W Martintown Rd,North Augusta,SC,(803) 279-1555,Churches,Churches,,$0 ,Augusta,1297 W Martintown Rd,33.544003000000004,-81.99662781632652
+Wigs & Things,Chong,Song,7400 Rivers Ave # I,North Charleston,SC,(843) 797-2481,Wigs Toupees & Hairpieces,Wigs Toupees & Hairpieces,,"$362,000 ",Charleston,7400 Rivers Ave,32.9386799,-80.0358546
+Zinus Inc,Brad,Song,1125 Newton Way,Summerville,SC,Not Available,Software/Application/Platform Publishing,Software/Application/Platform Publishing,,"$6,299,000 ",Charleston,1125 Newton Way,,
+Alpha Enterprises-THE Crlns,Ji,Shin,546 E Main St,Rock Hill,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Charlotte,546 E Main St,34.92154882352941,-81.01881947058823
+Denny's,Jada,Shin,2521 Wade Hampton Blvd,Greenville,SC,(864) 292-9105,Restaurants,Restaurants,Ice Cream Parlors,"$2,823,000 ",Greenville,2521 Wade Hampton Blvd,34.8959608,-82.34261585504953
+Denny's,Jada,Shin,2435 MT Holly Rd,Rock Hill,SC,(803) 817-1816,Restaurants,Restaurants,Ice Cream Parlors,"$1,733,000 ",Charlotte,2435 MT Holly Rd,34.8887869,-81.0290524
+Kenny's Home Cooking,Kenny,Shin,711 Anderson Dr,Williamston,SC,(864) 840-9169,Restaurants,Restaurants,,"$532,000 ",Greenville,711 Anderson Dr,34.6152773,-82.48754059594594
+Kenny's Homecooking,Kenny,Shin,1000 N Pine St,Spartanburg,SC,(864) 573-6013,Restaurants,Restaurants,,"$693,000 ",Spartanburg,1000 N Pine St,34.969149,-81.93283981652763
+Kiswire Inc-Steel Cord,K C,Shin,90 Twin Springs Rd,Newberry,SC,(803) 364-3420,Wire (Whls),Wire (Whls),,"$271,829,000 ",Newberry,90 Twin Springs Rd,34.23372136807347,-81.55658816960488
+"Shin, Hanna",Hanna,Shin,3210 E Palmetto St,Florence,SC,(843) 662-3740,Pharmacists,Pharmacists,,"$50,000 ",Florence,3210 E Palmetto St,34.19684958254656,-79.70420101576643
+"Shin, Jannifer OD",Jannifer,Shin,7800 Rivers Ave,North Charleston,SC,(843) 572-3404,Optometrists OD,Optometrists OD,,"$360,000 ",Charleston,7800 Rivers Ave,32.946372703698465,-80.04090660753663
+Red Bowl Asian Bistro,Wai,Sim,27 S Pleasantburg Dr # 30,Greenville,SC,(864) 271-7977,Restaurants,Restaurants,,"$706,000 ",Greenville,27 S Pleasantburg Dr,34.84084885,-82.36260486157309
+"Sim, Julie M Apn",Julie M,Sim,35 Bill Fries Dr # F,Hilton Head Island,SC,(843) 681-6668,Nurses-Practitioners,Nurses-Practitioners,Nurses-Registered Rn,"$53,000 ",Hilton Hd Is,35 Bill Fries Dr,32.22295342537938,-80.71089696148208
+Ahn Randall Lee,Randall L,Ahn,1201 Lincoln St # 201,Columbia,SC,(949) 414-7149,Psychologists,Psychologists,,$0 ,Columbia,1201 Lincoln St,34.000389377964105,-81.03892029833278
+Honda Of Columbia,Paul,Ahn,4333 Sunset Blvd,Lexington,SC,(803) 256-0156,Automobile Dealers-New Cars,Automobile Dealers-New Cars,Truck-Dealers-New,"$40,776,000 ",Columbia,4333 Sunset Blvd,34.01391939353261,-81.15571214866846
+Neat N Clean Dry Cleaners Inc,Sang,Ahn,1317 Highway 9 Byp W,Lancaster,SC,(803) 285-6974,Cleaners,Cleaners,,"$99,000 ",Charlotte,1317 Highway 9 Byp W,34.733160090909095,-80.80142813636364
+Lesslie Anderson Food Mart,Bo,An,661 Anderson Rd N,Rock Hill,SC,(803) 325-2977,Convenience Stores,Convenience Stores,Service Stations-Gasoline & Oil,"$476,000 ",Charlotte,661 Anderson Rd N,,
+Town Fashions,Jung,An,311 S Mill St,Manning,SC,(803) 435-2548,Women's Apparel-Retail,Women's Apparel-Retail,Beauty Salons-Equipment & Supplies (Whls),"$311,000 ",Sumter,311 S Mill St,33.69058850118022,-80.2121639852379
+Ascend Performance Materials,Tae,Yang,103 Columbia Ave,Greenwood,SC,(713) 315-5700,Textile Manufacturers,Textile Manufacturers,,$0 ,Greenwood,103 Columbia Ave,34.16695801027967,-82.14273612811465
+Lee Shoe Repair,Seung Doo,Yang,2004 Cherry Rd,Rock Hill,SC,(803) 366-3635,Shoe & Boot Repairing,Shoe & Boot Repairing,,"$99,000 ",Charlotte,2004 Cherry Rd,,
+China Palace,Yoon,Eom,602 Beltline Blvd,Columbia,SC,(803) 787-1919,Restaurants,Restaurants,,"$95,000 ",Columbia,602 Beltline Blvd,33.991867941839814,-80.97977285916528
+Elgin Podiatry Institute LLC,Chansina,Um,3 Richland Med Pk Dr # 110,Columbia,SC,(803) 807-9388,Podiatrists,Podiatrists,,"$339,000 ",Columbia,3 Richland Med Pk Dr,34.0274088,-81.0342411
+929 Kitchen & Bar,Narae,OH,929 Gervais St,Columbia,SC,(803) 764-3825,Restaurants,Restaurants,Foods-Carry Out,"$427,000 ",Columbia,929 Gervais St,34.00036165,-81.03741294820767
+Columbia Emmanuel Korean,John,OH,5403 Pinestraw Rd,Columbia,SC,(803) 348-0612,Churches,Churches,,$0 ,Columbia,5403 Pinestraw Rd,,
+Genki Today,Thomas,OH,109 Eagle Park Dr,Columbia,SC,Not Available,Restaurants,Restaurants,,"$332,000 ",Columbia,109 Eagle Park Dr,,
+J Hair Studio,Janet,OH,8590 Pelham Rd,Greenville,SC,(864) 284-0204,Beauty Salons,Beauty Salons,Batteries-Storage-Wholesale,"$78,000 ",Greenville,8590 Pelham Rd,34.8515838,-82.2323244
+KMC Wireless,Eun,OH,1357 Remount Rd,North Charleston,SC,(843) 554-3790,Cellular Telephones-Equipment & Supls,Cellular Telephones-Equipment & Supls,,"$399,000 ",Charleston,1357 Remount Rd,32.901212473468526,-79.99668272218139
+"Oh, Yumi MD",Yumi,OH,9330 Medical Plaza Dr,North Charleston,SC,(843) 797-7000,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,9330 Medical Plaza Dr,32.97603015,-80.07314591743759
+Oriental Food Market,Seog,OH,4501 Socastee Blvd # 101,Myrtle Beach,SC,(843) 293-6377,Oriental Food Products,Oriental Food Products,Grocers-Retail,"$477,000 ",Myrtle Beach,4501 Socastee Blvd,33.6858459,-78.9613931
+Sandol Presbyterian Church,Thomas S,OH,4735 Alpine Rd,Columbia,SC,(803) 665-6762,Churches,Churches,,$0 ,Columbia,4735 Alpine Rd,34.0644136,-80.9063063
+Trident Health System,Christina,OH,9330 Medical Plaza Dr,North Charleston,SC,(843) 797-7000,Health Care Management,Health Care Management,,$0 ,Charleston,9330 Medical Plaza Dr,32.97603015,-80.07314591743759
+Trident Medical Ctr,Christina,OH,9330 Medical Plaza Dr,Charleston,SC,(843) 797-7000,Hospitals,Hospitals,Medical Centers,$0 ,Charleston,9330 Medical Plaza Dr,32.97603015,-80.07314591743759
+US Fiber,Ted,OH,30 Pine House Rd,Trenton,SC,(803) 275-5023,Incorporating Companies,Incorporating Companies,,"$528,000 ",Augusta,30 Pine House Rd,33.738315,-81.853736
+Hair Q Beauty Supply,Jung,Woo,3025 Ashley Town Center Dr,Charleston,SC,(843) 402-9400,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$665,000 ",Charleston,3025 Ashley Town Center Dr,32.79034373762086,-80.03688423866899
+Mac's Shoe Repair-Alterations,Cong,Woo,1223 Ben Sawyer Blvd,Mount Pleasant,SC,(843) 881-5729,Shoe & Boot Repairing,Shoe & Boot Repairing,Leather Goods-Repairing,"$113,000 ",Charleston,1223 Ben Sawyer Blvd,32.79439025252103,-79.86038314128224
+Saskatoon Lodge,Edmund,Woo,681 Halton Rd,Greenville,SC,(864) 297-7244,Restaurants,Restaurants,Event Centers,"$471,000 ",Greenville,681 Halton Rd,34.83387485,-82.34537687174505
+Saskatoon Steaks Fish-Wild Gm,Edmund,Woo,681 Halton Rd,Greenville,SC,(864) 297-7244,Restaurants,Restaurants,,"$1,412,000 ",Greenville,681 Halton Rd,34.83387485,-82.34537687174505
+World Health Assistance,Joshua,Woo,5 Colby Ct,Greer,SC,Not Available,Health Services,Health Services,,"$600,000 ",Greenville,5 Colby Ct,34.88577642984669,-82.242745869054
+San Won Auto Repair,Sam,Won,2629 Percival Rd,Columbia,SC,(803) 699-1974,Automobile Repairing & Service,Automobile Repairing & Service,,"$229,000 ",Columbia,2629 Percival Rd,34.062993492672014,-80.90681560749742
+Southern Class Hair,Brenda,Won,2914 Platt Springs Rd,West Columbia,SC,(803) 791-3227,Beauty Salons,Beauty Salons,,"$82,000 ",Columbia,2914 Platt Springs Rd,33.9699857,-81.0918458
+Angel Dental Fort Mill,Haolin,Yu,749 Stockbridge Dr,Fort Mill,SC,(803) 335-5585,Dentists,Dentists,,"$672,000 ",Charlotte,749 Stockbridge Dr,35.0642918,-80.9958011
+Awesome Designs LLC,Richard,Yu,1945 Decker Blvd # 14,Columbia,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Columbia,1945 Decker Blvd,,
+Boost Mobile Auth Retailer,Jay,Yu,1945 Decker Blvd # 1,Columbia,SC,(803) 738-8600,Cellular Telephones (Services),Cellular Telephones (Services),Authorized Retailer-Cellular Services,"$1,607,000 ",Columbia,1945 Decker Blvd,,
+Carolina Nephrology PA,Henry T,Yu,203 Mills Ave,Greenville,SC,(864) 271-1844,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,203 Mills Ave,34.82956635,-82.40676264388851
+East Bay Cleaners,Kenny,Yu,869 Tupelo Bay Dr,Mount Pleasant,SC,(843) 577-4430,Alterations-Clothing,Alterations-Clothing,,"$9,041,000 ",Charleston,869 Tupelo Bay Dr,32.84970290173602,-79.86713839919284
+International Beauty,Chong,Yu,7201 Parklane Rd # H,Columbia,SC,(803) 736-6429,Beauty Salons,Beauty Salons,Skin Treatments,"$71,000 ",Columbia,7201 Parklane Rd,,
+Medical University-Sc,Hong,Yu,173 Ashley Ave # 12,Charleston,SC,(843) 792-0635,Physicians & Surgeons,Physicians & Surgeons,Medical Research,"$422,000 ",Charleston,173 Ashley Ave,32.782979181859034,-79.94541439152557
+Peipei Yu DMD LLC,Peipei,Yu,1869 N Paris Ave,Port Royal,SC,(843) 521-1869,Dentists,Dentists,,"$2,254,000 ",Hilton Hd Is,1869 N Paris Ave,,
+Port Royal Dentistry,Peipei,Yu,1869 N Paris Ave,Port Royal,SC,(843) 521-1869,Dentists,Dentists,Dental Hygienists,"$1,503,000 ",Hilton Hd Is,1869 N Paris Ave,,
+R B E LLC,Karen,Yu,11 Peyton Rd,Columbia,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Columbia,11 Peyton Rd,33.97721256958808,-80.94794913565391
+Shasa Beauty Supply,Sunhee,Yu,1019 Broad St,Sumter,SC,(803) 778-0416,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$1,207,000 ",Sumter,1019 Broad St,33.94671668181819,-80.37383668181819
+Youngs Fashion & Beauty,John,Yu,719 Broad St,Sumter,SC,(803) 774-6004,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Clothing-Retail,"$111,000 ",Sumter,719 Broad St,33.941194,-80.365997
+Yu Alex James MD,Alex J,Yu,5 W Main St,Greenville,SC,(864) 220-7270,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Greenville,5 W Main St,34.85309485532795,-82.4299394797622
+Yu Cherry MD,Cherry,Yu,96 Jonthn Lcs St Csb 301 # 606,Charleston,SC,(843) 792-3222,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Charleston,96 Jonthn Lcs St Csb 301,,
+"Yu, Alex James MD",Alex James,Yu,701 Grove Rd,Greenville,SC,(864) 455-7895,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,701 Grove Rd,34.81959795,-82.41041755696604
+"Yu, Eva C",Eva C,Yu,1514 US 17 Bus,Surfside Beach,SC,(843) 238-6070,Acupuncture,Acupuncture,,"$70,000 ",Myrtle Beach,1514 US 17 Bus,33.6112501,-78.9826135
+"Yu, Henry Tan MD",Henry Tan,Yu,3030 Highway 81 N,Anderson,SC,Not Available,Physicians & Surgeons,Physicians & Surgeons,,"$483,000 ",Greenville,3030 Highway 81 N,34.580507,-82.621846
+Blush Nails & Spa,Michelle,Yoon,1787 S Lake Dr # I,Lexington,SC,(803) 359-0046,Manicuring,Manicuring,Skin Treatments,"$82,000 ",Columbia,1787 S Lake Dr,33.912740343006675,-81.22602447304784
+Greenville Health Syst Univ,Inho,Yoon,67 Creekside Park Ct,Greenville,SC,(864) 242-4602,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,67 Creekside Park Ct,34.84666982501937,-82.31612120045274
+Greenville Health Syst Univ,Inho,Yoon,830 S Buncombe Rd,Greer,SC,(864) 242-4602,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,830 S Buncombe Rd,34.9213452,-82.2443815
+Sumter County Landfill,Ginny,Yoon,2185 E Brewington Rd,Sumter,SC,(803) 495-3314,Government Offices-County,Government Offices-County,Landfills-Sanitary,$0 ,Sumter,2185 E Brewington Rd,33.940664418071876,-80.25822152810622
+Beauty Line,Samuel,Yi,2070 Rittenbrg Blvd # C400,Charleston,SC,(843) 766-1300,Beauty Salons,Beauty Salons,Cosmetics & Perfumes-Retail,"$201,000 ",Charleston,2070 Rittenbrg Blvd,,
+Bing Yi MD,Bing,Yi,3 Saint Francis Dr # 360,Greenville,SC,(864) 233-4349,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,3 Saint Francis Dr,,
+Bird Dog,Andrew,Yi,715 Harden St,Columbia,SC,(803) 799-0669,Bars,Bars,,"$104,000 ",Columbia,715 Harden St,33.999109492442145,-81.01611760070264
+Building Cleaning & Mntnc Inc,Jenny,Yi,143 Rabon Rd,Columbia,SC,(803) 419-1144,Janitor Service,Janitor Service,Federal Government Contractors,"$272,000 ",Columbia,143 Rabon Rd,,
+Easy Stop,Lee,Yi,527 Belvedere Clearwater Rd,North Augusta,SC,(803) 278-4599,Service Stations-Gasoline & Oil,Service Stations-Gasoline & Oil,Convenience Stores,"$2,300,000 ",Augusta,527 Belvedere Clearwater Rd,33.525778100000004,-81.9195873
+Flowers By Sue,Sue,Yi,72 Arrow Rd,Hilton Head Island,SC,(843) 842-8778,Florists-Retail,Florists-Retail,Plants-Retail,"$737,000 ",Hilton Hd Is,72 Arrow Rd,32.15712476492567,-80.75972806393337
+Phamyile Enterprise LLC,Tae,Yi,5300 Rivers Ave # 6,North Charleston,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Charleston,5300 Rivers Ave,32.8911457,-80.0109283
+Samurai Blue LLC,Kwon S,Yi,16 Park Woodruff Dr,Greenville,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Greenville,16 Park Woodruff Dr,34.823486849999995,-82.29430221938364
+Star Beauty Supply,Jay,Yi,205 N Goose Crk Blvd # A10,Goose Creek,SC,(843) 820-1398,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$211,000 ",Charleston,205 N Goose Crk Blvd,,
+Star Communications,Tae,Yi,535 King St,Charleston,SC,(843) 577-8851,Cellular Telephones (Services),Cellular Telephones (Services),,"$1,671,000 ",Charleston,535 King St,32.79094563403899,-79.93988099939627
+Yi David DMD,David,Yi,674 Blvd DE France,Beaufort,SC,(843) 228-3500,Dentists,Dentists,,$0 ,Hilton Hd Is,674 Blvd DE France,32.3498001,-80.6791526
+Angela's Beauty Supply LLC,Jong,Lee,5672 Broad St,Sumter,SC,(803) 494-6120,Beauty Salons-Equipment & Supplies (Whls),Beauty Salons-Equipment & Supplies (Whls),Cosmetics & Perfumes-Retail,"$1,207,000 ",Sumter,5672 Broad St,33.95085299953288,-80.49803087230163
+Best China Chinese Restaurant,Meng,Lee,5243 Highway 557,Clover,SC,(803) 831-5540,Restaurants,Restaurants,,"$130,000 ",Charlotte,5243 Highway 557,,
+Ceragem Master-Carolina's,Jae,Lee,7201 Parklane Rd # H,Columbia,SC,(803) 736-6441,Massage Equipment & Supplies (Whls),Massage Equipment & Supplies (Whls),,"$2,249,000 ",Columbia,7201 Parklane Rd,,
+China Express,Kin,Lee,418 S Jefferies Blvd,Walterboro,SC,(843) 549-2598,Restaurants,Restaurants,,"$173,000 ",,418 S Jefferies Blvd,32.902921,-80.6671383
+Citidel Foundation,Min,Lee,171 Moultrie St,Charleston,SC,(843) 953-5297,Foundation-Educ Philanthropic Research,Foundation-Educ Philanthropic Research,,$0 ,Charleston,171 Moultrie St,32.79639815,-79.96122935003301
+Dragon Den Chinese Restaurant,Wai,Lee,2420 Hudson Rd # 13,Greer,SC,(864) 292-2828,Restaurants,Restaurants,,"$377,000 ",Greenville,2420 Hudson Rd,34.8933883,-82.2889086
+East Light Academy,Hong,Lee,1173 Ayers Plantation Way,Mount Pleasant,SC,Not Available,Child Care Service,Child Care Service,Federal Government Contractors,"$146,000 ",Charleston,1173 Ayers Plantation Way,,
+J W & L Enterprises Inc,Jin,Lee,109 Prather Park Dr,Myrtle Beach,SC,(843) 236-6303,Siding Contractors,Siding Contractors,,"$723,000 ",Myrtle Beach,109 Prather Park Dr,,
+Joy Of Tokyo,Hong,Lee,2531 Woodruff Rd # 101,Simpsonville,SC,(864) 288-7828,Restaurants,Restaurants,,"$330,000 ",Greenville,2531 Woodruff Rd,34.8079688,-82.2336169
+Lake Murray Montessori School,Jooyeon,Lee,312 Elders Pond Dr,Columbia,SC,(803) 788-7522,Schools-Pre-School/Kindergarten-Academic,Schools-Pre-School/Kindergarten-Academic,Montessori Schools,"$198,000 ",Columbia,312 Elders Pond Dr,,
+Lake Murray Montessori School,Jooyeon,Lee,1332 N Lake Dr,Lexington,SC,(803) 996-1004,Schools,Schools,Montessori Schools,$0 ,Columbia,1332 N Lake Dr,34.01584725929477,-81.22326432755453
+Lee's Dental Lab,Won,Lee,9165 Two Notch Rd # B,Columbia,SC,(803) 699-6209,Laboratories-Dental,Laboratories-Dental,,"$612,000 ",Columbia,9165 Two Notch Rd,34.0393736,-81.0006244
+Sumter Nails,Hiep,Lee,302 Broad St,Sumter,SC,(803) 774-0304,Manicuring,Manicuring,,"$28,000 ",Sumter,302 Broad St,33.93355116666667,-80.35377408333333
+Wilkes Alteration Shop,Young,Lee,551 E Main St # 103,Spartanburg,SC,(864) 582-1551,Alterations-Clothing,Alterations-Clothing,,"$162,000 ",Spartanburg,551 E Main St,34.9533538,-81.9171906
+Yong's Wig World,Sung,Lee,3902 Rivers Ave,North Charleston,SC,(843) 744-3757,Wigs Toupees & Hairpieces,Wigs Toupees & Hairpieces,,"$724,000 ",Charleston,3902 Rivers Ave,32.86263895098193,-79.9867155221036
+Ararium SC LLC,Yeon O,Im,1922 Augusta St # 115,Greenville,SC,Not Available,Attorneys,Attorneys,,"$716,000 ",Greenville,1922 Augusta St,34.8257483,-82.3973561
+Building Cleaning & Mntnc Inc,Jenny,Yim,143 Rabon Rd,Columbia,SC,(803) 419-1144,Janitor Service,Janitor Service,Federal Government Contractors,"$272,000 ",Columbia,143 Rabon Rd,,
+Lake Wylie Pizza-Italian,Cory,Yim,4074 Charlotte Hwy,Clover,SC,(803) 831-0855,Pizza,Pizza,Restaurants,"$867,000 ",Charlotte,4074 Charlotte Hwy,,
+Yim's Tiger Tae KWON Do Acad,Jenny,Yim,2400 Decker Blvd,Columbia,SC,(803) 419-7172,Martial Arts Instruction,Martial Arts Instruction,,"$143,000 ",Columbia,2400 Decker Blvd,,
+Columbia Korean Seventh-Day,Sung Ho,Jang,4201 Hard Scrabble Rd,Columbia,SC,(803) 917-9311,Churches,Churches,,$0 ,Columbia,4201 Hard Scrabble Rd,,
+Medical University SC,Eugene Y,Chang,96 Jonathan Lucas St # 619,Charleston,SC,(843) 792-4500,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,96 Jonathan Lucas St,32.783881,-79.948009
+Sun Fashion & Beauty Supply,Lee,Chang,3902 Rivers Ave,North Charleston,SC,(843) 747-2984,Wigs Toupees & Hairpieces,Wigs Toupees & Hairpieces,Boutique Items-Retail,"$1,447,000 ",Charleston,3902 Rivers Ave,32.86263895098193,-79.9867155221036
+Doctor's Care,Kim,Chun,1818 Henderson St,Columbia,SC,(803) 782-4278,Clinics,Clinics,Physicians & Surgeons,"$19,071,000 ",Columbia,1818 Henderson St,34.01210304192011,-81.02913191678542
+St Andrews Seafood Market,Yong,Chon,4470 Saint Andrews Rd,Columbia,SC,(803) 798-2077,Seafood-Retail,Seafood-Retail,,"$277,000 ",Columbia,4470 Saint Andrews Rd,34.0505507,-81.1027688
+Korean O-Bok Restaurant,Nam,Jeong,1616 Decker Blvd,Columbia,SC,(803) 787-1100,Restaurants,Restaurants,,"$95,000 ",Columbia,1616 Decker Blvd,,
+American Credit Acceptance,Johann,Chung,961 E Main St # 200,Spartanburg,SC,(864) 504-3700,Credit & Debt Counseling Services,Credit & Debt Counseling Services,,"$68,000 ",Spartanburg,961 E Main St,34.9593933,-81.90435847200665
+China Town Restaurant,Lester,Chung,326 N Highway 52,Moncks Corner,SC,(843) 761-4420,Restaurants,Restaurants,,"$642,000 ",Charleston,326 N Highway 52,,
+Cook Aid LLC,Jae,Chung,2070 Rittenbrg Blvd # Fc2,Charleston,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Charleston,2070 Rittenbrg Blvd,,
+Cook Out,Ck,Chung,5311 Forest Dr,Columbia,SC,(803) 738-8040,Restaurants,Restaurants,Foods-Carry Out,"$332,000 ",Columbia,5311 Forest Dr,34.02284555430053,-80.95582356634966
+D & D Country Cooking,Hank,Chung,1824 Platt Springs Rd,West Columbia,SC,(803) 794-2263,Restaurants,Restaurants,,"$213,000 ",Columbia,1824 Platt Springs Rd,33.97459336734694,-81.08409718367346
+Freshe Poke,Sally,Chung,252 Harbison Blvd # M,Columbia,SC,(803) 828-3443,Restaurants,Restaurants,Foods-Carry Out,"$170,000 ",Columbia,252 Harbison Blvd,34.06735596875,-81.16792009375
+Greenville Health Syst Univ,Ki Y,Chung,120 Dillon Dr,Spartanburg,SC,(864) 699-5700,Physicians & Surgeons,Physicians & Surgeons,,"$492,000 ",Spartanburg,120 Dillon Dr,34.982195000000004,-81.89619753820404
+J C Hairland,John,Chung,7 Farrs Bridge Rd,Greenville,SC,(864) 242-9182,Barbers,Barbers,Batteries-Storage-Wholesale,"$29,000 ",Greenville,7 Farrs Bridge Rd,34.88305583824676,-82.45550905996593
+Pee Dee Mental Health Ctr,Dong-Ha,Chung,125 E Cheves St,Florence,SC,(843) 317-4081,Physicians & Surgeons,Physicians & Surgeons,,"$524,000 ",Florence,125 E Cheves St,34.1956757755102,-79.76538026530612
+Regional Medical Ctr,Brian M,Chung,3000 Saint Matthews Rd # Of,Orangeburg,SC,(803) 395-2200,Physicians & Surgeons,Physicians & Surgeons,,"$427,000 ",Orangeburg,3000 Saint Matthews Rd,33.5098645,-80.861586
+Szechuan Restaurant,Kwonk,Chung,1201 N Fraser St,Georgetown,SC,(843) 527-1219,Restaurants,Restaurants,,"$595,000 ",Georgetown,1201 N Fraser St,33.373649,-79.2886513
+Tandem Health,Jaiwoo,Chung,1278 N Lafayette Dr,Sumter,SC,(803) 774-4500,Physicians & Surgeons,Physicians & Surgeons,,"$632,000 ",Sumter,1278 N Lafayette Dr,33.942829,-80.341561
+Tokyo Japanese Restaurant,Kyung,Chung,906 Tiger Blvd # 1002,Clemson,SC,(864) 654-0037,Restaurants,Restaurants,,"$399,000 ",Greenville,906 Tiger Blvd,34.6920227,-82.8452175
+Vicki Chung P C,Vicki,Chung,1218 S Cashua Dr,Florence,SC,(843) 667-6460,Dentists,Dentists,,"$531,000 ",Florence,1218 S Cashua Dr,34.17084690523759,-79.81847730727613
+Vicki Chung PC,Vicki,Chung,1218 S Cashua Dr,Florence,SC,(843) 667-6460,Dentists,Dentists,,"$796,000 ",Florence,1218 S Cashua Dr,34.17084690523759,-79.81847730727613
+Youngs Beauty Supply,Soo,Chung,1113 Oakland Ave # G,Florence,SC,(843) 407-5169,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$146,000 ",Florence,1113 Oakland Ave,34.20910087514947,-79.75649527333475
+Korean American Presbyterian,Tae,Cheong,5410 Oakland Dr,Sumter,SC,(803) 499-2203,Churches,Churches,Federal Government Contractors,$0 ,Sumter,5410 Oakland Dr,33.98514020624783,-80.49063576686231
+Carolina Fresh Fish Market,Yong,Chong,2400 Anderson Rd,Greenville,SC,(864) 605-0566,Seafood-Retail,Seafood-Retail,,"$157,000 ",Greenville,2400 Anderson Rd,34.8198602,-82.4368398
+Korean Market,Rudy,Jo,8590 Pelham Rd # 21,Greenville,SC,(864) 284-9191,Grocers-Retail,Grocers-Retail,,"$379,000 ",Greenville,8590 Pelham Rd,34.8515838,-82.2323244
+Bamboo Gardens Chinese Rstrnt,Yo,Cho,209 Highway 28 Byp,Anderson,SC,(864) 261-8997,Restaurants,Restaurants,Food Products (Whls),"$287,000 ",Greenville,209 Highway 28 Byp,34.5610138,-82.6882186
+Classic Cleaners,To,Cho,933 Crossroads Plz,Fort Mill,SC,(803) 548-6937,Cleaners,Cleaners,Janitor Service,"$81,000 ",Charlotte,933 Crossroads Plz,,
+J D Fashion World,Seongwhan,Cho,2000 Clemson Rd # 10,Columbia,SC,(803) 788-8881,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Clothing-Retail,"$131,000 ",Columbia,2000 Clemson Rd,34.1423883,-80.911261
+"Ju, Changjing",Changjing,Ju,414 S Pine St,Walhalla,SC,(864) 886-4882,Speech Pathologists,Speech Pathologists,,$0 ,Seneca,414 S Pine St,34.7627039,-83.0727921
+"Ju, Hee",Hee,Ju,1028 Roberts Branch Pkwy,Columbia,SC,(803) 234-7150,Pharmacists,Pharmacists,,"$55,000 ",Columbia,1028 Roberts Branch Pkwy,,
+"Ju, Tom MD",Tom,Ju,1330 Boiling Spgs Rd # 2700,Spartanburg,SC,(864) 583-0053,Physicians & Surgeons,Physicians & Surgeons,,"$492,000 ",Spartanburg,1330 Boiling Spgs Rd,,
+Panda Chinese Restaurant,Lin,Ju,3767 Renee Dr,Myrtle Beach,SC,(843) 903-3888,Restaurants,Restaurants,,"$227,000 ",Myrtle Beach,3767 Renee Dr,,
+Stone City Kitchen & Bath,Siong,Choo,7629 Sandlapper Pkwy,North Charleston,SC,Not Available,Plumbing Fixtures & Supplies-New-Retail,Plumbing Fixtures & Supplies-New-Retail,,"$1,241,000 ",Charleston,7629 Sandlapper Pkwy,32.9292428,-80.0811064
+Korean Baptist Chr Of Florence,Kyun,Ji,1420 S Floyd Cir,Florence,SC,(843) 661-2140,Churches,Churches,,$0 ,Florence,1420 S Floyd Cir,34.166,-79.840126
+Shi Ding Ji Inc,Shi D,Ji,364 Market St,Seneca,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Seneca,364 Market St,,
+Sunflower 2536 LLC,Xiaochen,Jin,14324 E Wade Hampton Blvd,Greer,SC,Not Available,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Spartanburg,14324 E Wade Hampton Blvd,34.9481919,-82.2159245
+Tao Wellness Ctr,Tina,Jin,854 Jason Blvd # H,Myrtle Beach,SC,(843) 213-1145,Massage Therapists,Massage Therapists,,"$90,000 ",Myrtle Beach,854 Jason Blvd,33.712846549999995,-78.90440459999999
+Beauty Plus,Chin,Choe,2105 Decker Blvd,Columbia,SC,(803) 782-6919,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,Beauty Salons-Equipment & Supplies (Whls),"$393,000 ",Columbia,2105 Decker Blvd,34.049895649999996,-80.94479327924799
+Best Fashions,Pete,Choe,103 E Church St,Saluda,SC,(864) 445-3633,Department Stores,Department Stores,Clothing-Retail,"$107,000 ",Columbia,103 E Church St,34.00164964121808,-81.77190021123772
+Byung Choe MD,Byung,Choe,317 Saint Francis Dr # 310,Greenville,SC,(864) 255-1920,Physicians & Surgeons,Physicians & Surgeons,,"$386,000 ",Greenville,317 Saint Francis Dr,,
+Cahoon Law Firm,Dominique,Choe,61 Berkshire Dr,Columbia,SC,(803) 462-6700,Attorneys,Attorneys,,"$396,000 ",Columbia,61 Berkshire Dr,,
+"Choe, Carol Hyun MD",Carol Hyun,Choe,2720 Sunset Blvd,West Columbia,SC,(803) 791-2480,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Columbia,2720 Sunset Blvd,34.007030650000004,-81.11383093645188
+Palmetto Health,Hyowon,Choe,1089 Dutch Fork Rd,Irmo,SC,(803) 296-7303,Physicians & Surgeons,Physicians & Surgeons,,"$763,000 ",Columbia,1089 Dutch Fork Rd,34.123935,-81.21595855555556
+American Beauty Outlet,John,Choi,105 N Granard St,Gaffney,SC,(864) 488-0234,Beauty Salons,Beauty Salons,Cellular Telephones (Services),"$106,000 ",Gaffney,105 N Granard St,35.07322048979592,-81.65088767346938
+Beauty World,Yoon,Choi,302 Pearman Dairy Rd # C6,Anderson,SC,(864) 226-1551,Beauty Salons,Beauty Salons,Cosmetics & Perfumes-Retail,"$60,000 ",Greenville,302 Pearman Dairy Rd,34.504653,-82.68449
+Bene Technologies,John,Choi,3896 Leeds Ave,Charleston,SC,(843) 793-4845,Appliances-Household-Major-Repairing,Appliances-Household-Major-Repairing,,$0 ,Charleston,3896 Leeds Ave,32.84946225540904,-80.01278861790311
+Choi Alterations,Jung,Choi,1256 Ben Sawyer Blvd,Mount Pleasant,SC,(843) 606-2655,Air Cleaning & Purifying Equip (Whls),Air Cleaning & Purifying Equip (Whls),Tailors,"$724,000 ",Charleston,1256 Ben Sawyer Blvd,32.79434681483146,-79.85961512639197
+Choi Anthony DC,Anthony,Choi,213 E Butler Rd # A2,Mauldin,SC,(864) 735-8377,Chiropractors DC,Chiropractors DC,,$0 ,Greenville,213 E Butler Rd,34.78256295883559,-82.29965695585338
+Choi Gwen Caroline MD,Gwen C,Choi,1301 Taylor St # 1a,Columbia,SC,(803) 434-4790,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Columbia,1301 Taylor St,34.007259,-81.034198
+Choi Yoonsun Rebecca MD,Yoonsun R,Choi,300 Singleton Ridge Rd,Conway,SC,(843) 347-8134,Physicians & Surgeons,Physicians & Surgeons,,$0 ,Myrtle Beach,300 Singleton Ridge Rd,33.784977850000004,-79.00064338457499
+Choi's Cleaners,Eungee,Choi,3502 Highway 153,Greenville,SC,(864) 295-9333,Cleaners,Cleaners,Laundries,"$190,000 ",Greenville,3502 Highway 153,,
+Dentsville Smiles LLC,Seung,Choi,7346 Parklane Rd,Columbia,SC,Not Available,Dentists,Dentists,,"$716,000 ",Columbia,7346 Parklane Rd,,
+First Presbyterian Church,Jeeyoon,Choi,53 Meeting St,Charleston,SC,(843) 722-8882,Churches,Churches,Church Organizations,$0 ,Charleston,53 Meeting St,32.79643857142857,-79.94151624489795
+Lancaster One Medical,Daeho,Choi,539 Highway 9 Byp E,Lancaster,SC,(803) 286-5700,Chiropractors DC,Chiropractors DC,,"$228,000 ",Charlotte,539 Highway 9 Byp E,,
+Luxe Cleaners,Jogn Nam,Choi,8173 Charlotte Hwy,Indian Land,SC,(803) 548-6799,Cleaners,Cleaners,Cleaning Services-Industrial,"$99,000 ",Charlotte,8173 Charlotte Hwy,35.0071592,-80.8541728
+Metro By T-Mobile Auth Rtlr,Chanmn,Choi,3120 N Main St # 90,Anderson,SC,(864) 844-9460,Cellular Telephones (Services),Cellular Telephones (Services),Authorized Retailer-Cellular Services,"$1,322,000 ",Greenville,3120 N Main St,34.538327,-82.667306
+Mimi's Steak House Of Japan II,Mimi,Choi,340 Harrison Bridge Rd,Simpsonville,SC,(864) 757-1458,Restaurants,Restaurants,,"$471,000 ",Greenville,340 Harrison Bridge Rd,34.7054636,-82.2563164
+Revive Spinal Care LLC,Anthony,Choi,213 E Butler Rd # A2,Mauldin,SC,(864) 735-8377,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Greenville,213 E Butler Rd,34.78256295883559,-82.29965695585338
+Southern Felt Co Inc,Jin,Choi,500 Chestnut St E,Bethune,SC,(803) 663-6693,Felt Products-Manufacturers,Felt Products-Manufacturers,,"$5,781,000 ",Columbia,500 Chestnut St E,,
+World Cup Billiards,Insook,Choi,6119 White Horse Rd # 4,Greenville,SC,(864) 220-2630,Billiard Parlors,Billiard Parlors,Bars,"$280,000 ",Greenville,6119 White Horse Rd,34.8516293,-82.4554034
+Ye Old Grocery,Won,Choi,4444 Jefferson Davis Hwy,Beech Island,SC,(803) 593-4036,Convenience Stores,Convenience Stores,,"$774,000 ",Augusta,4444 Jefferson Davis Hwy,,
+AIAA Carolina,Nhatanh,Ha,5400 International Blvd,North Charleston,SC,(843) 813-9383,Nonclassified Establishments,Nonclassified Establishments,,$0 ,Charleston,5400 International Blvd,32.868913,-80.0287412
+American Deli,Mon,Ha,1540 Saint Matthews Rd,Orangeburg,SC,(803) 997-2160,Restaurants,Restaurants,Foods-Carry Out,"$184,000 ",Orangeburg,1540 Saint Matthews Rd,33.5098645,-80.861586
+Aqua Nails & Spa,Hong,Ha,1223 S Lake Dr,Lexington,SC,(803) 359-0585,Manicuring,Manicuring,,"$164,000 ",Columbia,1223 S Lake Dr,33.9453441,-81.2348166
+Carolina Beauty Shop,Jung,Ha,3315 Broad River Rd # 35,Columbia,SC,(803) 772-1441,Cosmetics & Perfumes-Retail,Cosmetics & Perfumes-Retail,,"$262,000 ",Columbia,3315 Broad River Rd,34.05337632857418,-81.10914924500288
+Kim's Beauty & Variety Shoppe,Kim,Ha,4826 N Main St,Columbia,SC,(803) 786-4487,Beauty Salons,Beauty Salons,,"$36,000 ",Columbia,4826 N Main St,34.047968,-81.030847
+Medical Center Hospitalists,David J,Ha,2720 Sunset Blvd,West Columbia,SC,(803) 791-2480,Physicians & Surgeons,Physicians & Surgeons,,"$329,000 ",Columbia,2720 Sunset Blvd,34.007030650000004,-81.11383093645188
+Noire Nail Bar NMB LLC,Tuong T,Ha,1281 38th Ave N,Myrtle Beach,SC,(843) 945-4751,Manicuring,Manicuring,,"$78,000 ",Myrtle Beach,1281 38th Ave N,33.724882272657695,-78.86694895552723
+Zack's Farm LLC,Hyeun,Ha,197 Turkey Trl,Clarks Hill,SC,Not Available,Farms,Farms,,"$193,000 ",,197 Turkey Trl,,
+Arclin Inc,John,Han,1051 Jenkins Brothers Rd,Blythewood,SC,(803) 754-4810,Plastics-Raw Mtrls/Powder/Resin-Mfrs,Plastics-Raw Mtrls/Powder/Resin-Mfrs,Paper-Manufacturers,"$104,006,000 ",Columbia,1051 Jenkins Brothers Rd,,
+Carolina Children's Dentistry,Byungdo B,Han,7701 Trenholm Road Ext,Columbia,SC,(803) 736-6000,Dentists,Dentists,,"$573,000 ",Columbia,7701 Trenholm Road Ext,,
+Childrens World,Jim,Han,150 Leisure Ln,Columbia,SC,(803) 798-4904,Child Care Service,Child Care Service,,"$65,000 ",Columbia,150 Leisure Ln,,
+Earl James Han DO,Earl,Han,2185 N Fraser St,Georgetown,SC,(843) 527-1800,Physicians & Surgeons,Physicians & Surgeons,Orthopedic Surgeons,"$553,000 ",Georgetown,2185 N Fraser St,33.4054796,-79.2877666
+"Han, Peng Cheng MD",Peng Cheng,Han,169 Ashley Ave # 202,Charleston,SC,(843) 792-2300,Physicians & Surgeons,Physicians & Surgeons,,"$422,000 ",Charleston,169 Ashley Ave,32.782956907899965,-79.94539804531368
+"Han, Wenting",Wenting,Han,800 W Meeting St,Lancaster,SC,(803) 286-1214,Nurses-Licensed-Anesthetist,Nurses-Licensed-Anesthetist,,$0 ,Charlotte,800 W Meeting St,34.717821799999996,-80.7883588283947
+Hans Alterations,Chong,Han,7467 Saint Andrews Rd # 14,Irmo,SC,(803) 732-5688,Alterations-Clothing,Alterations-Clothing,,"$344,000 ",Columbia,7467 Saint Andrews Rd,34.0870411,-81.18638934510722
+Holiday Inn Exp-Suites,Indera,Han,300 N Creek Blvd,Greenwood,SC,(864) 889-8900,Hotels & Motels,Hotels & Motels,,"$1,339,000 ",Greenwood,300 N Creek Blvd,34.21373378913169,-82.18314136706745
+Hoowaki LLC,Harrison,Han,400 Birnie St # C,Greenville,SC,(864) 238-5631,Engineering,Engineering,Federal Government Contractors,"$4,578,000 ",Greenville,400 Birnie St,34.8494634,-82.4149355
+K-Shoe Repair-Clothing Altrtns,Young,Han,6420 Garners Ferry Rd,Columbia,SC,(803) 783-1303,Alterations-Clothing,Alterations-Clothing,,"$213,000 ",Columbia,6420 Garners Ferry Rd,33.98009141743053,-80.96204417807031
+Kronotex USA Inc,John,Han,810 Technology Dr,Barnwell,SC,(803) 224-9150,Floor Materials,Floor Materials,,"$24,945,000 ",,810 Technology Dr,33.244132,-81.472843
+NB Contracters LLC,Diana,Han,2563 Trammel Rd,Woodruff,SC,(864) 476-0675,Contractors,Contractors,Home Builders,"$795,000 ",Spartanburg,2563 Trammel Rd,34.7899905,-82.1258765
+Piedmont Comprehensive Pain,Sung,Han,100 Healthy Way # 1260,Anderson,SC,(864) 225-3551,Physicians & Surgeons,Physicians & Surgeons,,"$483,000 ",Greenville,100 Healthy Way,34.543162,-82.629076
+Redbowl Asian Bistro,Phyu,Han,1390 Tiger Blvd # 210,Clemson,SC,(864) 654-8800,Restaurants,Restaurants,,"$355,000 ",Greenville,1390 Tiger Blvd,34.6869472,-82.8173795
+Remedy Medspa,Jacklyn,Han,777 Senate Pkwy,Anderson,SC,(864) 222-3288,Medical Spas,Medical Spas,Skin Treatments,"$263,000 ",Greenville,777 Senate Pkwy,34.52761062087799,-82.63826835426727
